@@ -9,153 +9,175 @@
     <meta name="robots" content="index, follow">
     <meta name="theme-color" content="#122">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    
     <title>ENEMelhor - Revisão e Questões para o ENEM</title>
+    
     <link rel="icon" href="fav.png">
     <link rel="apple-touch-icon" href="fav.png">
     <link rel="stylesheet" href="style.css">
+    
     <script src="script.js" defer></script>
+    
   </head> 
   <body>
-    <div id="background-slider"></div>
-   <div class="overlay"></div>
+    <div id="background-slider">
+      
+    </div>
+    <div class="overlay">
+      
+    </div>
     <div class="particulas">
+      
     </div>
     <nav class="navegacao">
-    <ul class="menu">
-      <li>
-        <a href="#inicio" class="menu-link">Início</a>
-      </li>
-      <li>
-        <a href="#sobre" class="menu-link">Metodologia</a>
-      </li>
-      <li>
-        <a href="#projetos" class="menu-link">Teste</a>
-      </li>
-      <li>
-        <a href="#cadastro" class="menu-link">Cadastro</a>
-      </li>
-      <li>
-        <a href="#contato" class="menu-link">Contato</a>
-      </li>
-    </ul>
+      <ul class="menu">
+        <li>
+          <a href="#inicio" class="menu-link">Início</a>
+        </li>
+        <li>
+          <a href="#sobre" class="menu-link">Metodologia</a>
+        </li>
+        <li>
+          <a href="#projetos" class="menu-link">Teste</a>
+        </li>
+        <li>
+          <a href="#cadastro" class="menu-link">Cadastro</a>
+        </li>
+        <li>
+          <a href="#contato" class="menu-link">Contato</a>
+        </li>
+      </ul>
     </nav>
     <main id="inicio" class="cabecalho">    
       <img src="image.png" alt="logo do enemelhor" class="logo_enemelhor">
-        <h1>Enemelhor</h1>
-        <p class ="cabecalho-subtitulo">Revisão rápida para melhorar os resultado.
-        </p>
-        <p>Aqui você é um aluno vencedor.
-        </p>
-        <p> São 10 questões básicas para dar o primeiro passo rumo à vitória.
-        </p>
-     </main>
+      
+      <h1>Enemelhor</h1>
+      
+      <p class ="cabecalho-subtitulo">
+        Revisão rápida para melhorar os resultado.
+      </p>
+      
+      <p>
+        Aqui você é um aluno vencedor.
+      </p>
+      
+      <p> São 10 questões básicas para dar o primeiro passo rumo à vitória.
+      </p>
+    </main>
      <section id="sobre" class="sobre">
        <h2 class="sobre-titulo">Metodologia</h2>
+       
        <div class="sobre-caixa">
          <p class="sobre-paragrafo">Aprenda com a metodologia mais avançada para ganhar tempo. Basta clicar no link teste (acima) e começar a responder, leia com atenção e após refletir - acredite em você - só há uma correta ou uma errada. Após terminar - anote o resultado, recomece, supere seu resultado anterior."
          </p>
        </div>     
      </section>
+    
     <section id="projetos" class="projetos">
       <h2 class= "projetos-titulo">Seu teste experimental aqui</h2>
+      
       <section id="teste" class="teste">
         
-  <div class="pergunta-box">
-
-  <h3 class="ordem" id="numeroQuestao">1</h3>
-
-  <p class="teste-pergunta" id="pergunta"></p>
-
-  </div>
-
-  <div class="teste-botoes">
-    <button class="btn-opcao" onclick="responder(true)">
-    Certo
-    </button>
-
-    <button class="btn-opcao" onclick="responder(false)">
-    Errado
-    </button>
-  </div>
-
-  <p id="resultado" class="resultado"></p>
-
-
-</section>
-        </div>             
+      <div class="pergunta-box">
+        <h3 class="ordem" id="numeroQuestao">1</h3>
+        
+        <p class="teste-pergunta" id="pergunta"></p>
       </div>
-    </section>
+
+      <div class="teste-botoes">
+        <button class="btn-opcao" onclick="responder(true)">
+          Certo
+        </button>
+
+        <button class="btn-opcao" onclick="responder(false)">
+          Errado
+        </button>
+      </div>
+
+      <p id="resultado" class="resultado"></p>
+
+     <section>
+        <div>             
+        </div>
+     </section>
     <section id="cadastro" class="cadastro">
       <h2 class="projetos-titulo">Cadastre-se para avançar</h2>
+      
        <div class="premium">
          <h2>Plano Premium</h2>
+         
          <ul>
            <li>✔Acesso a 500 questões ✔</li>
            <li>✔Comentários de respostas por especialistas✔</li>
            <li>✔Economia - apenas R$ 7,99✔</li>
            <li>✔Avaliação pela TRI do ENEM✔</li>
          </ul>
-       </div>
+       </div>    
             
       <h2 class="contato-titulo">Formulário de Cadastro</h2>
-<form class="contato-formulario">
+      <form class="contato-formulario">
+        <div class="grupo-form">
+          <input type="text" id="nome" class="campo-form" placeholder="Nome" required>
+        </div>
 
-  <div class="grupo-form">
-    <input type="text" id="nome" class="campo-form" placeholder="Nome" required>
-  </div>
+        <div class="grupo-form">
+          <input type="number" id="idade" class="campo-form" placeholder="Idade" required>
+        </div>
 
-  <div class="grupo-form">
-    <input type="number" id="idade" class="campo-form" placeholder="Idade" required>
-  </div>
+        <div class="grupo-form">
+          <input type="text" id="cidade" class="campo-form" placeholder="Cidade onde reside" required>
+        </div>
 
-  <div class="grupo-form">
-    <input type="text" id="cidade" class="campo-form" placeholder="Cidade onde reside" required>
-  </div>
+         <div class="grupo-form">
+           <input type="email" id="email" class="campo-form" placeholder="Email" required>
+         </div>
 
-  <div class="grupo-form">
-    <input type="email" id="email" class="campo-form" placeholder="Email" required>
-  </div>
+         <div class="grupo-form">
+           <label>Concluiu o Ensino Médio?</label>
+           
+           <label>
+            <input type="radio" id="ensinoSim" name="ensino" value="Sim"> Sim
+           </label>
+           
+           <label>
+            <input type="radio" id="ensinoNao" name="ensino" value="Não"> Não
+           </label>
+         </div>
 
-  <div class="grupo-form">
-    <label>Concluiu o Ensino Médio?</label>
-    <label>
-      <input type="radio" id="ensinoSim" name="ensino" value="Sim"> Sim
-    </label>
-    <label>
-      <input type="radio" id="ensinoNao" name="ensino" value="Não"> Não
-    </label>
-  </div>
-
-  <button type="button" class="botao-form" onclick="enviarFormulario()">
-    Cadastrar
-  </button>
-
-</form>
+         <button type="button" class="botao-form" onclick="enviarFormulario()">
+          Cadastrar
+         </button>
+      </form>
     </section>
     <section id="contato" class="contato">
       <h2 class="contato-titulo">Contato</h2>
+      
         <form class="contato-formulario" id="formulario" onsubmit="enviarWhats(event)">
-        <div class="grupo-form">
-          <input type="text" id="nomeContato" placeholder="Nome" class="campo-form">
-        </div>
-        <div class="grupo-form">
-            <textarea class="campo-form" id="mensagem" 
-            placeholder="Digite sua mensagem aqui..."></textarea>
-        </div>
-       <button type="submit" class="botao-form">Enviar Whatsapp</button>              
-         </form>
-         </section>
+          <div class="grupo-form">
+            <input type="text" id="nomeContato" placeholder="Nome" class="campo-form">
+          </div>
+          
+          <div class="grupo-form">
+            <textarea 
+              class="campo-form" 
+              id="mensagem" 
+              placeholder="Digite sua mensagem aqui..."></textarea>
+          </div>
+          
+          <button type="submit" class="botao-form">Enviar Whatsapp</button>              
+        </form>
+      </section>
          <script>
            function enviarWhats(event){
             event.preventDefault()
-           const nome=document.getElementById('nomeContato').value;
-           const mensagem=document.getElementById('mensagem').value;
-           const telefone='5561999851254'
-           const texto=`Olá Me Chamo ${nome},${mensagem}`;
-           const msgFormatada=encodeURIComponent(texto)
-           const url=`https://wa.me/${telefone}?text=${msgFormatada}`
-           window.open(url,'_blank');
-           }
+            const nome=document.getElementById('nomeContato').value;
+            const mensagem=document.getElementById('mensagem').value;
+            const telefone='5561999851254'
+            const texto=`Olá Me Chamo ${nome},${mensagem}`;
+            const msgFormatada=encodeURIComponent(texto)
+            const url=`https://wa.me/${telefone}?text=${msgFormatada}`
+            window.open(url,'_blank');
+         }
          </script>
   </body>
-  </html>
+</html>
