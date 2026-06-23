@@ -220,6 +220,26 @@ h1 {
     object-fit: cover;
 }
 
+.painel-status {
+  margin-top: 20px;
+  text-align: center;
+}
+
+.barra-container {
+  width: 100%;
+  height: 10px;
+  background: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.barra-progresso {
+  width: 0%;
+  height: 100%;
+  background: #4caf50;
+  transition: width 0.5s;
+}
+
 .paragrafo-projetos {
     color: rgba(226, 232, 240, 0.8);
     line-height: 1.25rem;
@@ -380,7 +400,7 @@ h1 {
     animation: aparecer 0.4s ease;
 }
 
-@keyframes aparecer {
+@keyframes girar {
     from {
         opacity: 0;
         transform: translateX(-50%) translateY(-10px);
