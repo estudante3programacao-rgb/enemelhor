@@ -133,5 +133,5 @@ function enviarFormulario() {
     }
   );
 
-  alert("Cadastro enviado com sucesso!");
+  alert("Cadastro enviado com sucesso! Você receberá QR CODE para pagamento via email");
 }
