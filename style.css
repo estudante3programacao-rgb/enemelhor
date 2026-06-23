@@ -226,11 +226,12 @@ h1 {
 }
 
 .barra-container {
-  width: 100%;
+  width: 60%;
   height: 10px;
   background: #ddd;
   border-radius: 10px;
   overflow: hidden;
+  margin: 0 auto;
 }
 
 .barra-progresso {
