@@ -104,6 +104,7 @@ function responder(respostaUsuario) {
     carregarPergunta();
   }, 1000);
 }
+carregarPergunta();
 
 function enviarFormulario() {
   const nome = document.getElementById("nome").value;
