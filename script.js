@@ -73,7 +73,7 @@ function carregarPergunta() {
     resultadoEl.style.color = "";
   } else {
     perguntaEl.textContent = "🏁 Enemelhor finalizado! Continue a estudar conosco!";
-    numeroQuestaoEl.textContent = "🏆 - Você está no nível básico de estudos!";
+    numeroQuestaoEl.textContent = "🏆 - Nível básico!";
     resultadoEl.textContent = `Você acertou ${pontos} de ${total} questões.`;
   }
 
