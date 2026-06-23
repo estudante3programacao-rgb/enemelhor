@@ -105,4 +105,33 @@ function responder(respostaUsuario) {
   }, 1000);
 }
 
-carregarPergunta();
+function enviarFormulario() {
+  const nome = document.getElementById("nome").value;
+  const idade = document.getElementById("idade").value;
+  const cidade = document.getElementById("cidade").value;
+  const email = document.getElementById("email").value;
+
+  const ensino = document.querySelector(
+    'input[name="ensino"]:checked'
+  )?.value;
+
+  const formData = new FormData();
+
+  formData.append("entry.171603227", nome);
+  formData.append("entry.1614374878", idade);
+  formData.append("entry.192151590", cidade);
+  formData.append("entry.1484416260", email);
+  formData.append("entry.1430522442", ensino);
+  formData.append("entry.137010636", "quiz_web");
+
+  fetch(
+    "https://docs.google.com/forms/d/e/1FAIpQLSfNYeW64KyiAypMNSzqmZcgAPT2pMC4NhXTc6nxMQj1q6goKA/formResponse",
+    {
+      method: "POST",
+      mode: "no-cors",
+      body: formData
+    }
+  );
+
+  alert("Cadastro enviado com sucesso!");
+}
