@@ -354,21 +354,21 @@ h1 {
 
 .teste-pergunta {
     text-align: justify;
-    font-size: 14px;
+    font-size: 12px;
     margin-bottom: 2rem;
-    line-height: 1.4;
-    color: var(--claro);
+    line-height: 1.2;
+    color: var(--);
 }
 
 
 .pergunta-box {
     background: #ffffff;
     color: #222;
-    border-left: 6px solid #0d6efd;
+    border-left: 10px solid #0d6efd;
     border-radius: 12px;
     padding: 25px;
-    margin: 0 auto 25px auto;
-    max-width: 600px;
+    margin: 0 auto 10px auto;
+    max-width: 800px;
 }
 
 .pergunta-box .teste-pergunta {
