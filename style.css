@@ -263,7 +263,7 @@ h1 {
 }
 
 .cadastro {
-    max-width: 500px;
+    max-width: 600px;
     margin: 0 auto;
     background: rgba(255, 255, 255, 0.05);
     backdrop-filter: blur(5px);
@@ -354,9 +354,9 @@ h1 {
 
 .teste-pergunta {
     text-align: justify;
-    font-size: 18px;
+    font-size: 20px;
     margin-bottom: 2rem;
-    line-height: 1.2;
+    line-height: 1.4;
     color: var(--);
 }
 
