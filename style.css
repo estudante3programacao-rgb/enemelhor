@@ -232,6 +232,7 @@ h1 {
   border-radius: 10px;
   overflow: hidden;
   margin: 0 auto;
+  margin-botton: 2rem;
 }
 
 .barra-progresso {
