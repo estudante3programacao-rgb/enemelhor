@@ -222,6 +222,7 @@ h1 {
 
 .painel-status {
   margin-top: 20px;
+  margin-bottom: 1.5rem;
   text-align: center;
 }
 
@@ -271,6 +272,7 @@ h1 {
     padding: 2rem;
     border: 1px solid var(--vidro);
     border-radius: 16px;
+    margin-top: 2rem;
 }
 
 .contato-formulario {
