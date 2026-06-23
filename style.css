@@ -369,6 +369,7 @@ h1 {
     padding: 25px;
     margin: 0 auto 10px auto;
     max-width: 800px;
+    margin-top: 0;
 }
 
 .pergunta-box .teste-pergunta {
