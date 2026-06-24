@@ -78,7 +78,7 @@ function carregarPergunta() {
   }
 
   pontosEl.textContent = `${pontos} de 10`;
-  estrelasEl.textContent = "⭐".repeat(pontos).padEnd(5, "☆");
+  estrelasEl.textContent = "⭐".repeat(pontos).padEnd(10, "☆");
 
   const percentual = ((indice + 1) / total) * 100;
   progressoEl.style.width = Math.min(percentual, 100) + "%";
