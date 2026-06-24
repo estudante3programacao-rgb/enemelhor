@@ -473,3 +473,16 @@ teste {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
 }
+
+.final {
+  font-size: 1.4rem;
+  font-weight: bold;
+  text-align: center;
+  color: #ffffff;
+  background: linear-gradient(135deg, #4facfe, #00f2fe);
+  padding: 20px;
+  border-radius: 12px;
+  margin-top: 20px;
+  box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+  animation: pulse 1.5s infinite;
+}
