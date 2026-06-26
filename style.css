@@ -379,7 +379,7 @@ teste {
     color: #222;
 }
 
-.pergunta-box-premium {
+/*.pergunta-box-premium {
   background: #ffffff;
   padding: 20px;
   border-radius: 12px;
@@ -387,7 +387,7 @@ teste {
   max-width: 600px;
   margin: 20px auto;
   text-align: center;
-}
+}*/
 
 .hud-teste {
     position: fixed;
