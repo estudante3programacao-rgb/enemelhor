@@ -378,6 +378,17 @@ teste {
 .pergunta-box .teste-pergunta {
     color: #222;
 }
+
+.pergunta-box-premium {
+  background: #ffffff;
+  padding: 20px;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+  max-width: 600px;
+  margin: 20px auto;
+  text-align: center;
+}
+
 .hud-teste {
     position: fixed;
     top: 80px;
