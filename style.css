@@ -66,8 +66,12 @@ body {
 .menu {
     display: flex;
     justify-content: center;
+    align-items: center;
     list-style: none;
-    gap: 3rem;
+    gap: 1rem;
+    flex-wrap: wrap;
+    padding: 0;
+    margin: 0;
 }
 
 .menu-link {
