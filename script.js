@@ -136,3 +136,21 @@ function enviarFormulario() {
 
   alert("Cadastro enviado com sucesso! Você receberá QR CODE para pagamento via email");
 }
+
+function validarChave() {
+    const chave = document.getElementById("chave").value;
+
+    if (chave === "SUA_CHAVE_AQUI") {
+        document.getElementById("acesso-premium").style.display = "none";
+        document.getElementById("conteudo-premium").style.display = "block";
+    } else {
+        alert("Chave inválida");
+    }
+}
+
+window.addEventListener("load", () => {
+    if (localStorage.getItem("premium") === "liberado") {
+        document.getElementById("acesso-premium").style.display = "none";
+        document.getElementById("conteudo-premium").style.display = "block";
+    }
+});
