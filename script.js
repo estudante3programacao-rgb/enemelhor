@@ -176,7 +176,7 @@ window.addEventListener("load", () => {
     }
 });
 
-const perguntasPremium = [
+let perguntasPremium = [
   {
     texto: "Pergunta premium 1...",
     resposta: true,
