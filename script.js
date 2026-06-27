@@ -137,21 +137,37 @@ function enviarFormulario() {
   alert("Cadastro enviado com sucesso! Você receberá QR CODE para pagamento via email");
 }
 
+function liberarPremium() {
+    perguntas = perguntasPremium;
+
+    localStorage.setItem("premium", "liberado");
+
+    indice = 0;
+    pontos = 0;
+
+    carregarPergunta();
+
+    document.getElementById("acesso-premium").style.display = "none";
+    document.getElementById("conteudo-premium").style.display = "block";
+
+    alert("Acesso liberado!");
+}
+
 function validarChave() {
     const chave = document.getElementById("chave").value;
 
     if (chave === "ESTUD500.1") {
-        perguntas = perguntasPremium;
-        localStorage.setItem("premium", "liberado");
-        indice = 0;
-        pontos = 0;
-        carregarPergunta();
-        document.getElementById("premium").style.display = "block";
-        alert("Acesso liberado!");
+        liberarPremium();
     } else {
         alert("Chave inválida");
     }
 }
+
+window.addEventListener("load", () => {
+    if (localStorage.getItem("premium") === "liberado") {
+        liberarPremium();
+    }
+});
 
 window.addEventListener("load", () => {
     if (localStorage.getItem("premium") === "liberado") {
