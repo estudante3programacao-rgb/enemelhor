@@ -537,7 +537,7 @@ teste {
 }
 .footer {
     background-color: #222; /* Cinza escuro */
-    color: #ffffff;
+    color: var(--primaria);
     padding: 20px 0;
     margin-top: 40px;
 }
