@@ -142,6 +142,10 @@ function validarChave() {
 
     if (chave === "ESTUD500.1") {
         perguntas = perguntasPremium;
+        localStorage.setItem("premium", "liberado");
+        indice = 0;
+        pontos = 0;
+        carregarPergunta();
         document.getElementById("premium").style.display = "block";
         alert("Acesso liberado!");
     } else {
