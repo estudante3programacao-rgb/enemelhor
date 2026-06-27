@@ -1,4 +1,4 @@
-let perguntas = [
+const perguntas = [
   {
     texto: "Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses. (COULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.) A conjuntura sociopolítica da Roma Antiga, conforme apresentada no texto, foi contestada pelos Plebeus que almejavam participar da vida política.",
     resposta: true,
