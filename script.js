@@ -165,14 +165,10 @@ function validarChave() {
 
 window.addEventListener("load", () => {
     if (localStorage.getItem("premium") === "liberado") {
-        liberarPremium();
-    }
-});
-
-window.addEventListener("load", () => {
-    if (localStorage.getItem("premium") === "liberado") {
+        perguntas = perguntasPremium;
         document.getElementById("acesso-premium").style.display = "none";
         document.getElementById("conteudo-premium").style.display = "block";
+        carregarPergunta();
     }
 });
 
