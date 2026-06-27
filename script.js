@@ -140,9 +140,8 @@ function enviarFormulario() {
 function validarChave() {
     const chave = document.getElementById("chave").value;
 
-    if (chave === "SUA_CHAVE_AQUI") {
-        document.getElementById("acesso-premium").style.display = "none";
-        document.getElementById("conteudo-premium").style.display = "block";
+    if (chave === "ESTUD500.1") {
+        document.getElementById("premium").style.display = "block";
     } else {
         alert("Chave inválida");
     }
