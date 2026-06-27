@@ -142,6 +142,7 @@ function validarChave() {
 
     if (chave === "ESTUD500.1") {
         document.getElementById("premium").style.display = "block";
+        alert("Acesso liberado!");
     } else {
         alert("Chave inválida");
     }
