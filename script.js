@@ -141,6 +141,7 @@ function validarChave() {
     const chave = document.getElementById("chave").value;
 
     if (chave === "ESTUD500.1") {
+        perguntas = perguntasPremium;
         document.getElementById("premium").style.display = "block";
         alert("Acesso liberado!");
     } else {
@@ -154,3 +155,16 @@ window.addEventListener("load", () => {
         document.getElementById("conteudo-premium").style.display = "block";
     }
 });
+
+const perguntasPremium = [
+  {
+    texto: "Pergunta premium 1...",
+    resposta: true,
+    dificuldade: "dificil"
+  },
+  {
+    texto: "Pergunta premium 2...",
+    resposta: false,
+    dificuldade: "media"
+  }
+];
