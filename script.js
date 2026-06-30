@@ -137,6 +137,19 @@ function enviarFormulario() {
   alert("Cadastro enviado com sucesso! Você receberá QR CODE para pagamento via email");
 }
 
+let perguntasPremium = [
+  {
+    texto: "Pergunta premium 1...",
+    resposta: true,
+    dificuldade: "dificil"
+  },
+  {
+    texto: "Pergunta premium 2...",
+    resposta: false,
+    dificuldade: "media"
+  }
+];
+
 function liberarPremium() {
     perguntas = perguntasPremium;
 
@@ -172,15 +185,3 @@ window.addEventListener("load", () => {
     }
 });
 
-let perguntasPremium = [
-  {
-    texto: "Pergunta premium 1...",
-    resposta: true,
-    dificuldade: "dificil"
-  },
-  {
-    texto: "Pergunta premium 2...",
-    resposta: false,
-    dificuldade: "media"
-  }
-];
