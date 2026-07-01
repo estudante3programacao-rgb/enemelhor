@@ -145,3 +145,5 @@ window.addEventListener("load", () => {
     carregarPergunta();
   }
 });
+
+console.log("premium.js carregado!");
