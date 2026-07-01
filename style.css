@@ -440,6 +440,12 @@ teste {
     transform: scale(1.05);
 }
 
+.painel-status-premium {
+  margin-top: 20px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+
 .hud-teste {
     position: fixed;
     top: 80px;
