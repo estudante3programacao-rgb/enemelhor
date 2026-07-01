@@ -54,107 +54,15 @@ const perguntasPremium = [
 let indice = 0;
 let pontos = 0;
 
-const perguntaEl = document.getElementById("pergunta");
-const resultadoEl = document.getElementById("resultado");
-const pontosEl = document.getElementById("pontos");
-const progressoEl = document.getElementById("progresso");
-const estrelasEl = document.getElementById("estrelas");
-const numeroQuestaoEl = document.getElementById("numeroQuestao");
-
-function carregarPergunta() {
-  console.log("Índice:", indice);
-
-  const total = perguntas.length;
-
-  if (indice < total) {
-    perguntaPremiumEl.textContent = perguntas[indice].texto;
-    numeroQuestaoEl.textContent = indice + 1;
-    resultadoEl.textContent = "";
-    resultadoEl.style.color = "";
-  } else {
-    perguntaEl.textContent = "🏁 Enemelhor finalizado! Continue a estudar conosco!";
-    numeroQuestaoEl.textContent = "🏆";
-    resultadoEl.textContent = `Você acertou ${pontos} de ${total} questões.`;
-  }
-
-  pontosEl.textContent = `${pontos} de 10`;
-  estrelasEl.textContent = "⭐".repeat(pontos).padEnd(10, "☆");
-
-  const percentual = ((indice + 1) / total) * 100;
-  progressoEl.style.width = Math.min(percentual, 100) + "%";
-}
-
-function responderPremium(respostaUsuario) {
-  if (indice >= perguntas.length) return;
-
-  const correta = perguntas[indice].resposta;
-
-  if (respostaUsuario === correta) {
-    resultadoEl.textContent = "✅ Resposta correta!";
-    resultadoEl.style.color = "green";
-    pontos++;
-  } else {
-    resultadoEl.textContent = "❌ Resposta errada!";
-    resultadoEl.style.color = "red";
-  }
-
-  indice++;
-
-  setTimeout(() => {
-    carregarPergunta();
-  }, 1000);
-}
-carregarPergunta();
-
-function enviarFormulario() {
-  const nome = document.getElementById("nome").value;
-  const idade = document.getElementById("idade").value;
-  const cidade = document.getElementById("cidade").value;
-  const email = document.getElementById("email").value;
-
-  const ensino = document.querySelector(
-    'input[name="ensino"]:checked'
-  )?.value;
-
-  const formData = new FormData();
-
-  formData.append("entry.171603227", nome);
-  formData.append("entry.1614374878", idade);
-  formData.append("entry.192151590", cidade);
-  formData.append("entry.1484416260", email);
-  formData.append("entry.1430522442", ensino);
-  formData.append("entry.137010636", "quiz_web");
-
-  fetch(
-    "https://docs.google.com/forms/d/e/1FAIpQLSfNYeW64KyiAypMNSzqmZcgAPT2pMC4NhXTc6nxMQj1q6goKA/formResponse",
-    {
-      method: "POST",
-      mode: "no-cors",
-      body: formData
-    }
-  );
-
-  alert("Cadastro enviado com sucesso! Você receberá QR CODE para pagamento via email");
-}
-
-function liberarPremium() {
-    perguntas = perguntasPremium;
-
-    localStorage.setItem("premium", "liberado");
-
-    indice = 0;
-    pontos = 0;
-
-    carregarPergunta();
-
-    document.getElementById("acesso-premium").style.display = "none";
-    document.getElementById("conteudo-premium").style.display = "block";
-
-    alert("Acesso liberado!");
-}
+const perguntaPremiumEl = document.getElementById("perguntaPremium");
+const resultadoPremiumEl = document.getElementById("resultadoPremium");
+const pontosPremiumEl = document.getElementById("pontosPremium");
+const progressoPremiumEl = document.getElementById("progressoPremium");
+const estrelasPremiumEl = document.getElementById("estrelasPremium");
+const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
 function validarChave() {
-    const chave = document.getElementById("chave").value;
+    const chave = document.getElementById("chavePremium").value;
 
     if (chave === "ESTUD500.1") {
         liberarPremium();
@@ -163,11 +71,77 @@ function validarChave() {
     }
 }
 
+function liberarPremium() {
+  localStorage.setItem("premium", "liberado");
+
+  document.getElementById("acesso-premium").style.display = "none";
+  document.getElementById("quiz-premium").style.display = "block";
+
+  indice = 0;
+  pontos = 0;
+
+  carregarPergunta();
+
+  alert("Acesso Premium liberado!");
+}
+
+function carregarPergunta() {
+  const total = perguntasPremium.length;
+
+  if (indice < total) {
+    const atual = perguntasPremium[indice];
+
+    perguntaPremiumEl.textContent = atual.texto;
+    numeroQuestaoPremiumEl.textContent = indice + 1;
+
+    resultadoPremiumEl.textContent = "";
+    resultadoPremiumEl.style.color = "";
+
+  } else {
+    perguntaPremiumEl.textContent = "🏁 Quiz finalizado!";
+    numeroQuestaoPremiumEl.textContent = "🏆";
+
+    resultadoPremiumEl.textContent = `Você acertou ${pontos} de ${total}`;
+  }
+
+  pontosPremiumEl.textContent = `${pontos} de ${total}`;
+
+  estrelasPremiumEl.textContent =
+    "⭐".repeat(pontos).padEnd(total, "☆");
+
+  const percentual = (indice / total) * 100;
+  progressoPremiumEl.style.width = Math.min(percentual, 100) + "%";
+}
+
+function responderPremium(respostaUsuario) {
+  if (indice >= perguntasPremium.length) return;
+
+  const correta = perguntasPremium[indice].resposta;
+
+  if (respostaUsuario === correta) {
+    resultadoPremiumEl.textContent = "✅ Correto!";
+    resultadoPremiumEl.style.color = "green";
+    pontos++;
+  } else {
+    resultadoPremiumEl.textContent = "❌ Errado!";
+    resultadoPremiumEl.style.color = "red";
+  }
+
+  indice++;
+
+  setTimeout(() => {
+    carregarPergunta();
+  }, 800);
+}
+
 window.addEventListener("load", () => {
-    if (localStorage.getItem("premium") === "liberado") {
-        perguntas = perguntasPremium;
-        document.getElementById("acesso-premium").style.display = "none";
-        document.getElementById("conteudo-premium").style.display = "block";
-        carregarPerguntaPremium();
-    }
+  if (localStorage.getItem("premium") === "liberado") {
+    document.getElementById("acesso-premium").style.display = "none";
+    document.getElementById("quiz-premium").style.display = "block";
+
+    indice = 0;
+    pontos = 0;
+
+    carregarPergunta();
+  }
 });
