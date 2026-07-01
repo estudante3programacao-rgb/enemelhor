@@ -446,6 +446,16 @@ teste {
   text-align: center;
 }
 
+.barra-container-premium {
+  width: 50%;
+  height: 10px;
+  background: #ddd;
+  border-radius: 10px;
+  overflow: hidden;
+  margin: 0 auto;
+  margin-botton: 2rem;
+}
+
 .hud-teste {
     position: fixed;
     top: 80px;
