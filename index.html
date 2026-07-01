@@ -187,36 +187,36 @@
          </script>
       <section id="premium" class="premium">
         <h2 class= "premium-titulo">Premium</h2>
-          <input id="chave" placeholder="Digite sua chave premium" />
+          <input id="chavePremium" placeholder="Digite sua chave premium" />
         
           <button onclick="validarChave()">Entrar</button>
                  
       <section id="quiz-premium" class="quiz-premium">
         
         <div class="pergunta-box-premium">
-          <h3 class="moeda-questao" id="numeroQuestao">500</h3>
+          <h3 class="moeda-questao" id="numeroQuestaoPremium">500</h3>
         
-          <p class="teste-pergunta-premium" id="pergunta"></p>
+          <p class="perguntaPremium" id="pergunta"></p>
         </div>
 
       <div class="teste-botoes-premium">
-        <button class="btn-opcao" onclick="responder(true)">
+        <button class="btn-opcao" onclick="responderPremium(true)">
           Certo
         </button>
 
-        <button class="btn-opcao" onclick="responder(false)">
+        <button class="btn-opcao" onclick="responderPremium(false)">
           Errado
         </button>
       </div>
 
-      <p id="resultado" class="resultado"></p>
+      <p id="resultadoPremium" class="resultadoPremium"></p>
     <section class="painel-status">
-        <p>Pontos: <span id="pontos">0 de 500</span></p>
+        <p>Pontos: <span id="pontosPremium">0 de 500</span></p>
 
-        <p id="estrelas">☆☆☆☆☆☆☆☆☆☆</p>
+        <p id="estrelasPremium">☆☆☆☆☆☆☆☆☆☆</p>
 
         <div class="barra-container-premium">
-        <div id="progresso" class="barra-progresso"></div>
+        <div id="progressoPremium" class="barra-progresso"></div>
         </div>  
         </section>
       </section>
