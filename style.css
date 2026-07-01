@@ -135,12 +135,20 @@ h1 {
     justify-content: center;
 }
 
+
 .premium ul {
     list-style: none;
     padding-left: 0;
     margin-left: 0;
 }
 
+.premium .caixa {
+  background: rgba(255, 255, 255, 0.05);
+  border-radius: 16px;
+  backdrop-filter: blur(5px);
+  border: 1px solid var(--vidro);
+  padding: 2rem;
+}
 .premium:hover{
     transform:translateY(-8px);
     box-shadow:0 15px 35px rgba(79,70,229,.3);
