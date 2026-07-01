@@ -145,6 +145,14 @@ h1 {
     margin-left: 0;
 }
 
+.mercham-premium li {
+    padding: 10px;
+    margin-bottom: 10px;
+    background: rgba(255,255,255,0.05);
+    border: 1px solid var(--vidro);
+    border-radius: 10px;
+}
+
 .premium-titulo {
     text-align: center;
     font-size: 2.5rem;
