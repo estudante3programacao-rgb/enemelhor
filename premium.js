@@ -51,8 +51,8 @@ const perguntasPremium = [
   },
 ];
 
-let indice = 0;
-let pontos = 0;
+let indicePremium = 0;
+let pontosPremium = 0;
 
 const perguntaPremiumEl = document.getElementById("perguntaPremium");
 const resultadoPremiumEl = document.getElementById("resultadoPremium");
@@ -77,8 +77,8 @@ function liberarPremium() {
   document.getElementById("acesso-premium").style.display = "none";
   document.getElementById("quiz-premium").style.display = "block";
 
-  indice = 0;
-  pontos = 0;
+  indicePremium = 0;
+  pontosPremium = 0;
 
   carregarPergunta();
 
@@ -139,11 +139,11 @@ window.addEventListener("load", () => {
     document.getElementById("acesso-premium").style.display = "none";
     document.getElementById("quiz-premium").style.display = "block";
 
-    indice = 0;
-    pontos = 0;
+    indicePremium = 0;
+    pontosPremium = 0;
 
     carregarPergunta();
   }
 });
 
-console.log("premium.js carregado!");
+
