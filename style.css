@@ -428,6 +428,14 @@ teste {
     transition: 0.3s;
 }
 
+.resultadoPremium {
+    margin-top: 1.5rem;
+    font-size: 1.2rem;
+    font-weight: bold;
+    text-align: center;
+}
+
+
 .btn-opcao-premium:hover {
     transform: scale(1.05);
 }
