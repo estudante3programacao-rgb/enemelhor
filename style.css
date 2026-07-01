@@ -402,6 +402,7 @@ teste {
     align-items: center;
     justify-content: center;
     border-radius: 100%;
+    border: 1px solid var(--vidro);
     background: linear-gradient(145deg, #ffcc00, #ff9900);
     color: #fff;
     font-weight: bold;
