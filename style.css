@@ -371,8 +371,9 @@ teste {
     margin-top: 0;
 }
 
-.pergunta-box .teste-pergunta {
-    color: #222;
+.quiz-premium {
+    padding: 2rem 2rem;
+    text-align: center;
 }
 
 .pergunta-box-premium {
