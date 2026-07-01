@@ -411,6 +411,12 @@ teste {
     color: var(--);
 }
 
+.teste-botoes-premium {
+    display: flex;
+    justify-content: center;
+    gap: 1rem;
+}
+
 .hud-teste {
     position: fixed;
     top: 80px;
