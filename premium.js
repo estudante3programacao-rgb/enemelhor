@@ -88,11 +88,11 @@ function liberarPremium() {
 function carregarPergunta() {
   const total = perguntasPremium.length;
 
-  if (indice < total) {
-    const atual = perguntasPremium[indice];
+  if (indicePremium < total) {
+    const atual = perguntasPremium[indicePremium];
 
     perguntaPremiumEl.textContent = atual.texto;
-    numeroQuestaoPremiumEl.textContent = indice + 1;
+    numeroQuestaoPremiumEl.textContent = indicePremium + 1;
 
     resultadoPremiumEl.textContent = "";
     resultadoPremiumEl.style.color = "";
@@ -101,33 +101,33 @@ function carregarPergunta() {
     perguntaPremiumEl.textContent = "🏁 Quiz finalizado!";
     numeroQuestaoPremiumEl.textContent = "🏆";
 
-    resultadoPremiumEl.textContent = `Você acertou ${pontos} de ${total}`;
+    resultadoPremiumEl.textContent = `Você acertou ${pontosPremium} de ${total}`;
   }
 
-  pontosPremiumEl.textContent = `${pontos} de ${total}`;
+  pontosPremiumEl.textContent = `${pontosPremium} de ${total}`;
 
   estrelasPremiumEl.textContent =
-    "⭐".repeat(pontos).padEnd(total, "☆");
+    "⭐".repeat(pontosPremium).padEnd(total, "☆");
 
-  const percentual = (indice / total) * 100;
+  const percentual = (indicePremium / total) * 100;
   progressoPremiumEl.style.width = Math.min(percentual, 100) + "%";
 }
 
 function responderPremium(respostaUsuario) {
-  if (indice >= perguntasPremium.length) return;
+  if (indicePremium >= perguntasPremium.length) return;
 
-  const correta = perguntasPremium[indice].resposta;
+  const correta = perguntasPremium[indicePremium].resposta;
 
   if (respostaUsuario === correta) {
     resultadoPremiumEl.textContent = "✅ Correto!";
     resultadoPremiumEl.style.color = "green";
-    pontos++;
+    pontosPremium++;
   } else {
     resultadoPremiumEl.textContent = "❌ Errado!";
     resultadoPremiumEl.style.color = "red";
   }
 
-  indice++;
+  indicePremium++;
 
   setTimeout(() => {
     carregarPergunta();
