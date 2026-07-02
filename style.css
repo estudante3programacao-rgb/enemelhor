@@ -158,7 +158,6 @@ h1 {
     justify-content: center;
     display: flex;
     color: var(--primaria);
-    transition: background-image 1.5s ease-in-out;
 }
 
 .premium-titulo {
