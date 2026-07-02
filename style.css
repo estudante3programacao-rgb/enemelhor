@@ -156,6 +156,7 @@ h1 {
 .premium {
     padding:  6rem 2rem;
     justify-content: center;
+    display: flex;
     color: var(--primaria);
     transition: background-image 1.5s ease-in-out;
 }
