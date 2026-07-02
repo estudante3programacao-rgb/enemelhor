@@ -123,7 +123,12 @@ function atualizarEstrelas() {
 }
 
 function finalizarQuiz() {
-  document.getElementById("pergunta").textContent = "🏁 Enemelhor finalizado!Continue a estudar conosco!";
+  //document.getElementById("pergunta").textContent = "🏁 Enemelhor finalizado!Continue a estudar conosco!";
+  const fraseFinal = document.getElementById("pergunta");
+  fraseFinal.textContent = "🏁 Enemelhor finalizado! Continue a estudar conosco!";
+  fraseFinal.style.color = "green";
+  fraseFinal.style.fontSize = "5rem";
+  fraseFinal.style.textAlign = "center";
    
   document.querySelector(".teste-botoes").style.display = "none";
 }
