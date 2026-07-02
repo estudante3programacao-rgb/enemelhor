@@ -55,87 +55,75 @@ let indice = 0;
 let pontos = 0;
 let bloqueado = false;
 
-const perguntaEl = document.getElementById("pergunta");
-const resultadoEl = document.getElementById("resultado");
-const pontosEl = document.getElementById("pontos");
-const progressoEl = document.getElementById("progresso");
-const estrelasEl = document.getElementById("estrelas");
-const numeroQuestaoEl = document.getElementById("numeroQuestao");
+carregarQuestao();
 
-function carregarPergunta() {
-  console.log("Índice:", indice);
+function carregarQuestao() {
+  document.getElementById("pergunta").textContent = perguntas[indice].texto;
+  document.getElementById("numeroQuestao").textContent = indice + 1;
 
-  const total = perguntas.length;
-
-  if (indice < total) {
-    perguntaEl.textContent = perguntas[indice].texto;
-    numeroQuestaoEl.textContent = indice + 1;
-    resultadoEl.textContent = "";
-    resultadoEl.style.color = "";
-  } else {
-    perguntaEl.textContent = "🏁 Enemelhor finalizado! Continue a estudar conosco!";
-    numeroQuestaoEl.textContent = "🏆";
-    resultadoEl.textContent = `Você acertou ${pontos} de ${total} questões.`;
-  }
-
-  pontosEl.textContent = `${pontos} de ${total}`;
-  estrelasEl.textContent = "⭐".repeat(pontos).padEnd(10, "☆");
-
-  const percentual = (indice / total) * 100;
-  progressoEl.style.width = Math.min(percentual, 100) + "%";
+  document.getElementById("resultado").textContent = "";
 }
-function responder(respostaUsuario) {
-  if (indice >= perguntas.length) return;
 
-  const correta = perguntas[indice].resposta;
+function responder(respostaUsuario) {
+  if (bloqueado) return;
+  bloqueado = true;
+
+  const correta = perguntas[indice].correta;
+  const resultado = document.getElementById("resultado");
 
   if (respostaUsuario === correta) {
-    resultadoEl.textContent = "✅ Resposta correta!";
-    resultadoEl.style.color = "green";
     pontos++;
+    resultado.textContent = "✔ Correto!";
+    resultado.style.color = "lime";
   } else {
-    resultadoEl.textContent = "❌ Resposta errada!";
-    resultadoEl.style.color = "red";
+    resultado.textContent = "✖ Errado!";
+    resultado.style.color = "red";
   }
 
-  indice++;
+  atualizarPainel();
 
   setTimeout(() => {
-    carregarPergunta();
+    proximaQuestao();
   }, 1000);
 }
-carregarPergunta();
 
-function enviarFormulario() {
-  const nome = document.getElementById("nome").value;
-  const idade = document.getElementById("idade").value;
-  const cidade = document.getElementById("cidade").value;
-  const email = document.getElementById("email").value;
+function proximaQuestao() {
+  indice++;
+  bloqueado = false;
 
-  const ensino = document.querySelector(
-    'input[name="ensino"]:checked'
-  )?.value;
+  if (indice >= perguntas.length) {
+    finalizarQuiz();
+    return;
+  }
 
-  const formData = new FormData();
-
-  formData.append("entry.171603227", nome);
-  formData.append("entry.1614374878", idade);
-  formData.append("entry.192151590", cidade);
-  formData.append("entry.1484416260", email);
-  formData.append("entry.1430522442", ensino);
-  formData.append("entry.137010636", "quiz_web");
-
-  fetch(
-    "https://docs.google.com/forms/d/e/1FAIpQLSfNYeW64KyiAypMNSzqmZcgAPT2pMC4NhXTc6nxMQj1q6goKA/formResponse",
-    {
-      method: "POST",
-      mode: "no-cors",
-      body: formData
-    }
-  );
-
-  alert("Cadastro enviado com sucesso! Você receberá QR CODE para pagamento via email");
+  carregarQuestao();
 }
 
+function atualizarPainel() {
+  document.getElementById("pontos").textContent = pontos;
+
+  const progresso = (indice / perguntas.length) * 100;
+  document.getElementById("progresso").style.width = progresso + "%";
+
+  atualizarEstrelas();
+}
+
+function atualizarEstrelas() {
+  const total = 10;
+  const estrelasCheias = Math.round((pontos / perguntas.length) * total);
+
+  let estrelas = "";
+
+  for (let i = 0; i < total; i++) {
+    estrelas += i < estrelasCheias ? "★" : "☆";
+  }
+
+  document.getElementById("estrelas").textContent = estrelas;
+}
+
+function finalizarQuiz() {
+  document.getElementById("pergunta").textContent = "Quiz finalizado!";
+  document.querySelector(".teste-botoes").style.display = "none";
+}
 
 
