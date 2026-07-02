@@ -504,6 +504,17 @@ teste {
   margin-botton: 2rem;
 }
 
+.premium-login {
+    max-width: 600px;
+    margin: 0 auto;
+    background: rgba(255, 255, 255, 0.05);
+    backdrop-filter: blur(5px);
+    padding: 2rem;
+    border: 1px solid var(--vidro);
+    border-radius: 16px;
+}
+
+
 .botao-entrar {
     color: var(--claro);
     background: linear-gradient(45deg, var(--primaria), var(--secundaria));
