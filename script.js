@@ -97,12 +97,13 @@ function proximaQuestao() {
   }
 
   carregarQuestao();
+  atualizarPainel();
 }
 
 function atualizarPainel() {
   document.getElementById("pontos").textContent = pontos;
 
-  const progresso = (indice / perguntas.length) * 100;
+  const progresso = ((indice + 1) / perguntas.length) * 100;
   document.getElementById("progresso").style.width = progresso + "%";
 
   atualizarEstrelas();
