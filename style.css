@@ -157,6 +157,7 @@ h1 {
     padding:  6rem 2rem;
     justify-content: center;
     color: var(--primaria);
+    transition: background-image 1.5s ease-in-out;
 }
 
 .premium-titulo {
