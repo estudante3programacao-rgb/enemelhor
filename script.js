@@ -124,12 +124,7 @@ function atualizarEstrelas() {
 
 function finalizarQuiz() {
   document.getElementById("pergunta").textContent = "🏁 Enemelhor finalizado!Continue a estudar conosco!";
-  pergunta.style.color = "green";
-  pergunta.style.fontSize = "5rem";
-  pergunta.style.fontWeight = "bold";
-  pergunta.style.textAlign = "center";
-  pergunta.style.lineHeight = "1.5";
-  
+   
   document.querySelector(".teste-botoes").style.display = "none";
 }
 
