@@ -115,7 +115,7 @@ function atualizarEstrelas() {
   let estrelas = "";
 
   for (let i = 0; i < total; i++) {
-    estrelas += i < estrelasCheias ? "★" : "☆";
+    estrelas += i < estrelasCheias ? "★" : "⭐";
   }
 
   document.getElementById("estrelas").textContent = estrelas;
