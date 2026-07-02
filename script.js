@@ -77,13 +77,12 @@ function carregarPergunta() {
     resultadoEl.textContent = `Você acertou ${pontos} de ${total} questões.`;
   }
 
-  pontosEl.textContent = `${pontos} de 10`;
+  pontosEl.textContent = `${pontos} de ${total}`;
   estrelasEl.textContent = "⭐".repeat(pontos).padEnd(10, "☆");
 
-  const percentual = ((indice + 1) / total) * 100;
+  const percentual = (indice / total) * 100;
   progressoEl.style.width = Math.min(percentual, 100) + "%";
 }
-
 function responder(respostaUsuario) {
   if (indice >= perguntas.length) return;
 
