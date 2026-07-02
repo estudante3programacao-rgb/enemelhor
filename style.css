@@ -488,6 +488,23 @@ teste {
   margin-botton: 2rem;
 }
 
+.botao-entrar {
+    color: var(--claro);
+    background: linear-gradient(45deg, var(--primaria), var(--secundaria));
+    padding: 1rem 2rem;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    font-weight: bold;
+    width: 100%;
+    transition: all 0.5s ease;
+}
+
+.botao-entrar:hover {
+    transform: translateY(-4px);
+    box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
+}
+
 .hud-teste {
     position: fixed;
     top: 80px;
@@ -511,6 +528,7 @@ teste {
 
     z-index: 10;
 }
+
 .hud-teste {
     animation: aparecer 0.4s ease;
 }
