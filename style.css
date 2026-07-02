@@ -160,10 +160,9 @@ h1 {
 }
 
 .premium-titulo {
-    text-align: center;
     font-size: 2.5rem;
-    margin-botton: 0px;
-    color: var(--primaria);
+    text-align: center;
+    margin-botton: 5px;
 }
 
 .premium .caixa {
