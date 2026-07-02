@@ -53,6 +53,7 @@ const perguntas = [
 
 let indice = 0;
 let pontos = 0;
+let bloqueado = false;
 
 const perguntaEl = document.getElementById("pergunta");
 const resultadoEl = document.getElementById("resultado");
