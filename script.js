@@ -68,7 +68,7 @@ function responder(respostaUsuario) {
   if (bloqueado) return;
   bloqueado = true;
 
-  const correta = perguntas[indice].correta;
+  const correta = perguntas[indice].resposta;
   const resultado = document.getElementById("resultado");
 
   if (respostaUsuario === correta) {
