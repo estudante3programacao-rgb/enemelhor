@@ -73,10 +73,10 @@ function responder(respostaUsuario) {
 
   if (respostaUsuario === correta) {
     pontos++;
-    resultado.textContent = "✔ Correto!";
-    resultado.style.color = "lime";
+    resultado.textContent = "✅ Resposta correta!";
+    resultado.style.color = "green";
   } else {
-    resultado.textContent = "✖ Errado!";
+    resultado.textContent = "❌ Resposta errada!";
     resultado.style.color = "red";
   }
 
