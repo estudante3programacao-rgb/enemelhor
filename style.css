@@ -312,7 +312,7 @@ h1 {
     border-radius: 16px;
 }
 
-.campo-form {
+.cam-poform {
     width: 100%;
     padding: 1rem;
     background: rgba(255, 255, 255, 0.05);
@@ -442,6 +442,22 @@ teste {
     line-height: 1.4;
     color: var(--);
 }
+
+.chave-premium {
+    width: 100%;
+    padding: 1rem;
+    background: rgba(255, 255, 255, 0.05);
+    border-radius: 8px;
+    color: var(--claro);
+    border: 1px solid var(--vidro);
+    outline: none;
+}
+
+.chave-premium:focus {
+    border-color: var(--secundaria);
+    box-shadow: 0 0 10px rgba(79, 70, 229, 0.3);
+}
+
 
 .teste-botoes-premium {
     display: flex;
