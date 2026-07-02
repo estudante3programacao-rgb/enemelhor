@@ -122,7 +122,7 @@ function atualizarEstrelas() {
 }
 
 function finalizarQuiz() {
-  document.getElementById("pergunta").textContent = ""🏁 Enemelhor finalizado!Continue a estudar conosco!";
+  document.getElementById("pergunta").textContent = "🏁 Enemelhor finalizado!Continue a estudar conosco!";
   document.querySelector(".teste-botoes").style.display = "none";
 }
 
