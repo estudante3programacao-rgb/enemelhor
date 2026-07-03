@@ -127,7 +127,7 @@ function finalizarQuiz() {
   const fraseFinal = document.getElementById("pergunta");
   fraseFinal.textContent = "🏁 Enemelhor finalizado! Continue a estudar conosco!";
   fraseFinal.style.color = "green";
-  fraseFinal.style.fontSize = "3.5rem";
+  fraseFinal.style.fontSize = "3.3rem";
   fraseFinal.style.textAlign = "center";
    
   document.querySelector(".teste-botoes").style.display = "none";
