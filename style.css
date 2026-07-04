@@ -67,7 +67,7 @@ body {
     display: flex; 
     justify-content: center; 
     list-style: none; 
-    gap: 3rem;
+    gap: 2rem;
 }
 
 .menu-link {
