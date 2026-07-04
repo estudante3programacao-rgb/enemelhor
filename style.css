@@ -117,7 +117,10 @@ body {
 h1 {
     font-size: 3.5rem;
     /* color: var(--primaria); */
-    background: linear-gradient(45deg, var(--primaria), var(--secundaria));
+    color: transparent;
+    background: linear-gradient(90deg, var(--primaria), var(--secundaria));
+    -webkit-background-clip: text;
+    background-clip: text;
     color: var(--claro);
     font-weight: semi bold;
     margin: 20px;
