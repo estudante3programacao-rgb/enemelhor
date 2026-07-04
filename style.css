@@ -121,13 +121,14 @@ h1 {
     background: linear-gradient(90deg, var(--primaria), var(--secundaria));
     -webkit-background-clip: text;
     background-clip: text;
-    font-weight: semi bold;
+    font-weight: 600;
     margin: 20px;
 }
 
 .cabecalho-subtitulo {
     font-size: 1.5rem;
-    color: var(--primaria);
+    color: var(--claro);
+    /* color: var(--primaria); */
 }
 
 .sobre {
