@@ -74,9 +74,9 @@ body {
     text-decoration: none;
     /* color: var(--claro); */
     color: transparent;
-    bachground: linear-gradient(90deg, var(--primaria), var(--secundaria));
+    background: linear-gradient(90deg, var(--primaria), var(--secundaria));
     -webkit-background-clip: text;
-    -background-clip: text;
+    background-clip: text;
     font-weight: 600;
     position: relative;
     padding: 0.5rem 0;
