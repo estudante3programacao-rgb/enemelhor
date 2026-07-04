@@ -116,8 +116,10 @@ body {
 
 h1 {
     font-size: 3.5rem;
-    color: var(--primaria);
-    font-weight: bold;
+    /* color: var(--primaria); */
+    background: linear-gradient(45deg, var(--primaria), var(--secundaria));
+    color: var(--claro);
+    font-weight: semi bold;
     margin: 20px;
 }
 
