@@ -67,7 +67,8 @@ body {
     display: flex; 
     justify-content: center; 
     list-style: none; 
-    gap: 3rem; 
+    gap: 3rem;
+    background: linear-gradient(45deg, var(--primaria), var(--secundaria));
 }
 
 .menu-link {
