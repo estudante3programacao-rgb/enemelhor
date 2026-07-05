@@ -195,12 +195,6 @@ h1 {
     color: var(--primaria);
 }
 
-.projeto-imagem {
-    width: 100%;
-    height: 200px;
-    object-fit: cover;
-}
-
 .painel-status {
   margin-top: 20px;
   margin-bottom: 1.5rem;
