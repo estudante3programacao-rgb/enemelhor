@@ -214,7 +214,7 @@ h1 {
 .barra-progresso {
   width: 0%;
   height: 100%;
-  background: #4caf50;
+  background: linear-gradient(90deg, var(--primaria), var(--secundaria));
   transition: width 0.5s;
 }
 
