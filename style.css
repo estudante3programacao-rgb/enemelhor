@@ -338,7 +338,7 @@ h1 {
 
 .teste-pergunta {
     text-align: justify;
-    font-size: 15px;
+    font-size: 1rem;
     margin-bottom: 2rem;
     line-height: 1.4;
     color: var(--);
