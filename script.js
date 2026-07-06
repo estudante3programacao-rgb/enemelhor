@@ -123,16 +123,16 @@ function atualizarEstrelas() {
 }
 
 function finalizarQuiz() {
-  //document.getElementById("pergunta").textContent = "🏁 Enemelhor finalizado!Continue a estudar conosco!";
+  document.querySelector(".teste-botoes").style.display = "none";  
+  document.getElementById("pergunta").style.display = "none";
+  document.getElementById("pontos").textContent = `${pontos} de 10`;
+  document.getElementById("estrelas").textContent = "⭐".repeat(estrelas);
+  document.getElementById("resultado-estrelas").textContent = estrelas;
+  document.getElementById("resultado-pontos").textContent = pontos;
+  document.getElementById("resultado").style.display = "block";
+  document.getElementById("progresso").style.width = "100%";
+  
   const fraseFinal = document.getElementById("pergunta");
-  
-  fraseFinal.innerHTML = `
-        <h3>🏁 Enemelhor finalizado!</h3>
-        <p>Continue a estudar conosco!</p>
-        <p><strong>⭐ Estrelas conquistadas:</strong> ${estrelas}</p>
-        <p><strong>🏆 Pontuação final:</strong> ${pontos} pontos</p>
-    `;
-  
   fraseFinal.style.color = "green";
   fraseFinal.style.fontSize = "1rem";
   fraseFinal.style.textAlign = "center"
