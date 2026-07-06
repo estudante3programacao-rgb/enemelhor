@@ -53,6 +53,7 @@ const perguntas = [
 
 let indice = 0;
 let pontos = 0;
+let estrelas = 0;
 let bloqueado = false;
 
 carregarQuestao();
@@ -61,7 +62,7 @@ function carregarQuestao() {
   document.getElementById("pergunta").textContent = perguntas[indice].texto;
   document.getElementById("numeroQuestao").textContent = indice + 1;
 
-  document.getElementById("resultado").textContent = "";
+  document.getElementById("mensagemResposta").textContent = "";
 }
 
 function responder(respostaUsuario) {
