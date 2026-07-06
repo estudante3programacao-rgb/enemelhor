@@ -69,17 +69,16 @@ function responder(respostaUsuario) {
   bloqueado = true;
 
   const correta = perguntas[indice].resposta;
-  const resultado = document.getElementById("resultado");
-
-  if (respostaUsuario === correta) {
+  const mensagem = document.getElementById("mensagemResposta");
+    if (respostaUsuario === correta) {
     pontos++;
     estrelas++;
-    resultado.textContent = "✅ Resposta correta!";
-    resultado.style.color = "green";
-  } else {
-    resultado.textContent = "❌ Resposta errada!";
-    resultado.style.color = "red";
-  }
+    mensagem.textContent = "✅ Resposta correta!";
+    mensagem.style.color = "green";
+} else {
+    mensagem.textContent = "❌ Resposta errada!";
+    mensagem.style.color = "red";
+}
 
   atualizarPainel();
 
