@@ -188,10 +188,12 @@ h1 {
 
 .mensagem-resposta {
     margin: 10px 0;
-    font-size: 1.1rem;
+    color: blue;
+    font-size: 1rem;
     font-weight: bold;
     text-align: center;
-    min-height: 24px; /* evita “pular” layout */
+    min-height: 24px; 
+    line-height: 1;
 }
 
 .projeto-card {
