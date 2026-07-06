@@ -132,13 +132,7 @@ function finalizarQuiz() {
   document.getElementById("resultado-estrelas").textContent = estrelas;
   document.getElementById("resultado-pontos").textContent = pontos;
   document.getElementById("resultado").style.display = "block";
-  document.getElementById("progresso").style.width = "100%";
-  
-  
-  const fraseFinal = document.getElementById("pergunta");
-  fraseFinal.style.color = "green";
-  fraseFinal.style.fontSize = "1rem";
-  fraseFinal.style.textAlign = "center";
+  document.getElementById("progresso").style.width = "100%"; 
 }
 
 
