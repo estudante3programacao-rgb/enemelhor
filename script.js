@@ -132,6 +132,7 @@ function finalizarQuiz() {
   document.getElementById("resultado-pontos").textContent = pontos;
   document.getElementById("resultado").style.display = "block";
   document.getElementById("progresso").style.width = "100%"; 
+  document.getElementById("mensagemResposta").style.display = "none";
 }
 
 
