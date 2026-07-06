@@ -138,8 +138,7 @@ function finalizarQuiz() {
   const fraseFinal = document.getElementById("pergunta");
   fraseFinal.style.color = "green";
   fraseFinal.style.fontSize = "1rem";
-  fraseFinal.style.textAlign = "center"
-  document.querySelector(".teste-botoes").style.display = "none";
+  fraseFinal.style.textAlign = "center";
 }
 
 
