@@ -73,6 +73,7 @@ function responder(respostaUsuario) {
 
   if (respostaUsuario === correta) {
     pontos++;
+    estrelas++;
     resultado.textContent = "✅ Resposta correta!";
     resultado.style.color = "green";
   } else {
@@ -131,6 +132,7 @@ function finalizarQuiz() {
   document.getElementById("resultado-pontos").textContent = pontos;
   document.getElementById("resultado").style.display = "block";
   document.getElementById("progresso").style.width = "100%";
+  
   
   const fraseFinal = document.getElementById("pergunta");
   fraseFinal.style.color = "green";
