@@ -53,7 +53,6 @@ const perguntas = [
 
 let indice = 0;
 let pontos = 0;
-let estrelas = 0;
 let bloqueado = false;
 
 carregarQuestao();
