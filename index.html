@@ -81,20 +81,10 @@
           <h3 class="ordem" id="numeroQuestao">1</h3>
         
           <p class="teste-pergunta" id="pergunta"></p>
-        </div>
-
-        <div class="teste-botoes">
-          <button class="btn-opcao" onclick="responder(true)">
-            Certo
-          </button>
-
-          <button class="btn-opcao" onclick="responder(false)">
-            Errado
-          </button>
-        </div>
-        
-        <div id="mensagemResposta" class="mensagem-resposta"></div>
-        <div id="resultado" class="resultado">
+          
+          <div id="mensagemResposta" class="mensagem-resposta"></div>
+          
+          <div id="resultado" class="resultado">
           <h3>🏁 Enemelhor finalizado!</h3>
           <p>Continue a estudar conosco!</p>
           <p>
@@ -106,7 +96,17 @@
          <span id="resultado-pontos">0</span> pontos
          </p>
         </div>
-        
+          
+        <div class="teste-botoes">
+          <button class="btn-opcao" onclick="responder(true)">
+            Certo
+          </button>
+
+          <button class="btn-opcao" onclick="responder(false)">
+            Errado
+          </button>
+        </div>
+                      
         <section class="painel-status">
           <p>Pontos: <span id="pontos">0 de 10</span></p>
 
