@@ -85,7 +85,6 @@ body {
 
 .menu-link {
     text-decoration: none;
-    /* color: var(--claro); */
     color: transparent;
     background: linear-gradient(90deg, var(--primaria), var(--secundaria));
     -webkit-background-clip: text;
@@ -96,6 +95,17 @@ body {
 }
 
 .menu-link::after {
+    content: '';
+    height: 5px;
+    width: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(90deg, var(--primaria), var(--secundaria));
+    transition: width 0.5s ease;
+}
+
+.menu-link::before {
     content: '';
     height: 5px;
     width: 0;
