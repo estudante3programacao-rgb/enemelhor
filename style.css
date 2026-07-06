@@ -186,6 +186,14 @@ h1 {
     margin: 0 auto;
 }
 
+.mensagem-resposta {
+    margin: 10px 0;
+    font-size: 1.1rem;
+    font-weight: bold;
+    text-align: center;
+    min-height: 24px; /* evita “pular” layout */
+}
+
 .projeto-card {
     background: rgba(255, 255, 255, 0.05);
     border-radius: 16px;
