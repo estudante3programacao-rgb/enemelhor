@@ -54,6 +54,19 @@ body {
     z-index: -2;
 }
 
+.particulas {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: -1;
+    opacity: 0.3;
+    background: radial-gradient(circle at 10% 20%, var(--primaria) 0%, transparent 20%),
+                radial-gradient(circle at 90% 80%, var(--secundaria) 0%, transparent 20%),
+                var(--maisescuro);
+}
+
 .navegacao {
     position: fixed;
     top: 0;
@@ -294,19 +307,6 @@ h1 {
 .botao-form:hover {
     transform: translateY(-4px);
     box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
-}
-
-.particulas {
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 100%;
-    height: 100%;
-    z-index: -1;
-    opacity: 0.3;
-    background: radial-gradient(circle at 10% 20%, var(--primaria) 0%, transparent 20%),
-                radial-gradient(circle at 90% 80%, var(--secundaria) 0%, transparent 20%),
-                var(--maisescuro);
 }
 
 .teste {
@@ -650,6 +650,11 @@ h1 {
 @keyframes girar {
   0% { transform: rotate(0deg); }
   100% { transform: rotate(360deg); }
+}
+
+.estrelas {
+    color: gold;
+    font-size: 1rem;
 }
 
 .final {
