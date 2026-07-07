@@ -75,14 +75,31 @@
     <section id="projetos" class="projetos">
       <h2 class="projetos-titulo">Seu teste experimental aqui</h2>
       
-      <section id="teste" class="teste">
+      <section id="teste" class="teste" style="display:none;>
         <div>
-          <h3 class="sudokinho" style="display:none;">Sudokinho</h3>
+          <h3 class="sudokinho">Sudokinho</h3>
           <p class="sudokinho_up">A soma dos números é:</p>
           <P class="sudokinho_sorteado">8</P>
           </div>
           <div id="matriz" class="matriz"></div>
 <script>
+  
+function abrirCaptcha() {
+
+    let captcha = document.getElementById("teste");
+
+    captcha.style.display = "block";
+
+    document.getElementById("matriz").innerHTML = "";
+
+    MatrizNumber(0,9,7,2,3,4,6,5,1);
+}
+
+  function fecharCaptcha(){
+
+    document.getElementById("teste").style.display="none";
+
+}
   
 function MatrizNumber(a,b,c,d,e,f,g,h,i){
 
