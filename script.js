@@ -59,6 +59,16 @@ let bloqueado = false;
 //carregarQuestao();
 abrirCaptcha();
 
+function abrirCaptcha() {
+
+    document.getElementById("teste").style.display = "block";
+
+    document.getElementById("matriz").innerHTML = "";
+
+    MatrizNumber(0,9,7,2,3,4,6,5,1);
+
+}
+
 function carregarQuestao() {
   document.getElementById("pergunta").textContent = perguntas[indice].texto;
   document.getElementById("numeroQuestao").textContent = indice + 1;
