@@ -542,34 +542,6 @@ h1 {
     box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
 }
 
-/*.hud-teste {
-    position: fixed;
-    top: 80px;
-    left: 50%;
-    transform: translateX(-50%);
-    
-    width: 90%;
-    max-width: 1000px;
-
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-
-    padding: 1rem 2rem;
-    border-radius: 16px;
-
-    background: rgba(255,255,255,0.05);
-    backdrop-filter: blur(10px);
-    border: 1px solid var(--vidro);
-    box-shadow: var(--sombra);
-
-    z-index: 10;
-} */
-
-/*.hud-teste {
-    animation: aparecer 0.4s ease;
-} */
-
 @keyframes girar {
     from {
         opacity: 0;
