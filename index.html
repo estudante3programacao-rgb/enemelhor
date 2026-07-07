@@ -76,13 +76,17 @@
       <h2 class="projetos-titulo">Seu teste experimental aqui</h2>
             
       <section id="teste" class="teste">
-        <div id=sudokinho_total">
+        <div id="sudokinho_total">
           <h3 class="sudokinho">Sudokinho</h3>
           <p class="sudokinho_up">A soma dos números é:</p>
           <P class="sudokinho_sorteado">8</P>
           <div id="matriz" class="matriz"></div>
         </div>
 <script>
+  
+function fecharSudokinho() {
+    document.getElementById("sudokinho_total").style.display = "none";
+}
   
 function MatrizNumber(a,b,c,d,e,f,g,h,i){
 
