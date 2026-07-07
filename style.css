@@ -542,7 +542,7 @@ h1 {
     box-shadow: 0 5px 15px rgba(79, 70, 229, 0.4);
 }
 
-.hud-teste {
+/*.hud-teste {
     position: fixed;
     top: 80px;
     left: 50%;
@@ -564,11 +564,11 @@ h1 {
     box-shadow: var(--sombra);
 
     z-index: 10;
-}
+} */
 
-.hud-teste {
+/*.hud-teste {
     animation: aparecer 0.4s ease;
-}
+} */
 
 @keyframes girar {
     from {
