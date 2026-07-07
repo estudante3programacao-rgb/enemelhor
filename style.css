@@ -251,10 +251,11 @@ h1 {
     
 }
 
-.robot {
+#naosou {
     position: relative;
 }
-.robot::after {
+
+#naosou::after {
     content: '';
     height: 5px;
     width: 0;
@@ -266,7 +267,7 @@ h1 {
     transition: width 0.7s ease;
 }
 
-.robot:hover::after {
+#naosou:hover::after {
     width: 100%;
 }
 
