@@ -78,6 +78,88 @@
       <section id="teste" class="teste">
         
         <div class="pergunta-box">
+          <div>
+          <h3 class="sudokinho">Sudokinho</h3>
+          <p class="sudokinho_up">A soma dos números é: 8</p>
+          </div>
+          <div id="matriz"></div>
+<script>
+  
+function MatrizNumber(a,b,c,d,e,f,g,h,i){
+
+    let numeros=[a,b,c,d,e,f,g,h,i];
+    let div=document.getElementById("matriz");
+
+    let selecionados=[];
+
+    for(var x=0;x<9;x++){
+
+        if(x==8){
+            continue;     
+        }
+
+        document.write(x+" ");
+    }
+
+    numeros.forEach(function(valor){
+
+        let cel=document.createElement("div");
+        cel.className="celula";
+        cel.innerHTML=valor;
+
+        cel.onclick=function(){
+
+            if(cel.classList.contains("selecionado"))
+                return;
+
+            cel.classList.add("selecionado");
+            selecionados.push(valor);
+
+            if(selecionados.length==2){
+
+                let correto =
+                    selecionados.includes(5) &&
+                    selecionados.includes(3);
+
+                if(correto){
+
+                    selecionados.forEach(function(v){
+
+                        [...document.querySelectorAll(".celula")]
+                        .find(c=>Number(c.innerHTML)==v)
+                        .style.background="lime";
+
+                    });
+
+                    alert("Correto!");
+
+                }else{
+
+                    selecionados.forEach(function(v){
+
+                        [...document.querySelectorAll(".celula")]
+                        .find(c=>Number(c.innerHTML)==v)
+                        .style.background="red";
+
+                    });
+
+                    alert("Incorreto!");
+
+                }
+
+            }
+
+        };
+
+        div.appendChild(cel);
+
+    });
+
+}
+
+MatrizNumber(0,9,7,2,3,4,6,5,1);
+
+</script>
           <h3 class="ordem" id="numeroQuestao">1</h3>
         
           <p class="teste-pergunta" id="pergunta"></p>
