@@ -84,23 +84,6 @@
           <div id="matriz" class="matriz"></div>
 <script>
   
-function abrirCaptcha() {
-
-    let captcha = document.getElementById("teste");
-
-    captcha.style.display = "block";
-
-    document.getElementById("matriz").innerHTML = "";
-
-    MatrizNumber(0,9,7,2,3,4,6,5,1);
-}
-
-function fecharCaptcha(){
-
-    document.getElementById("teste").style.display="none";
-
-}
-  
 function MatrizNumber(a,b,c,d,e,f,g,h,i){
 
     let numeros=[a,b,c,d,e,f,g,h,i];
@@ -148,8 +131,7 @@ function MatrizNumber(a,b,c,d,e,f,g,h,i){
                     });
 
                     alert("Correto!");
-                    carregarQuestao();
-
+                    
                 }else{
 
                     selecionados.forEach(function(v){
