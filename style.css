@@ -216,6 +216,13 @@ h1 {
     color: var(--primaria);
 }
 
+.matriz {
+    display:grid;
+    grid-template-columns:repeat(3,70px);
+    gap:5px;
+    margin-top:20px;
+}
+
 .painel-status {
   margin-top: 20px;
   margin-bottom: 1.5rem;
