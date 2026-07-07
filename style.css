@@ -246,6 +246,17 @@ h1 {
     
 }
 
+.robot::after {
+    content: '';
+    height: 5px;
+    width: 0;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(90deg, var(--primaria), var(--secundaria));
+    transition: width 0.5s ease;
+}
+
 .painel-status {
   margin-top: 20px;
   margin-bottom: 1.5rem;
