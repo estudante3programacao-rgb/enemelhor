@@ -56,8 +56,7 @@ let pontos = 0;
 let estrelas = 0;
 let bloqueado = false;
 
-//carregarQuestao();
-abrirCaptcha();
+carregarQuestao();
 
 function carregarQuestao() {
   document.getElementById("pergunta").textContent = perguntas[indice].texto;
