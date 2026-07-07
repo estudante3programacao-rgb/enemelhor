@@ -69,6 +69,12 @@ function abrirCaptcha() {
 
 }
 
+function fecharCaptcha(){
+
+    document.getElementById("teste").style.display="none";
+
+}
+
 function carregarQuestao() {
   document.getElementById("pergunta").textContent = perguntas[indice].texto;
   document.getElementById("numeroQuestao").textContent = indice + 1;
