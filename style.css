@@ -248,20 +248,22 @@ h1 {
 }
 
 .sudokinho {
-    text-align: center;
-    
+    text-align: center;   
 }
 
 #naosou: {
-    display: inline-block;
-    padding: 12px 20px;
-    border: 2px solid #ccc;
-    border-radius: 8px;
-    cursor: pointer;
+    position: relative;
 }
 
 #naosou:has(input:checked) {
-    background-color: linear-gradient(90deg, var(--primaria), var(--secundaria));
+    content: '';
+    height: 5px;
+    width: 0;
+    margin-top: 2px; 
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    background: linear-gradient(90deg, var(--primaria), var(--secundaria));
     transition: width 0.7s ease;
 }
 
