@@ -274,6 +274,7 @@ h1 {
 }
 
 .celula {    
+    display: flex;
     font-weight: bold;
     transition: 0.3s;
 }
