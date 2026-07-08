@@ -252,7 +252,20 @@ h1 {
     
 }
 
-#naosou {
+#naosou: {
+    display: inline-block;
+    padding: 12px 20px;
+    border: 2px solid #ccc;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+#naosou:has(input:checked) {
+    background-color: linear-gradient(90deg, var(--primaria), var(--secundaria));
+    transition: width 0.7s ease;
+}
+
+/* #naosou {
     position: relative;
 }
 
@@ -270,7 +283,7 @@ h1 {
 
 #naosou:hover::after {
     width: 100%;
-}
+}*/
 
 .painel-status {
   margin-top: 20px;
