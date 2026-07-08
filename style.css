@@ -255,7 +255,7 @@ h1 {
     position: relative;
 }
 
-#naosou:has(input:checked) {
+#naosou::after {
     content: '';
     height: 5px;
     width: 0;
