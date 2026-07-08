@@ -251,7 +251,7 @@ h1 {
     text-align: center;   
 }
 
-#naosou: {
+#naosou {
     position: relative;
 }
 
@@ -265,6 +265,10 @@ h1 {
     left: 0;
     background: linear-gradient(90deg, var(--primaria), var(--secundaria));
     transition: width 0.7s ease;
+}
+
+#naosou:has(input:checked)::after {
+    width: 100%;
 }
 
 /* #naosou {
