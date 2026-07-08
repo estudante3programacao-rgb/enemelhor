@@ -258,12 +258,13 @@ h1 {
 
 #naosou::after {
     content: '';
-    height: 5px;
-    width: 0;
+    height: 1px;
+    width: 1px;
     margin-top: 2px; 
     margin-bottom: -8px; 
     position: absolute;
     left: 0;
+    bottom: 0;
     background: linear-gradient(90deg, var(--primaria), var(--secundaria));
     transition: width 0.7s ease;
 }
