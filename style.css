@@ -238,7 +238,6 @@ h1 {
     border: 1px solid rgba(255, 255, 255, 0.12);
     backdrop-filter: blur(10px);
     text-align: center;
-    cursor: pointer;
     box-shadow: var(--sombra);
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
