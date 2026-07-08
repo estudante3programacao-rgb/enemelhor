@@ -225,6 +225,27 @@ h1 {
     margin-bottom: 20px;
 }
 
+.celula {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.celula:hover {
+    background: #3344ff;
+    color: white;
+
+    box-shadow:
+        0 0 10px #3344ff,
+        0 0 20px #3344ff;
+
+    transform: scale(1.10);
+    z-index: 2;
+}
+
 .sudokinho_total {
     max-width: 600px;
     margin: 1rem auto;
