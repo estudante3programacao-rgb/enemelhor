@@ -278,8 +278,8 @@ h1 {
     transition: all 0.3s ease;
     text-decoration: none;
     border-radius: 16px;
-    color: color: var(--claro);
-    background: color: var(--claro); /* #f8caca; */
+    color: white;
+    background: var(--claro); /* #f8caca; */
     padding: 15px 35px;
     display: inline-block;
 }
