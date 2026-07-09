@@ -125,9 +125,10 @@ function MatrizNumber(a,b,c,d,e,f,g,h,i){
             if(selecionados.length==2){
 
                 let correto =
-                    selecionados.includes(5) &&
-                    selecionados.includes(3);
-
+                    selecionados.includes(5) && selecionados.includes(3);||
+                    selecionados.includes(7) && selecionados.includes(1);||
+                    selecionados.includes(6) && selecionados.includes(2);
+                    
                 if(correto){
 
                     selecionados.forEach(function(v){
