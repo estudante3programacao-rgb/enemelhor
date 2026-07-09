@@ -280,7 +280,7 @@ h1 {
     border-radius: 16px;
     border: 1px solid var(--vidro);
     color: white;
-    background: linear-gradient(45deg, var(--primaria), var(--secundaria)); /* #f8caca; */
+    background: rgba(255,255,255,0.05); /* #f8caca; */
     padding: 15px 35px;
     display: inline-block;
 }
