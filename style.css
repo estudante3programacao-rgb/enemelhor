@@ -278,8 +278,9 @@ h1 {
     transition: all 0.3s ease;
     text-decoration: none;
     border-radius: 16px;
+    border: 1px solid var(--vidro);
     color: white;
-    background: var(--claro); /* #f8caca; */
+    background: linear-gradient(45deg, var(--primaria), var(--secundaria)); /* #f8caca; */
     padding: 15px 35px;
     display: inline-block;
 }
