@@ -503,7 +503,7 @@ h1 {
 .premium {
     padding:  6rem 2rem;
     justify-content: center;
-    color: var(--primaria);
+    /* color: var(--primaria); */
 }
 
 .premium-titulo {
