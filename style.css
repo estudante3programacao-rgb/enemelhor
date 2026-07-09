@@ -294,6 +294,24 @@ h1 {
     width: 100%;
 }
 
+.ckeck-sudokinho {
+    display: inline-block;
+    padding: 15px 35px;
+    background: #f8caca;
+    color: #3b0a75;
+    border-radius: 30px;
+    text-decoration: none;
+    font-size: 18px;
+    transition: all 0.3s ease;
+}
+
+.check-sudokinho:hover {
+    background: #8b5cf6;
+    color: white;
+    transform: scale(1.1);
+    box-shadow: 0 8px 20px rgba(0,0,0,0.2);
+}
+
 /* #naosou {
     position: relative;
 }
