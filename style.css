@@ -221,6 +221,7 @@ h1 {
     justify-content: center;
     grid-template-columns:repeat(3,70px);
     gap:5px;
+    cursor: pointer;
     margin-top:20px;
     margin-bottom: 20px;
 }
