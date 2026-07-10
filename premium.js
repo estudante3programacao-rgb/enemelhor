@@ -53,6 +53,16 @@ const perguntasPremium = [
     texto: "O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e un companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a cegar, toda a gente está cega, Toda a gente, a cidade toda, o país, (SARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.)A cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de determinadas regras de pontuação singulariza o estilo do autor e auxilia na representação do ambiente caótico.",
     resposta: true,
     dificuldade: "media"
+  },
+  {
+    texto: "Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. (BRASIL. Constituição da República Federativa do Brasil de 1988.) A persistência das reivindicações relativas à aplicação desse preceito normativo tem em vista a vinculação histórica e fundamental entre progresso e educação ambiental.",
+    resposta: false,
+    dificuldade: "fácil"
+},
+  {
+    testo: " Muitos países se caracterizam por terem populações multiétnicas. Com frequência, evoluíram desse modo ao longo de séculos. Outras sociedades se tornaram multiétnicas mais rapidamente, como resultado de políticas incentivando a migração, ou por conta de legados coloniais e imperiais (GIDDENS, A. Sociologia. Porto Alegre: Penso, 2012 (adaptado)). Do ponto de vista do funcionamento das democracias contemporâneas, o modelo de sociedade descrito demanda, simultaneamente padronização da cultura e repressão aos particularismos.",
+    resposta: false,
+    dificuldade: "fácil"
   }
 ]; 
 
