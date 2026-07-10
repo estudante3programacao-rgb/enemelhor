@@ -49,6 +49,11 @@ const perguntasPremium = [
     resposta: true,
     dificuldade:  "media"
   },
+  {
+    texto: "O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e un companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a cegar, toda a gente está cega, Toda a gente, a cidade toda, o país, (SARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.)A cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de determinadas regras de pontuação singulariza o estilo do autor e auxilia na representação do ambiente caótico.",
+    resposta: true,
+    dificuldade: "media"
+  }
 ]; 
 
 let indicePremium = 0;
