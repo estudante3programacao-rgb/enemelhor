@@ -141,7 +141,7 @@ const perguntasPremium = [
   },
   {
     texto: "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e  potável,	ela	deve	passar	por	um	processo	de	purificação	 numa	estação	de tratamento	de água. Nesse	processo,	as principais etapas são, nesta	ordem: coagulação, decantação, filtração,	desinfecção	e	fluoretação. A etapa de retirada de grande parte desses sólidos é a fluoretação.",
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
