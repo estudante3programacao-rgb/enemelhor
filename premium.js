@@ -169,6 +169,86 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },
+  {
+    texto: "As abelhas utilizam a sinalização química para  distinguir a abelha-rainha de uma operária, sendo  capazes de reconhecer diferenças entre moléculas.  A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado(). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água.A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é a intensificação da cor das pétalas.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A utilização de extratos de origem natural tem recebido a atenção de pesquisadores em todo o mundo, principalmente nos países em desenvolvimento que são altamente acometidos por doenças infecciosas e parasitárias. Um bom exemplo dessa utilização são os produtos de origem botânica que combatem insetos. O uso desses produtos pode auxiliar no controle da leishmaniose.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (Annona cherimola) com a fruta-pinha (Annona squamosa), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia.Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes.Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é a eliminação de excretas nitrogenadas de forma concentrada.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Para serem absorvidos pelas células do intestino humano, os lipídios ingeridos precisam ser primeiramente emulsificados. Nessa etapa da digestão, torna-se necessária a ação dos ácidos biliares, visto que os lipídios apresentam uma natureza apolar e são insolúveis em água. Esses ácidos atuam no processo de modo a agir como detergentes.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Corredores ecológicos visam mitigar os efeitos da fragmentação dos ecossistemas promovendo a ligação entre diferentes áreas, com o objetivo de proporcionar o deslocamento de animais, a dispersão de sementes e o aumento da cobertura vegetal. São instituídos com base em informações como estudos sobre o deslocamento de espécies, sua área de vida (área necessária para o suprimento de suas necessidades vitais e reprodutivas) e a distribuição de suas populações. (Disponível em: www.mma.gov.br. Acesso em: 30 nov. 2017 (adaptado). Nessa estratégia, a recuperação da biodiversidade é efetiva porque propicia o fluxo gênico.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição. (ALBERTS, B. et al. Fundamentos da biologia celular. Porto Alegre: Artmed, 2011 (adaptado). A ausência dessa proteína poderá favorecer a redução da síntese de DNA, acelerando o ciclo celular. ",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a  80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de  1 380 metros da praça.Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é R$ 528 000,00.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. Os valores possíveis para X são, apenas, é: 1 500 < X < 3 000",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Vi os homens sumirem-se numa grande tristeza. Os melhores cansaram-se das suas obras. Proclamou-se uma doutrina e com ela circulou uma crença: Tudo é oco, tudo é igual, tudo passou! O nosso trabalho foi inútil; o nosso vinho tornou-se veneno; o mau olhado amareleceu-nos os campos e os corações. Secamos de todo, e se caísse fogo em cima de nós, as nossas cinzas voariam em pó. Sim; cansamos o próprio fogo. Todas as fontes secaram para nós, e o mar retirou-se. Todos os solos se querem abrir, mas os abismos não nos querem tragar! (NIETZSCHE, F. Assim falou Zaratustra. Rio de Janeiro: Ediouro, 1977). O texto exprime uma construção alegórica, que traduz um entendimento da doutrina niilista, uma vez que destaca a decadência da cultura.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O que ocorreu na Bahia de 1798, ao contrário das outras situações de contestação política na América portuguesa, é que o projeto que lhe era subjacente não tocou somente na condição, ou no instrumento, da integração subordinada das colônias no império luso. Dessa feita, ao contrário do que se deu nas Minas Gerais (1789), a sedição avançou sobre a sua decorrência. (JANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000.). A diferença entre as sedições abordadas no texto encontrava-se na pretensão de eliminar a hierarquia militar.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova.(DURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000.). O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na adesão aos padrões de investigação típicos das ciências naturais.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias. (DESCARTES, R. Regras para a orientação do espírito. São Paulo: Martins Fontes, 1999.). Em sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da autonomia do sujeito pensante",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A vegetação apresenta adaptações ao ambiente, como plantas arbóreas e arbustivas com raízes que se expandem horizontalmente, permitindo forte ancoragem no substrato lamacento; raízes que se expandem verticalmente, por causa da baixa oxigenação do substrato; folhas que têm glândulas para eliminar o excesso de sais; folhas que podem apresentar cutícula espessa para reduzir a perda de água por evaporação.As características descritas referem-se a plantas adaptadas ao bioma: Mata de Cocais.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para a organela mitocôndria.",
+    resposta: true,
+    dificuldade: "fácil"
+  }
 ]; 
 
 let indicePremium = 0;
