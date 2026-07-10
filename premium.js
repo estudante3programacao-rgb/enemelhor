@@ -120,53 +120,53 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Era o êxodo da seca de 1898. Uma ressurreição de cemitérios antigos — esqueletos redivivos, com o aspecto terroso e o fedor das covas podres. Os fantasmas estropiados como que iam dançando, de tão trôpegos e trêmulos, num passo arrastado de quem leva as pernas, em vez de ser levado por elas. Andavam devagar, olhando para trás, como quem quer voltar. Não tinham pressa em chegar, porque não sabiam aonde iam. Expulsos de seu paraíso por espadas de fogo, iam, ao acaso, em descaminhos, no arrastão dos maus fados. Fugiam do sol e o sol guiava-os nesse forçado nomadismo.Adelgaçados na magreira cômica, cresciam, como se o vento os levantasse. E os braços afinados desciam-lhes aos joelhos, de mãos abanando.Vinham escoteiros. Menos os hidrópicos — de ascite consecutiva à alimentação tóxica — com os fardos das barrigas alarmantes. Não tinham sexo, nem idade, nem condição nenhuma. Eram os retirantes. Nada mais. (ALMEIDA, J. A. A bagaceira. Rio de Janeiro: J. Olympio, 1978). Os recursos composicionais que inserem a obra no chamado “Romance de 30” da literatura brasileira manifestam-se aqui no desenho cru da realidade dramática dos retirantes.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Mas seu olhar verde, inconfundível, impressionante, iluminava com sua luz misteriosa as sombrias arcadas superciliares, que pareciam queimadas por ela, dizia logo a sua origem cruzada e decantada através das misérias e dos orgulhos de homens de aventura, contadores de histórias fantásticas, e de mulheres caladas e sofredoras, que acompanhavam os maridos e amantes através das matas intermináveis, expostas às febres, às feras, às cobras do sertão indecifrável, ameaçador e sem fim, que elas percorriam com a ambição única de um “pouso” onde pudessem viver, por alguns dias, a vida ilusória de família e de lar, sempre no encalço dos homens, enfebrados pela procura do ouro e do diamante. (PENNA, C. Fronteira. Rio de Janeiro: Tecnoprint, s/d.). Ao descrever os olhos de Maria Santa, o narrador estabelece correlações que refletem a relação conflituosa das mulheres e seus maridos.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Firmo, o vaqueiro. No dia seguinte, à hora em que saía o gado, estava eu  debruçado à varanda quando vi o cafuzo que preparava o  animal viajeiro: — Raimundinho, como vai ele?...De longe apontou a palhoça. — Sim. O braço caiu-lhe, olhou-me algum tempo comovido;  depois, saltando para o animal, levou o polegar à boca  fazendo estalar a unha nos dentes: “Às quatro horas  da manhã... Atirei um verso e disse, para bulir com ele:  Pega, velho! Não respondeu. Tio Firmo, mesmo velho e  doente, não era homem para deixar um verso no chão...  Fui ver, coitado!... estava morto”. E deu de esporas para  que eu não lhe visse as lágrimas. (NETTO, C. In: MARCHEZAN, L. G. (Org.). O conto regionalista. São Paulo: Martins Fontes, 2009.). A passagem registra um momento em que a expressividade lírica é reforçada pela afetividade demonstrada ao noticiar a morte do cantador.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina	contra	a	doença	usando	uma	variação do	protozoário	incapaz	de	desencadear	a	patologia	(não patogênico).	Para isso, realizaram	uma	modificação	genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e  potável,	ela	deve	passar	por	um	processo	de	purificação	 numa	estação	de tratamento	de água. Nesse	processo,	as principais etapas são, nesta	ordem: coagulação, decantação, filtração,	desinfecção	e	fluoretação. A etapa de retirada de grande parte desses sólidos é a fluoretação.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "No	processo	de	captação	da	luz	pelo	olho	para	a	formação	de	imagens	estão	envolvidas	duas	estruturas	celulares:	os	cones	e	os	bastonetes.	Os	cones	são	sensíveis	à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes. Um animal que tem bastonetes mais sensíveis irá enxergar bem em ambientes mal iluminados.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "As células da epiderme da folha da Tradescantia pallida purpurea, uma herbácea popularmente conhecida como	trapoeraba-roxa,	contém	um	vacúolo	onde	se	encontra	um	pigmento	que	dá	a	coloração	arroxeada	a	esse tecido. Em um experimento, um corte da epiderme de	uma	folha	da	trapoeraba-roxa	foi	imerso	em	ambiente	hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do	vacúolo	com	diluição	do	pigmento	no	seu	interior.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para	o	tratamento	da	distrofia	hereditária	da	retina.	O	procedimento é recomendado para crianças acima de 12	meses	e	adultos	com	perda	de	visão	causada	pela	mutação	do	gene	humano	RPE65.	O	produto,	elaborado	por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.ANVISA. Disponível em: www.gov.br/anvisa. (Acesso em: 4 dez. 2021 (adaptado)). O sucesso dessa terapia advém do fato de que o produto favorecerá a expressão	do gene responsável	pela produção	da enzima normal.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "De	acordo	com	a	Organização	Mundial	da	Saúde, a	filariose	e	a	leishmaniose	são	consideradas	doenças	 tropicais infecciosas	e	constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a  elas associado. Uma medida profilática comum a	essas	duas doenças é o uso de vermífugo	pela população.",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
+    texto: "Ao	escutar	a	notícia	de que um	filme	recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
+    resposta: false,
     dificuldade: "fácil"
   },
 ]; 
