@@ -60,10 +60,115 @@ const perguntasPremium = [
     dificuldade: "fácil"
 },
   {
-    testo: " Muitos países se caracterizam por terem populações multiétnicas. Com frequência, evoluíram desse modo ao longo de séculos. Outras sociedades se tornaram multiétnicas mais rapidamente, como resultado de políticas incentivando a migração, ou por conta de legados coloniais e imperiais (GIDDENS, A. Sociologia. Porto Alegre: Penso, 2012 (adaptado)). Do ponto de vista do funcionamento das democracias contemporâneas, o modelo de sociedade descrito demanda, simultaneamente padronização da cultura e repressão aos particularismos.",
+    testo: "Muitos países se caracterizam por terem populações multiétnicas. Com frequência, evoluíram desse modo ao longo de séculos. Outras sociedades se tornaram multiétnicas mais rapidamente, como resultado de políticas incentivando a migração, ou por conta de legados coloniais e imperiais (GIDDENS, A. Sociologia. Porto Alegre: Penso, 2012 (adaptado)). Do ponto de vista do funcionamento das democracias contemporâneas, o modelo de sociedade descrito demanda, simultaneamente padronização da cultura e repressão aos particularismos.",
     resposta: false,
     dificuldade: "fácil"
-  }
+  },
+  {
+    texto: "Com a Lei de Terras de 1850, o acesso à terra só passou a ser possível por meio da compra com pagamento em dinheiro. Isso limitava, ou mesmo praticamente impedia, o acesso à terra para os trabalhadores escravos que conquistavam a liberdade  (OLIVEIRA, A. U. Agricultura brasileira: transformações recentes. In: ROSS, J. L. S. Geografia do Brasil. São Paulo: Edusp, 200). O fato legal evidenciado no texto acentuou o processo de reforma agrária",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "O leite UHT (do inglês Ultra-High Temperature) é o leite tratado termicamente por um processo que recebe o nome de ultrapasteurização. Elevando sua temperatura homogeneamente a 135 °C por apenas 1 ou 2 segundos, o leite é esterilizado sem prejudicar significativamente seu sabor e aparência. Desse modo, ele pode ser armazenado, sem a necessidade de refrigeração, por meses. Para alcançar essa temperatura sem que a água que o compõe vaporize, o leite é aquecido em alta pressão. É necessário, entretanto, resfriar o leite rapidamente para evitar o seu cozimento. Para tanto, a pressão é reduzida subitamente, de modo que parte da água vaporize e a temperatura diminua. O processo termodinâmico que explica essa redução súbita de temperatura é a transferência de energia térmica durante a vaporização da água presente no leite ", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "No Autódromo de Interlagos, um carro de Fórmula 1 realiza a curva S do Senna numa trajetória curvilínea. Enquanto percorre esse trecho, o velocímetro do carro indica velocidade constante. Quais são a direção e o sentido da aceleração do carro? Radial, apontada para dentro da curva.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "O que é software livre. Software livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma comunidade internacional de desenvolvedores independentes. São centenas de milhares de hackers, que negam sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte  aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu,  sendo quase impossível decifrar a programação. O que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma e uma comunidade de usuários com milhões de membros no mundo. (RANCO, M. Software livre e desenvolvimento social e económico. In: CASTELLS, M.; CARDOSO, G. (Org). A sociedade em rede: do conhecimento à acção política. Lisboa: Imprensa Nacional, 2005 (adaptado)). A criação de softwares livres contribui para a produção do conhecimento na sociedade porque insere profissionalmente os hackers na área de inovação tecnológica",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
 ]; 
 
 let indicePremium = 0;
