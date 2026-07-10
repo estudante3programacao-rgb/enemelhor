@@ -264,7 +264,7 @@ const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
 
-    if (chave === "ESTUD500") {
+    if (chave === "ESTUD500A") {
         liberarPremium();
     } else {
         alert("Chave inválida");
