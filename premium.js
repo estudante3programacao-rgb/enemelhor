@@ -260,7 +260,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras(LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado). A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da  valorização de identidades coletivas.",
+    texto: "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras (LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado). A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da valorização de identidades coletivas.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -281,7 +281,7 @@ const perguntasPremium = [
   },
   {
     texto: "A indústria têxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das águas dos rios causado pelo despejo desses corantes pode desencadear uma série de problemas no ecossistema aquático. Considerando esse escurecimento das águas, o impacto negativo inicial que ocorre é a proliferação de algas.", 
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
    {
@@ -295,7 +295,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado). Animais garantem suas necessidades metabólicas desse elemento pelaabsorção do gás nitrogênio pela respiração.", 
+    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado). Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -310,7 +310,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A bombareduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento). Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do 235U ocorre uma liberação de prótons, que bombardearão outros núcleos", 
+    texto: "A bomba reduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento). Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do 235U ocorre uma liberação de prótons, que bombardearão outros núcleos.", 
     resposta: false,
     dificuldade: "fácil"
   },
