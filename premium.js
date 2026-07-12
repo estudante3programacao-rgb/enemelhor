@@ -110,7 +110,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Fenômenos epigenéticos levam a modificações do DNA e das histonas, que influenciam o remodelamento da cromatina e, consequentemente, a disponibilização ou não de genes para a transcrição. (ARRUDA, I. T. S. Epigenética. Genética na Escola, n. 1, 2015 (adaptado)). Esses fenômenos atuam na regulação da expressão gênica.",
+    texto: "Fenômenos epigenéticos levam a modificações do DNA e das histonas, que influenciam o remodelamento da cromatina e, consequentemente, a disponibilização ou não de genes para a transcrição (ARRUDA, I. T. S. Epigenética. Genética na Escola, n. 1, 2015 (adaptado)). Esses fenômenos atuam na regulação da expressão gênica.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -135,12 +135,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina	contra	a	doença	usando	uma	variação do	protozoário	incapaz	de	desencadear	a	patologia	(não patogênico).	Para isso, realizaram	uma	modificação	genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
+    texto: "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina	contra	a	doença usando	uma	variação do	protozoário	incapaz	de desencadear	a	patologia	(não patogênico).	Para isso, realizaram	uma	modificação	genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e  potável,	ela	deve	passar	por	um	processo	de	purificação	 numa	estação	de tratamento	de água. Nesse	processo,	as principais etapas são, nesta	ordem: coagulação, decantação, filtração,	desinfecção	e	fluoretação. A etapa de retirada de grande parte desses sólidos é a fluoretação.",
+    texto: "A água bruta coletada de mananciais apresenta alto índice de sólidos suspensos, o que a deixa com um aspecto turvo. Para se obter uma água límpida e potável,	ela	deve passar por	um processo de	purificação numa	estação	de tratamento	de água. Nesse	processo,	as principais etapas são, nesta	ordem: coagulação, decantação, filtração,	desinfecção	e	fluoretação. A etapa de retirada de grande parte desses sólidos é a fluoretação.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -155,12 +155,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para	o	tratamento	da	distrofia	hereditária	da	retina.	O	procedimento é recomendado para crianças acima de 12	meses	e	adultos	com	perda	de	visão	causada	pela	mutação	do	gene	humano	RPE65.	O	produto,	elaborado	por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.ANVISA. Disponível em: www.gov.br/anvisa. (Acesso em: 4 dez. 2021 (adaptado)). O sucesso dessa terapia advém do fato de que o produto favorecerá a expressão	do gene responsável	pela produção	da enzima normal.",
+    texto: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para	o	tratamento da distrofia	hereditária	da retina. O procedimento é recomendado para crianças acima de 12	meses	e	adultos	com	perda	de visão	causada	pela	mutação	do	gene	humano	RPE65.	O	produto,	elaborado	por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.ANVISA. Disponível em: www.gov.br/anvisa. (Acesso em: 4 dez. 2021 (adaptado)). O sucesso dessa terapia advém do fato de que o produto favorecerá a expressão	do gene responsável	pela produção	da enzima normal.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "De	acordo	com	a	Organização	Mundial	da	Saúde, a	filariose	e	a	leishmaniose	são	consideradas	doenças	 tropicais infecciosas	e	constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a  elas associado. Uma medida profilática comum a	essas	duas doenças é o uso de vermífugo	pela população.",
+    texto: "De	acordo	com	a	Organização	Mundial	da	Saúde, a filariose e	a	leishmaniose	são	consideradas	doenças	 tropicais infecciosas	e	constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a  elas associado. Uma medida profilática comum a	essas	duas doenças é o uso de vermífugo	pela população.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -170,7 +170,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As abelhas utilizam a sinalização química para  distinguir a abelha-rainha de uma operária, sendo  capazes de reconhecer diferenças entre moléculas.  A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado(). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
+    texto: "As abelhas utilizam a sinalização química para  distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado(). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
     resposta: false,
     dificuldade: "fácil"
   },
@@ -185,7 +185,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (Annona cherimola) com a fruta-pinha (Annona squamosa), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia.Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
+    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (Annona cherimola) com a fruta-pinha (Annona squamosa), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -251,67 +251,67 @@ const perguntasPremium = [
   },
   {
     texto: "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz (ALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981).A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em questionar a ordem divina e reforma católica.", 
-    reposta: false,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e,  ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos (BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado)). Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.", 
-    reposta: true,
+    texto: "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos (BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado)). Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.", 
+    resposta: true,
     dificuldade: "fácil"
   },
   {
     texto: "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras(LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado). A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da  valorização de identidades coletivas.",
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
     texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado)). As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.", 
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
     texto: "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica (BIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Florianópolis: UFSC, 2003 (adaptado)). Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há drenagem eficiente.", 
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo (WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.", 
-    reposta: false,
+    texto: "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo (WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado). Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.", 
+    resposta: false,
     dificuldade: "fácil"
   },
   {
     texto: "A indústria têxtil utiliza grande quantidade de corantes no processo de tingimento dos tecidos. O escurecimento das águas dos rios causado pelo despejo desses corantes pode desencadear uma série de problemas no ecossistema aquático. Considerando esse escurecimento das águas, o impacto negativo inicial que ocorre é a proliferação de algas.", 
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
    {
     texto: "Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas (KIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012 (adaptado). Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente, floculação e separação magnética.", 
-    reposta: true,
+    resposta: true,
     dificuldade: "média"
   },
   {
     texto: "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação). Essa especiação não ocorre devido à manutenção do fluxo gênico entre as raças.",    
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
     texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado). Animais garantem suas necessidades metabólicas desse elemento pelaabsorção do gás nitrogênio pela respiração.", 
-    reposta: false,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
     texto: "Uma pessoa abre sua geladeira, verifica o que há dentro e depois fecha a porta dessa geladeira. Em seguida, ela tenta abrir a geladeira novamente, mas só consegue fazer isso depois de exercer uma força mais intensa do que a habitual. A dificuldade extra para reabrir a geladeira ocorre porque a apressão no interior da geladeira está abaixo da pressão externa.", 
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
     texto: "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais. Nessa situação o sistema excretor dos estudantes produziu urina com maior concentração de sais.",    
-    reposta: true,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "A bombareduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento).Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do 235U ocorre uma liberação de prótons, que bombardearão outros núcleos", 
-    reposta: false,
+    texto: "A bombareduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento). Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do 235U ocorre uma liberação de prótons, que bombardearão outros núcleos", 
+    resposta: false,
     dificuldade: "fácil"
   },
   {
@@ -320,8 +320,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2 000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada.(Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
-    reposta: true,
+    texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada.(Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
+    resposta: true,
     dificuldade: "fácil"
   },
 ]; 
