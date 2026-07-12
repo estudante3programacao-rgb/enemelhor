@@ -257,14 +257,14 @@ const perguntasPremium = [
   {
     texto: "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e,  ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos (BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado)). Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.", 
     reposta: true,
-    dificuldade
+    dificuldade: "fácil"
   },
   {
     texto: "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras(LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado). A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da  valorização de identidades coletivas.",
     reposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado)). As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.", 
     reposta: true,
     dificuldade: "fácil"
@@ -274,7 +274,7 @@ const perguntasPremium = [
     reposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo (WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado).Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.", 
     reposta: false,
     dificuldade: "fácil"
@@ -289,7 +289,7 @@ const perguntasPremium = [
     reposta: true,
     dificuldade: "média"
   },
-   {
+  {
     texto: "Algumas raças de cães domésticos não conseguem copular entre si devido à grande diferença em seus tamanhos corporais. Ainda assim, tal dificuldade reprodutiva não ocasiona a formação de novas espécies (especiação). Essa especiação não ocorre devido à manutenção do fluxo gênico entre as raças.",    
     reposta: true,
     dificuldade: "fácil"
@@ -307,7 +307,7 @@ const perguntasPremium = [
   {
     texto: "Durante uma expedição, um grupo de estudantes perdeu-se de seu guia. Ao longo do dia em que esse grupo estava perdido, sem água e debaixo de sol, os estudantes passaram a sentir cada vez mais sede. Consequentemente, o sistema excretor desses indivíduos teve um acréscimo em um dos seus processos funcionais. Nessa situação o sistema excretor dos estudantes produziu urina com maior concentração de sais.",    
     reposta: true,
-    dificuldade:
+    dificuldade: "fácil"
   },
   {
     texto: "A bombareduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento).Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do 235U ocorre uma liberação de prótons, que bombardearão outros núcleos", 
@@ -323,36 +323,6 @@ const perguntasPremium = [
     texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2 000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada.(Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
     reposta: true,
     dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    reposta: true,
-    dificuldade:
-  },
-  {
-    texto: "", 
-    reposta: true,
-    dificuldade
-  },
-   {
-    texto: "", 
-    reposta: true,
-    dificuldade:
-  },
-   {
-    texto: "", 
-    reposta: true,
-    dificuldade
-  },
-  {
-    texto: "", 
-    reposta: true,
-    dificuldade:
-  },
-  {
-    texto: "", 
-    reposta: true,
-    dificuldade
   },
 ]; 
 
