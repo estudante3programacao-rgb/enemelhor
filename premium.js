@@ -350,6 +350,106 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
+    texto: "O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas (Disponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).Considerando-se o valor de 6 × 1023 mol–1 para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades é de 1,5 × 1022.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativo (CORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.). À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas termelétricas.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Uma pessoa necessita da força de atrito em seus pés para se deslocar sobre uma superfície. Logo, uma pessoa que sobe uma rampa em linha reta será auxiliada pela força de atrito exercida pelo chão em seus pés. Em relação ao movimento dessa pessoa, a direção e o sentido da força de atrito mencionada no texto é: paralelo ao plano e no sentido contrário ao movimento.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Dentre as substâncias usadas para o tratamento de água está o sulfato de alumínio que, em meio alcalino, forma partículas em suspensão na água, às quais as impurezas presentes no meio se aderem. O método de separação comumente usado para retirar o sulfato de alumínio com as impurezas aderidas é a peneiração.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Estudos de fluxo de energia em ecossistemas demonstram que a alta produtividade nos manguezais está diretamente relacionada às taxas de produção primária líquida e à rápida reciclagem dos nutrientes. Como exemplo de seres vivos encontrados nesse ambiente, temos: aves, caranguejos, insetos, peixes e algas. Dos grupos de seres vivos citados, os que contribuem diretamente para a manutenção de produtividade no referido ecossistema são as algas.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
     texto: "",
     resposta: true,
     dificuldade: "fácil"
@@ -364,7 +464,12 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
     texto: "",
     resposta: true,
     dificuldade: "fácil"
@@ -374,7 +479,7 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "",
     resposta: true,
     dificuldade: "fácil"
@@ -384,117 +489,12 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "",
     resposta: true,
     dificuldade: "fácil"
   },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-   {
+  {
     texto: "",
     resposta: true,
     dificuldade: "fácil"
