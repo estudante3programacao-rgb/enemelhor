@@ -330,7 +330,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-  texto: "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob odisfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular nopróprio poder central que é o sol do nosso sistema (PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972).A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.",  
+  texto: "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema (PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972). A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.",  
   resposta: true,
   dificuldade: "fácil"
   },
@@ -340,17 +340,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário. (RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, São Paulo, 26 maio-1 jun. 2011(adaptado).m 2011, o acampamento dos Indignados espanhóis expressou todo o descontentamento político da juventude europeia. A proposta que sintetiza o conjunto de reivindicações políticas destes jovens é a Democracia direta,",
+    texto: "Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário. (RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, São Paulo, 26 maio-1 jun. 2011(adaptado)). O acampamento dos Indignados espanhóis expressou todo o descontentamento político da juventude europeia. A proposta que sintetiza o conjunto de reivindicações políticas destes jovens é a democracia direta.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
     texto: "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes (MATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012). A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro: redução da utilização elétrica.",
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas (Disponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado).Considerando-se o valor de 6 × 1023 mol–1 para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades é de 1,5 × 1022.",
+    texto: "O brasileiro consome em média 500 miligramas de cálcio por dia, quando a quantidade recomendada é o dobro. Uma alimentação balanceada é a melhor decisão para evitar problemas no futuro, como a osteoporose, uma doença que atinge os ossos. Ela se caracteriza pela diminuição substancial de massa óssea, tornando os ossos frágeis e mais suscetíveis a fraturas (Disponível em: www.anvisa.gov.br. Acesso em: 1 ago. 2012 (adaptado). Considerando-se o valor de 6 × 1023 mol–1 para a constante de Avogadro e a massa molar do cálcio igual a 40 g/mol, qual a quantidade mínima diária de átomos de cálcio a ser ingerida para que uma pessoa supra suas necessidades é de 1,5 × 10²².",
     resposta: true,
     dificuldade: "fácil"
   },
