@@ -375,18 +375,18 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume (TUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003). A intensa interferência humana na região descrita provocou o susurgimento de uma área desértica em decorrência da erosão.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastar ir à França num minuto para assistir ao pôr do sol (SAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.). A diferença espacial citada é causada pelo movimento em torno de seu próprio eixo.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
+    texto: "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma (HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989). Segundo Habermas, a validez de uma norma deve ser estabelecida pelo poder político, que se concentra no sistema partidário.",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
