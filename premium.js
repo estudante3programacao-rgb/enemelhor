@@ -390,13 +390,13 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado (B’SABER, A. Amazônia: do discurso à práxis. São Paulo: EdUSP, 1996). Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "Embora o Brasil seja signatário de convenções e tratados internacionais contra a tortura e tenha incorporado em seu ordenamento jurídico uma lei tipificando o crime, ele continua a ocorrer em larga escala. Mesmo que a lei que tipifica a tortura esteja vigente desde 1997, até o ano 2000 não se conhece nenhum caso de condenação de torturadores julgado em última instância, embora tenham sido registrados nesse período centenas de casos, além de numerosos outros presumíveis, mas não registrados. (Disponível em: http://www.dhnet.org.br. Acesso em: 16 jun. 2010 (adaptado). O texto destaca a questão da tortura no país, apontando que: a justiça brasileira, por meio de tratados e leis, tem conseguido inibir e, inclusive, extinguir a prática da tortura)",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
