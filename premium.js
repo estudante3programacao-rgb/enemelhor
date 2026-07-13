@@ -324,6 +324,181 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
+  {
+    texto: "De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares [...]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente. (Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001). A carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o objetivo de transmitir o conhecimento dos indígenas sobre o potencial econômico existente.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+  texto: "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob odisfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular nopróprio poder central que é o sol do nosso sistema (PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972).A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.",  
+  resposta: true,
+  dificuldade: "fácil"
+  },
+  {
+    texto: "Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo. (BERCITO, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado). O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o fortalecimento de movimentos antissemitas.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário. (RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, São Paulo, 26 maio-1 jun. 2011(adaptado).m 2011, o acampamento dos Indignados espanhóis expressou todo o descontentamento político da juventude europeia. A proposta que sintetiza o conjunto de reivindicações políticas destes jovens é a Democracia direta,",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes (MATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012). A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro: redução da utilização elétrica.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+   {
+    texto: "",
+    resposta: true,
+    dificuldade: "fácil"
+  },
 ]; 
 
 let indicePremium = 0;
