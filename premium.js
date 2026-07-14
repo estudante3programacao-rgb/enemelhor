@@ -455,47 +455,47 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "Influenciadores negros têm recorrentemente chamado a atenção para o fato de terem muito menos repercussão em suas postagens e nas entregas do seu conteúdo quando comparados com os influenciadores brancos, mesmo se fotos, contextos e anúncios forem extremamente semelhantes. Segundo o site Negrê, a digital influencer e youtuber criadora do projeto digital Preta Pariu iniciou um experimento em uma plataforma. Após perceber a crescente queda nos índices de alcance digital, a paulista publicou fotografias de modelos brancas em seu perfil e analisou as métricas de engajamento. Surpreendentemente, a ferramenta de estatísticas aferiu um aumento de 6 000% em seu alcance. (Disponível em: https://diplomatique.org.br. Acesso em: 21 jan. 2024 (adaptado)). A apresentação do dado estatístico ao final desse texto revela a intenção de exaltar a qualidade das publicações sobre negritude em redes sociais.",
+    resposta: false,
     dificuldade: "fácil"
   },
    {
-    texto: "",
+    texto: "O festival folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, ééé azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchoso”, com os quais me identifiquei, mas esses são vistos com certo desdém. (DYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br. Acesso em: 22 nov. 2018 (adaptado)). A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo festival de Parintins evidencia a  aproximação da manifestação folclórica com o esporte.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando  os pares davam voltas pelo salão realizando giros em torno de si mesmos em postura fechada. Pelo fato de ser dançada aos pares em contato íntimo, a valsa encantava a sociedade medieval, como também sofria proibições por infringir os “bons costumes”. Originária das danças campestres e folclóricas, no século XVI, a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia, retomando-a posteriormente. (FRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico: aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado)).  expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar elementos provenientes de segmentos populares.",     
+    resposta: true,     
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "Espaços públicos não são produtos dados e acabados, uma instituição que, uma vez estabelecida, traria a paz da consensualidade e a perfeita igualdade. São os lugares em que os problemas aparecem e se transformam em debates, em diálogo e em possibilidade de ajuste e compromissos. Por isso, não anulam os conflitos, ao contrário, são canais de comunicação e de visibilidade de oposições. (GOMES, P. C. C. Espaço público, espaços públicos. Geographia, n. 44, set.-dez. 2018 (adaptado)). As características descritas no texto exibem a importância dos espaços públicos para a diversificação do trabalho.",    
+    resposta: false,
     dificuldade: "fácil"
   },
    {
-    texto: "",
+    texto: "A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para sonhar quando durmo, para sobreviver quando morro. Minha alma durará muito tempo e mais que muito tempo, quando meu corpo vier a apodrecer. Viva minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão. (FOUCAULT, M. O corpo utópico, as heterotopias. São Paulo: Edições N-1, 2013). Esse texto reforça uma concepção metafísica clássica que remete a um pensamento dicotômico.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional. (IAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado)). O efeito social resultante do avanço tecnológico mencionado no texto foi O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica.",
+    resposta: false,
     dificuldade: "fácil"
   },
    {
-    texto: "",
-    resposta: true,
+    texto: "A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores. (GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021). A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar o(a): homogeneização da qualificação profissional.",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: " regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos princípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de uma forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar a regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios. (DUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016.)O princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica: pensamento utilitarista.",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível. (CASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982). O texto apresenta uma contradição interna do capitalismo caracterizada pela: alienação decorrente da organização do trabalho.",
     resposta: true,
     dificuldade: "fácil"
   },
