@@ -400,38 +400,38 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Esporte e cultura: análise acerca da esportivização de práticas corporais nos jogos indígenas. Nos Jogos dos Povos Indígenas, observa-se que as práticas corporais realizadas envolvem elementos tradicionais (como as pinturas e adornos corporais) e modernos (como a regulamentação, a fiscalização e a padronização). O arco e flecha e a lança, por exemplo, são instrumentos tradicionalmente utilizados para a caça e a defesa da comunidade na aldeia. Na ocasião do evento, esses artefatos foram produzidos pela própria etnia, porém sua estruturação como “modalidade esportiva” promoveu uma semelhança entre as técnicas apresentadas, com o sentido único da competição. (ALMEIDA, A. J. M.; SUASSUNA, D. M. F. A. Pensar a prática, n. 1, jan.-abr. 2010 (adaptado)). A relação entre os elementos tradicionais e modernos nos Jogos dos Povos Indígenas desencadeou a legitimação das práticas corporais indígenas como modalidade esportiva.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012. A penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo O dia em que  toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão. (Disponível em: www.cultura.rj.gov.br. Acesso em: 15 maio 2012 (adaptado).). A notícia relata um evento cultural que marca a primazia do samba sobre a música nordestina.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Educação para a saúde mediante programas de educação física escolar. A educação para a saúde deverá ser alcançada mediante interação de ações que possam envolver o próprio homem mediante suas atitudes frente às exigências ambientais representadas pelos hábitos alimentares, estado de estresse, opções de lazer, atividade física, agressões climáticas etc. Dessa forma, parece evidente que o estado de ser saudável não é algo estático. Pelo contrário, torna-se necessário adquiri-lo e construí-lo de forma individualizada constantemente ao longo de toda a vida, apontando para o fato de que saúde é educável e, portanto, deve ser tratada não apenas com base em referenciais de natureza biológica e higienista, mas sobretudo em um contexto didático-pedagógico. (GUEDES, D. P. Motriz, n. 1, 1999). A educação para a saúde pressupõe a adoção de comportamentos com base na interação de fatores relacionados à constituição de hábitos saudáveis.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior. (ARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005 (adaptado)). A condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a associação sindical.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade — a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural. (OUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004). O texto aponta que a subjetivação se efetiva numa dimensão ontingencial, processada em interações sociais.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão. Os habitantes desta pequena cidade no Alasca — o estado dos Estados Unidos mais ao norte — já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13 h 04 min (horário local). (Disponível em: www.bbc.com. Acesso em: 16 maio 2019 - adaptado).  fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela latitude.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
+    texto: "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convivehoje com as condições materiais para resolvê-la. PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado). O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
