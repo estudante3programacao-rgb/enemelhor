@@ -435,22 +435,22 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensinos obre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o caput deste artigo incluirá o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e política pertinentes à História do Brasil. § 2º Os conteúdos referentes à História e Cultura Afro- -Brasileira serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História Brasileiras. (BRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto. Acesso em: 5 maio 2024). O emprego da norma-padrão é justificado nesse texto pelas características do gênero a que pertence",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer (COLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019).  texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à conquista do reconhecimento público.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A “invenção” dessa nova anatomia política não deve ser entendida como uma descoberta súbita. Mas como uma multiplicidade de processos muitas vezes mínimos, de origensdiferentes, de localizações esparsas, que se recordam, que se repetem, ou se imitam, apoiam-se uns sobre os outros e esboçam aos poucos a fachada de um método geral. Encontramo-los em funcionamento nos colégios, muito cedo; mais tarde, nas escolas primárias, no espaço hospitalar e na organização militar. (FOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011). O texto indica o seguinte aspecto da disciplina como ferramenta política: capilarização das práticas de controle.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra. (DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado)).De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.",
     resposta: true,
     dificuldade: "fácil"
   },
