@@ -541,7 +541,8 @@ function carregarPergunta() {
   if (indicePremium < total) {
     const atual = perguntasPremium[indicePremium];
 
-    perguntaPremiumEl.textContent = atual.texto;
+    // perguntaPremiumEl.textContent = atual.texto;
+    perguntaPremiumE1.innerHTML = atual.texto;
     numeroQuestaoPremiumEl.textContent = indicePremium + 1;
 
     resultadoPremiumEl.textContent = "";
