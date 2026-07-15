@@ -105,7 +105,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Reflorestamento é uma ação ambiental que visa repovoar áreas que tiveram a vegetação removida. Uma empresa deseja fazer um replantio de árvores e dispõe de cinco produtos que podem ser utilizados para corrigir o pH do solo que se encontra básico. As substâncias presentes nos produtos disponíveis são: CH3COONa, NH4Cl, NaBr, NaOH e KCl. A substância a ser adicionada ao solo para neutralizá-lo é NH4Cl.",
+    texto: "Reflorestamento é uma ação ambiental que visa repovoar áreas que tiveram a vegetação removida. Uma empresa deseja fazer um replantio de árvores e dispõe de cinco produtos que podem ser utilizados para corrigir o pH do solo que se encontra básico. As substâncias presentes nos produtos disponíveis são: CH<sub>3</sub>COONa, NH<sub>4</subCl, NaBr, NaOH e KCl. A substância a ser adicionada ao solo para neutralizá-lo é NH<sub>4</sub>Cl.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -135,7 +135,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina	contra	a	doença usando	uma	variação do	protozoário	incapaz	de desencadear	a	patologia	(não patogênico).	Para isso, realizaram	uma	modificação	genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
+    texto: "O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina contra a doença usando	uma	variação do	protozoário	incapaz	de desencadear a patologia (não patogênico).	Para isso, realizaram	uma	modificação	genética criando um <i>T. cruzi</i> capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -150,7 +150,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As células da epiderme da folha da <i>Tradescantia Pallida</i> purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa,	contém	um	vacúolo	onde	se	encontra	um	pigmento	que	dá	a	coloração	arroxeada	a	esse tecido. Em um experimento, um corte da epiderme de	uma	folha	da	trapoeraba-roxa	foi	imerso	em	ambiente	hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do	vacúolo	com	diluição	do	pigmento	no	seu	interior.",
+    texto: "As células da epiderme da folha da <i>Tradescantia Pallida</i> purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa, contém um vacúolo onde	se encontra	um pigmento que	dá a coloração arroxeada a esse tecido. Em um experimento, um corte da epiderme de uma folha da	trapoeraba-roxa	foi	imerso em ambiente hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do vacúolo com	diluição do pigmento no	seu	interior.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -170,7 +170,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado(). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
+    texto: "As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado)) As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
     resposta: false,
     dificuldade: "fácil"
   },
@@ -185,7 +185,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia <i>Annona cherimola</i> com a fruta-pinha <i>Annona squamosa<i/>, resultou em uma planta híbrida denominada de Atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
+    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia <i>Annona cherimola</i> com a fruta-pinha <i>Annona squamosa</i>, resultou em uma planta híbrida denominada de Atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
     resposta: true,
     dificuldade: "fácil"
   },
