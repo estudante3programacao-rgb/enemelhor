@@ -375,7 +375,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume (TUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003). A intensa interferência humana na região descrita provocou o susurgimento de uma área desértica em decorrência da erosão.",
+    texto: "Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume (TUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003). A intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da erosão.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -395,7 +395,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Embora o Brasil seja signatário de convenções e tratados internacionais contra a tortura e tenha incorporado em seu ordenamento jurídico uma lei tipificando o crime, ele continua a ocorrer em larga escala. Mesmo que a lei que tipifica a tortura esteja vigente desde 1997, até o ano 2000 não se conhece nenhum caso de condenação de torturadores julgado em última instância, embora tenham sido registrados nesse período centenas de casos, além de numerosos outros presumíveis, mas não registrados. (Disponível em: http://www.dhnet.org.br. Acesso em: 16 jun. 2010 (adaptado). O texto destaca a questão da tortura no país, apontando que: a justiça brasileira, por meio de tratados e leis, tem conseguido inibir e, inclusive, extinguir a prática da tortura)",
+    texto: "Embora o Brasil seja signatário de convenções e tratados internacionais contra a tortura e tenha incorporado em seu ordenamento jurídico uma lei tipificando o crime, ele continua a ocorrer em larga escala. Mesmo que a lei que tipifica a tortura esteja vigente desde 1997, até o ano 2000 não se conhece nenhum caso de condenação de torturadores julgado em última instância, embora tenham sido registrados nesse período centenas de casos, além de numerosos outros presumíveis, mas não registrados. (Disponível em: http://www.dhnet.org.br. Acesso em: 16 jun. 2010 (adaptado). O texto destaca a questão da tortura no país, apontando que: a justiça brasileira, por meio de tratados e leis, tem conseguido inibir e, inclusive, extinguir a prática da tortura.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -465,7 +465,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando  os pares davam voltas pelo salão realizando giros em torno de si mesmos em postura fechada. Pelo fato de ser dançada aos pares em contato íntimo, a valsa encantava a sociedade medieval, como também sofria proibições por infringir os “bons costumes”. Originária das danças campestres e folclóricas, no século XVI, a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia, retomando-a posteriormente. (FRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico: aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado)).  expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar elementos provenientes de segmentos populares.",     
+    texto: "A valsa vienense é a mais antiga das danças de salão tradicional. É dançada desde a Idade Média, quando  os pares davam voltas pelo salão realizando giros em torno de si mesmos em postura fechada. Pelo fato de ser dançada aos pares em contato íntimo, a valsa encantava a sociedade medieval, como também sofria proibições por infringir os “bons costumes”. Originária das danças campestres e folclóricas, no século XVI, a aristocracia francesa abandonou a valsa por sua estreita relação com a cultura plebeia, retomando-a posteriormente. (FRANCO, N.; FERREIRA, N. Evolução da dança no contexto histórico: aproximações iniciais com o tema. Repertório, n. 26, 2016 (adaptado)). A expressão cultural descrita no texto foi rejeitada no início da Idade Moderna por congregar elementos provenientes de segmentos populares.",     
     resposta: true,     
     dificuldade: "fácil"
   },
