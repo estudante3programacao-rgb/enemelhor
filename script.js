@@ -40,12 +40,12 @@ const perguntas = [
     dificuldade:  "media"
   },
   {
-    texto: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a “globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”.(Disponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado).) No texto há uma crítica ao seguinte aspecto do mundo globalizado: disparidade econômica.",
+    texto: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a “globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”. (Disponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado)) No texto há uma crítica ao seguinte aspecto do mundo globalizado: disparidade econômica.",
     resposta: true,
     dificuldade:  "media"
   },
   {
-    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos  por mulher, a estrutura populacional fica favorável  ao crescimento econômico. Isso acontece porque há  proporcionalmente menos crianças na população, e o  percentual de idosos ainda não é alto.(GOIS, A. O Globo, 5 abr. 2015 (adaptado).) A ação estatal que contribui para o aproveitamento do  bônus demográfico é o estímulo à qualificação da mão de obra.", 
+    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável  ao crescimento econômico. Isso acontece porque há  proporcionalmente menos crianças na população, e o  percentual de idosos ainda não é alto. (GOIS, A. O Globo, 5 abr. 2015 (adaptado)) A ação estatal que contribui para o aproveitamento do  bônus demográfico é o estímulo à qualificação da mão de obra.", 
     resposta: true,
     dificuldade:  "media"
   },
