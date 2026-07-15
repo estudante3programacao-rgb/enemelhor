@@ -155,17 +155,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para	o	tratamento da distrofia	hereditária	da retina. O procedimento é recomendado para crianças acima de 12	meses	e	adultos	com	perda	de visão	causada	pela	mutação	do	gene	humano	RPE65.	O	produto,	elaborado	por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina.ANVISA. Disponível em: www.gov.br/anvisa. (Acesso em: 4 dez. 2021 (adaptado)). O sucesso dessa terapia advém do fato de que o produto favorecerá a expressão	do gene responsável	pela produção	da enzima normal.",
+    texto: "A Agência Nacional de Vigilância Sanitária (Anvisa) aprovou um produto de terapia gênica no país, indicado para	o	tratamento da distrofia	hereditária	da retina. O procedimento é recomendado para crianças acima de 12	meses	e	adultos	com	perda	de visão causada pela	mutação	do gene	humano RPE65.	O	produto,	elaborado	por engenharia genética, é composto por um vírus, no qual foi inserida uma cópia do gene normal humano RPE65 para corrigir o funcionamento das células da retina. (ANVISA. Disponível em: www.gov.br/anvisa. Acesso em: 4 dez. 2021 (adaptado)). O sucesso dessa terapia advém do fato de que o produto favorecerá a expressão do gene responsável pela produção da enzima normal.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "De	acordo	com	a	Organização	Mundial	da	Saúde, a filariose e	a	leishmaniose	são	consideradas	doenças	 tropicais infecciosas	e	constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a  elas associado. Uma medida profilática comum a	essas	duas doenças é o uso de vermífugo	pela população.",
+    texto: "De acordo com	a	Organização	Mundial	da	Saúde, a filariose e a leishmaniose	são	consideradas doenças tropicais infecciosas e constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Ao	escutar	a	notícia	de que um	filme	recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
+    texto: "Ao escutar a notícia	de que um	filme	recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -175,7 +175,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água.A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é a intensificação da cor das pétalas.",
+    texto: "A polinização, que viabiliza o transporte do grão de pólen de uma planta até o estigma de outra, pode ser realizada biótica ou abioticamente. Nos processos abióticos, as plantas dependem de fatores como o vento e a água. A estratégia evolutiva que resulta em polinização mais eficiente quando esta depende do vento é a intensificação da cor das pétalas.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -185,12 +185,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia (Annona cherimola) com a fruta-pinha (Annona squamosa), resultou em uma planta híbrida denominada de atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
+    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia *Annona cherimola* com a fruta-pinha *Annona squamosa*, resultou em uma planta híbrida denominada de Atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
     resposta: true,
     dificuldade: "fácil"
   },
-   {
-    texto: "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes.Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é a eliminação de excretas nitrogenadas de forma concentrada.",
+  {
+    texto: "O deserto é um bioma que se localiza em regiões de pouca umidade. A fauna é, predominantemente, composta por animais roedores, aves, répteis e artrópodes. Uma adaptação, associada a esse bioma, presente nos seres vivos dos grupos citados é a eliminação de excretas nitrogenadas de forma concentrada.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -230,7 +230,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova.(DURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000). O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na adesão aos padrões de investigação típicos das ciências naturais.",
+    texto: "A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova. (DURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000). O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na adesão aos padrões de investigação típicos das ciências naturais.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -250,7 +250,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz (ALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981).A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em questionar a ordem divina e reforma católica.", 
+    texto: "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz (ALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981). A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em questionar a ordem divina e reforma católica.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -295,7 +295,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N2, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N2, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado). Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.", 
+    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N₂, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N₂, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado)). Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -405,7 +405,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012. A penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo O dia em que  toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão. (Disponível em: www.cultura.rj.gov.br. Acesso em: 15 maio 2012 (adaptado).). A notícia relata um evento cultural que marca a primazia do samba sobre a música nordestina.",
+    texto: "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012. A penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo: O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão. (Disponível em: www.cultura.rj.gov.br. Acesso em: 15 maio 2012 (adaptado)). A notícia relata um evento cultural que marca a primazia do samba sobre a música nordestina.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -420,27 +420,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade — a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural. (OUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004). O texto aponta que a subjetivação se efetiva numa dimensão ontingencial, processada em interações sociais.",
+    texto: "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade — a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural. (OUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004). O texto aponta que a subjetivação se efetiva numa dimensão contingencial, processada em interações sociais.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão. Os habitantes desta pequena cidade no Alasca — o estado dos Estados Unidos mais ao norte — já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13 h 04 min (horário local). (Disponível em: www.bbc.com. Acesso em: 16 maio 2019 - adaptado).  fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela latitude.",
+    texto: "Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão. Os habitantes desta pequena cidade no Alasca — o estado dos Estados Unidos mais ao norte — já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13h04min (horário local). (Disponível em: www.bbc.com. Acesso em: 16 maio 2019 - adaptado). O fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela latitude.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convivehoje com as condições materiais para resolvê-la. PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado). O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.",
+    texto: "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la. PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado). O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensinos obre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o caput deste artigo incluirá o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e política pertinentes à História do Brasil. § 2º Os conteúdos referentes à História e Cultura Afro- -Brasileira serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História Brasileiras. (BRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto. Acesso em: 5 maio 2024). O emprego da norma-padrão é justificado nesse texto pelas características do gênero a que pertence",
+    texto: "Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensinos obre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o *caput* deste artigo incluirá o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e política pertinentes à História do Brasil. § 2º Os conteúdos referentes à História e Cultura Afro-Brasileira serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História Brasileiras. (BRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto. Acesso em: 5 maio 2024). O emprego da norma-padrão é justificado nesse texto pelas características do gênero a que pertence.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer (COLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019).  texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à conquista do reconhecimento público.",
+    texto: "Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer (COLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019). O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à conquista do reconhecimento público.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -450,7 +450,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra. (DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado)).De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.",
+    texto: "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra. (DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado)). De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -460,7 +460,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
    {
-    texto: "O festival folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, ééé azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchoso”, com os quais me identifiquei, mas esses são vistos com certo desdém. (DYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br. Acesso em: 22 nov. 2018 (adaptado)). A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo festival de Parintins evidencia a  aproximação da manifestação folclórica com o esporte.",
+    texto: "O Festival Folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, ééé azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchoso”, com os quais me identifiquei, mas esses são vistos com certo desdém. (DYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br. Acesso em: 22 nov. 2018 (adaptado)). A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo Festival de Parintins evidencia a aproximação da manifestação folclórica com o esporte.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -480,17 +480,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional. (IAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado)). O efeito social resultante do avanço tecnológico mencionado no texto foi O enrijecimento das doutrinas religiosas sobre a organização da vida doméstica.",
+    texto: "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional. (IAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018 (adaptado)). O efeito social resultante do avanço tecnológico mencionado no texto foi o enrijecimento das doutrinas religiosas sobre a organização da vida doméstica.",
     resposta: false,
     dificuldade: "fácil"
   },
    {
-    texto: "A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores. (GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021). A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar o(a): homogeneização da qualificação profissional.",
+    texto: "A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores. (GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021). A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar a: homogeneização da qualificação profissional.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: " regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos princípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de uma forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar a regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios. (DUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016.)O princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica: pensamento utilitarista.",
+    texto: "A regra de ouro, popularmente conhecida pelo provérbio “Trate os outros como gostaria de ser tratado”, é um dos princípios morais mais onipresentes. A noção subjacente, que apela para o senso ético mais básico, se expressa de uma forma ou de outra em praticamente todas as tradições religiosas, e poucos filósofos morais deixaram de invocar a regra ou pelo menos de tecer comentários a respeito da relação com seus próprios princípios. (DUPRÉ, B. 50 grandes ideias da humanidade. São Paulo: Planeta do Brasil, 2016.)O princípio ético apresentado no texto, como elemento estruturante da vida em sociedade, se traduz pela seguinte formulação teórica: pensamento utilitarista.",
     resposta: false,
     dificuldade: "fácil"
   },
