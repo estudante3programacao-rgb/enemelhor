@@ -105,7 +105,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Reflorestamento é uma ação ambiental que visa repovoar áreas que tiveram a vegetação removida. Uma empresa deseja fazer um replantio de árvores e dispõe de cinco produtos que podem ser utilizados para corrigir o pH do solo que se encontra básico. As substâncias presentes nos produtos disponíveis são: CH<sub>3</sub>COONa, NH<sub>4</subCl, NaBr, NaOH e KCl. A substância a ser adicionada ao solo para neutralizá-lo é NH<sub>4</sub>Cl.",
+    texto: "Reflorestamento é uma ação ambiental que visa repovoar áreas que tiveram a vegetação removida. Uma empresa deseja fazer um replantio de árvores e dispõe de cinco produtos que podem ser utilizados para corrigir o pH do solo que se encontra básico. As substâncias presentes nos produtos disponíveis são: CH<sub>3</sub>COONa, NH<sub>4</sub>Cl, NaBr, NaOH e KCl. A substância a ser adicionada ao solo para neutralizá-lo é NH<sub>4</sub>Cl.",
     resposta: true,
     dificuldade: "fácil"
   },
