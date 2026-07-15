@@ -130,12 +130,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Firmo, o vaqueiro. No dia seguinte, à hora em que saía o gado, estava eu  debruçado à varanda quando vi o cafuzo que preparava o  animal viajeiro: — Raimundinho, como vai ele?...De longe apontou a palhoça. — Sim. O braço caiu-lhe, olhou-me algum tempo comovido;  depois, saltando para o animal, levou o polegar à boca  fazendo estalar a unha nos dentes: “Às quatro horas  da manhã... Atirei um verso e disse, para bulir com ele:  Pega, velho! Não respondeu. Tio Firmo, mesmo velho e  doente, não era homem para deixar um verso no chão...  Fui ver, coitado!... estava morto”. E deu de esporas para  que eu não lhe visse as lágrimas. (NETTO, C. In: MARCHEZAN, L. G. (Org.). O conto regionalista. São Paulo: Martins Fontes, 2009.). A passagem registra um momento em que a expressividade lírica é reforçada pela afetividade demonstrada ao noticiar a morte do cantador.",
+    texto: "Firmo, o vaqueiro. No dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o  animal viajeiro: — Raimundinho, como vai ele?...De longe apontou a palhoça. — Sim. O braço caiu-lhe, olhou-me algum tempo comovido;  depois, saltando para o animal, levou o polegar à boca  fazendo estalar a unha nos dentes: “Às quatro horas  da manhã... Atirei um verso e disse, para bulir com ele:  Pega, velho! Não respondeu. Tio Firmo, mesmo velho e  doente, não era homem para deixar um verso no chão...  Fui ver, coitado!... estava morto”. E deu de esporas para  que eu não lhe visse as lágrimas. (NETTO, C. In: MARCHEZAN, L. G. (Org.). O conto regionalista. São Paulo: Martins Fontes, 2009.). A passagem registra um momento em que a expressividade lírica é reforçada pela afetividade demonstrada ao noticiar a morte do cantador.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "O protozoário Trypanosoma cruzi, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina	contra	a	doença usando	uma	variação do	protozoário	incapaz	de desencadear	a	patologia	(não patogênico).	Para isso, realizaram	uma	modificação	genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
+    texto: "O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina	contra	a	doença usando	uma	variação do	protozoário	incapaz	de desencadear	a	patologia	(não patogênico).	Para isso, realizaram	uma	modificação	genética criando um T. cruzi capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor e a autoimunidade.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -145,12 +145,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No	processo	de	captação	da	luz	pelo	olho	para	a	formação	de	imagens	estão	envolvidas	duas	estruturas	celulares:	os	cones	e	os	bastonetes.	Os	cones	são	sensíveis	à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes. Um animal que tem bastonetes mais sensíveis irá enxergar bem em ambientes mal iluminados.",
+    texto: "No processo	de captação	da luz pelo	olho para	a	formação de	imagens	estão	envolvidas duas	estruturas celulares:	os cones e os bastonetes.	Os cones são sensíveis à energia dos fótons, e os bastonetes, à quantidade de fótons incidentes. A energia dos fótons que compõem os raios luminosos está associada à sua frequência, e a intensidade, ao número de fótons incidentes. Um animal que tem bastonetes mais sensíveis irá enxergar bem em ambientes mal iluminados.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "As células da epiderme da folha da Tradescantia Pallida purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa,	contém	um	vacúolo	onde	se	encontra	um	pigmento	que	dá	a	coloração	arroxeada	a	esse tecido. Em um experimento, um corte da epiderme de	uma	folha	da	trapoeraba-roxa	foi	imerso	em	ambiente	hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do	vacúolo	com	diluição	do	pigmento	no	seu	interior.",
+    texto: "As células da epiderme da folha da <i>Tradescantia Pallida</i> purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa,	contém	um	vacúolo	onde	se	encontra	um	pigmento	que	dá	a	coloração	arroxeada	a	esse tecido. Em um experimento, um corte da epiderme de	uma	folha	da	trapoeraba-roxa	foi	imerso	em	ambiente	hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do	vacúolo	com	diluição	do	pigmento	no	seu	interior.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -160,12 +160,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "De acordo com	a	Organização	Mundial	da Saúde, a filariose e a leishmaniose são	consideradas doenças tropicais infecciosas e constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
+    texto: "De acordo com	a	Organização	Mundial	da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Ao escutar a notícia de que um filme	recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
+    texto: "Ao escutar a notícia de que um filme recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -185,7 +185,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia *Annona cherimola* com a fruta-pinha *Annona squamosa*, resultou em uma planta híbrida denominada de Atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
+    texto: "O cruzamento de duas espécies da família das Anonáceas, a cherimoia <i>Annona cherimola</i> com a fruta-pinha <i>Annona squamosa<i/>, resultou em uma planta híbrida denominada de Atemoia. Recomenda-se que o seu plantio seja por meio de enxertia. Um dos benefícios dessa forma de plantio é a manutenção do genótipo da planta híbrida.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -295,7 +295,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N₂, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N₂, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado)). Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.", 
+    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N<sub>2</sub>, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N<sub>2</sub>, que ocorrem de forma livre ou simbiontes com plantas (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004 (adaptado)). Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -310,7 +310,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A bomba reduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento). Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do 235U ocorre uma liberação de prótons, que bombardearão outros núcleos.", 
+    texto: "A bomba reduz neutros e neutrinos, e abana-se com o leque da reação em cadeia (ANDRADE, C. D. Poesia completa e prosa. Rio de Janeiro: Aguilar, 1973 (fragmento). Nesse fragmento de poema, o autor refere-se à bomba atômica de urânio. Essa reação é dita “em cadeia” porque na fissão do <sup>235</sup>U ocorre uma liberação de prótons, que bombardearão outros núcleos.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -435,7 +435,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensinos obre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o *caput* deste artigo incluirá o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e política pertinentes à História do Brasil. § 2º Os conteúdos referentes à História e Cultura Afro-Brasileira serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História Brasileiras. (BRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto. Acesso em: 5 maio 2024). O emprego da norma-padrão é justificado nesse texto pelas características do gênero a que pertence.",
+    texto: "Art. 26-A. Nos estabelecimentos de ensino fundamental e médio, oficiais e particulares, torna-se obrigatório o ensinos obre História e Cultura Afro-Brasileira. § 1º O conteúdo programático a que se refere o <i>caput</i> deste artigo incluirá o estudo da História da África e dos Africanos, a luta dos negros no Brasil, a cultura negra brasileira e o negro na formação da sociedade nacional, resgatando a contribuição do povo negro nas áreas social, econômica e política pertinentes à História do Brasil. § 2º Os conteúdos referentes à História e Cultura Afro-Brasileira serão ministrados no âmbito de todo o currículo escolar, em especial nas áreas de Educação Artística e de Literatura e História Brasileiras. (BRASIL. Lei n. 10 639/2003. Disponível em: www.gov.br/planalto. Acesso em: 5 maio 2024). O emprego da norma-padrão é justificado nesse texto pelas características do gênero a que pertence.",
     resposta: true,
     dificuldade: "fácil"
   },
