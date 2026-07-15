@@ -204,7 +204,7 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição. (ALBERTS, B. et al. Fundamentos da biologia celular. Porto Alegre: Artmed, 2011 (adaptado). A ausência dessa proteína poderá favorecer a redução da síntese de DNA, acelerando o ciclo celular. ",
     resposta: false,
     dificuldade: "fácil"
@@ -214,7 +214,7 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. Os valores possíveis para X são, apenas, é: 1 500 < X < 3 000",
     resposta: true,
     dificuldade: "fácil"
@@ -284,7 +284,7 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas (KIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012 (adaptado). Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente, floculação e separação magnética.", 
     resposta: true,
     dificuldade: "média"
@@ -330,9 +330,9 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-  texto: "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema (PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972). A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.",  
-  resposta: true,
-  dificuldade: "fácil"
+    texto: "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema (PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972). A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.",  
+    resposta: true,
+    dificuldade: "fácil"
   },
   {
     texto: "Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo. (BERCITO, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013 (adaptado). O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o fortalecimento de movimentos antissemitas.",
@@ -459,7 +459,7 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "O Festival Folclórico de Parintins, no Amazonas, anunciou que o Boi Caprichoso levou, em 2018, seu 23º título — contra 31 do adversário Boi Garantido. Desde o fim do evento que não paro de cantar duas músicas que aprendi no Bumbódromo (arena onde ocorre o espetáculo). Revezo entre “meu amor, eu sou feliz, ééé azul o meu país”, obviamente do boi azul, o Caprichoso; e “vermelhou o curral, a ideologia avermelhou”, do boi vermelho, o Garantido. Esse revezamento seria proibido em Parintins, cidade tão dividida entre as torcidas dos bois. Em Parintins, você tem de ter um lado. Há aqueles que tentam fugir e dizem que são “garanchoso”, com os quais me identifiquei, mas esses são vistos com certo desdém. (DYNIEWICZ, L. Disponível em: https://viagem.estadao.com.br. Acesso em: 22 nov. 2018 (adaptado)). A apropriação de elementos como rivalidade, competitividade, torcida e gritos de guerra pelo Festival de Parintins evidencia a aproximação da manifestação folclórica com o esporte.",
     resposta: true,
     dificuldade: "fácil"
@@ -474,7 +474,7 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "A alma funciona no meu corpo de maneira maravilhosa. Nele se aloja, certamente, mas sabe bem dele escapar: escapa para ver as coisas através da janela dos meus olhos, escapa para sonhar quando durmo, para sobreviver quando morro. Minha alma durará muito tempo e mais que muito tempo, quando meu corpo vier a apodrecer. Viva minha alma! É meu corpo luminoso, purificado, virtuoso, ágil, móvel, tépido, viçoso; é meu corpo liso, castrado, arredondado como uma bolha de sabão. (FOUCAULT, M. O corpo utópico, as heterotopias. São Paulo: Edições N-1, 2013). Esse texto reforça uma concepção metafísica clássica que remete a um pensamento dicotômico.",
     resposta: true,
     dificuldade: "fácil"
@@ -484,7 +484,7 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },
-   {
+  {
     texto: "A internet fortalece o engajamento e a visibilidade de populações tradicionais e indígenas por meio de redes sociais, rádios e veículos de mídia digital. Ela também promove a criação e o fortalecimento de mercados e a inovação nos sistemas de financiamento, integrando pequenos agricultores e produtores da comunidade florestal a cadeias de abastecimento maiores. (GROTTERA, C.; CASTRO, L. M.; BRITO, M. C. Como a tecnologia pode ser uma aliada na conservação ambiental. Nexo Jornal, 14 ago. 2021). A adoção da tecnologia mencionada amplia a rentabilidade das comunidades citadas, ao possibilitar a: homogeneização da qualificação profissional.",
     resposta: false,
     dificuldade: "fácil"
