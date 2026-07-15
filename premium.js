@@ -150,7 +150,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As células da epiderme da folha da Tradescantia pallida purpurea, uma herbácea popularmente conhecida como	trapoeraba-roxa,	contém	um	vacúolo	onde	se	encontra	um	pigmento	que	dá	a	coloração	arroxeada	a	esse tecido. Em um experimento, um corte da epiderme de	uma	folha	da	trapoeraba-roxa	foi	imerso	em	ambiente	hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do	vacúolo	com	diluição	do	pigmento	no	seu	interior.",
+    texto: "As células da epiderme da folha da Tradescantia Pallida purpurea, uma herbácea popularmente conhecida como trapoeraba-roxa,	contém	um	vacúolo	onde	se	encontra	um	pigmento	que	dá	a	coloração	arroxeada	a	esse tecido. Em um experimento, um corte da epiderme de	uma	folha	da	trapoeraba-roxa	foi	imerso	em	ambiente	hipotônico e, logo em seguida, foi colocado em uma lâmina e observado em microscópio óptico. Durante	a	observação	desse	corte, foi	possível	identificar	o aumento	do	vacúolo	com	diluição	do	pigmento	no	seu	interior.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -160,17 +160,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "De acordo com	a	Organização	Mundial	da	Saúde, a filariose e a leishmaniose	são	consideradas doenças tropicais infecciosas e constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
+    texto: "De acordo com	a	Organização	Mundial	da Saúde, a filariose e a leishmaniose são	consideradas doenças tropicais infecciosas e constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Ao escutar a notícia	de que um	filme	recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
+    texto: "Ao escutar a notícia de que um filme	recém-lançado	arrecadou, no	primeiro mês de lançamento,	R$ 1,35	bilhão em bilheteria, um estudante escreveu corretamente o número que representa essa quantia, com todos os seus algarismos assim: 1 350 000,00.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "As abelhas utilizam a sinalização química para  distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado(). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
+    texto: "As abelhas utilizam a sinalização química para distinguir a abelha-rainha de uma operária, sendo capazes de reconhecer diferenças entre moléculas. A rainha produz o sinalizador químico conhecido como ácido 9-hidroxidec-2-enoico, enquanto as abelhas--operárias produzem ácido 10-hidroxidec-2-enoico. Nós podemos distinguir as abelhas-operárias e rainhas por sua aparência, mas, entre si, elas usam essa sinalização química para perceber a diferença. Pode-se dizer que veem por meio da química. (LE COUTEUR, P.; BURRESON, J. Os botões de Napoleão: as 17 moléculas que mudaram a história. Rio de Janeiro: Jorge Zahar, 2006 (adaptado(). As moléculas dos sinalizadores químicos produzidas pelas abelhas rainha e operária possuem diferença na contagem do número de carbonos.",   
     resposta: false,
     dificuldade: "fácil"
   },
