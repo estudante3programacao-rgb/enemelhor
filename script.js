@@ -20,7 +20,7 @@ const perguntas = [
     dificuldade: "facil"
   },
   {
-    texto: "TEXTO I - Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. TEXTO II - Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. A característica do pensamento do filósofo Heráclito é a ênfase na imobilidade imanente do universo.",
+    texto: "<p>TEXTO I - Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. </p> <p>TEXTO II - Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. </P> A característica do pensamento do filósofo Heráclito é a ênfase na imobilidade imanente do universo.",
     resposta: false,
     dificuldade: "facil"
   },
@@ -59,7 +59,8 @@ let bloqueado = false;
 carregarQuestao();
 
 function carregarQuestao() {
-  document.getElementById("pergunta").textContent = perguntas[indice].texto;
+  //document.getElementById("pergunta").textContent = perguntas[indice].texto;
+  document.getElementById("pergunta").innerHTML = perguntas[indice].texto;
   document.getElementById("numeroQuestao").textContent = indice + 1;
 
   document.getElementById("mensagemResposta").textContent = "";
