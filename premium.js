@@ -20,7 +20,7 @@ const perguntasPremium = [
     dificuldade: "facil"
   },
   {
-    texto: "TEXTO I - Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. TEXTO II - Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. A característica do pensamento do filósofo Heráclito é a ênfase na imobilidade imanente do universo.",
+    texto: "<p>TEXTO I - Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos.</p><p>TEXTO II - Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. A característica do pensamento do filósofo Heráclito é a ênfase na imobilidade imanente do universo.</p>",
     resposta: false,
     dificuldade: "facil"
   },
@@ -320,7 +320,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada.(Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
+    texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada. (Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
     resposta: true,
     dificuldade: "fácil"
   },
