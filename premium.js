@@ -508,7 +508,7 @@ const perguntasPremium = [
 
 let indicePremium = 0;
 let pontosPremium = 0;
-let nivelPremium = 1;
+let nivelPremium = 0;
 
 const perguntaPremiumEl = document.getElementById("perguntaPremium");
 const resultadoPremiumEl = document.getElementById("resultadoPremium");
@@ -517,7 +517,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 3;
+const ultimoNivelDisponivel = 2;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
@@ -603,7 +603,7 @@ function verificarNivelPremium() {
             nivelPremium++;
 
             resultadoPremiumEl.textContent =
-                `🏆 Parabéns! Você alcançou o nível ${nomesNiveis[nivelPremium - 1]}!`;
+                `🏆 Parabéns! Você alcançou o nível ${nomesNiveis[nivelPremium - 0]}!`;
 
         } else {
 
