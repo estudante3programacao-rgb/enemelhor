@@ -503,6 +503,7 @@ const perguntasPremium = [
 
 let indicePremium = 0;
 let pontosPremium = 0;
+let nivelPremium = 1;
 
 const perguntaPremiumEl = document.getElementById("perguntaPremium");
 const resultadoPremiumEl = document.getElementById("resultadoPremium");
@@ -510,6 +511,8 @@ const pontosPremiumEl = document.getElementById("pontosPremium");
 const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
+
+const ultimoNivelDisponivel = 2;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
@@ -559,9 +562,23 @@ function carregarPergunta() {
 
   const trofeus = Math.floor(pontosPremium / 10);
   const estrelas = pontosPremium % 10;
+  
+  const nomesNiveis = [
+    "Aprendiz do Saber",
+    "Guardião do Conhecimento",
+    "Mestre das Letras",
+    "Historiador da Humanidade",
+    "Alquimista da Natureza",
+    "Mestre das Conexões",
+    "Sábio Investigador",
+    "Cientista",
+    "Pitagórico",
+    "Filósofo"
+];
 
   estrelasPremiumEl.textContent =
     //"⭐".repeat(pontosPremium).padEnd(total, "☆");
+    `${nomesNiveis[nivelPremium - 1]} | ` +
     "🏆".repeat(trofeus) +
     "⭐".repeat(estrelas).padEnd(10, "☆");
 
