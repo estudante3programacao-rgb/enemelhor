@@ -567,7 +567,8 @@ function carregarPergunta() {
 
   const trofeus = Math.floor(pontosPremium / 10);
   const estrelas = pontosPremium % 10;
-  const nivelPremium = Math.floor(pontosPremium / 50) + 1;
+  //const nivelPremium = Math.floor(pontosPremium / 50) + 1;
+  const nivelPremium = Math.floor(pontosPremium / 50)
   
   const nomesNiveis = [
     "Aprendiz do Saber",
