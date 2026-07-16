@@ -522,7 +522,7 @@ const ultimoNivelDisponivel = 2;
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
 
-    if (chave === "ESTUD500A") {
+    if (chave === "ESTUD500") {
         liberarPremium();
     } else {
         alert("Chave inválida");
@@ -603,7 +603,7 @@ function verificarNivelPremium() {
             nivelPremium++;
 
             resultadoPremiumEl.textContent =
-                `🏆 Parabéns! Você alcançou o nível ${nomesNiveis[nivelPremium - 0]}!`;
+                `🏆 Parabéns! Você alcançou o nível ${nomesNiveis[nivelPremium - 1]}!`;
 
         } else {
 
