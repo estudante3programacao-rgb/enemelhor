@@ -517,7 +517,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 2;
+const ultimoNivelDisponivel = 3;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
