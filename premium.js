@@ -512,7 +512,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 2;
+const ultimoNivelDisponivel = 1;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
@@ -562,6 +562,7 @@ function carregarPergunta() {
 
   const trofeus = Math.floor(pontosPremium / 10);
   const estrelas = pontosPremium % 10;
+  const nivelPremium = Math.floor((pontosPremium - 1) / 50);
   
   const nomesNiveis = [
     "Aprendiz do Saber",
@@ -578,7 +579,7 @@ function carregarPergunta() {
 
   estrelasPremiumEl.textContent =
     //"⭐".repeat(pontosPremium).padEnd(total, "☆");
-    `${nomesNiveis[nivelPremium - 1]} | ` +
+    `${nomesNiveis[nivelPremium]} | ` +
     "🏆".repeat(trofeus) +
     "⭐".repeat(estrelas).padEnd(10, "☆");
 
