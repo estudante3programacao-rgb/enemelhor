@@ -586,6 +586,28 @@ function carregarPergunta() {
   progressoPremiumEl.style.width = Math.min(percentual, 100) + "%";
 }
 
+function verificarNivelPremium() {
+
+    // Só passa de nível com 50 acertos
+    if (pontosPremium === 50) {
+
+        // Verifica se existe um próximo nível
+        if (nivelPremium < ultimoNivelDisponivel) {
+
+            nivelPremium++;
+
+            resultadoPremiumEl.textContent =
+                `🏆 Parabéns! Você alcançou o nível ${nomesNiveis[nivelPremium - 1]}!`;
+
+        } else {
+
+            resultadoPremiumEl.textContent =
+                "🎉 Você concluiu todos os níveis disponíveis do Enemelhor!";
+
+        }
+    }
+}
+
 function responderPremium(respostaUsuario) {
   if (indicePremium >= perguntasPremium.length) return;
 
