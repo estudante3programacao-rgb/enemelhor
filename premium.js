@@ -557,8 +557,13 @@ function carregarPergunta() {
 
   pontosPremiumEl.textContent = `${pontosPremium} de ${total}`;
 
+  const trofeus = Math.floor(pontosPremium / 10);
+  const estrelas = pontosPremium % 10;
+
   estrelasPremiumEl.textContent =
-    "⭐".repeat(pontosPremium).padEnd(total, "☆");
+    //"⭐".repeat(pontosPremium).padEnd(total, "☆");
+    "🏆".repeat(trofeus) +
+    "⭐".repeat(estrelas).padEnd(10, "☆");
 
   const percentual = (indicePremium / total) * 100;
   progressoPremiumEl.style.width = Math.min(percentual, 100) + "%";
