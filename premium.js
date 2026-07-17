@@ -520,7 +520,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:`A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte. <br><img src="imagens/notasmusicais.png" alt="Notas musicais">', 
+    texto: 'A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte. <br><img src="imagens/notasmusicais.png" alt="Notas musicais"><br> Um compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for 1/2, poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras. Um trecho musical de oito compassos, cuja fórmula é 3/4, poderia ser preenchido com 24 colcheias e 12 semínimas.', 
     resposta: true,
     dificuldade: "fácil"
   },
