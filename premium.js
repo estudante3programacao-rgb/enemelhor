@@ -748,6 +748,11 @@ const perguntasPremium = [
     texto: "Argumentar não é ganhar uma discussão a qualquer preço. Convencer alguém de algo é, antes de tudo, uma alternativa à prática de ganhar uma questão no grito ou na violência física — ou não física. Não física, dois pontos. Um  político que mente descaradamente pode cativar eleitores. Uma publicidade que joga baixo pode constranger multidões a consumir um produto danoso ao ambiente. Há manipulações psicológicas não só na religião. E é comum pessoas agirem emocionalmente, porque vítimas de ardilosa — e cangoteira — sedução. Embora a eficácia a todo preço não seja argumentar, tampouco se trata de admitir só verdades científicas — formar opinião apenas depois de ver a demonstração e as evidências, como a ciência faz. Argumentar é matéria da vida cotidiana, uma forma de retórica, mas é um raciocínio que tenta convencer sem se tornar mero cálculo manipulativo, e pode ser rigoroso sem ser científico. (Língua Portuguesa, São Paulo, ano 5, n. 66, abr. 2011 (adaptado). No fragmento, opta-se por uma construção linguística bastante diferente em relação aos padrões normalmente empregados na escrita. Trata-se da frase “Não física, dois pontos”. Nesse contexto, a escolha por se representar por extenso o sinal de pontuação que deveria ser utilizado diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.",
     resposta: true,
     dificuldade: "fácil"      
+  },
+  {
+    texto:"Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista. (LAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.). Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto apresentar o ponto de vista da autora.",
+    resposta: false,
+    dificuldade: "fácil"
   }
 ]; 
 
