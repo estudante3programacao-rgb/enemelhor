@@ -729,6 +729,11 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },
+  {
+    texto: "A energia radiante emitida pelo Sol, após atravessar a atmosfera, atinge a superfície terrestre, sofre interações, produz uma radiação de retorno que se propaga novamente pela atmosfera e atinge o sensor térmico do satélite, onde é detectada. Esses satélites são utilizados para detectar a existência de queimadas em regiões da superfície terrestre. Seus sensores são dispositivos capazes de detectar e registrar a radiação, em determinada faixa do espectro eletromagnético, e gerar informações que possam ser transformadas num produto passível de interpretação, como uma imagem. (Disponível em: http://educacaoespacial.files.wordpress.com. Acesso em: 3 dez. 2012 (adaptado). A radiação eletromagnética captada pelos sensores desses satélites está na faixa de infravermelho.",     
+    resposta: true,
+    dificuldade: "fácil"
+  },
 ]; 
 
 let indicePremium = 0;
