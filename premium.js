@@ -525,62 +525,62 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "<b>PALAVRA</b> – As gramáticas classificam as palavras em substantivo, adjetivo, verbo, advérbio, conjunção, pronome, numeral, artigo e preposição. Os poetas classificam as palavras pela alma porque gostam de brincar com elas, e para brincar com elas é preciso ter intimidade primeiro. É a alma da palavra que define, explica, ofende ou elogia, se coloca entre o significante e o significado para dizer o que quer, dar sentimento às coisas, fazer sentido. A palavra nuvem chove. A palavra triste chora. A palavra sono dorme. A palavra tempo passa. A palavra fogo queima. A palavra faca corta. A palavra carro corre. A palavra “palavra” diz. O que quer. E nunca desdiz depois. As palavras têm corpo e alma, mas são diferentes das pessoas em vários pontos. (FALCÃO, A. Pequeno dicionário de palavras ao vento. São Paulo: Salamandra, 2013 (adaptado)). Esse texto, que simula um verbete para a palavra “palavra’’, constitui-se como um poema porque utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Morte lenta ao luso infame que inventou a calçada portuguesa. Maldito D. Manuel I e sua corja de tenentes Eusébios. Quadrados de pedregulho irregular socados à mão. À mão! É claro que ia soltar, ninguém reparou que ia soltar? Branco, preto, branco, preto, as ondas do mar de Copacabana. De que me servem as ondas do mar de Copacabana? Me deem chão liso, sem protuberâncias calcárias. Mosaico estúpido. Mania de mosaico. Joga concreto em cima e aplaina. Buraco, cratera, pedra solta, bueiro-bomba. Depois dos setenta, a vida se transforma numa interminável corrida de obstáculos. A queda é a maior ameaça para o idoso. “Idoso”, palavra odienta. Pior, só “terceira idade”. A queda separa a velhice da senilidade extrema. O tombo destrói a cadeia que liga a cabeça aos pés. Adeus, corpo. Em casa, vou de corrimão em corrimão, tateio móveis e paredes, e tomo banho sentado. Da poltrona para a janela, da janela para a cama, da cama para a poltrona, da poltrona para a janela. Olha aí, outra vez, a pedrinha traiçoeira atrás de me pegar. Um dia eu caio, hoje não. (TORRES, F. Fim. São Paulo: Cia. das Letras, 2013). O recurso que caracteriza a organização estrutural desse texto é a justaposição de sequências verbais e nominais.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Pisoteamento, arrastão, empurra-empurra, agressões, vandalismo e até furto a um torcedor que estava caído no asfalto após ser atropelado nas imediações do estádio do Maracanã. As cenas de selvageria tiveram como estopim a invasão de milhares de torcedores sem ingresso, que furaram o bloqueio policial e transformaram o estádio em terra de ninguém. Um reflexo não só do quadro de insegurança que assola o Rio de Janeiro, mas também de como a violência social se embrenha pelo esporte mais popular do país. Em 2017, foram registrados 104 episódios de violência no futebol brasileiro, que resultaram em 11 mortes de torcedores. Desde 1995, quando 101 torcedores ficaram feridos e um morreu durante uma batalha campal no estádio do Pacaembu, autoridades têm focado as ações de enfrentamento à violência no futebol em grupos uniformizados, alguns proibidos de frequentar estádios. Porém, a postura meramente repressiva contra torcidas organizadas é ineficaz em uma sociedade que registra mais de 61 000 homicídios por ano. “É impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, de acordo com um doutor em sociologia do esporte. (Disponível em: https://brasil.elpais.com. Acesso em: 22 jun. 2019 (adaptado)). Nesse texto, a violência no futebol está caracterizada como um problema social localizado numa região do país.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d’água benta, o fechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as correias, o rodar do coche, o rodar dos carros, um a um... Isto que parece um simples inventário eram notas que eu havia tomado para um capítulo triste e vulgar que não escrevo. (ASSIS, M. Memórias póstumas de Brás Cubas. Disponível em: www.dominiopublico.gov.br. Acesso em: 25 jul. 2022.). O recurso linguístico que permite a Machado de Assis considerar um capítulo de Memórias póstumas de Brás Cubas como inventário é a combinação de verbos no presente e no pretérito.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Criado há cerca de 20 anos na Califórnia, o mountainboard é um esporte de aventura que utiliza uma espécie de skate off-road para realizar manobras similares às das modalidades de snowboard, surf e do próprio skate. A atividade chegou ao Brasil em 1997 e hoje possui centenas de praticantes, um circuito nacional respeitável e mais de uma dezena de pistas espalhadas pelo país. Segundo consta na história oficial, o mountainboard foi criado por praticantes de snowboard que sentiam falta de praticar o esporte nos períodos sem neve. Para isso, eles desenvolveram um equipamento bem simples: uma prancha semelhante ao modelo utilizado na neve (menor e um pouco menos flexível), com dois eixos bem resistentes, alças para encaixar os pés e quatro pneus com câmaras de ar para regular a velocidade que pode ser alcançada em diferentes condições. Com essa configuração, o esporte se mostrou possível em diversos tipos de terreno: grama, terra, pedras, asfalto e areia. Além desses pisos, também é possível procurar pelas próprias trilhas para treinar as manobras. (Disponível em: www.webventure.com.br. Acesso em: 19 jun. 2019). A história da prática do mountainboard representa uma das principais marcas das atividades de aventura, caracterizada pela criatividade para adaptações a novos espaços.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "<b>Ser cronista</b> Sei que não sou, mas tenho meditado ligeiramente no assunto. Crônica é um relato? É uma conversa? É um resumo de um estado de espírito? Não sei, pois antes de começar a escrever para o Jornal do Brasil, eu só tinha escrito romances e contos. E também sem perceber, à medida que escrevia para aqui, ia me tornando pessoal demais, correndo o risco de em breve publicar minha vida passada e presente, o que não pretendo. Outra coisa notei: basta eu saber que estou escrevendo para o jornal, isto é, para algo aberto facilmente por todo o mundo, e não para um livro, que só é aberto por quem realmente quer, para que, sem mesmo sentir, o modo de escrever se transforme. Não é que me desagrade mudar, pelo contrário. Mas queria que fossem mudanças mais profundas e interiores que não viessem a se refletir no escrever. Mas mudar só porque isso é uma coluna ou uma crônica? Ser mais leve só porque o leitor assim o quer? Divertir? Fazer passar uns minutos de leitura? E outra coisa: nos meus livros quero profundamente a comunicação profunda comigo e com o leitor. Aqui no jornal apenas falo com o leitor e agrada-me que ele fique agradado. Vou dizer a verdade: não estou contente. (LISPECTOR, C. In: A descoberta do mundo. Rio de Janeiro: Rocco, 1999.). No texto, ao refletir sobre a atividade de cronista, a autora questiona características do gênero crônica, como: público leitor exclusivo.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose A doença é grave e vem causando preocupação na região metropolitana da capital mineira Ela é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro. (Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.). Essa notícia, além de cumprir sua função informativa, assume o papel de responsabilizar os agentes públicos pela demora na tomada de decisões ", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "10 de maio Fui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor Janio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades. ...O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora. Quem passa fome aprende a pensar no próximo, e nas crianças. (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.). A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a  resposta irônica ante o discurso da autoridade.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata? (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.). O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o: racismo estrutural", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
-    resposta: true,
+    texto: "Na construção da ferrovia Madeira-Mamoré, o que dizer dos doentes, eternos moribundos a vagar entre delírios febris, doses de quinino e corredores da morte? O Hospital da Candelária era santuário e túmulo, monumento ao progresso científico e preâmbulo da escuridão. Foi ali, com suas instalações moderníssimas, que médicos e sanitaristas dirigiram seu combate aos males tropicais. As maiores vítimas, contudo, permaneceriam na sombra à margem do palco, cobaias sem consolo, credores sem nome de uma sociedade que não lhes concedera tempo algum para ser decifrada. (FOOT HARDMAN, F. Trem fantasma: modernidade na selva. São Paulo: Cia. das Letras, 1988 (adaptado)).No texto, há uma crítica ao modo de ocupação do espaço amazônico pautada na competição entre farmacologia internacional e produtos da fitoterapia.",  
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
-    resposta: true,
+    texto: "Uma nova economia surgiu em escala global no último quartel do século XX. Chamo-a de informacional, global e em rede para identificar suas característica s fundamentais e diferenciadas e enfatizar sua interligação. É informacional porque depende basicamente de sua capacidade de gerar, processar e aplicar de forma eficiente a informação baseada em conhecimentos. É global porque seus componentes estão organizados em escala global, diretamente ou mediante uma rede de conexões entre agentes econômicos. É rede porque é feita em uma rede global de interação entre redes empresariais. (CASTELLS, M. A sociedade em rede — a era da informação: economia, sociedade e cultura. São Paulo: Paz e Terra, 1999 (adaptado)). A mudança estrutural que é resultado da forma de organização econômica descrita no texto é a fragilização dos cartéis.", 
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
+    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes púb licos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado)). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de ntestação dos princípios monárquicos.", 
     resposta: true,
     dificuldade: "fácil"
   },
