@@ -613,9 +613,8 @@ const perguntasPremium = [
     texto: "", 
     resposta: true,
     dificuldade: "fácil"
-  }
- },
-   {
+  },
+  {
     texto: "", 
     resposta: true,
     dificuldade: "fácil"
