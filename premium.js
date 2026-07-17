@@ -555,7 +555,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose A doença é grave e vem causando preocupação na região metropolitana da capital mineira Ela é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro. (Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.). Essa notícia, além de cumprir sua função informativa, assume o papel de responsabilizar os agentes públicos pela demora na tomada de decisões ", 
+    texto: "Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose A doença é grave e vem causando preocupação na região metropolitana da capital mineira Ela é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro. (Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017.). Essa notícia, além de cumprir sua função informativa, assume o papel de responsabilizar os agentes públicos pela demora na tomada de decisões.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -565,7 +565,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata? (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.). O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o: racismo estrutural", 
+    texto: "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata? (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.). O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o: racismo estrutural.", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -580,48 +580,48 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes púb licos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado)). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de ntestação dos princípios monárquicos.", 
+    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado)). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de ntestação dos princípios monárquicos.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Em 2003, teve início o Programa de Aquisição de Alimentos e, com ele, várias mudanças na perspectiva dos mercados institucionais. Trata-se do primeiro programa  e compras públicas com uma orientação exclusiva para a agricultura familiar, articulando-a explicitamente com a segurança alimentar e nutricional. O Programa é destinado à aquisição de produtos agropecuários produzidos por agricultores enquadrados no Programa Nacional de Fortalecimento da Agricultura Familiar (Pronaf), incluídas aqui as categorias: assentados da reforma agrária, trabalhadores rurais sem terra, acampados, quilombolas, agroextrativistas, famílias atingidas por barragens e comunidades indígenas (GRISA, C.; ISOPO, S. P. Dez anos de PAA: As contribuições e os desafios para o desenvolvimento rural. In: GRISA, C.; SCHNEIDER, S. (Org.). Políticas públicas de desenvolvimento rural no Brasil. Porto Alegre: UFRGS, 2015.). A ação governamental descrita constitui-se uma importante conquista para os pequenos produtores em virtude da: comercialização garantida", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "O leproso é visto dentro de uma prática da rejeição, do exílio-cerca; deixa-se que se perca lá dentro como numa massa que não tem muita importância diferenciar; os pestilentos são considerados num policiamento tático meticuloso onde as diferenciações individuais são os efeitos limitantes de um poder que se multiplica, se articula e se subdivide. O grande fechamento por um lado; o bom treinamento por outro. A lepra e sua divisão; a peste e seus recortes. Uma é marcada; a outra, analisada e repartida. O exílio do leproso e a prisão da peste não trazem consigo o mesmo sonho político. (FOUCAULT, M. Vigiar e punir: nascimento da prisão. Petrópolis: Vozes, 1987.). Os modelos autoritários descritos no texto apontam para um sistema de controle que se baseia na: formação de sociedade disciplinar.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Um experimento denominado FunFit foi desenvolvido com o objetivo de fazer com que os membros de uma comunidade local se tornassem mais ativos fisicamente. Todos os participantes do estudo foram vinculados a dois outros membros da comunidade que receberiam pequenos incentivos em dinheiro para serem estimulados a aumentar a sua atividade física, que era medida por acelerômetros nos celulares fornecidos pelo estado. Assim, se a pessoa andasse mais do que o habitual, seus conhecidos receberiam o dinheiro. Os resultados foram assombrosos: o esquema mostrou-se de quatro a oito vezes mais eficaz do que o método de oferecer incentivos individuais.(MOROZOV, E. Big Tech: a ascensão dos dados e a morte da política. São Paulo: Ubu, 2018 (adaptado)).Contrariando a visão prevalente sobre o impacto tecnológico nas relações humanas, o texto revela que os celulares podem desempenhar uma função: a recreativa, promovendo o lazer em redes integradas.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A dublagem é o novo campo a ser explorado pela inteligência artificial, e há empresas dedicadas a fazer com que as vozes originais de atores sejam transpostas para outros idiomas. A novidade reforça a tendência da automação de postos de trabalho nas mais diversas áreas. Tem potencial para facilitar a vida de estúdios e produtoras e, ao mesmo tempo, tornar mais escassas as oportunidades para dubladores e atores que trabalham com isso. (GAGLIONI, C. Disponível em: www.nexojornal.com.br. Acesso em: 25 out. 2021). A consequência da mudança tecnológica apresentada no texto é a proteção da economia nacional.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, controladas pelo calor do Sol, produzem tempestades, inundações, geleiras e outros agentes de erosão; (PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006 (adaptado)).A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográfico, na medida em que provoca a formação de relevos escarpados e dorsais oceânicas.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Empédocles estabelece quatro elementos corporais — fogo, ar, água e terra —, que são eternos e que mudam aumentando e diminuindo mediante mistura e separação; mas os princípios propriamente ditos, pelos quais aqueles são movidos, são o Amor e o Ódio. Pois é preciso que os elementos permaneçam alternadamente em movimento, sendo ora misturados pelo Amor, ora separados pelo Ódio. (SIMPLÍCIO. Física, 25, 21. In: Os pré-socráticos. São Paulo: Nova Cultural, 1996).O texto propõe uma reflexão sobre o entendimento de Empédocles acerca da arché, uma preocupação típica do pensamento pré-socrático, porque evoca a discussão cosmogônica.",      
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Macrocefalia urbana pode ser entendida como a massiva concentração das atividades econômicas em algumas metrópoles que propicia o desencadeamento de processos descompassados: redirecionamento e convergência de fluxos migratórios, déficit no número de empregos, ocupação desordenada de determinadas regiões da cidade e estigmatização de estratos sociais, que comprometem substancialmente a segurança pública urbana. (SANTOS, M. O espaço dividido: os dois circuitos da economia urbana dos países subdesenvolvidos. São Paulo: Edusp, 2004). O processo de concentração espacial apresentado foi estimulado pelo seguinte fator geográfico: êxodo da população do campo.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
+    texto: "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça. (SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.). O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a: exaltação do sofrimento.",    
+    resposta: false,
     dificuldade: "fácil"
   },
   {
