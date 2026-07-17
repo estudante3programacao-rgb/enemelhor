@@ -130,7 +130,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Firmo, o vaqueiro. No dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o  animal viajeiro: — Raimundinho, como vai ele?...De longe apontou a palhoça. — Sim. O braço caiu-lhe, olhou-me algum tempo comovido;  depois, saltando para o animal, levou o polegar à boca  fazendo estalar a unha nos dentes: “Às quatro horas  da manhã... Atirei um verso e disse, para bulir com ele:  Pega, velho! Não respondeu. Tio Firmo, mesmo velho e  doente, não era homem para deixar um verso no chão...  Fui ver, coitado!... estava morto”. E deu de esporas para  que eu não lhe visse as lágrimas. (NETTO, C. In: MARCHEZAN, L. G. (Org.). O conto regionalista. São Paulo: Martins Fontes, 2009.). A passagem registra um momento em que a expressividade lírica é reforçada pela afetividade demonstrada ao noticiar a morte do cantador.",
+    texto: "Firmo, o vaqueiro. No dia seguinte, à hora em que saía o gado, estava eu debruçado à varanda quando vi o cafuzo que preparava o animal viajeiro: — Raimundinho, como vai ele?...De longe apontou a palhoça. — Sim. O braço caiu-lhe, olhou-me algum tempo comovido;  depois, saltando para o animal, levou o polegar à boca  fazendo estalar a unha nos dentes: “Às quatro horas  da manhã... Atirei um verso e disse, para bulir com ele:  Pega, velho! Não respondeu. Tio Firmo, mesmo velho e  doente, não era homem para deixar um verso no chão...  Fui ver, coitado!... estava morto”. E deu de esporas para  que eu não lhe visse as lágrimas. (NETTO, C. In: MARCHEZAN, L. G. (Org.). O conto regionalista. São Paulo: Martins Fontes, 2009.). A passagem registra um momento em que a expressividade lírica é reforçada pela afetividade demonstrada ao noticiar a morte do cantador.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -160,7 +160,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "De acordo com	a	Organização	Mundial	da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem	uma	preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
+    texto: "De acordo com	a	Organização	Mundial	da Saúde, a filariose e a leishmaniose são consideradas doenças tropicais infecciosas e constituem uma preocupação	para a saúde pública por ser alto o índice de mortalidade a elas associado. Uma medida profilática comum a essas duas doenças é o uso de vermífugo pela população.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -215,7 +215,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. Os valores possíveis para X são, apenas, é: 1 500 < X < 3 000",
+    texto: "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. Os valores possíveis para X são, apenas, é: 1 500 < X < 3 000.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -245,7 +245,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células.Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para a organela mitocôndria.",
+    texto: "As proteínas de uma célula eucariótica possuem peptídeos sinais, que são sequências de aminoácidos responsáveis pelo seu endereçamento para as diferentes organelas, de acordo com suas funções. Um pesquisador desenvolveu uma nanopartícula capaz de carregar proteínas para dentro de tipos celulares específicos. Agora ele quer saber se uma nanopartícula carregada com uma proteína bloqueadora do ciclo de Krebs in vitro é capaz de exercer sua atividade em uma célula cancerosa, podendo cortar o aporte energético e destruir essas células. Ao escolher essa proteína bloqueadora para carregar as nanopartículas, o pesquisador deve levar em conta um peptídeo sinal de endereçamento para a organela mitocôndria.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -500,12 +500,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No predomínio das mulheres pretas brasileiras nos Jogos Olímpicos de 2024, uma coisa chamou a atenção no pódio: elas valorizam a parte psicológica. As duas medalhistas de ouro, a judoca Beatriz Souza e a ginasta Rebeca Andrade, ressaltam, em várias entrevistas, a importância da saúde mental. Em uma dessas entrevistas, Rebeca sinaliza: “Acho que não é só sobre vencer a Simone, é sobre vencer a mim mesma. A minha briga está na minha cabeça, não está com outras pessoas. Para conseguir fazer as minhas apresentações, preciso controlar a minha cabeça, o meu corpo, e essa é a briga”. Na mesma linha, a skatista Rayssa Leal exalta a necessidade da terapia, e a Seleção Brasileira de Futebol de Mulheres tem o suporte psicológico como reforço no treinamento. (Disponível em: https://iclnoticias.com.br. Acesso em: 18 set. 2024 (adaptado). Nesse texto, as atletas brasileiras defendem a importância da saúde emocional",    
+    texto: "No predomínio das mulheres pretas brasileiras nos Jogos Olímpicos de 2024, uma coisa chamou a atenção no pódio: elas valorizam a parte psicológica. As duas medalhistas de ouro, a judoca Beatriz Souza e a ginasta Rebeca Andrade, ressaltam, em várias entrevistas, a importância da saúde mental. Em uma dessas entrevistas, Rebeca sinaliza: “Acho que não é só sobre vencer a Simone, é sobre vencer a mim mesma. A minha briga está na minha cabeça, não está com outras pessoas. Para conseguir fazer as minhas apresentações, preciso controlar a minha cabeça, o meu corpo, e essa é a briga”. Na mesma linha, a skatista Rayssa Leal exalta a necessidade da terapia, e a Seleção Brasileira de Futebol de Mulheres tem o suporte psicológico como reforço no treinamento. (Disponível em: https://iclnoticias.com.br. Acesso em: 18 set. 2024 (adaptado). Nesse texto, as atletas brasileiras defendem a importância da saúde emocional.",    
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Saúde, no modelo atual de qualidade de vida, é o resultado das condições de alimentação, habitação, educação, renda, trabalho, transporte, lazer, serviços médicos e acesso à atividade física regular. Quanto ao acesso à atividade física, um dos elementos essenciais é a aptidão física, entendida como a capacidade de a pessoa utilizar seu corpo — incluindo músculos, esqueleto, coração, enfim, todas as partes —, de forma eficiente em suas atividades cotidianas; logo, quando se avalia a saúde de uma pessoa, a aptidão física deve ser levada em conta. A partir desse contexto, considera-se que uma pessoa tem boa aptidão física quando pode executar suas atividades do dia a dia com vigor, atenção e uma fadiga de moderada a intensa",    
+    texto: "Saúde, no modelo atual de qualidade de vida, é o resultado das condições de alimentação, habitação, educação, renda, trabalho, transporte, lazer, serviços médicos e acesso à atividade física regular. Quanto ao acesso à atividade física, um dos elementos essenciais é a aptidão física, entendida como a capacidade de a pessoa utilizar seu corpo — incluindo músculos, esqueleto, coração, enfim, todas as partes —, de forma eficiente em suas atividades cotidianas; logo, quando se avalia a saúde de uma pessoa, a aptidão física deve ser levada em conta. A partir desse contexto, considera-se que uma pessoa tem boa aptidão física quando pode executar suas atividades do dia a dia com vigor, atenção e uma fadiga de moderada a intensa.",    
     resposta: false,
     dificuldade: "fácil"
   },
@@ -520,7 +520,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: 'A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte. <br><img src="notasmusicais.png"<br> Um compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for <sup>1</sup>&frasl;<sub>2</sub>, poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras. Um trecho musical de oito compassos, cuja fórmula é <sup>3</sup>&frasl;<sub>4</sub>, poderia ser preenchido com 24 colcheias e 12 semínimas.', 
+    texto: 'A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte. <br><img src="notasmusicais.png"</br><br> Um compasso é uma unidade musical composta por determinada quantidade de notas musicais em que a soma das durações coincide com a fração indicada como fórmula do compasso. Por exemplo, se a fórmula de compasso for <sup>1</sup>&frasl;<sub>2</sub>, poderia ter um compasso ou com duas semínimas ou uma mínima ou quatro colcheias, sendo possível a combinação de diferentes figuras. Um trecho musical de oito compassos, cuja fórmula é <sup>3</sup>&frasl;<sub>4</sub>, poderia ser preenchido com 24 colcheias e 12 semínimas.', 
     resposta: true,
     dificuldade: "fácil"
   },
