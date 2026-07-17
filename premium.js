@@ -734,6 +734,21 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
+  {
+    texto: "O jogo é uma atividade ou ocupação voluntária, exercida dentro de certos e determinados limites de tempo e de espaço, segundo regras livremente consentidas, masabsolutamente obrigatórias, dotado de um fim em si mesmo, acompanhado de um sentimento de tensão e de alegria e de uma consciência de ser diferente da “vida quotidiana” (HUIZINGA, J. Homo ludens: o jogo como elemento da cultura. São Paulo: Perspectiva, 2004.). Segundo o texto, o jogo comporta a possibilidade de fruição. Do ponto de vista das práticas corporais, essa fruição se estabelece por meio da competitividade, que impulsiona o interesse pelo sucesso.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O sociólogo espanhol Manuel Castells sustenta que “a comunicação de valores e a mobilização em torno  do sentido são fundamentais. Os movimentos culturais (entendidos como movimentos que têm como objetivo defender ou propor modos próprios de vida e sentido) constroem-se em torno de sistemas de comunicação — essencialmente a internet e os meios de comunicação — porque esta é a principal via que esses movimentos encontram para chegar àquelas pessoas que podem eventualmente partilhar os seus valores, e a partir daqui atuar na consciência da sociedade no seu conjunto” (Disponível em: www.compolitica.org. Acesso em: 2 mar. 2012 (adaptado).Em 2011, após uma forte mobilização popular via redes sociais, houve a queda do governo de Hosni Mubarak, no Egito. Esse evento ratifica o argumento de que os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Argumentar não é ganhar uma discussão a qualquer preço. Convencer alguém de algo é, antes de tudo, uma alternativa à prática de ganhar uma questão no grito ou na violência física — ou não física. Não física, dois pontos. Um  político que mente descaradamente pode cativar eleitores. Uma publicidade que joga baixo pode constranger multidões a consumir um produto danoso ao ambiente. Há manipulações psicológicas não só na religião. E é comum pessoas agirem emocionalmente, porque vítimas de ardilosa — e cangoteira — sedução. Embora a eficácia a todo preço não seja argumentar, tampouco se trata de admitir só verdades científicas — formar opinião apenas depois de ver a demonstração e as evidências, como a ciência faz. Argumentar é matéria da vida cotidiana, uma forma de retórica, mas é um raciocínio que tenta convencer sem se tornar mero cálculo manipulativo, e pode ser rigoroso sem ser científico. (Língua Portuguesa, São Paulo, ano 5, n. 66, abr. 2011 (adaptado). No fragmento, opta-se por uma construção linguística bastante diferente em relação aos padrões normalmente empregados na escrita. Trata-se da frase “Não física, dois pontos”. Nesse contexto, a escolha por se representar por extenso o sinal de pontuação que deveria ser utilizado diz respeito a um recurso de metalinguagem, evidenciando as relações e as estruturas presentes no enunciado.",
+    resposta: true,
+    dificuldade: "fácil"      
+  }
 ]; 
 
 let indicePremium = 0;
