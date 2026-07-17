@@ -675,58 +675,58 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do caos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à humilhação de aceitar uma nova deposição, como a que sofrera em outubro de 1945. Entretanto, ao contrário do que imaginavam os inimigos, ao ruído do estampido não se seguiu o silêncio que cerca a derrota. (REIS FILHO, D. A. O Estado à sombra de Vargas. Revista Nossa História, n. 7, maio 2004.). O evento analisado no texto teve como repercussão imediata na política nacional a: intervenção militar.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência. O fogo era fundamental para muitas; para outras, o caminho para despertar passava pelo sistema digestivo dos animais silvestres. “Essa planta nasce depois que fazemos a caçada com fogo, diziam eles, esta outra quando a anta caga a semente, aquela precisa ser comida pelo lobo”. Aliando conhecimento dos cientistas da aldeia e da cidade, essa área do Cerrado foi recuperada totalmente. (PAPPIANI, A. Tecnologias indígenas: esplendor e captura. Disponível em: http://outraspalavras.net. Acesso em: 10 out. 2019 (adaptado). No texto, a relação socioespacial dos indígenas evidencia a importância da: criação de gado para o aprimoramento genético.",      
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "esde os primórdios da formação da crosta terrestre até os dias de hoje, as rochas formadas vêm sendo continuamente destruídas. Os produtos resultantes da destruição das rochas são transportados pela água, vento e gelo a toda superfície terrestre, acionados pelo calor e pela gravidade. Cessada a energia transportadora, são depositados nas regiões mais baixas da crosta, podendo formar pacotes rochosos. (LEINZ, V. Geologia geral. São Paulo: Editora Nacional, 1989.) As transformações na superfície terrestre, conforme descritas no texto, compõem o seguinte processo geomorfológico: vulcanismo.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Constatou-se uma ínfima inserção da indústria brasileira nas novas tecnologias ancoradas na microeletrônica, capazes de acarretar elevação da produtividade nacional de forma sustentada. Os motores do crescimento nacional, há décadas, são os grupos relacionados a commodities agroindustriais e a indústria representativa do antigo padrão fordista de produção, esta última também limitada pela baixa potencialidade futura de desencadear inovações tecnológicas capazes de proporcionar elevação sustentada da produtividade. (AREND, M. A industrialização do Brasil ante a nova divisão internacional do trabalho. Disponível em: www.ipea.gov.br. Acesso em: 16 jul. 2015 (adaptado). Um efeito desse cenário para a sociedade brasileira tem sido a: ampliação do poder de consumo.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Por maioria, nós não entendemos uma quantidade relativa maior, mas a determinação de um estado ou um padrão em relação ao qual tanto as quantidades maiores quanto as menores serão ditas minoritárias. Maioria supõe um estado de dominação. É nesse sentido que as mulheres, as crianças e também os animais são minoritários. (DELEUZE, G.; GUATTARI, F. Mil platôs. São Paulo: Editora 34, 2012 (adaptado). No texto, a caracterização de uma minoria decorre da existência de relações de natureza arbitrária.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dela qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras. (ENGELS, F. A situação da classe trabalhadora na Inglaterra. São Paulo: Boitempo, 2010.). No texto, o autor apresenta delineamentos éticos que correspondem ao conceito de luta de classes.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. Ao transitarem entre os dois universos, ocupam posição marginal, tanto em termos identitários — assentada na falta de pertencimento pleno enquanto membros da comunidade receptora e nos vínculos introjetados por códigos partilhados com a comunidade de origem — quanto em termos jurídicos, ao deixarem de exercer, ao menos em caráter temporário, o status de cidadãos no país de origem e portar o status de refugiados no país receptor. (MOREIRA, J. B. Refugiados no Brasil: reflexões acerca do processo de integração local. REMHU, n. 43, jul.-dez. 2014 (adaptado). A condição de transitoriedade dos refugiados no Brasil, conforme abordada no texto, é provocada pela associação entre desenraizamento cultural e insegurança legal.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
+    texto: "Mulheres naturalistas raramente figuraram na corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécies botânicas, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos. (SOMBROEK, M. M. Em busca pelo campo — mulheres em expedições científicas no Brasil em meados do século XIX. Cadernos Pagu, n. 48, 2016.). No contexto do século XIX, a relação das mulheres com o campo científico, descrita no texto, é representativa da superação do pensamento patriarcal.", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A vida das pessoas se modifica com a mesma rapidez com que se reproduz a cidade. O lugar da festa, do encontro quase desaparece; o número de brincadeiras infantis nas ruas diminui — as crianças que não são vistas; os pedaços da cidade são vendidos, no mercado, como mercadorias; árvores são destruídas, praças transformadas em concreto. Por outro lado, os habitantes parecem perder na cidade suas próprias referências. A imagem de uma grande guinada, aliás, a presença maciça destes, das brincadeiras, das bebedeiras nos dá o limite do processo de transformação diária ao qual está submetida a cidade. (CARLOS, A. F. A cidade. São Paulo: Contexto, 2011 (adaptado). No contexto das grandes cidades brasileiras, a situação apresentada no texto é decorrente como consequência da preservação da essência do espaço público.", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
-    resposta: true,
+    texto: "No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando como referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”. (MAIA, D. C. A mística da observação do tempo para a previsão do clima no ensino fundamental. In: GeoTextos, n. 1, jul. 2010 (adaptado). O texto expõe a produção de um conhecimento que se constitui pela uniformização das informações.", 
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "", 
-    resposta: true,
+    texto: "Após o retorno de uma viagem a Minas Gerais, onde Pedro I fora recebido com grande frieza, seus partidários prepararam uma série de manifestações a favor do imperador no Rio de Janeiro, armando fogueiras e luminárias na cidade. Contudo, na noite de 11 de março, tiveram início os conflitos que ficaram conhecidos como a Noite das Garrafadas, durante os quais os “brasileiros” apagavam as fogueiras “portuguesas” e atacavam as casas iluminadas, sendo respondidos com cacos de garrafas jogadas das janelas. (VAINFAS, R. (Org.). Dicionário do Brasil Imperial. Rio de Janeiro: Objetiva, 2008 (adaptado). Os anos finais do I Reinado (1822-1831) se caracterizaram pelo aumento da tensão política. Nesse sentido, a análise dos episódios descritos em Minas Gerais e no Rio de Janeiro revela o apoio ao xenofobismo",  
+    resposta: false,
     dificuldade: "fácil"
   },
 ]; 
