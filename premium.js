@@ -504,6 +504,232 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
+  {
+    texto: "Saúde, no modelo atual de qualidade de vida, é o resultado das condições de alimentação, habitação, educação, renda, trabalho, transporte, lazer, serviços médicos e acesso à atividade física regular. Quanto ao acesso à atividade física, um dos elementos essenciais é a aptidão física, entendida como a capacidade de a pessoa utilizar seu corpo — incluindo músculos, esqueleto, coração, enfim, todas as partes —, de forma eficiente em suas atividades cotidianas; logo, quando se avalia a saúde de uma pessoa, a aptidão física deve ser levada em conta. A partir desse contexto, considera-se que uma pessoa tem boa aptidão física quando pode executar suas atividades do dia a dia com vigor, atenção e uma fadiga de moderada a intensa",    
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Diferentemente do texto escrito, que em geral compele os leitores a lerem numa onda linear – da esquerda para a direita e de cima para baixo, na página impressa – hipertextos encorajam os leitores a moveremse de um bloco de texto a outro, rapidamente e não sequencialmente. Considerando que o hipertexto oferece uma multiplicidade de caminhos a seguir, podendo ainda o leitor incorporar seus caminhos e suas decisões como novos caminhos, inserindo informações novas, o leitornavegador passa a ter um papel mais ativo e uma oportunidade diferente da de um leitor de texto impresso.  Dificilmente dois leitores de hipertextos farão os mesmos caminhos e tomarão as mesmas decisões (MARCUSCHI, L. A. Cognição, linguagem e práticas interacionais. Rio: Lucerna, 2007.) No que diz respeito à relação entre o hipertexto e o conhecimento por ele produzido, o texto apresentado deixa claro que o hipertexto muda a noção tradicional de autoria, porque é o leitor que constrói a versão final do texto.", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "As tecnologias de informação e comunicação (TIC) vieram aprimorar ou substituir meios tradicionais de comunicação  e armazenamento de informações, tais como o rádio e a TV analógicos, os livros, os telégrafos, o fax etc. As novas bases tecnológicas são mais poderosas e versáteis, introduziram fortemente a possibilidade de comunicação interativa e estão presentes em todos os meios produtivos da atualidade. As novas TIC vieram acompanhadas da chamada Digital Divide, Digital Gap ou Digital Exclusion, traduzidas para o português como Divisão Digital ou Exclusão Digital, sendo, às vezes, também usados os termos Brecha Digital ou Abismo Digital. Nesse contexto, a expressão Divisão Digital refere-se a um aprofundamento das diferenças sociais já  existentes, uma vez que se torna difícil a aquisição de conhecimentos e habilidades fundamentais pelas populações menos favorecidas nos novos meios produtivos.", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:`A música e a matemática se encontram na representação dos tempos das notas musicais, conforme a figura seguinte. <br><img src="imagens/notasmusicais.png" alt="Notas musicais">', 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  }
+ },
+   {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
 ]; 
 
 let indicePremium = 0;
