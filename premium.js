@@ -799,7 +799,7 @@ function carregarPergunta() {
     "Aprendiz do Saber",
     "Guardião do Conhecimento",
     "Mestre das Letras",
-    "Historiador da Humanidade",
+    "Honorário Historiador",
     "Alquimista da Natureza",
     "Mestre das Conexões",
     "Sábio Investigador",
