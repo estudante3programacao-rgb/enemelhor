@@ -30,7 +30,7 @@ const perguntasPremium = [
     dificuldade:  "media"
   },
   {
-    texto: "A partir da segunda metade do século XVIII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro. (FRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015 (adaptado).) Na matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à atividade de extração de metais preciosos.", 
+    texto: "A partir da segunda metade do século XVIII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro. (FRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015. Adaptado). Na matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à atividade de extração de metais preciosos.", 
     resposta: true,
     dificuldade:  "media"
   },
@@ -40,12 +40,12 @@ const perguntasPremium = [
     dificuldade:  "media"
   },
   {
-    texto: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a “globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”. (Disponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado)). No texto há uma crítica ao seguinte aspecto do mundo globalizado: disparidade econômica.",
+    texto: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a “globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”. (Disponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015. Adaptado). No texto há uma crítica ao seguinte aspecto do mundo globalizado: disparidade econômica.",
     resposta: true,
     dificuldade:  "media"
   },
   {
-    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto. (GOIS, A. O Globo, 5 abr. 2015 (adaptado)). A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à qualificação da mão de obra.", 
+    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto. (GOIS, A. O Globo, 5 abr. 2015. Adaptado). A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à qualificação da mão de obra.", 
     resposta: true,
     dificuldade:  "media"
   },
@@ -60,7 +60,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Muitos países se caracterizam por terem populações multiétnicas. Com frequência, evoluíram desse modo ao longo de séculos. Outras sociedades se tornaram multiétnicas mais rapidamente, como resultado de políticas incentivando a migração, ou por conta de legados coloniais e imperiais (GIDDENS, A. Sociologia. Porto Alegre: Penso, 2012 (adaptado)). Do ponto de vista do funcionamento das democracias contemporâneas, o modelo de sociedade descrito demanda, simultaneamente padronização da cultura e repressão aos particularismos.",
+    texto: "Muitos países se caracterizam por terem populações multiétnicas. Com frequência, evoluíram desse modo ao longo de séculos. Outras sociedades se tornaram multiétnicas mais rapidamente, como resultado de políticas incentivando a migração, ou por conta de legados coloniais e imperiais (GIDDENS, A. Sociologia. Porto Alegre: Penso, 2012. Adaptado). Do ponto de vista do funcionamento das democracias contemporâneas, o modelo de sociedade descrito demanda, simultaneamente padronização da cultura e repressão aos particularismos.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -80,7 +80,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O que é software livre. Software livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma comunidade internacional de desenvolvedores independentes. São centenas de milhares de hackers, que negam sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte  aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu,  sendo quase impossível decifrar a programação. O que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma e uma comunidade de usuários com milhões de membros no mundo. (RANCO, M. Software livre e desenvolvimento social e económico. In: CASTELLS, M.; CARDOSO, G. (Org). A sociedade em rede: do conhecimento à acção política. Lisboa: Imprensa Nacional, 2005 (adaptado)). A criação de softwares livres contribui para a produção do conhecimento na sociedade porque insere profissionalmente os hackers na área de inovação tecnológica.",
+    texto: "O que é software livre. Software livre é qualquer programa de computador construído de forma colaborativa, via internet, por uma comunidade internacional de desenvolvedores independentes. São centenas de milhares de hackers, que negam sua associação com os “violadores de segurança”. Esses desenvolvedores de software se recusam a reconhecer o significado pejorativo do termo e continuam usando a palavra hacker para indicar “alguém que ama programar e que gosta de ser hábil e engenhoso”. Além disso, esses programas são entregues à comunidade com o código fonte  aberto e disponível, permitindo que a ideia original possa ser aperfeiçoada e devolvida novamente à comunidade. Nos programas convencionais, o código de programação é secreto e de propriedade da empresa que o desenvolveu, sendo quase impossível decifrar a programação. O que está em jogo é o controle da inovação tecnológica. Software livre é uma questão de liberdade de expressão e não apenas uma relação econômica. Hoje existem milhares de programas alternativos construídos dessa forma e uma comunidade de usuários com milhões de membros no mundo. (RANCO, M. Software livre e desenvolvimento social e económico. In: CASTELLS, M.; CARDOSO, G. (Org). A sociedade em rede: do conhecimento à acção política. Lisboa: Imprensa Nacional, 2005. Adaptado). A criação de softwares livres contribui para a produção do conhecimento na sociedade porque insere profissionalmente os hackers na área de inovação tecnológica.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -95,7 +95,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Dizem que Humboldt, naturalista do século XIX, maravilhado pela geografia, flora e fauna da região sul-americana, via seus habitantes como se fossem mendigos sentados sobre um saco de ouro, referindo-se a suas incomensuráveis riquezas naturais não exploradas. De alguma maneira, o cientista ratificou nosso papel de exportadores de natureza no que seria o mundo depois da colonização ibérica: enxergou-nos como territórios condenados a aproveitar os recursos naturais existentes. (ACOSTA, A. Bem viver: uma oportunidade para imaginar outros mundos. São Paulo: Elefante, 2016 (adaptado)). A relação entre ser humano e natureza ressaltada no texto refletia a permanência da seguinte corrente filosófica: existencialismo fenomenológico.",          
+    texto: "Dizem que Humboldt, naturalista do século XIX, maravilhado pela geografia, flora e fauna da região sul-americana, via seus habitantes como se fossem mendigos sentados sobre um saco de ouro, referindo-se a suas incomensuráveis riquezas naturais não exploradas. De alguma maneira, o cientista ratificou nosso papel de exportadores de natureza no que seria o mundo depois da colonização ibérica: enxergou-nos como territórios condenados a aproveitar os recursos naturais existentes. (ACOSTA, A. Bem viver: uma oportunidade para imaginar outros mundos. São Paulo: Elefante, 2016. Adaptado). A relação entre ser humano e natureza ressaltada no texto refletia a permanência da seguinte corrente filosófica: existencialismo fenomenológico.",          
     resposta: false,
     dificuldade: "fácil"
   },
@@ -110,12 +110,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Fenômenos epigenéticos levam a modificações do DNA e das histonas, que influenciam o remodelamento da cromatina e, consequentemente, a disponibilização ou não de genes para a transcrição (ARRUDA, I. T. S. Epigenética. Genética na Escola, n. 1, 2015 (adaptado)). Esses fenômenos atuam na regulação da expressão gênica.",
+    texto: "Fenômenos epigenéticos levam a modificações do DNA e das histonas, que influenciam o remodelamento da cromatina e, consequentemente, a disponibilização ou não de genes para a transcrição (ARRUDA, I. T. S. Epigenética. Genética na Escola, n. 1, 2015. Adaptado). Esses fenômenos atuam na regulação da expressão gênica.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Nas últimas décadas vários países, inclusive o Brasil, têm testemunhado uma grande proliferação de bactérias patogênicas, envolvidas em uma variedade de doenças e que apresentam resistência a múltiplos antibióticos. Atualmente têm se destacado as superbactérias que acumularam vários genes determinantes de resistência, a ponto de se tornarem resistentes a praticamente todos os antimicrobianos. (ERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. O problema da resistência a antibióticos. Ciência Hoje, v.48, n.287, 2011 (adaptado)). Essa resistência tem ocorrido porque os antibióticos são utilizados pela população de maneira indiscriminada.",
+    texto: "Nas últimas décadas vários países, inclusive o Brasil, têm testemunhado uma grande proliferação de bactérias patogênicas, envolvidas em uma variedade de doenças e que apresentam resistência a múltiplos antibióticos. Atualmente têm se destacado as superbactérias que acumularam vários genes determinantes de resistência, a ponto de se tornarem resistentes a praticamente todos os antimicrobianos. (ERREIRA, F. A.; CRUZ, R. S.; FIGUEIREDO, A. M. S. O problema da resistência a antibióticos. Ciência Hoje, v.48, n.287, 2011. Adaptado). Essa resistência tem ocorrido porque os antibióticos são utilizados pela população de maneira indiscriminada.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -135,7 +135,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina contra a doença usando	uma	variação do	protozoário	incapaz	de desencadear a patologia (não patogênico).	Para isso, realizaram	uma	modificação	genética criando um <i>T. cruzi</i> capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012 (adaptado)). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor é a autoimunidade.",
+    texto: "O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina contra a doença usando	uma	variação do	protozoário	incapaz	de desencadear a patologia (não patogênico).	Para isso, realizaram	uma	modificação	genética criando um <i>T. cruzi</i> capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012. Adaptado). O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor é a autoimunidade.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -255,7 +255,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos (BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012 (adaptado)). Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.", 
+    texto: "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos (BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012. Adaptado). Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -265,7 +265,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014 (adaptado)). As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.", 
+    texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014. Adaptado). As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -275,7 +275,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo (WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979 (adaptado). Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.", 
+    texto: "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo (WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979. Adaptado). Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -320,7 +320,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada. (Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017 (adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
+    texto: "Quando quis agilizar o processo de seleção de novos alunos, a tradicional faculdade britânica de medicina St. George usou um software para definir quem deveria ser entrevistado. Ao reproduzir a forma como os funcionários faziam essa escolha, o programa eliminou, de cara, 60 de 2000 candidatos. Só por causa do sexo ou da origem racial, numa dedução baseada em sobrenome e local de nascimento. Um estudo sobre o caso foi publicado em 1988, mas, 25 anos depois, outra pesquisa apontou que esse tipo de discriminação segue firme. O exemplo recente envolve o buscador do Google: ao digitar nomes comuns entre negros dos EUA, a chance de os anúncios automáticos oferecerem checagem de antecedentes criminais pode aumentar 25%. E pode piorar com a pergunta “detido?” logo após a palavra procurada. (Disponível em: https://tab.uol.com.br. Acesso em: 11 ago. 2017. Adaptado). O texto permite o desnudamento da sociedade ao relacionar as tecnologias de informação e comunicação com a educação.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -405,7 +405,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012. A penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo: O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão. (Disponível em: www.cultura.rj.gov.br. Acesso em: 15 maio 2012 (adaptado)). A notícia relata um evento cultural que marca a primazia do samba sobre a música nordestina.",
+    texto: "Com o enredo que homenageou o centenário do Rei do Baião, Luiz Gonzaga, a Unidos da Tijuca foi coroada no Carnaval 2012. A penúltima escola a entrar na Sapucaí, na segunda noite de desfiles, mergulhou no universo do cantor e compositor brasileiro e trouxe a cultura nordestina com criatividade para a Avenida, com o enredo: O dia em que toda a realeza desembarcou na Avenida para coroar o Rei Luiz do Sertão. (Disponível em: www.cultura.rj.gov.br. Acesso em: 15 maio 2012. Adaptado). A notícia relata um evento cultural que marca a primazia do samba sobre a música nordestina.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -425,12 +425,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão. Os habitantes desta pequena cidade no Alasca — o estado dos Estados Unidos mais ao norte — já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13h04min (horário local). (Disponível em: www.bbc.com. Acesso em: 16 maio 2019 - adaptado). O fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela latitude.",
+    texto: "Os moradores de Utqiagvik passaram dois meses quase totalmente na escuridão. Os habitantes desta pequena cidade no Alasca — o estado dos Estados Unidos mais ao norte — já estão acostumados a longas noites sem ver a luz do dia. Em 18 de novembro de 2018, seus pouco mais de 4 mil habitantes viram o último pôr do sol do ano. A oportunidade seguinte para ver a luz do dia ocorreu no dia 23 de janeiro de 2019, às 13h04min (horário local). (Disponível em: www.bbc.com. Acesso em: 16 maio 2019. Adaptado). O fenômeno descrito está relacionado ao fato de a cidade citada ter uma posição geográfica condicionada pela latitude.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la. PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004 (adaptado). O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.",
+    texto: "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la. PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004. Adaptado). O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -450,7 +450,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra. (DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010 (adaptado)). De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.",
+    texto: "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra. (DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010. Adaptado). De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -525,7 +525,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<b>PALAVRA</b> – As gramáticas classificam as palavras em substantivo, adjetivo, verbo, advérbio, conjunção, pronome, numeral, artigo e preposição. Os poetas classificam as palavras pela alma porque gostam de brincar com elas, e para brincar com elas é preciso ter intimidade primeiro. É a alma da palavra que define, explica, ofende ou elogia, se coloca entre o significante e o significado para dizer o que quer, dar sentimento às coisas, fazer sentido. A palavra nuvem chove. A palavra triste chora. A palavra sono dorme. A palavra tempo passa. A palavra fogo queima. A palavra faca corta. A palavra carro corre. A palavra “palavra” diz. O que quer. E nunca desdiz depois. As palavras têm corpo e alma, mas são diferentes das pessoas em vários pontos. (FALCÃO, A. Pequeno dicionário de palavras ao vento. São Paulo: Salamandra, 2013 (adaptado)). Esse texto, que simula um verbete para a palavra “palavra’’, constitui-se como um poema porque utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma.",
+    texto: "<b>PALAVRA</b> – As gramáticas classificam as palavras em substantivo, adjetivo, verbo, advérbio, conjunção, pronome, numeral, artigo e preposição. Os poetas classificam as palavras pela alma porque gostam de brincar com elas, e para brincar com elas é preciso ter intimidade primeiro. É a alma da palavra que define, explica, ofende ou elogia, se coloca entre o significante e o significado para dizer o que quer, dar sentimento às coisas, fazer sentido. A palavra nuvem chove. A palavra triste chora. A palavra sono dorme. A palavra tempo passa. A palavra fogo queima. A palavra faca corta. A palavra carro corre. A palavra “palavra” diz. O que quer. E nunca desdiz depois. As palavras têm corpo e alma, mas são diferentes das pessoas em vários pontos. (FALCÃO, A. Pequeno dicionário de palavras ao vento. São Paulo: Salamandra, 2013. Adaptado). Esse texto, que simula um verbete para a palavra “palavra’’, constitui-se como um poema porque utiliza o recurso expressivo da metáfora, como em “As palavras têm corpo e alma.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -535,12 +535,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Pisoteamento, arrastão, empurra-empurra, agressões, vandalismo e até furto a um torcedor que estava caído no asfalto após ser atropelado nas imediações do estádio do Maracanã. As cenas de selvageria tiveram como estopim a invasão de milhares de torcedores sem ingresso, que furaram o bloqueio policial e transformaram o estádio em terra de ninguém. Um reflexo não só do quadro de insegurança que assola o Rio de Janeiro, mas também de como a violência social se embrenha pelo esporte mais popular do país. Em 2017, foram registrados 104 episódios de violência no futebol brasileiro, que resultaram em 11 mortes de torcedores. Desde 1995, quando 101 torcedores ficaram feridos e um morreu durante uma batalha campal no estádio do Pacaembu, autoridades têm focado as ações de enfrentamento à violência no futebol em grupos uniformizados, alguns proibidos de frequentar estádios. Porém, a postura meramente repressiva contra torcidas organizadas é ineficaz em uma sociedade que registra mais de 61 000 homicídios por ano. “É impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, de acordo com um doutor em sociologia do esporte. (Disponível em: https://brasil.elpais.com. Acesso em: 22 jun. 2019 (adaptado)). Nesse texto, a violência no futebol está caracterizada como um problema social localizado numa região do país.", 
+    texto: "Pisoteamento, arrastão, empurra-empurra, agressões, vandalismo e até furto a um torcedor que estava caído no asfalto após ser atropelado nas imediações do estádio do Maracanã. As cenas de selvageria tiveram como estopim a invasão de milhares de torcedores sem ingresso, que furaram o bloqueio policial e transformaram o estádio em terra de ninguém. Um reflexo não só do quadro de insegurança que assola o Rio de Janeiro, mas também de como a violência social se embrenha pelo esporte mais popular do país. Em 2017, foram registrados 104 episódios de violência no futebol brasileiro, que resultaram em 11 mortes de torcedores. Desde 1995, quando 101 torcedores ficaram feridos e um morreu durante uma batalha campal no estádio do Pacaembu, autoridades têm focado as ações de enfrentamento à violência no futebol em grupos uniformizados, alguns proibidos de frequentar estádios. Porém, a postura meramente repressiva contra torcidas organizadas é ineficaz em uma sociedade que registra mais de 61 000 homicídios por ano. “É impossível dissociar a escalada de violência no futebol do panorama de desordem pública, social, econômica e política vivida pelo país”, de acordo com um doutor em sociologia do esporte. (Disponível em: https://brasil.elpais.com. Acesso em: 22 jun. 2019. Adaptado). Nesse texto, a violência no futebol está caracterizada como um problema social localizado numa região do país.", 
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d’água benta, o fechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as correias, o rodar do coche, o rodar dos carros, um a um... Isto que parece um simples inventário eram notas que eu havia tomado para um capítulo triste e vulgar que não escrevo. (ASSIS, M. Memórias póstumas de Brás Cubas. Disponível em: www.dominiopublico.gov.br. Acesso em: 25 jul. 2022.). O recurso linguístico que permite a Machado de Assis considerar um capítulo de Memórias póstumas de Brás Cubas como inventário é a combinação de verbos no presente e no pretérito.", 
+    texto: "Soluços, lágrimas, casa armada, veludo preto nos portais, um homem que veio vestir o cadáver, outro que tomou a medida do caixão, caixão, essa, tocheiros, convites, convidados que entravam, lentamente, a passo surdo, e apertavam a mão à família, alguns tristes, todos sérios e calados, padre e sacristão, rezas, aspersões d’água benta, o fechar do caixão, a prego e martelo, seis pessoas que o tomam da essa, e o levantam, e o descem a custo pela escada, não obstante os gritos, soluços e novas lágrimas da família, e vão até o coche fúnebre, e o colocam em cima e traspassam e apertam as correias, o rodar do coche, o rodar dos carros, um a um... Isto que parece um simples inventário eram notas que eu havia tomado para um capítulo triste e vulgar que não escrevo. (ASSIS, M. Memórias póstumas de Brás Cubas. Disponível em: www.dominiopublico.gov.br. Acesso em: 25 jul. 2022). O recurso linguístico que permite a Machado de Assis considerar um capítulo de Memórias póstumas de Brás Cubas como inventário é a combinação de verbos no presente e no pretérito.", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -565,7 +565,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata? (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014.). O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o: racismo estrutural.", 
+    texto: "Eu estava pagando o sapateiro e conversando com um preto que estava lendo um jornal. Ele estava revoltado com um guarda civil que espancou um preto e amarrou numa árvore. O guarda civil é branco. E há certos brancos que transforma preto em bode expiatório. Quem sabe se guarda civil ignora que já foi extinta a escravidão e ainda estamos no regime da chibata? (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014). O texto, que guarda a grafia original da autora, expõe uma característica da sociedade brasileira, que é o: racismo estrutural.", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -580,7 +580,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016 (adaptado)). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de ntestação dos princípios monárquicos.", 
+    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016. Adaptado). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de ntestação dos princípios monárquicos.", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -620,7 +620,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça. (SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990.). O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a: exaltação do sofrimento.",    
+    texto: "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça. (SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990). O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a: exaltação do sofrimento.",    
     resposta: false,
     dificuldade: "fácil"
   },
@@ -645,7 +645,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais. Para superar essa limitação, o exoesqueleto deve ser substituído por meio de mudas que ocorrem periodicamente. ", 
+    texto: "O exoesqueleto dos crustáceos é formado por quitina e impregnações de sais calcários e, por isso, é mais duro quando comparado com o exoesqueleto de outros artrópodes. Esse revestimento externo confere proteção, mas, por ser duro, limita o crescimento desses animais. Para superar essa limitação, o exoesqueleto deve ser substituído por meio de mudas que ocorrem periodicamente.", 
     resposta: true,
     dificuldade: "fácil"
   },
