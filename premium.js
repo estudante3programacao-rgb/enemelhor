@@ -755,7 +755,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com agua. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na secreção da glândula uropigial",     
+    texto: "Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com agua. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na secreção da glândula uropigial.",     
     resposta: true,    
     dificuldade: "média"
   },
@@ -780,7 +780,222 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética (BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008. Adaptado). Esse alimento contribui para diminuir a carência associada ao escorbuto",
+    texto: "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética (BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008. Adaptado). Esse alimento contribui para diminuir a carência associada ao escorbuto.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Em um experimento, preparou-se um conjunto de plantas por técnica de clonagem a partir de uma planta original que apresentava folhas verdes. Esse conjunto foi dividido em dois grupos, que foram tratados de maneira idêntica, com exceção das condições de iluminação, sendo um grupo exposto a ciclos de iluminação solar natural e outro mantido no escuro. Após alguns dias, observou-se que o grupo exposto à luz apresentava folhas verdes como a planta original e o grupo cultivado no escuro apresentava folhas amareladas. Ao final do experimento, os dois grupos de plantas Ao final do experimento, os dois grupos de plantas apresentaram os genótipos idênticos e os fenótipos diferentes.",     
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A economia moderna depende da disponibilidade de muita energia em diferentes formas, para funcionar e crescer. No Brasil, o consumo total de energia pelas indústrias cresceu mais de quatro vezes no período entre 1970 e 2005. Enquanto os investimentos em energias limpas e renováveis, como solar e eólica, ainda são incipientes, ao se avaliar a possibilidade de instalação de usinas geradoras de energia elétrica, diversos fatores devem ser levados em consideração, tais como os impactos causados ao ambiente e às populações locais. (RICARDO, B.; CAMPANILI, M. Almanaque Brasil Socioambiental. São Paulo: Instituto Socioambiental, 2007. Adaptado). Em uma situação hipotética, optou-se por construir uma  usina hidrelétrica em região que abrange diversas quedas d’água em rios cercados por mata, alegando-se que causaria impacto ambiental muito menor que uma usina termelétrica. Entre os possíveis impactos da instalação de uma usina hidrelétrica nessa região, inclui-se o aumento expressivo na liberação de CO<sub>2</sub> para a atmosfera.",    
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Para que todos os órgãos do corpo humano funcionem em boas condições, é necessário que a temperatura do corpo fique sempre entre 36 ºC e 37 ºC. Para manter-se dentro dessa faixa, em dias de muito calor ou durante intensos exercícios físicos, uma série de mecanismos fisiológicos é acionada. Pode-se citar como o principal responsável pela manutenção da temperatura corporal humana o sistema nervoso, pois promove a sudorese, que permite perda de calor por meio da evaporação da água.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Na manipulação em escala nanométrica, os átomos revelam características peculiares, podendo apresentar tolerância à temperatura, reatividade química, condutividade elétrica, ou mesmo exibir força de intensidade extraordinária. Essas características explicam o interesse industrial pelos nanomateriais que estão sendo muito pesquisados em diversas áreas, desde o desenvolvimento de cosméticos, tintas e tecidos, até o de terapias contra o câncer. (LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: http://www.comciencia.br. Adaptado). A utilização de nanopartículas na indústria e na medicina requer estudos mais detalhados, poisas partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O álcool hidratado utilizado como combustível veicular é obtido por meio da destilação fracionada de soluções aquosas geradas a partir da fermentação de biomassa. Durante a destilação, o teor de etanol da mistura é aumentado, até o limite de 96% em massa. Considere que, em uma usina de produção de etanol, 800 kg de uma mistura etanol/água com concentração 20% em massa de etanol foram destilados, sendo obtidos 100 kg de álcool hidratado 96% em massa de etanol. A partir desses dados, é correto concluir que a destilação em questão gerou um resíduo com uma concentração de etanol em massa entre 9,0% e 9,2%.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O cultivo de camarões de água salgada vem se desenvolvendo muito nos últimos anos na região Nordeste do Brasil e, em algumas localidades, passou a ser a principal atividade econômica. Uma das grandes preocupações dos impactos negativos dessa atividade está relacionada à descarga, sem nenhum tipo de tratamento, dos efluentes dos viveiros diretamente no ambiente marinho, em estuários ou em manguezais. Esses efluentes possuem matéria orgânica particulada e dissolvida, amônia, nitrito, nitrato, fosfatos, partículas de sólidos em suspensão e outras substâncias que podem ser consideradas contaminantes potenciais. (CASTRO, C. B.; ARAGÃO, J. S.; COSTA-LOTUFO, L. V. Monitoramento da toxicidade de efluentes de uma fazenda de cultivo de camarão marinho. Anais do IX Congresso Brasileiro de Ecotoxicologia, 2006. Adaptado). Suponha que tenha sido construída uma fazenda de carcinicultura próximo a um manguezal. Entre as perturbações ambientais causadas pela fazenda, espera-se que  a atividade microbiana se torne responsável pela reciclagem do fósforo orgânico excedente no ambiente marinho.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O Egito é visitado anualmente por milhões de turistas de todos os quadrantes do planeta, desejosos de ver com os próprios olhos a grandiosidade do poder esculpida em pedra há milênios: as pirâmides de Gizeh, as tumbas do Vale dos Reis e os numerosos templos construídos ao longo do Nilo. O que hoje se transformou em atração turística era, no passado, interpretado de forma muito diferente, pois significava, entre outros aspectos, o poder que os faraós tinham para escravizar grandes contingentes populacionais que trabalhavam nesses monumentos.",         
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O que se entende por Corte do antigo regime é, em primeiro lugar, a casa de habitação dos reis de França, de suas famílias, de todas as pessoas que, de perto ou de longe, dela fazem parte. As despesas da Corte, da imensa casa dos reis, são consignadas no registro das despesas do reino da França sob a rubrica significativa de Casas Reais. (ELIAS, N. A sociedade de corte. Lisboa: Estampa, 1987). Algumas casas de habitação dos reis tiveram grande efetividade política e terminaram por se transformar em patrimônio artístico e cultural, cujo exemplo é a Casa Branca.",  
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Apesar do aumento da produção no campo e da integração entre a indústria e a agricultura, parte da população da América do Sul ainda sofre com a subalimentação, o que gera conflitos pela posse de terra que podem ser verificados em várias áreas e que frequentemente chegam a provocar mortes. Um dos fatores que explica a subalimentação na América do Sul é a presença de estruturas agrárias arcaicas formadas por latifúndios improdutivos.", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Com a perspectiva do desaparecimento das geleiras no Polo Norte, grandes reservas de petróleo e minérios, hoje inacessíveis, poderão ser exploradas. E já atiçam a cobiça das potências. (KOPP, D. Guerra Fria sobre o Ártico. Le monde diplomatique Brasil. Setembro, n. 2, 2007. Adaptado.). No cenário de que trata o texto, a exploração de jazidas de petróleo, bem como de minérios – diamante, ouro, prata, cobre, chumbo, zinco – torna-se atraente não só em  função de seu formidável potencial, mas também por situar-se em uma zona geopolítica mais estável que o Oriente Médio.",     
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "",
     resposta: false,
     dificuldade: "fácil"
   }
