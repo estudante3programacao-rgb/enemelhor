@@ -415,7 +415,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior. (ARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005 (adaptado)). A condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a associação sindical.",
+    texto: "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior. (ARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005. Adaptado). A condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a associação sindical.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -580,7 +580,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016. Adaptado). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de ntestação dos princípios monárquicos.", 
+    texto: "Os caixeiros do comércio a retalho do Rio de Janeiro estiveram entre as primeiras categorias de trabalhadores a se organizar em associações e a exigir a intervenção dos poderes públicos na mediação de suas lutas por direitos. Na década de 1880, os caixeiros participaram da arena política e ganharam as ruas com vários outros, como os republicanos e os abolicionistas. (POPINIGIS, F. “Todas as liberdades são irmãs”: os caixeiros e as lutas dos trabalhadores por direitos entre o Império e a República. Estudos Históricos, n. 59, set.-dez. 2016. Adaptado). A atuação dos trabalhadores mencionados no texto representou, na capital do Império, um momento de contestação dos princípios monárquicos.", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -751,6 +751,36 @@ const perguntasPremium = [
   },
   {
     texto:"Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista. (LAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.). Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto apresentar o ponto de vista da autora.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Os funcionários de um zoológico observaram um aumento na taxa de mortalidade de aves aquáticas por afogamento. Um grupo de biólogos analisou o comportamento das aves por várias semanas e observou que elas apresentavam dificuldade de flutuação, por causa do encharcamento das penas com agua. O aumento na taxa de mortalidade dessas aves estava associado a uma redução na secreção da glândula uropigial",     
+    resposta: true,    
+    dificuldade: "média"
+  },
+  {
+    texto: "A maioria dos seres vivos tem um relógio biológico (ciclo circadiano), que regula as mudanças metabólicas e comportamentais de acordo com o ciclo de 24 horas de rotação da Terra. Em 2015, um artigo publicado na revista Science Advantage mostrou ser possível a transferência dos genes do relógio circadiano da cianobactéria Synechococcus elongatus para o genoma da bactéria Escherichia coli, um organismo não circadiano. (CHEN, A. H. et al. Transplantability of a Circardian Lock to Noncircardian Organism. Science Advantage, n. 1, 2015. Adaptado). Estarão presentes no organismo geneticamente modificado os genes do ciclo circadiano de <i>S. elongatus</i> e do metabolismo de <i>E. coli</i>.", 
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos. (BADIO, B. et al. Epibatidine: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994. Adaptado). A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela variabilidade genética.",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O sashimi (filé de peixe cru) de baiacu é uma iguaria muito apreciada no Japão. Entretanto, sua ingestão pode causar a morte por parada respiratória, pois esse peixe contém uma potente neurotoxina termoestável, a tetrodotoxina, que é produzida e armazenada nas gônadas e vísceras. A ação que poderia evitar essa intoxicação é criar os peixes em cativeiro.",
+    resposta: false,
+    dificuldade: "fácil" 
+  },
+  {
+    texto: "Existe um processo de purificação de água em que são removidos os sais dissolvidos. A água que passa por esse processo é muito utilizada em laboratórios de química, em indústrias (como solvente), em baterias de carros etc. Entretanto, esse tipo de água não é adequado para ingestão, pois pode causar problemas de saúde, como carência iônica e diarreia.Essa água é chamada de destilada.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética (BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008. Adaptado). Esse alimento contribui para diminuir a carência associada ao escorbuto",
     resposta: false,
     dificuldade: "fácil"
   }
