@@ -835,42 +835,42 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem. (ROSA, J. G. Grande sertão: veredas. Rio de Janeiro: Nova Fronteira, 1986.). No romance Grande sertão: veredas, o protagonista Riobaldo narra sua trajetória de jagunço. A leitura do trecho permite identificar que o desabafo de Riobaldo se aproxima de um: aforismo, por expor uma máxima em poucas palavras.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "No Brasil, a origem do funk e do hip-hop remonta aos anos 1970, quando da proliferação dos chamados “bailes black” nas periferias dos grandes centros urbanos. Embalados pela black music americana, milhares de jovens	encontravam	nos	bailes de	final	de semana	uma	alternativa de lazer antes inexistente. Em cidades como o Rio de Janeiro ou São Paulo, formavam-se equipes de som que promoviam bailes onde foi se disseminando um estilo que buscava a valorização da cultura negra, tanto na música como nas roupas e nos penteados. No Rio de Janeiroficou	conhecido como “Black Rio”. A indústria fonográfica	descobriu	o	filão	e, lançando	discos de	“equipe” com as músicas de sucesso nos bailes, difundia a moda pelo restante do país. (DAYRELL, J. A música entra em cena: o rap e o funk na socialização da juventude. Belo Horizonte: UFMG, 2005.).A presença da cultura hip-hop no Brasil caracteriza-se como uma forma de: reprodução da cultura musical norte-americana. ",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Blog é concebido como um espaço onde o blogueiro é livre para expressar e discutir o que quiser na atividade da sua escrita, com a escolha de imagens e sons que  compõem o todo do texto veiculado pela internet, por  meio dos posts. Assim, essa ferramenta deixa de ter  como única função a exposição de vida e/ou rotina de  alguém — como em um diário pessoal —, função para  qual serviu inicialmente e que o popularizou, permitindo também que seja um espaço para a discussão de ideias, trocas e divulgação de informações. <p>A produção dos blogs requer uma relação de troca, que acaba unindo pessoas em torno de um ponto de interesse comum. A força dos blogs está em possibilitar que qualquer pessoa, sem nenhum conhecimento técnico, publique suas ideias e opiniões na web e que milhões de outras pessoas publiquem comentários sobre o que foi escrito, criando um grande debate aberto a todos.</p>. (LOPES, B. O. A linguagem dos blogs e as redes sociais. Disponível em: www.fateczl.edu.br. Acesso em: 29 abr. 2013. Adaptado). De acordo com o texto, o blog ultrapassou sua função inicial e vem se destacando como: espaço para exposição de opiniões e circulação de ideias.",    
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Por onde houve colonização portuguesa, a música popular se desenvolveu basicamente com o mesmo instrumental. Podemos ver cavaquinho e violão atuarem juntos aqui, em Cabo Verde, em Jacarta, na Indonésia, ou em Goa. O caráter nostálgico, sentimental, é outro ponto comum da música das colônias portuguesas em todo o mundo. O kronjong, a música típica de Jacarta, é uma espécie de lundu mais lento, tocado comumente com flauta,	cavaquinho	e	violão.	Em	Goa	não	é	muito	diferente. <p>De acordo com o texto de Henrique Cazes, grande parte da música popular desenvolvida nos países colonizados por Portugal compartilham um instrumental, destacando-se o cavaquinho e o violão. No Brasil, são exemplos de música popular que empregam esses mesmos instrumentos:choro e samba.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "FABIANA, <i> arrepelando-se de raiva</i> — Hum! Ora, eis aí está para	que	se casou meu	filho, e trouxe a	mulher para	minha casa. É isto constantemente. Não sabe o senhor meu filho que quem casa quer casa... Já	não	posso, não posso, não posso! <i>(Batendo com o pé).</i> Um dia arrebento, e então veremos! (PENA, M. Quem casa quer casa. www.dominiopublico.gov.br. Acesso em: 7 dez. 2012). As rubricas em itálico, como as trazidas no trecho de Martins Pena, em uma atuação teatral, constituem: possibilidade, porque o texto pode ser mudado, assim como outros elementos.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área. Sabe-se que 1 hectare corresponde a 1 hectômetro quadrado. O valor, em metros quadrados, da área coberta pelo terreno da piscina é: 80 000 m<sub>2</sub>.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "Diariamente, uma residência consome 20 160 Wh. Essa residência possui 100 células solares retangulares (dispositivos capazes de converter a luz solar em energia elétrica) de dimensões 6 cm × 8 cm. Cada uma das tais células produz, ao longo do dia, 24 Wh por centímetro de diagonal. O proprietário dessa residência quer produzir, por dia, exatamente a mesma quantidade de energia que sua casa consome. A seguinte ação desse proprietário eve ser tomada para que ele atinja o seu objetivo: retirar 16 células.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "Uma pessoa compra semanalmente, numa mesma loja, sempre a mesma quantidade de um produto que custa R$ 10,00 a unidade. Como já sabe quanto deve gastar, leva sempre R$ 6,00 a mais do que a quantia necessária para comprar tal quantidade, para o caso de eventuais despesas extras. Entretanto, um dia, ao chegar à loja, foi informada de que o preço daquele produto havia aumentado 20%. Devido a esse reajuste, concluiu que o dinheiro levado era a quantia exata para comprar duas unidades a menos em relação à quantidade habitualmente comprada. A quantia que essa pessoa levava semanalmente para fazer a compra era: R$ 156,00.",   
     resposta: false,
     dificuldade: "fácil"
   },
