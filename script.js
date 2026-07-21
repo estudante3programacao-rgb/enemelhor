@@ -20,7 +20,7 @@ const perguntas = [
     dificuldade: "facil"
   },
   {
-    texto: "<p>TEXTO I - Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. </p> <p>TEXTO II - Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. </P> A característica do pensamento do filósofo Heráclito é a ênfase na imobilidade imanente do universo.",
+    texto: "<p>TEXTO I - Em conjunto: todo e não todo, unido e separado, em consonância e em dissonância. De todos um e de um todos. </p> <p>TEXTO II - Deus é dia-noite, inverno-verão, guerra-paz, saciedade-fome. </P>A característica do pensamento do filósofo Heráclito é a ênfase na imobilidade imanente do universo.",
     resposta: false,
     dificuldade: "facil"
   },
@@ -30,7 +30,7 @@ const perguntas = [
     dificuldade:  "media"
   },
   {
-    texto: "A partir da segunda metade do século XVIII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro. (FRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015 (adaptado).) Na matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à atividade de extração de metais preciosos.", 
+    texto: "A partir da segunda metade do século XVIII, o número de escravos recém-chegados cresce no Rio e se estabiliza na Bahia. Nenhum lugar servia tão bem à recepção de escravos quanto o Rio de Janeiro. (FRANÇA, R. O tamanho real da escravidão. O Globo, 5 abr. 2015. Adaptado) Na matéria, o jornalista informa uma mudança na dinâmica do tráfico atlântico que está relacionada à atividade de extração de metais preciosos.", 
     resposta: true,
     dificuldade:  "media"
   },
@@ -40,12 +40,12 @@ const perguntas = [
     dificuldade:  "media"
   },
   {
-    texto: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a “globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”. (Disponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015 (adaptado)) No texto há uma crítica ao seguinte aspecto do mundo globalizado: disparidade econômica.",
+    texto: "Saudado por centenas de militantes de movimentos sociais de quarenta países, o papa Francisco encerrou no dia 09/07/2015 o 2º Encontro Mundial dos Movimentos Populares, em Santa Cruz de La Sierra, na Bolívia. Segundo ele, a “globalização da esperança, que nasce dos povos e cresce entre os pobres, deve substituir esta globalização da exclusão e da indiferença”. (Disponível em: http://cartamaior.com.br. Acesso em: 15 jul. 2015. Adaptado) No texto há uma crítica ao seguinte aspecto do mundo globalizado: disparidade econômica.",
     resposta: true,
     dificuldade:  "media"
   },
   {
-    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável  ao crescimento econômico. Isso acontece porque há  proporcionalmente menos crianças na população, e o  percentual de idosos ainda não é alto. (GOIS, A. O Globo, 5 abr. 2015 (adaptado)) A ação estatal que contribui para o aproveitamento do  bônus demográfico é o estímulo à qualificação da mão de obra.", 
+    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto. (GOIS, A. O Globo, 5 abr. 2015. Adaptado) A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à qualificação da mão de obra.", 
     resposta: true,
     dificuldade:  "media"
   },
