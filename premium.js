@@ -875,28 +875,28 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Só há uma saída para a escola se ela quiser ser mais bem-sucedida: aceitar a mudança da língua como um fato. Isso deve significar que a escola deve aceitar qualquer forma da língua em suas atividades escritas? Não deve mais corrigir? Não!</p> <p>Há outra dimensão a ser considerada: de fato, no mundo real da escrita, não existe apenas um português correto, que valeria para todas as ocasiões: o estilo dos contratos não é o mesmo do dos manuais de instrução; o dos juízes do Supremo não é o mesmo do dos cordelistas; o dos editoriais dos jornais não é o mesmo do dos cadernos de cultura dos mesmos jornais. Ou do de seus colunistas.</p> (POSSENTI, S. Gramática na cabeça. Língua Portuguesa, ano 5, n. 67, maio 2011. Adaptado). Sírio Possenti defende a tese de que não existe um único “português correto”. Assim sendo, o domínio da língua portuguesa implica, entre outras coisas, saber: descartar as marcas de informalidade do texto",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "eu acho um fato interessante... né... foi como meu pai e minha mãe vieram se conhecer... né... que... minha mãe morava no Piauí com toda família... né... meu... meu avô... materno no caso... era maquinista... ele sofreu um acidente... infelizmente morreu... minha mãe tinha cinco anos... né... e o irmão mais velho dela... meu padrinho... tinha dezessete e ele foi obrigado a trabalhar... foi trabalhar no banco... e... ele foi... o banco... no caso... estava... com um número de funcionários cheio e ele teve que ir para outro local e pediu transferência prum local mais perto de Parnaíba que era a cidade onde eles moravam e por engano o... o... escrivão entendeu Paraíba... né... e meu... e minha família veio parar em Mossoró que era exatamente o local mais perto onde tinha vaga pra funcionário do Banco do Brasil e:: ela foi parar na rua do meu pai... né... e começaram a se conhecer... namoraram onze anos... né... pararam algum tempo... brigaram... élógico... porque todo relacionamento tem uma briga... né... e eu achei esse fato muito interessante porque foi uma coincidência incrível... né... como vieram a se conhecer... namoraram e hoje... e até hoje estão juntos... dezesseteanos de casados… (CUNHA, M. A. F. (Org.) . <i>Corpus</i> discurso & gramática: a língua falada e escrita na cidade do Natal. Natal: EdUFRN, 1998.). Na transcrição de fala, há um breve relato de experiência pessoal, no qual se observa a frequente repetição de “né”. Essa repetição é uma: estratégia típica de manutenção da interação oral.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p><b>Tarefa</b><p><p>Morder o fruto amargo e não cuspir</p><p>Mas avisar aos outros quanto é amargo</p><p>Cumprir o trato injusto e não falhar</p><p>Mas avisar aos outros quanto é injusto</p><p>Sofrer o esquema falso e não ceder</p><p>Mas avisar aos outros quanto é falso</p><p>Dizer também que são coisas mutáveis...</p><p>E quando em muitos a não pulsar</p><p>— do amargo e injusto e falso por mudar —</p><p>então confiar à gente exausta o plano</p><p>de um mundo novo e muito mais humano.</p> (CAMPOS, G. Tarefa. Rio de Janeiro: Civilização Brasileira, 1981). Na organização do poema, os empregos da conjunção “mas” articulam, para além de sua função sintática: a introdução do argumento mais forte de uma sequência.",       
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p><b>Linotipos</b></p>O Museu da Imprensa exibe duas linotipos. Trata-se de um tipo de máquina de composição de tipos de chumbo, inventada em 1884 em Baltimore, nos Estados Unidos, pelo alemão Ottmar Mergenthaler. O invento foi de grande importância por ter significado um novo e fundamental avanço na história das artes gráficas. A linotipia provocou, na verdade, uma revolução porque venceu a lentidão da composição dos textos executada na tipografia tradicional, em que o texto era composto à mão, juntando tipos móveis um por um. Constituía-se, assim, no principal meio de composição tipográfica até 1950. A linotipo, a partir do final do século XIX, passou a produzir impressos a baixo custo, o que levou informação às massas, democratizou a informação. Promoveu uma revolução na educação. Antes da linotipo, os jornais e revistas eram escassos, com poucas páginas e caros. Os livros didáticos eram também caros, pouco acessíveis. (Disponível em: http://portal.in.gov.br. Acesso em: 23 fev. 2013. Adaptado). O texto apresenta um histórico da linotipo, uma máquina tipográfica inventada no século XIX e responsável pela dinamização da imprensa. Em termos sociais, a contribuição da linotipo teve impacto direto na produção acessível de materiais informacionais.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
+    texto: "<p><b>Psicologia de um vencido</b></p><p>Eu, filho do carbono e do amoníaco,</p><p>Monstro de escuridão e rutilância,</p><p>Sofro, desde a epigênesis da infância,</p><p>A influência má dos signos do zodíaco.</p><p>Profundíssimamente hipocondríaco,</p><p>Este ambiente me causa repugnância...</p><p>Sobe-me à boca uma ânsia análoga à ânsia</p><p>Que se escapa da boca de um cardíaco.</p><p>Já o verme — este operário das ruínas —</p><p>Que o sangue podre das carnificinas</p><p>Come, e à vida em geral declara guerra,</p><p>Anda a espreitar meus olhos para roê-los,</p><p>E há de deixar-me apenas os cabelos,</p><p>Na frialdade inorgânica da terra!</p> (ANJOS, A. Obra completa. Rio de Janeiro: Nova Aguilar, 1994.) A poesia de Augusto dos Anjos revela aspectos de uma literatura de transição designada como pré-modernista. Com relação à poética e à abordagem temática presentes no soneto, identificam-se marcas dessa literatura de transição, como: a manutenção de elementos formais vinculados à estética do Parnasianismo e do Simbolismo, dimensionada pela inovação na expressividade poética, e o desconcerto existencial.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
