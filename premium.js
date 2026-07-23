@@ -875,12 +875,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Só há uma saída para a escola se ela quiser ser mais bem-sucedida: aceitar a mudança da língua como um fato. Isso deve significar que a escola deve aceitar qualquer forma da língua em suas atividades escritas? Não deve mais corrigir? Não!</p> <p>Há outra dimensão a ser considerada: de fato, no mundo real da escrita, não existe apenas um português correto, que valeria para todas as ocasiões: o estilo dos contratos não é o mesmo do dos manuais de instrução; o dos juízes do Supremo não é o mesmo do dos cordelistas; o dos editoriais dos jornais não é o mesmo do dos cadernos de cultura dos mesmos jornais. Ou do de seus colunistas.</p> (POSSENTI, S. Gramática na cabeça. Língua Portuguesa, ano 5, n. 67, maio 2011. Adaptado). Sírio Possenti defende a tese de que não existe um único “português correto”. Assim sendo, o domínio da língua portuguesa implica, entre outras coisas, saber: descartar as marcas de informalidade do texto",
+    texto: "<p>Só há uma saída para a escola se ela quiser ser mais bem-sucedida: aceitar a mudança da língua como um fato. Isso deve significar que a escola deve aceitar qualquer forma da língua em suas atividades escritas? Não deve mais corrigir? Não!</p> <p>Há outra dimensão a ser considerada: de fato, no mundo real da escrita, não existe apenas um português correto, que valeria para todas as ocasiões: o estilo dos contratos não é o mesmo do dos manuais de instrução; o dos juízes do Supremo não é o mesmo do dos cordelistas; o dos editoriais dos jornais não é o mesmo do dos cadernos de cultura dos mesmos jornais. Ou do de seus colunistas.</p> (POSSENTI, S. Gramática na cabeça. Língua Portuguesa, ano 5, n. 67, maio 2011. Adaptado). Sírio Possenti defende a tese de que não existe um único “português correto”. Assim sendo, o domínio da língua portuguesa implica, entre outras coisas, saber: descartar as marcas de informalidade do texto.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "eu acho um fato interessante... né... foi como meu pai e minha mãe vieram se conhecer... né... que... minha mãe morava no Piauí com toda família... né... meu... meu avô... materno no caso... era maquinista... ele sofreu um acidente... infelizmente morreu... minha mãe tinha cinco anos... né... e o irmão mais velho dela... meu padrinho... tinha dezessete e ele foi obrigado a trabalhar... foi trabalhar no banco... e... ele foi... o banco... no caso... estava... com um número de funcionários cheio e ele teve que ir para outro local e pediu transferência prum local mais perto de Parnaíba que era a cidade onde eles moravam e por engano o... o... escrivão entendeu Paraíba... né... e meu... e minha família veio parar em Mossoró que era exatamente o local mais perto onde tinha vaga pra funcionário do Banco do Brasil e:: ela foi parar na rua do meu pai... né... e começaram a se conhecer... namoraram onze anos... né... pararam algum tempo... brigaram... élógico... porque todo relacionamento tem uma briga... né... e eu achei esse fato muito interessante porque foi uma coincidência incrível... né... como vieram a se conhecer... namoraram e hoje... e até hoje estão juntos... dezesseteanos de casados… (CUNHA, M. A. F. (Org.) . <i>Corpus</i> discurso & gramática: a língua falada e escrita na cidade do Natal. Natal: EdUFRN, 1998.). Na transcrição de fala, há um breve relato de experiência pessoal, no qual se observa a frequente repetição de “né”. Essa repetição é uma: estratégia típica de manutenção da interação oral.",
+    texto: "Eu acho um fato interessante... né... foi como meu pai e minha mãe vieram se conhecer... né... que... minha mãe morava no Piauí com toda família... né... meu... meu avô... materno no caso... era maquinista... ele sofreu um acidente... infelizmente morreu... minha mãe tinha cinco anos... né... e o irmão mais velho dela... meu padrinho... tinha dezessete e ele foi obrigado a trabalhar... foi trabalhar no banco... e... ele foi... o banco... no caso... estava... com um número de funcionários cheio e ele teve que ir para outro local e pediu transferência prum local mais perto de Parnaíba que era a cidade onde eles moravam e por engano o... o... escrivão entendeu Paraíba... né... e meu... e minha família veio parar em Mossoró que era exatamente o local mais perto onde tinha vaga pra funcionário do Banco do Brasil e:: ela foi parar na rua do meu pai... né... e começaram a se conhecer... namoraram onze anos... né... pararam algum tempo... brigaram... élógico... porque todo relacionamento tem uma briga... né... e eu achei esse fato muito interessante porque foi uma coincidência incrível... né... como vieram a se conhecer... namoraram e hoje... e até hoje estão juntos... dezesseteanos de casados… (CUNHA, M. A. F. (Org.) . <i>Corpus</i> discurso & gramática: a língua falada e escrita na cidade do Natal. Natal: EdUFRN, 1998.). Na transcrição de fala, há um breve relato de experiência pessoal, no qual se observa a frequente repetição de “né”. Essa repetição é uma: estratégia típica de manutenção da interação oral.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -900,12 +900,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira. A explicação física justifica esse procedimento é: Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+    texto: "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira. A explicação física justifica esse procedimento é: os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado. Utilizando esse procedimento, o sabor foi conservado porque houve: desnaturação enzimática pela alta temperatura. ",
+    texto: "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado. Utilizando esse procedimento, o sabor foi conservado porque houve: desnaturação enzimática pela alta temperatura.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -950,8 +950,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A Operação Condor está diretamente vinculada às experiências históricas das ditaduras civil-militares que se disseminaram pelo Cone Sul entre as décadas de 1960 e 1980. Depois do Brasil (e do Paraguai de Stroessner), foi a vez da Argentina (1966), Bolívia (1966 e 1971), Uruguai e Chile (1973) e Argentina (novamente, em 1976). Em todos os casos se instalaram ditaduras civil-militares (em menor ou maior medida) com base na Doutrina de Segurança Nacional e tendo como principais características um anticomunismo militante, a identificação do inimigo interno, a imposição do papel político das Forças Armadas e a definição de fronteiras ideológicas. (PADRÓS, E. S. et al. Ditadura de Segurança Nacional no Rio Grande do Sul (1964-1985): história e memória. Porto Alegre: Corag, 2009.Adaptado) Levando-se em conta o contexto em que foi criada, a referida operação tinha como objetivo coordenar a :repressão de ativistas oposicionistas.",
-    resposta: false,
+    texto: "A Operação Condor está diretamente vinculada às experiências históricas das ditaduras civil-militares que se disseminaram pelo Cone Sul entre as décadas de 1960 e 1980. Depois do Brasil (e do Paraguai de Stroessner), foi a vez da Argentina (1966), Bolívia (1966 e 1971), Uruguai e Chile (1973) e Argentina (novamente, em 1976). Em todos os casos se instalaram ditaduras civil-militares (em menor ou maior medida) com base na Doutrina de Segurança Nacional e tendo como principais características um anticomunismo militante, a identificação do inimigo interno, a imposição do papel político das Forças Armadas e a definição de fronteiras ideológicas. (PADRÓS, E. S. et al. Ditadura de Segurança Nacional no Rio Grande do Sul (1964-1985): história e memória. Porto Alegre: Corag, 2009.Adaptado) Levando-se em conta o contexto em que foi criada, a referida operação tinha como objetivo coordenar a: repressão de ativistas oposicionistas.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
@@ -970,32 +970,42 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "O descarte do óleo de cozinha usado no ralo da pia pode contribuir para a poluição das águas e do solo. O seu reaproveitamento na fabricação de sabão é um modelo ideal de descarte, mas uma alternativa simples para reduzir esse impacto. Para fazer o sabão são necessários, além do próprio óleo, água e soda cáustica. LOBO, I. Sabão feito com óleo de cozinha. <p>Disponível em: http://pga.pgr.mpf.gov.br. Acesso em: 29 fev. 2012 (adaptado).</p> Com base no texto, a reação química ocorrida no reaproveitamento do óleo vegetal é denominada: saponificação.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O rompimento de uma barragem no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado no estado da Bahia. O desastre pode provocar alterações na cadeia alimentar desse ecossistema, pois os metais pesados podem ser acumulados em diversos níveis tróficos, afetando especialmente os grandes predadores. FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Franciscana calls for help: [...] International Whaling Commission, Conference Paper, jun. 2016 (adaptado). Concentrações mais elevadas dos compostos citados são encontradas em esponjas e fitoplânctons.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "No âmbito da produção de suínos no Brasil, é necessária a adoção de estratégias para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são muito mais poluentes. Tendo isso em vista, sua utilização na geração de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que os recursos hídricos do país são preservados. PÓVOA, J. C. Resíduos suínos como alternativa energética sustentável. Anais ENEGEP, Foz do Iguaçu, 2007 (adaptado). O biocombustível a que se refere o texto é o metano.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "A curcumina, uma das substâncias que conferem a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto e interfere na digestão, reduzindo as espécies reativas de oxigênio que danificam de forma permanente o tecido do tubo digestório. TOLEDO, K. Corante extraído do açafrão pode ser útil no combate à dengue. <p>Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015 (adaptado).</p> A forma de combate relatada tem como atividade o: impedimento do desenvolvimento da larva.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Organismos autótrofos e heterótrofos realizam processos complementares que associam os ciclos do carbono e do oxigênio. O carbono fixado pela energia luminosa ou a partir de compostos inorgânicos é eventualmente degradado pelos organismos, resultando em fontes de carbono como metano ou gás carbônico. Ainda, outros compostos orgânicos são metabolizados pelos seres, com menor rendimento energético, produzindo compostos secundários (subprodutos) que podem funcionar como combustíveis ambientais. O processo metabólico associado à produção de combustíveis ambientais é: fermentação.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "O plano de proteção de uma espécie vegetal ameaçada de extinção consiste na recuperação de exemplares da planta e no replantio em seu ambiente natural. Para isso, são necessárias técnicas que permitam a produção de mudas em grande quantidade, preservando as características genéticas da espécie. A técnica utilizada para esse tipo de recuperação é a: produção de mudas por cultura de tecidos.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A doença de Huntington é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores do gene causador da doença, pois são pessoas assintomáticas. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença. Essa é uma doença hereditária de caráter: dominante",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "Um dos exames clínicos mais tradicionais para medir a capacidade de indivíduos são os reflexos patelares. Esse exame consiste na estimulação da patela, uma pequena pancada no tendão localizado na parte anterior da perna, que provoca a contração do músculo e o levantamento da perna em que o estímulo foi aplicado. A região específica do sistema nervoso coordena essa resposta é a medula.",
     resposta: false,
     dificuldade: "fácil"
   }
