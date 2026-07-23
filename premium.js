@@ -1022,7 +1022,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 3;
+const ultimoNivelDisponivel = 5;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
