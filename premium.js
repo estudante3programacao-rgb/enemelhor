@@ -716,7 +716,7 @@ const perguntasPremium = [
   },
   {
     texto: "A vida das pessoas se modifica com a mesma rapidez com que se reproduz a cidade. O lugar da festa, do encontro quase desaparece; o número de brincadeiras infantis nas ruas diminui — as crianças que não são vistas; os pedaços da cidade são vendidos, no mercado, como mercadorias; árvores são destruídas, praças transformadas em concreto. Por outro lado, os habitantes parecem perder na cidade suas próprias referências. A imagem de uma grande guinada, aliás, a presença maciça destes, das brincadeiras, das bebedeiras nos dá o limite do processo de transformação diária ao qual está submetida a cidade. (CARLOS, A. F. A cidade. São Paulo: Contexto, 2011. Adaptado). No contexto das grandes cidades brasileiras, a situação apresentada no texto é decorrente como consequência da preservação da essência do espaço público.", 
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
