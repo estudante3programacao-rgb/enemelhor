@@ -910,7 +910,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "o senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado como: formadas a partir de gás carbônico.",
+    texto: "O senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado como: formadas a partir de gás carbônico.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -930,43 +930,43 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Sentimos que toda satisfação de nossos desejos advinda do mundo assemelha-se à esmola que mantém hoje o mendigo vivo, porém prolonga amanhã a sua fome. A resignação, ao contrário, assemelha-se à fortuna herdada: livra o herdeiro para sempre de todas as preocupações. (SCHOPENHAUER, A. Aforismo para a sabedoria da vida. São Paulo: Martins Fontes, 2005.). O trecho destaca uma ideia remanescente de uma tradição filosófica ocidental, segundo a qual a felicidade se mostra indissociavelmente ligada à administração da independência interior.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Batizado por Tancredo Neves de “Nova República”, o período que marca o reencontro do Brasil com os  governos civis e a democracia ainda não completou  seu quinto ano e já viveu dias de grande comoção.  Começou com a tragédia de Tancredo, seguiu pela  euforia do Plano Cruzado, conheceu as depressões da inflação e das ameaças da hiperinflação e desembocou na movimentação que antecede as primeiras eleições diretas para presidente em 29 anos. (O álbum dos presidentes: a história vista pelo JB. Jornal do Brasil, 15 nov. 1989) O período descrito apresenta continuidades e rupturas  em relação à conjuntura histórica anterior. Uma dessas continuidades consistiu na detenção de lideranças populares por crimes de subversão.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "O Rio de Janeiro tem projeção imediata no próprio estado e no Espírito Santo, em parcela do sul do estado  da Bahia, e na Zona da Mata, em Minas Gerais, onde tem influência dividida com Belo Horizonte. Compõem   a rede urbana do Rio de Janeiro, entre outras cidades: Vitória, Juiz de Fora, Cachoeiro de Itapemirim, Campos dos Goytacazes, Volta Redonda - Barra Mansa, Teixeira de Freitas, Angra dos Reis e Teresópolis. (Disponível em: http://ibge.gov.br. Acesso em: 9 jul. 2015. Adaptado) O conceito que expressa a relação entre o espaço apresentado e a cidade do Rio de Janeiro é: área de conurbação.",     
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<P>Ser ou não ser — eis a questão.</p><p>Morrer — dormir — Dormir! Talvez sonhar. Aí está o obstáculo!</p><p>Os sonhos que hão de vir no sono da morte</p><p>Quando tivermos escapado ao tumulto vital</p><p>Nos obrigam a hesitar: e é essa a reflexão</p><p>Que dá à desventura uma vida tão longa.</p> (SHAKESPEARE, W. Hamlet. Porto Alegre: L&PM, 2007.). Este solilóquio pode ser considerado um precursor do existencialismo ao enfatizar a tensão entre: consciência de si e angústia humana.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "A Operação Condor está diretamente vinculada às experiências históricas das ditaduras civil-militares que se disseminaram pelo Cone Sul entre as décadas de 1960 e 1980. Depois do Brasil (e do Paraguai de Stroessner), foi a vez da Argentina (1966), Bolívia (1966 e 1971), Uruguai e Chile (1973) e Argentina (novamente, em 1976). Em todos os casos se instalaram ditaduras civil-militares (em menor ou maior medida) com base na Doutrina de Segurança Nacional e tendo como principais características um anticomunismo militante, a identificação do inimigo interno, a imposição do papel político das Forças Armadas e a definição de fronteiras ideológicas. (PADRÓS, E. S. et al. Ditadura de Segurança Nacional no Rio Grande do Sul (1964-1985): história e memória. Porto Alegre: Corag, 2009.Adaptado) Levando-se em conta o contexto em que foi criada, a referida operação tinha como objetivo coordenar a :repressão de ativistas oposicionistas.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "No início de maio de 2014, a instalação da plataforma petrolífera de perfuração HYSY-981 nas águas contestadas do Mar da China Meridional suscitou especulações sobre as motivações chinesas. Na avaliação de diversos observadores ocidentais, Pequim pretendeu, com esse gesto, demonstrar que pode impor seu controle e dissuadir outros países de seguir com suas reivindicações de direito de exploração dessas águas, como é o caso do Vietnã e das Filipinas. (KLARE, M.T. A guerra pelo petróleo se joga no mar. Le Monde Diplomatique Brasil, abr. 2015.). A ação da China em relação à situação descrita no texto evidencia um conflito que tem como foco na: dinamização da atividade comercial.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "Hoje, a indústria cultural assumiu a herança civilizatória da democracia de pioneiros e empresários, que tampouco desenvolvera uma fineza de sentido para os desvios espirituais. Todos são livres para dançar e para se divertir, do mesmo modo que, desde a neutralização histórica da religião, são livres para entrar em qualquer uma das inúmeras seitas. Mas a liberdade de escolha da ideologia, que reflete sempre a coerção econômica, revela-se em todos os setores como a liberdade de escolher o que é sempre a mesma coisa (ADORNO, T; HORKHEIMER, M. Dialética do esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985). A liberdade de escolha na civilização ocidental, de acordo com a análise do texto, é uma: ilusão da contemporaneidade.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
+    texto: "O coronelismo era fruto de alteração na relação de forças entre os proprietários rurais e o governo, e significava o fortalecimento do poder do Estado antes que o predomínio do coronel. Nessa concepção, o coronelismo é, então, um sistema político nacional, com base em barganhas entre o governo e os coronéis. O coronel tem o controle dos cargos públicos, desde o delegado de polícia até a professora primária. O coronel hipoteca seu apoio ao governo, sobretudo na forma de voto. (CARVALHO, J. M. Pontos e bordados: escritos de história política. Belo Horizonte: Editora UFMG, 1998. Adaptado) No contexto da Primeira República no Brasil, as relações políticas descritas baseavam-se na: disseminação de práticas clientelistas.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
