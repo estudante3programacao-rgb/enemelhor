@@ -900,33 +900,33 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "Em aeroportos, por razões de segurança, os passageiros devem ter suas bagagens de mão examinadas antes do embarque, passando-as em esteiras para sua inspeção por aparelhos de raios X. Nessas inspeções, os passageiros são orientados a retirar seus computadores portáteis (notebooks ou laptops) de malas, mochilas ou bolsas para passá-los isoladamente pela esteira. A explicação física justifica esse procedimento é: Os raios X não atravessam os componentes densos do computador, o que impede a visualização de objetos que estão à frente ou atrás deles.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "Uma agricultora, com a intenção de comercializar o milho recém-colhido, testou uma forma de preservar o sabor adocicado do seu produto. O melhor resultado foi obtido quando ela imergiu as espigas em água fervente durante alguns minutos e, em seguida, em água gelada. Com esse procedimento, parte da glicose do milho não foi transformada em amido, mantendo o seu sabor adocicado. Utilizando esse procedimento, o sabor foi conservado porque houve: desnaturação enzimática pela alta temperatura. ",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "o senso comum, considera-se, ainda hoje, que compostos orgânicos são substâncias presentes nos seres vivos. Na Química, a expressão “compostos orgânicos” tem um uso histórico de mais de 200 anos, adquirindo diferentes conotações ao longo do desenvolvimento dessa ciência. Atualmente, atribui-se a essa expressão outro significado como: formadas a partir de gás carbônico.",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "A tuberculose é uma doença infecciosa causada pela bactéria <i>Mycobacterium tuberculosis.</i> O principal reservatório é o homem, e a sua transmissão ocorre principalmente pela inalação de aerossóis. No Brasil, a doença representa um sério problema de saúde pública e, muitas vezes, está ligada às precárias condições socioeconômicas e sanitárias. Para prevenir a doença, é essencial a adoção de medidas dirigidas ao homem e ao ambiente. (Disponível em: http://portalsaude.saude.gov.br. Acesso em: 15 out. 2015. Adaptado). As práticas eficazes para evitar essa doença são: monitorar os contatos que convivem com o doente e melhorar a qualidade da água.",    
+    resposta: false, 
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "O desenvolvimento da biotecnologia e da clonagem gênica em procariotos fez com que a produção de proteínas se tornasse mais intensa, rápida e econômica. Para a produção de hormônios, enzimas e proteínas de resistência a drogas, uma variação da técnica de reação em cadeia pela polimerase (PCR, na sigla em inglês) utiliza a enzima transcriptase reversa (RT-PCR), que sintetiza moléculas de DNA complementares a partir de fitas de RNA. Nesse contexto, essa técnica é importante para detectar genes expressos.",    
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
+    texto: "Um instituto de pesquisa constatou que, nos últimos dez anos, o crescimento populacional de uma cidade foi de 135,25%. A representação decimal da taxa percentual desse crescimento populacional é: 1,3525.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
