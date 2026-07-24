@@ -1040,12 +1040,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>O soro caseiro serve para combater a desidratação por meio da reposição da água e sais minerais perdidos, por exemplo, por diarreia. Uma receita simples para a sua preparação consiste em utilizar duas colheres grandes (de sopa) de açúcar e duas colheres pequenas (de café) de sal de cozinha, dissolvidos em 2 L de água fervida, obtendo-se uma solução com concentração de íon sódio de 1,4 mg/mL.</p> <p>Considere as massas molares: NaCl = 58,5 g/mol; Na = 23 g/mol.</p> <p>O valor mais próximo da massa, em grama, de cloreto de sódio presente em uma única colher pequena é 3,6 g.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.</p> <p>FRANÇA, F. G. R. [...] <b>serpentes corais em ambientes campestres, savânicos e florestais da América do Sul.</b> Brasília: UnB, 2008 (adaptado).</p> <p>Nas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
