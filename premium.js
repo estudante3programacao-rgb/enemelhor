@@ -1008,7 +1008,217 @@ const perguntasPremium = [
     texto: "Um dos exames clínicos mais tradicionais para medir a capacidade de indivíduos são os reflexos patelares. Esse exame consiste na estimulação da patela, uma pequena pancada no tendão localizado na parte anterior da perna, que provoca a contração do músculo e o levantamento da perna em que o estímulo foi aplicado. A região específica do sistema nervoso coordena essa resposta é a medula.",
     resposta: false,
     dificuldade: "fácil"
-  }
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    difiuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: false,
+    dificuldade: "fácil"
+  },  
 ]; 
 
 let indicePremium = 0;
