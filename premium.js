@@ -1006,22 +1006,22 @@ const perguntasPremium = [
   },
   {
     texto: "Um dos exames clínicos mais tradicionais para medir a capacidade de indivíduos são os reflexos patelares. Esse exame consiste na estimulação da patela, uma pequena pancada no tendão localizado na parte anterior da perna, que provoca a contração do músculo e o levantamento da perna em que o estímulo foi aplicado. A região específica do sistema nervoso coordena essa resposta é a medula.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>— Vejo, disse ele com algum acanhamento, que o doutor não é nenhum pé-rapado, mas nunca é bom facilitar... Minha filha Nocência fez 18 anos pelo Natal, e é rapariga que pela feição parece moça de cidade, muito ariscazinha de modos, mas bonita e boa deveras... Coitada, foi criada sem mãe, e aqui nestes fundões. [...]</p> <p>— Ora muito que bem, continuou Pereira caindo aos poucos na habitual garrulice, quando vi a menina tomar corpo, tratei logo de casá-la.</p> <p>— Ah! é casada? perguntou Cirino.</p> <p>— Isto é, é e não é. A coisa está apalavrada. Por aqui costuma labutar no costeio do gado para São Paulo um homem de mãocheia, qu</p>e talvez o sr. conheça... o Manecão Doca...</p> <p>— Não, respondeu Cirino abanando a cabeça. <p>— Pois isso é um homem às direitas, desempenado e trabucador como ele só... fura estes sertões todos e vem tangendo pontes de gado que metem pasmo. Também dizem que tem bichado muito e ajuntado cobre grosso, o que é possível, porque não é gastador nem dado a mulheres. Uma feita que estava aqui de pousada... olhe, mesmo neste lugar onde estava mecê inda agorinha, falei-lhe em casamento... isto é, dei-lhe uns toques... porque os pais devem tomar isso a si para bem de suas famílias; não acha?</p><p>— Boa dúvida, aprovou Cirino, dou-lhe toda a razão; era do seu dever.</p> <p>TAUNAY, A. d’E. Inocência. Disponível em: www.dominiopublico.gov.br.</p> p>Nesse trecho, ao se referir à sua filha, o pai de Inocência reproduz os ideais românticos, presentes na figura decorativa da mulher ante o protagonismo masculino.</p>", 
+    resposta: true,    
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>O meu medo é entrar na faculdade e tirar zero eu que nunca fui bom de matemática fraco no inglês eu que nunca gostei de química geografia e português o que é que eu faço agora hein mãe não sei. [...]</p> <p>O meu medo é a vida piorar e eu não conseguir arranjar emprego nem de faxineiro nem de porteiro nem de ajudante de pedreiro e o pessoal dizer que o governo já fez o que pôde já pôde o que fez já deu a sua cota de participação hein mãe não sei.</p> <p>O meu medo é que mesmo com diploma debaixo do braço andando por aí desiludido e desempregado o policial me olhe de cara feia e eu acabe fazendo uma burrice sei lá uma besteira será que eu vou ter direito a uma cela especial hein mãe não sei.</p> <p>FREIRE, M. Contos negreiros. Rio de Janeiro: Record, 2005.</p> <p>Nesse texto, a reiteração dos medos e das angústias do narrador exprime; nseguranças sobre o futuro familiar.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
-    resposta: false,
+    texto:"<p>Passando por aqui para lembrar algumas palavras, frases e expressões que nos infernizaram em 2023. Inclusive passando por aqui. Se você for proativo, vai achar que é o novo normal. Estarão na sua zona de conforto. Mas, se for reativo como eu, vai achar que é uma narrativa que precisa ser ressignificada.</p> <p>É uma questão de empatia. É sobre entregar um discurso mais robusto e empoderado. Sei bem que não tenho lugar de fala para harmonizar certos pontos fora da curva e que preciso aplicar toda a minha resiliência para fazer um realinhamento. O nível de fitness está hoje num sarrafo muito alto.</p> <p>O fato é que acho cringe essas falas fora da caixinha. Aliás, falar cringe já é meio cringe. Preciso usar a superação para me reinventar e entender que resenha não tem mais a ver com futebol, é qualquer papo, desde que latente.</p> Pensando bem, não é tão difícil. Frases feitas são aquelas que entram por um ouvido e saem pelo outro sem um estágio intermediário no cérebro. A boca fala por conta própria, dispensando-nos de pensar. E não tem problema nisso. Ou as ditas frases se incorporam à língua ou morrem e nascem outras. A língua é assim. Simples assim.</p> <p>CASTRO, R. Disponível em: www1.folha.uol.com.br. Acesso em: 3 fev. 2024 (adaptado).</p> <p>Nesse texto, a estratégia empregada para criticar a constante exposição a palavras, frases e expressões automatizadas é o(a): humor gerado pelo uso das estruturas linguísticas que são objeto da reflexão desenvolvida.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
