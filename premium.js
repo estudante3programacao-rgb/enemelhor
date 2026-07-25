@@ -390,7 +390,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado. (B’SABER, A. Amazônia: do discurso à práxis. São Paulo: EdUSP, 1996)<p>Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.</p>",
+    texto: "A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.(AB’SABER, A.<b>Amazônia: do discurso à práxis.</b> São Paulo: EdUSP, 1996)<p>Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1050,27 +1050,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>No mundo árabe, países governados há décadas por regimes políticos centralizadores contabilizam metade da população com menos de 30 anos; desses, 56% têm acesso à internet. Sentindo-se sem perspectivas de futuro e diante da estagnação da economia, esses jovens incubam vírus sedentos por modernidade e democracia. Em meados de dezembro, um tunisiano de 26 anos, vendedor de frutas, põe fogo no próprio corpo em protesto por trabalho, justiça e liberdade. Uma série de manifestações eclode na Tunísia e, como uma epidemia, o vírus libertário começa a se espalhar pelos países vizinhos, derrubando em seguida o presidente do Egito, Hosni Mubarak. Sites e redes sociais – como o Facebook e o Twitter – ajudaram a mobilizar manifestantes do norte da África a ilhas do Golfo Pérsico.</P> <p>SEQUEIRA, C. D.; VILLAMÉA, L. A epidemia da Liberdade. Istoé Internacional. 2 mar. 2011 (adaptado).</p><p>Considerando os movimentos políticos mencionados no texto, o acesso à internet permitiu aos jovens árabes: difundir ideias revolucionárias que mobilizaram a população.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>O brasileiro tem noção clara dos comportamentos éticos e morais adequados, mas vive sob o espectro da corrupção, revela pesquisa. Se o país fosse resultado dos padrões morais que as pessoas dizem aprovar, pareceria mais com a Escandinávia do que com Bruzundanga (corrompida nação fictícia de Lima Barreto).</p> <p>FRAGA, P. Ninguém é inocente. Folha de S. Paulo. 4 out. 2009 (adaptado). <p> O distanciamento entre “reconhecer” e “cumprir” efetivamente o que é moral constitui uma ambiguidade inerente ao humano, porque as normas morais são: decorrentes da vontade divina e, por esse motivo, utópicas </p>",     
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna. SANTOS, M. A Urbanização Brasileira. São Paulo: EdUSP, 2005 (adaptado).</p> <p>O texto trata da ocupação de uma parcela do território brasileiro. O processo econômico diretamente associado a essa ocupação foi o avanço da fronteira agropecuária que degradou parte do cerrado. </p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>Um dos principais objetivos de se dar continuidade às pesquisas em erosão dos solos é o de procurar resolver os problemas oriundos desse processo, que, em última análise, geram uma série de impactos ambientais. Além disso, para a adoção de técnicas de conservação dos solos, é preciso conhecer como a água executa seu trabalho de remoção, transporte e deposição de sedimentos. A erosão causa, quase sempre, uma série de problemas ambientais, em nível local ou até mesmo em grandes áreas. GUERRA, A. J. T. Processos erosivos nas encostas. In: GUERRA, A. J. T.; CUNHA, S. B. <b>Geomorfologia:</b> uma atualização de bases e conceitos. Rio de Janeiro: Bertrand Brasil, 2007 (adaptado).</p> A preservação do solo, principalmente em áreas de encostas, pode ser uma solução para evitar catástrofes em função da intensidade de fluxo hídrico. A prática humana que segue no caminho contrário a essa solução é o: desmatamento.",    
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
+    texto:"<p>O fenômeno de ilha de calor é o exemplo mais marcante da modificação das condições iniciais do clima pelo processo de urbanização, caracterizado pela modificação do solo e pelo calor antropogênico, o qual inclui todas as atividades humanas inerentes à sua vida na cidade. BARBOSA, R. V. R. <b>Áreas verdes e qualidade térmica em ambientes urbanos:</b> estudo em microclimas em Maceió. São Paulo: EdUSP, 2005.</p> <p>O texto exemplifica uma importante alteração socioambiental, comum aos centros urbanos. A maximização desse fenômeno ocorre: pela recomposição de áreas verdes nas áreas centrais dos centros urbanos.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
