@@ -1080,38 +1080,38 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Em 1872, Robert Angus Smith criou o termo “chuva ácida”, descrevendo precipitações ácidas em Manchester após a Revolução Industrial. Trata-se do acúmulo demasiado de dióxido de carbono e enxofre na atmosfera que, ao reagirem com compostos dessa camada, formam gotículas de chuva ácida e partículas de aerossóis. A chuva ácida não necessariamente ocorre no local poluidor, pois tais poluentes, ao serem lançados na atmosfera, são levados pelos ventos, podendo provocar a reação em regiões distantes. A água de forma pura apresenta pH 7, e, ao contatar agentes poluidores, reage modificando seu pH para 5,6 e até menos que isso, o que provoca reações, deixando consequências. Disponível em: http://www.brasilescola.com. Acesso em: 18 maio 2010 (adaptado).</p> <p>O texto aponta para um fenômeno atmosférico causador de graves problemas ao meio ambiente: a chuva ácida (pluviosidade com pH baixo). Esse fenômeno tem como consequência: a diminuição do aquecimento global, já que esse tipo de chuva retira poluentes da atmosfera.</p> ",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Estamos testemunhando o reverso da tendência histórica da assalariação do trabalho e socialização da produção, que foi característica predominante na era industrial. A nova organização social e econômica baseada nas tecnologias da informação visa à administração descentralizadora, ao trabalho individualizante e aos mercados personalizados. As novas tecnologias da informação possibilitam, ao mesmo tempo, a descentralização das tarefas e sua coordenação em uma rede interativa de comunicação em tempo real, seja entre continentes, seja entre os andares de um mesmo edifício. CASTELLS, M. A sociedade em rede. São Paulo: Paz e Terra, 2006 (adaptado).</p> <p>No contexto descrito, as sociedades vivenciam mudanças constantes nas ferramentas de comunicação que afetam os processos produtivos nas empresas. Na esfera do trabalho, tais mudanças têm provocado: avanço do trabalho flexível e da terceirização como respostas às demandas por inovação e com vistas à mobilidade dos investimentos</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Jogar baralho é uma atividade que estimula o raciocínio. Um jogo tradicional é a Paciência, que utiliza 52 cartas. Inicialmente são formadas sete colunas com as cartas. A primeira coluna tem uma carta, a segunda tem duas cartas, a terceira tem três cartas, a quarta tem quatro cartas, e assim sucessivamente até a sétima coluna, a qual tem sete cartas, e o que sobra forma o monte, que são as cartas não utilizadas nas colunas.</p> A quantidade de cartas que forma o monte é de 24 cartas.",     
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas. Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de: 12 kg</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>O esporte de alta competição da atualidade produziu uma questão ainda sem resposta: Qual é o limite do corpo humano? O maratonista original, o grego da lenda, morreu de fadiga por ter corrido 42 quilômetros. O americano Dean Karnazes, cruzando sozinho as planícies da Califórnia, conseguiu correr dez vezes mais em 75 horas. Um professor de Educação Física, ao discutir com a turma o texto sobre a capacidade do maratonista americano, desenhou na lousa uma pista reta de 60 centímetros, que representaria o percurso referido. Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2011 (adaptado).</p> <p>Se o percurso de Dean Karnazes fosse também em uma pista reta. A escala entre a pista feita pelo professor e a percorrida pelo atleta: 1:700</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>Há, em virtude da demanda crescente de economia de água, equipamentos e utensílios como, por exemplo, as bacias sanitárias ecológicas, que utilizam 6 litros de água por descarga em vez dos 15 litros utilizados por bacias sanitárias não ecológicas, conforme dados da Associação Brasileira de Normas Técnicas (ABNT). A economia diária de água obtida por meio da substituição de uma bacia sanitária não ecológica, que gasta cerca de 60 litros por dia com a descarga, por uma bacia sanitária ecológica é: 36 litros.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
-    resposta: false,
+    texto:"<p>Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k.m<sup>2</sup>3</sup> , em que k é uma constante positiva. Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal de: 4</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
