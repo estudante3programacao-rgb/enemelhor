@@ -1075,7 +1075,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:`<p><img src: "augustifolia.png" Disponível em: https://www.ra-bugio.org.br/downloads/cartilha_mata_atlantica.pdf?utm_source=chatgpt.com Acesso em: 25 jul. 2026.></p><p>A imagem retrata a araucária, árvore que faz parte de um importante bioma brasileiro que, no entanto, já foi bastante degradado pela ocupação humana. Uma das formas de intervenção humana relacionada à degradação desse bioma foi: o processo de desmatamento motivado pela expansão da atividade canavieira no Nordeste brasileiro.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
