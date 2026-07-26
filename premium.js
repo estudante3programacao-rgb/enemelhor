@@ -1130,23 +1130,23 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Um paciente necessita de reidratação endovenosa feita por meio de cinco frascos de soro durante 24 h. Cada frasco tem um volume de 800 mL de soro. Nas primeiras quatro horas, deverá receber 40% do total a ser aplicado. Cada mililitro de soro corresponde a 12 gotas.</p> <p>O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será 40.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Sob a orientação de um mestre de obras, João e Pedro trabalharam na reforma de um edifício. João efetuou reparos na parte hidráulica nos andares 1, 3, 5, 7, e assim sucessivamente, de dois em dois andares. Pedro trabalhou na parte elétrica nos andares 1, 4, 7, 10, e assim sucessivamente, de três em três andares. Coincidentemente, terminaram seus trabalhos no último andar. Na conclusão da reforma, o mestre de obras informou, em seu relatório, o número de andares do edifício. Sabe-se que, ao longo da execução da obra, em exatamente 20 andares, foram realizados reparos nas partes hidráulica e elétrica por João e Pedro.</p> <p>Qual é o número de andares desse edifício: 60.<p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p><b>BONS DIAS!</b></p><p>14 de junho de 1889</p><p>Ó doce, ó longa, ó inexprimível melancolia dos jornais velhos! Conhece-se um homem diante de um deles. Pessoa que não sentir alguma coisa ao ler folhas de meio século, bem pode crer que não terá nunca uma das mais profundas sensações da vida, — igual ou quase igual à que dá a vista das ruínas de uma civilização. Não é a saudade piegas, mas a recomposição do extinto, a revivescência do passado. ASSIS, M. Bons dias! (Crônicas 1888-1889). Campinas: Editora da Unicamp; São Paulo: Hucitec, 1990.</p> <p>O jornal impresso é parte integrante do que hoje se compreende por tecnologias de informação e comunicação. Nesse texto, o jornal é reconhecido como: instrumento de reconstrução da memória.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>É possível considerar as modalidades esportivas coletivas dentro de uma mesma lógica, pois possuem uma estrutura comum: seis princípios operacionais divididos em dois grupos, o ataque e a defesa. Os três princípios operacionais de ataque são: conservação individual e coletiva da bola, progressão da equipe com a posse da bola em direção ao alvo adversário e finalização da jogada, visando a obtenção de ponto. Os três princípios operacionais da defesa são: recuperação da bola, impedimento do avanço da equipe contrária com a posse da bola e proteção do alvo para impedir a finalização da equipe adversária. DAOLIO, J. Jogos esportivos coletivos: dos princípios operacionais aos gestos técnicos — modelo pendular a partir das ideias de Claude Bayer. Revista Brasileira de Ciência e Movimento, out. 2002 (adaptado).</p> <p>Considerando os princípios expostos no texto, o drible no handebol caracteriza o princípio de progressão da equipe com a posse de bola em direção ao alvo adversário.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
