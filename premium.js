@@ -1150,18 +1150,18 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p> O skate apareceu como forma de vivência no lazer e consolidou-se como prática esportiva na década de 1960, quando jovens californianos improvisavam "pranchas" feitas de patins pregados numa madeira qualquer para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando a empresa norte-americana Cadillac Wheels descobriu a roda de poliuretano, material mais leve e flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas. MACHADO, G.; AMARAL, S. C. F. O skate e as possibilidades educacionais. Motriz, v. 16, n. 3, 2010 (adaptado).</p> De acordo com o texto, diversos fatores ao longo do tempo: definiram a carreira de skatista profissional.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns religiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na prática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou boticário. GURGEL, C. Doenças e curas: o Brasil nos primeiros séculos. São Paulo: Contexto, 2010 (adaptado).</p><p>Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a: superação da tradição popular.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>As grandes empresas seriam, certamente, representação de um exercício de poder, ante o grau de autonomia de ação de que dispõem. O que se pretende salientar é a ideia de enclave: plantas industriais que estabelecem relações escassas com o entorno, mas exercem grande influência na economia local. LIMONAD, E. Estado do Rio de Janeiro: o urbano metropolitano. Hipóteses e questões. GeoUERJ, n. 21, 2010.</p><p> O tipo de ação tomada por empresas referente à forma de territorialização da produção industrial apresentada no texto é: importação de mão de obra especializada.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
