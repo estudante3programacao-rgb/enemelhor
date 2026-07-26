@@ -750,7 +750,7 @@ const perguntasPremium = [
     dificuldade: "fácil"      
   },
   {
-    texto:"Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista. (LAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.). Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto apresentar o ponto de vista da autora.",
+    texto:"<p>Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista. (LAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.)</p><p>Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto apresentar o ponto de vista da autora.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1115,18 +1115,18 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no fim do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego pyr, significando ‘fogo’, e lampas, ‘candeia’. FERREIRA, M. B. Caminhos do português: exposição comemorativa do Ano Europeu das Línguas. Portugal: Biblioteca Nacional, 2001 (adaptado).</p> <p>O texto descreve a mudança ocorrida na nomeação do inseto, por questões de tabu linguístico. Esse tabu diz respeito à: produção imprópria de poetas portugueses.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>Primeira lição Os gêneros de poesia são: lírico, satírico, didático, épico, ligeiro.</p> <p>O gênero lírico compreende o lirismo.</p> <p>Lirismo é a tradução de um sentimento subjetivo, sincero e pessoal.</p> <p>É a linguagem do coração, do amor.</p> <p>O lirismo é assim denominado porque em outros tempos os versos sentimentais eram declamados ao som da lira.</p> <p>O lirismo pode ser:</p> <p>a) Elegíaco, quando trata de assuntos tristes, quase sempre a morte.</p> <p>b) Bucólico, quando versa sobre assuntos campestres.<p> <p>c) Erótico, quando versa sobre o amor.</p> <p>O lirismo elegíaco compreende a elegia, a nênia, a endecha, o epitáfio e o epicédio.</p> <p>Elegia é uma poesia que trata de assuntos tristes.</p> <p>Nênia é uma poesia em homenagem a uma pessoa morta.</p> <p>Era declamada junto à fogueira onde o cadáver era incinerado.</p> <p>Endecha é uma poesia que revela as dores do coração.</p> <p>Epitáfio é um pequeno verso gravado em pedras tumulares.</p> <p>Epicédio é uma poesia onde o poeta relata a vida de uma pessoa morta. CESAR, A. C. Poética. São Paulo: Companhia das Letras, 2013.</p> <p>No poema de Ana Cristina Cesar, a relação entre as definições apresentadas e o processo de construção do texto indica que o tom explicativo e contido constitui uma forma peculiar de expressão poética.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p><b>Lições de motim</b></p> <p>DONA COTINHA — É claro! Só gosta de solidão quem nasceu pra ser solitário. Só o solitário gosta de solidão. Quem vive só e não gosta da solidão não é um solitário, é só um desacompanhado. (A reflexão escorrega lá pro fundo da alma.) Solidão é vocação, besta de quem pensa que é sina. Por isso, tem de ser valorizada. E não é qualquer um que pode ser solitário, não. Ah, mas não é mesmo! É preciso ter competência pra isso. (De súbito, pedagógica, volta-se para o homem.) É como poesia, sabe, moço? Tem de ser recitada em voz alta, que é pra gente sentir o gosto. (FAZ UMA PAUSA.) Você gosta de poesia? (O HOMEM TORNA A SE DEBATER. A VELHA INTERROMPE O DISCURSO E VOLTA A LHE DAR AS COSTAS, COMO SEMPRE, IMPASSÍVEL. O HOMEM MAIS UMA VEZ, CANSADO, DESISTE.) Bem, como eu ia dizendo, pra viver bem com a solidão temos de ser proprietários dela e não inquilinos, me entende? Quem é inquilino da solidão não passa de um abandonado. É isso aí. ZORZETTI, H. Lições de motim. Goiânia: Kelps, 2010 (adaptado)</p><p>Nesse trecho, o que caracteriza Lições de motim como texto teatral é: uso de rubricas para construir a ação dramática.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
