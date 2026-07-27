@@ -1165,57 +1165,57 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Durante a realização de uma partida de futebol, os jogadores perceberam que a bola estava murcha. Para calibrar a bola, um jogador utilizou uma bomba pneumática manual, composta por um êmbolo que desliza no interior de um cilindro feito de plástico. No processo de calibração da bola, o jogador percebeu que a parte final da bomba em contato com sua mão, e que fica mais próxima ao bico da bomba, ficou bem quente.</p><p>O significativo aquecimento notado pelo jogador deve-se ao aumento da energia interna do ar contido na bomba a cada compressão promovida</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus. OLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.</p> <p>A técnica para gerar essa leguminosa é um exemplo de: melhoramento genético.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre. BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado).</p> <p>Esses espetáculos promovem riscos ambientais, porque: os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica </p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>Há muitos mitos em relação a como se proteger de raios, cobrir espelhos e não pegar em facas, garfos e outros objetos metálicos, por exemplo. Mas, de fato, se houver uma tempestade com raios, alguns cuidados são importantes, como evitar ambientes abertos. Um bom abrigo para proteção é o interior de um automóvel, desde que este não seja conversível. OLIVEIRA, A. Raios nas tempestades de verão. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 10 dez. 2014 (adaptado).</p><p>O motivo físico da proteção fornecida pelos automóveis, conforme citado no texto é: blindagem pela carcaça metálica</p>", 
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>Os manuais de refrigerador apresentam a recomendação de que o equipamento não deve ser instalado próximo a fontes de calor, como fogão e aquecedores, ou em local onde incida diretamente a luz do sol. A instalação em local inadequado prejudica o funcionamento do refrigerador e aumenta o consumo de energia.</p> <p>O não atendimento dessa recomendação resulta em aumento do consumo de energia porque: a liquefação da substância refrigerante no condensador exige mais trabalho do compressor.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
+    texto:"<p>A Química Verde é um ramo da química que prega o desenvolvimento de processos eficientes, que transformem a maior parte do reagente em produto, de forma mais rápida e seletiva, que utilizem poucos reagentes, que produzam somente o produto desejado, evitando a formação de coprodutos, e que utilizem solventes não agressivos ao meio ambiente. Assim, as indústrias contornariam problemas relacionados à poluição ambiental e ao desperdício de água e energia.</p> <p>O perfil de um processo que segue todos os princípios desse ramo da química pode ser representado por: A + <sup>1</sup>/<sub>2</sub> B → C</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
-    resposta: false,
+    texto:"<p>Em 2011, uma falha no processo de perfuração realizado por uma empresa petrolífera ocasionou derramamento de petróleo na bacia hidrográfica de Campos, no Rio de Janeiro.</p> <p>Os impactos decorrentes desse derramamento ocorrem porque os componentes do petróleo: têm caráter hidrofóbico e baixa densidade, impedindo as trocas gasosas entre o meio aquático e a atmosfera.</p>",
+    resposta: true,
     difiuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>Grandes reservatórios de óleo leve de melhor qualidade e que produz petróleo mais fino foram descobertos no litoral brasileiro numa camada denominada pré-sal, formada há 150 milhões de anos.</p> <p>A utilização desse recurso energético acarreta para o ambiente um desequilíbrio no ciclo do: fósforo.</P>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<P> O dióxido de carbono passa para o estado sólido (gelo seco) a -78 °C e retorna ao estado gasoso à temperatura ambiente. O gás é facilmente solubilizado em água, capaz de absorver radiação infravermelha da superfície da terra e não conduz eletricidade. Ele é utilizado como matéria-prima para a fotossíntese até o limite de saturação. Após a fixação pelos organismos autotróficos, o gás retorna ao meio ambiente pela respiração aeróbica, fermentação, decomposição ou por resíduos industriais, queima de combustíveis fósseis e queimadas. Apesar da sua importância ecológica, seu excesso causa perturbações no equilíbrio ambiental.</p> <p>Considerando as propriedades descritas, o aumento atmosférico da substância afetará os organismos aquáticos em razão da: redução do potencial hidrogeniônico da água.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Grupos de proteção ao meio ambiente conseguem resgatar muitas aves aquáticas vítimas de vazamentos de petróleo. Essas aves são lavadas com água e detergente neutro para a retirada completa do óleo de seu corpo e, posteriormente, são aquecidas, medicadas, desintoxicadas e alimentadas. Mesmo após esses cuidados, o retorno ao ambiente não pode ser imediato, pois elas precisam recuperar a capacidade de flutuação.</p> <p>Para flutuar, essas aves precisam: estaurar a massa corporal.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto:"",
+    texto:"<p>Aranhas, escorpiões, carrapatos e ácaros são representantes da classe dos Aracnídeos. Esses animais são terrestres em sua grande maioria e ocupam os mais variados hábitats, tais como montanhas altas, pântanos, desertos e solos arenosos. Podem ter sido os primeiros representantes do filo Arthropoda a habitar a terra seca.</p> <p>A característica que justifica o sucesso adaptativo desse grupo na ocupação do ambiente terrestre é a presença de: excreção de ácido úrico que confere estabilidade ao pH corporal.</p>",
     resposta: false,
     dificuldade: "fácil"
   },  
