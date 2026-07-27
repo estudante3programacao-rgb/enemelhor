@@ -1141,7 +1141,7 @@ const perguntasPremium = [
   },
   {
     texto:"<p><b>BONS DIAS!</b></p><p>14 de junho de 1889</p><p>Ó doce, ó longa, ó inexprimível melancolia dos jornais velhos! Conhece-se um homem diante de um deles. Pessoa que não sentir alguma coisa ao ler folhas de meio século, bem pode crer que não terá nunca uma das mais profundas sensações da vida, — igual ou quase igual à que dá a vista das ruínas de uma civilização. Não é a saudade piegas, mas a recomposição do extinto, a revivescência do passado. ASSIS, M. Bons dias! (Crônicas 1888-1889). Campinas: Editora da Unicamp; São Paulo: Hucitec, 1990.</p> <p>O jornal impresso é parte integrante do que hoje se compreende por tecnologias de informação e comunicação. Nesse texto, o jornal é reconhecido como: instrumento de reconstrução da memória.</p>", 
-    resposta: false,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
