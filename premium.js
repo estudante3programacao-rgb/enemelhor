@@ -1219,6 +1219,56 @@ const perguntasPremium = [
     resposta: false,
     dificuldade: "fácil"
   },  
+  {
+    texto:`<p> A Declaração Universal dos Direitos Humanos está completando 70 anos em tempos de desafios crescentes, quando o ódio, a discriminação e a violência permanecem vivos”, disse a diretora-geral da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), Audrey Azoulay.</p> <p>“Ao final da Segunda Guerra Mundial, a humanidade inteira resolveu promover a dignidade humana em todos os lugares e para sempre. Nesse espírito, as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos como um padrão comum de conquistas para todos os povos e todas as nações”, disse Audrey.</p> <p>“Centenas de milhões de mulheres e homens são destituídos e privados de condições básicas de subsistência e de oportunidades. Movimentos populacionais forçados geram violações aos direitos em uma escala sem precedentes. A Agenda 2030 para o Desenvolvimento Sustentável promete não deixar ninguém para trás – e os direitos humanos devem ser o alicerce para todo o progresso.”</p> <p>Segundo ela, esse processo precisa começar o quanto antes nas carteiras das escolas. Diante disso, a Unesco lidera a educação em direitos humanos para assegurar que todas as meninas e meninos saibam seus direitos e os direitos dos outros. Disponível em: https://nacoesunidas.org. Acesso em: 3 abr. 2018 (adaptado).</p> <p>Defendendo a ideia de que “os direitos humanos devem ser o alicerce para todo o progresso”, a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a: discussão desse tema desde a educação básica.</p>`,
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>A história do futebol é uma triste viagem do prazer ao dever. [...] O jogo se transformou em espetáculo, com poucos protagonistas e muitos espectadores, futebol para olhar, e o espetáculo se transformou num dos negócios mais lucrativos do mundo, que não é organizado para ser jogado, mas para impedir que se jogue. A tecnocracia do esporte profissional foi impondo um futebol de pura velocidade e muita força, que renuncia à alegria, atrofia a fantasia e proíbe a ousadia. Por sorte ainda aparece nos campos, [...] algum atrevido que sai do roteiro e comete o disparate de driblar o time adversário inteirinho, além do juiz e do público das arquibancadas, pelo puro prazer do corpo que se lança na proibida aventura da liberdade. GALEANO, E. Futebol ao sol e à sombra. Porto Alegre: L&PM Pockets, 1995 (adaptado).</p> <p>O texto indica que as mudanças nas práticas corporais, especificamente no futebol: fomentaram uma tecnocracia, promovendo uma vivência mais lúdica e irreverente.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>A trajetória de Liesel Meminger é contada por uma narradora mórbida, surpreendentemente simpática. Ao perceber que a pequena ladra de livros lhe escapa, a Morte afeiçoa-se à menina e rastreia suas pegadas de 1939 a 1943. Traços de uma sobrevivente: a mãe comunista, perseguida pelo nazismo, envia Liesel e o irmão para o subúrbio pobre de uma cidade alemã, onde um casal se dispõe a adotá-los por dinheiro. O garoto morre no trajeto e é enterrado por um coveiro que deixa cair um livro na neve. É o primeiro de uma série que a menina vai surrupiar ao longo dos anos. O único vínculo com a família é esta obra, que ela ainda não sabe ler.</p> <p>A vida ao redor é a pseudorrealidade criada em torno do culto a Hitler na Segunda Guerra. Ela assiste à eufórica celebração do aniversário do Führer pela vizinhança. A Morte, perplexa diante da violência humana, dá um tom leve e divertido à narrativa deste duro confronto entre a infância perdida e a crueldade do mundo adulto, um sucesso absoluto – e raro – de crítica e público. Disponível em: www.odevoradordelivros.com. Acesso em: 24 jun. 2014.</p> <p>Os gêneros textuais podem ser caracterizados, dentre // outros fatores, por seus objetivos. Esse fragmento é um(a): resenha, pois apresenta uma produção intelectual de forma crítica.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>A tribo não possui um rei, mas um chefe que não é chefe de Estado. O que significa isso? Simplesmente que o chefe não dispõe de nenhuma autoridade, de nenhum poder de coerção, de nenhum meio de dar uma ordem. O chefe não é um comandante, as pessoas da tribo não têm nenhum dever de obediência. O espaço da chefia não é o lugar do poder. Essencialmente encarregado de eliminar conflitos que podem surgir entre indivíduos, famílias e linhagens, o chefe só dispõe, para restabelecer a ordem e a concórdia, do prestígio que lhe reconhece a sociedade. Mas evidentemente prestígio não significa poder, e os meios que o chefe detém para realizar sua tarefa de pacificador limitam-se ao uso exclusivo da palavra. CLASTRES, P. A sociedade contra o Estado. Rio de Janeiro: Francisco Alves, 1982 (adaptado).</p> <p>O modelo político das sociedades discutidas no texto contrasta com o do Estado liberal burguês porque se baseia em: intervenção consensual e autonomia comunitária</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>A existência em Jerusalém de um hospital voltado para o alojamento e o cuidado dos peregrinos, assim como daqueles entre eles que estavam cansados ou doentes, fortaleceu o elo entre a obra de assistência e de caridade e a Terra Santa. Ao fazer, em 1113, do Hospital de Jerusalém um estabelecimento central da ordem, Pascoal II estimulava a filiação dos hospitalários do Ocidente a ele, sobretudo daqueles que estavam ligados à peregrinação na Terra Santa ou em outro lugar. A militarização do Hospital de Jerusalém não diminuiu a vocação caritativa primitiva, mas a fortaleceu. DEMURGER, A. Os Cavaleiros de Cristo. Rio de Janeiro: Jorge Zahar, 2002 (adaptado).</p> <p>O acontecimento descrito vincula-se ao fenômeno ocidental do(a): surgimento do monasticismo guerreiro, ocasionado pelas cruzadas. </p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>O filósofo reconhece-se pela posse inseparável do gosto da evidência e do sentido da ambiguidade. Quando se limita a suportar a ambiguidade, esta se chama equívoco. Sempre aconteceu que, mesmo aqueles que pretenderam construir uma filosofia absolutamente positiva, só conseguiram ser filósofos na medida em que, simultaneamente, se recusaram o direito de se instalar no saber absoluto. O que caracteriza o filósofo é o movimento que leva incessantemente do saber à ignorância, da ignorância ao saber, e um certo repouso neste movimento. MERLEAU-PONTY, M. Elogio da filosofia. Lisboa: Guimarães, 1998 (adaptado).</p> <p>O texto apresenta um entendimento acerca dos elementos constitutivos da atividade do filósofo, que se caracteriza por: associar a certeza do intelecto à imutabilidade da verdade.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Desde que tenhamos compreendido o significado da palavra “Deus”, sabemos, de imediato, que Deus existe. Com efeito, essa palavra designa uma coisa de tal ordem que não podemos conceber nada que lhe seja maior. Ora, o que existe na realidade e no pensamento é maior do que o que existe apenas no pensamento. Donde se segue que o objeto designado pela palavra “Deus”, que existe no pensamento, desde que se entenda essa palavra, também existe na realidade. Por conseguinte, a existência de Deus é evidente. TOMÁS DE AQUINO. Suma teológica. Rio de Janeiro: Loyola, 2002. </p> <p>O texto apresenta uma elaboração teórica de Tomás de Aquino caracterizada por: sustentar racionalmente doutrina alicerçada na fé.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Foi-se o tempo em que era possível mostrar um mundo econômico organizado em camadas bem definidas, onde grandes centros urbanos se ligavam, por si próprios, a economias adjacentes “lentas”, com o ritmo muito mais rápido do comércio e das finanças de longo alcance. Hoje tudo ocorre como se essas camadas sobrepostas estivessem mescladas e interpermeadas. Interdependências de curto e longo alcance não podem mais ser separadas umas das outras. BRENNER, N. A globalização como reterritorialização. Cadernos Metrópole, n. 24, jul.-dez. 2010 (adaptado).</p> <p>A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela: consolidação de domínios jurídicos.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Os soviéticos tinham chegado a Cuba muito cedo na década de 1960, esgueirando-se pela fresta aberta pela imediata hostilidade norte-americana em relação ao processo social revolucionário. Durante três décadas os soviéticos mantiveram sua presença em Cuba com ses e ajuda militar, mas, sobretudo, com todo o apoio econômico que, como saberíamos anos mais tarde, mantinha o país à tona, embora nos deixasse em dívida com os irmãos soviéticos – e depois com seus herdeiros russos – por cifras que chegavam a US$ 32 bilhões. Ou seja, o que era oferecido em nome da solidariedade socialista tinha um preço definido. PADURA, L. Cuba e os russos. Folha de São Paulo, 19 jul. 2014 (adaptado).</p> <p>O texto indica que durante a Guerra Fria as relações internas em um mesmo bloco foram marcadas pela: subordinação à potência hegemônica.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>A poetisa Emília Freitas subiu a um palanque, nervosa, pedindo desculpas por não possuir títulos nem conhecimentos, mas orgulhosa ofereceu a sua pena que “sem ser hábil, é, em compensação, guiada pelo poder da vontade”. Maria Tomásia pronunciava orações que levantavam os ouvintes. A escritora Francisca Clotilde arrebatava, declamando seus poemas. Aquelas “angélicas senhoras”, “heroínas da caridade”, levantavam dinheiro para comprar liberdades e usavam de seu entusiasmo a fim de convencer os donos de escravos a fazerem alforrias gratuitamente. MIRANDA, A. Disponível em: www.opovoonline.com.br. Acesso em: 10 jun. 2015.</p> <p>As práticas culturais narradas remetem, historicamente, ao movimento: abolicionista.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  }
 ]; 
 
 let indicePremium = 0;
@@ -1232,7 +1282,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 5;
+const ultimoNivelDisponivel = 6;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
