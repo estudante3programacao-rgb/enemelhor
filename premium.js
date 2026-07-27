@@ -1110,7 +1110,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k.m<sup>2</sup>3</sup> , em que k é uma constante positiva. Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal de: 4.</p>",
+    texto:"<p>Dentre outros objetos de pesquisa, a Alometria estuda a relação entre medidas de diferentes partes do corpo humano. Por exemplo, segundo a Alometria, a área A da superfície corporal de uma pessoa relaciona-se com a sua massa m pela fórmula A = k.m<sup>2</sup>/<sup>3</sup>, em que k é uma constante positiva. Se no período que vai da infância até a maioridade de um indivíduo sua massa é multiplicada por 8, por quanto será multiplicada a área da superfície corporal de: 4.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1130,7 +1130,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Um paciente necessita de reidratação endovenosa feita por meio de cinco frascos de soro durante 24 h. Cada frasco tem um volume de 800 mL de soro. Nas primeiras quatro horas, deverá receber 40% do total a ser aplicado. Cada mililitro de soro corresponde a 12 gotas.</p> <p>O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será 40.</p>",
+    texto:"<p>Um paciente necessita de reidratação endovenosa feita por meio de cinco frascos de soro durante 24 h. Cada frasco tem um volume de 800 mL de soro. Nas primeiras quatro horas, deverá receber 40% do total a ser aplicado. Cada mililitro de soro corresponde a 12 gotas.</p><p>O número de gotas por minuto que o paciente deverá receber após as quatro primeiras horas será 40.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1150,7 +1150,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:texto: `<p>O skate apareceu como forma de vivência no lazer e consolidou-se como prática esportiva na década de 1960, quando jovens californianos improvisavam "pranchas" feitas de patins pregados numa madeira qualquer para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando a empresa norte-americana Cadillac Wheels descobriu a roda de poliuretano, material mais leve e flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas. MACHADO, G.; AMARAL, S. C. F. O skate e as possibilidades educacionais. Motriz, v. 16, n. 3, 2010 (adaptado).</p><p>De acordo com o texto, diversos fatores ao longo do tempo: definiram a carreira de skatista profissional.</p>`
+    texto:`<p>O skate apareceu como forma de vivência no lazer e consolidou-se como prática esportiva na década de 1960, quando jovens californianos improvisavam "pranchas" feitas de patins pregados numa madeira qualquer para sua composição, sendo as rodas de borracha ou ferro. O grande marco na história do skate ocorreu em 1974, quando a empresa norte-americana Cadillac Wheels descobriu a roda de poliuretano, material mais leve e flexível, que oferecia mais aderência às rodas. A dependência dos skatistas em relação a esse novo material igualmente alavancou o surgimento de novas manobras e possibilitou a um maior número de pessoas inexperientes começar a prática dessa modalidade. O resultado foi a criação de campeonatos, marcas, fábricas e lojas especializadas. MACHADO, G.; AMARAL, S. C. F. O skate e as possibilidades educacionais. Motriz, v. 16, n. 3, 2010 (adaptado).</p><p>De acordo com o texto, diversos fatores ao longo do tempo: definiram a carreira de skatista profissional.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
