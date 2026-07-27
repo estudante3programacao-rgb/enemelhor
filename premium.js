@@ -1055,7 +1055,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>O brasileiro tem noção clara dos comportamentos éticos e morais adequados, mas vive sob o espectro da corrupção, revela pesquisa. Se o país fosse resultado dos padrões morais que as pessoas dizem aprovar, pareceria mais com a Escandinávia do que com Bruzundanga (corrompida nação fictícia de Lima Barreto).</p> <p>FRAGA, P. Ninguém é inocente. Folha de S. Paulo. 4 out. 2009 (adaptado). <p> O distanciamento entre “reconhecer” e “cumprir” efetivamente o que é moral constitui uma ambiguidade inerente ao humano, porque as normas morais são: decorrentes da vontade divina e, por esse motivo, utópicas </p>",     
+    texto:"<p>O brasileiro tem noção clara dos comportamentos éticos e morais adequados, mas vive sob o espectro da corrupção, revela pesquisa. Se o país fosse resultado dos padrões morais que as pessoas dizem aprovar, pareceria mais com a Escandinávia do que com Bruzundanga (corrompida nação fictícia de Lima Barreto).</p> <p>FRAGA, P. Ninguém é inocente. Folha de S. Paulo. 4 out. 2009 (adaptado). <p> O distanciamento entre “reconhecer” e “cumprir” efetivamente o que é moral constitui uma ambiguidade inerente ao humano, porque as normas morais são: decorrentes da vontade divina e, por esse motivo, utópicas.</p>",     
     resposta: false,
     dificuldade: "fácil"
   },
