@@ -1330,27 +1330,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>Os pesticidas naturais vêm sendo utilizados no controle de pragas e doenças agrícolas como substituintes de pesticidas sintéticos tradicionais, por serem menos nocivos ao ambiente, biodegradáveis e minimizarem custos e riscos relativos à lavoura. Por exemplo, os compostos 1 e 2 estão envolvidos nas respostas de defesa das plantas. Os grupos funcionais presentes nesses compostos são importantes para suas propriedades no controle de pragas.</p><img src="cooh.png"></p><p>PINTO-ZEVALLOS, D. M.; ZARBIN, P. H. G. A química na agricultura: perspectivas para o desenvolvimento de tecnologias sustentáveis. Química Nova, n. 10, 2013 (adaptado).</p><p>A função orgânica correspondente ao grupo funcional comum presente nesses dois compostos: Cetona`, 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: `<p>Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.</p><p>img src="conveccao"></p><p>5 dicas de instalação de aquecedor solar. Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023 (adaptado)</p><p>O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a: convecção.`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>Um dos agentes que mais contribui para a poluição do ar é o automóvel a combustão interna. Em áreas urbanas, isso é demonstrado dramaticamente pela fumaça fotoquímica, resultante da interação entre óxidos de nitrogênio, hidrocarbonetos e luz solar, para formar produtos de oxidação, que causam irritação aos olhos, ao aparelho respiratório e danos às plantas. As condições de operação de motores a combustão, como a razão da mistura ar/combustível no cilindro, influenciam na composição dos gases lançados pelo escapamento na atmosfera. O gráfico ilustra a variação nas composições dos principais gases, dióxido de carbono (CO<sub>2</sub>), hidrocarbonetos (HC), monóxido de carbono (CO), monóxido de nitrogênio (NO) e oxigênio molecular (O<sub>2</sub>), emitidos por um motor a gasolina, em diferentes razões ar/combustível, em massa.</p><p><img src="estequimetria"</p><p>RANGEL, M. C.; CARVALHO, M. F. A. Impacto dos catalisadores automotivos no controle da qualidade do ar. Química Nova, v. 26, 2003 (adaptado)</p><p>Na condição de razão ar/combustível igual a 18, haverá uma emissão: baixa de CO e alta de CO<sub>2</sub>.`, 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: `<p>Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam  por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.</p><p>imag src="vesicula.png"></p><p>DIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado)</p><p>Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o: aumento no número de descendentes por ninhada.</p>`, 
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "<p>Uma imobiliária iniciou uma campanha de divulgação para promover a venda de apartamentos que podem ser pagos em 100 parcelas mensais. O valor da primeira delas é fixado no momento da compra, com o pagamento dessa primeira parcela. A partir da segunda parcela, o valor é determinado pela aplicação de um acréscimo percentual fixo ao valor da parcela anterior. Como atrativo, a imobiliária fará o pagamento de todas as parcelas correspondentes ao mês de aniversário do comprador.</p> <p>Um cliente, que faz aniversário no mês de maio, decidiu comprar um desses apartamentos por meio do financiamento oferecido pela imobiliária, e pretende escolher o mês mais adequado para realizar essa compra, de modo que o valor total dos pagamentos seja o menor possível.</p><p>O mês que esse cliente deverá escolher para realizar a compra do apartamento é: fevereiro.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
