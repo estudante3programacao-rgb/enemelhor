@@ -1320,12 +1320,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
+    texto: "<p>A dimetilamina é uma substância de elevada toxidez que entra em ebulição a 7 °C. Na madrugada de um dia frio, essa substância se espalhou por uma rodovia após um acidente de trânsito envolvendo um caminhão que transportava esse produto. Para minimizar a agressão ao meio ambiente, bem como evitar a evaporação da dimetilamina com a elevação da temperatura ao longo do dia, um químico considerou o uso de algumas substâncias ou misturas como água, vinagre, óleo de soja, sal de cozinha e bicarbonato de sódio.</p><p>Dentre as opções apresentadas, o tratamento correto para minimizar esse problema é usar: vinagre.</p>",    
+    resposta: true,     
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto:`<p>O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro:</p><p>img src="liquens.png"</p><p>O ácido úsnico mostrou-se mais indicado para o controle da: esquistossomose.</p>`, 
     resposta: true,
     dificuldade: "fácil"
   },
