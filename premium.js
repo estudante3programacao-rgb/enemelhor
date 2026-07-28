@@ -1270,52 +1270,52 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p><img src="unesco.png"></p><p>Disponível em: www.unicef.org.br. Acesso em: 15 jan. 2024 (adaptado)</p><p>Nesse cartaz, a utilização de frases que projetam a vida profissional de duas crianças tem como objetivo: sensibilizar a sociedade sobre os benefícios decorrentes do combate ao racismo.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p><img src="canjica.png"></p><p>Revista Língua Portuguesa, n. 31, maio 2008 (adaptado)</p><p>Esse texto, que apresenta um prato da culinária brasileira, evidencia: modos de preparo de um mesmo alimento.</p>`,
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>O tipo predominante de excreta que um grupo animal produz está relacionado com o ambiente onde ele vive. Nesse contexto, os animais podem ser classificados em amoniotélicos, ureotélicos e uricotélicos, de acordo com o principal resíduo nitrogenado que produzem. <p>O fator ambiental que determina o tipo de resíduo a ser eliminado: temperatura da fonte energética.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto:"<p>Alguns aparelhos do nosso cotidiano, como TVs e drones, são operados a distância por controle remoto. A diferença no sistema de controle desses aparelhos se dá em relação à radiação emitida, pois, nas TVs, o acionamento do controle remoto deve ser realizado a uma curta distância e o sistema receptor de sinal não pode estar obstruído. Por outro lado, nos drones, o sistema de controle funciona a distâncias relativamente grandes, da ordem de alguns quilômetros.</p><p>O acionamento dos equipamentos citados corresponde à emissão de ondas, respectivamente, nas regiões: rádio, ultravioleta e infravermelho.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>Por suas belezas naturais, a região de Bonito, no Mato Grosso do Sul, é um dos destinos ecoturísticos mais procurados do Brasil. Muitas das atrações ecoturísticas que movimentam a economia local estão situadas dentro de fazendas. Por isso, diversos donos dessas propriedades decidiram criar Reservas Particulares do Patrimônio Natural (RPPNs). Nesses locais, estão recompondo aos poucos as matas ciliares e adotando outras medidas pontuais, como a instalação de ninhos artificiais para as araras nativas.</p><p>GUIMARÃES, J. R. D. Bonito ou Lindo? Disponível em: http://cienciahoje.org.br. Acesso em: 28 nov. 2018 (adaptado).</p><p>Nesse contexto, as RPPNs foram criadas porque: evitam a entrada de turistas e favorecem o desenvolvimento sustentável.</p>",    
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>Rolou uma química entre nós!”. Essa expressão popular não é apenas figurativa, mas tem fundamentação científica, já que a afetividade está particularmente relacionada a um grupo de substâncias que são produzidas, circulam pelo sangue e atuam no corpo humano provocando reações e emoções.</p><p>Essas substâncias são denominadas: vitaminas e ácidos nucleicos.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>As montadoras de automóveis estão em uma corrida rumo a um futuro eletrificado, e rádios AM estão ficando pelo caminho. O problema, dizem os especialistas, é que os motores dos veículos elétricos geram frequências eletromagnéticas do mesmo comprimento de onda que os sinais das rádios AM. “Você tem dois sinais que colidem um com o outro e se cancelam”, disse o diretor de inovação de motores e tecnologia de uma fabricante de autopeças. Disponível em: www1.folha.uol.com.br. Acesso em: 20 nov. 2018 (adaptado).</p> <p>O problema mencionado refere-se ao seguinte fenômeno ondulatório: ressonância.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>A figura é um mosaico desenhado sobre uma malha quadriculada, obtido pela justaposição de um quadrilátero, quatro triângulos e quatro hexágonos. O quadrilátero de cor amarela é um quadrado.</p><p><img src="mosaico.png"></p>A quantidade de polígonos regulares contornados por linhas contínuas podem ser identificados nesse desenho é: 7.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Um matemático brasileiro recebeu, em 2014, a Medalha Fields, premiação popularmente conhecida como o “Nobel da Matemática”. Ele é o primeiro ganhador da América Latina. Como parte da premiação, ele ainda recebeu cerca de R$ 31,3 mil pela conquista.</p><p>Disponível em: www1.folha.uol.com.br. Acesso em: 5 nov. 2014 (adaptado).</p> <p>O valor, em real, representado pelo algarismo 1 no valor da premiação recebida pelo matemático brasileiro: 1000.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "<p>O índice de massa corporal (IMC) é uma medida internacional usada para determinar se uma pessoa está com a massa corporal ideal. No cálculo do IMC, são utilizadas a massa corporal da pessoa, em quilograma, e a sua altura, em metro. O valor do IMC é dado pela razão entre a massa do indivíduo pelo quadrado de sua altura. A unidade de medida do IMC é: kg/m<sup>2<sup>.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
