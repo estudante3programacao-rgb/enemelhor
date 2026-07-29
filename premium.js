@@ -1355,43 +1355,43 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Na sociologia e na literatura, o brasileiro foi por vezes tratado como cordial e hospitaleiro, mas não é isso o que acontece nas redes sociais: a democracia racial apregoada por Gilberto Freyre passa ao largo do que acontece diariamente nas comunidades virtuais do país. Levantamento inédito realizado pelo projeto Comunica que Muda [...] mostra em números a intolerância do internauta tupiniquim. Entre abril e junho, um algoritmo vasculhou plataformas [...] atrás de mensagens e textos sobre temas sensíveis, como racismo, posicionamento político e homofobia. Foram identificadas 393 284 menções, sendo 84% delas com abordagem negativa, de exposição do preconceito e da discriminação. Disponível em: https://oglobo.globo.com. Acesso em: 6 dez. 2017 (adaptado).</p> <p>Ao abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto: refuta ideias preconcebidas sobre o brasileiro </p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>Deficientes visuais já podem ir a algumas salas de cinema e teatros para curtir, em maior intensidade, as atrações em cartaz. Quem ajuda na tarefa é o aplicativo Whatscine, recém-chegado ao Brasil e disponível para os sistemas operacionais iOS (Apple) ou Android (Google). Ao ser conectado à rede wi-fi de cinemas e teatros, o app sincroniza um áudio que descreve o que ocorre na tela ou no palco com o espetáculo em andamento: o usuário, então, pode ouvir a narração em seu celular.</p> <p>O programa foi desenvolvido por pesquisadores da Universidade Carlos III, em Madri. “Na Espanha, 200 salas de cinema já oferecem o recurso e filmes de grandes estúdios já são exibidos com o recurso do Whatscine!”, diz o brasileiro Luis Mauch, que trouxe a tecnologia para o país. “No Brasil, já fechamos parceria com a São Paulo Companhia de Dança para adaptar os espetáculos deles! Isso já é um avanço. Concorda?” Disponível em: http://veja.abril.com.br. Acesso em: 25 jun. 2014 (adaptado).</p> <p>Por ser múltipla e apresentar peculiaridades de acordo com a intenção do emissor, a linguagem apresenta funções diferentes. Nesse fragmento, predomina a função referencial da linguagem, porque há a presença de elementos que: expõem dados sobre o aplicativo, usando linguagem denotativa. </p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p><b>TEXTO I</p></b><p>Tudo aquilo que é válido para um tempo de guerra, em que todo homem é inimigo de todo homem, é válido também para o tempo durante o qual os homens vivem sem outra segurança senão a que lhes pode ser oferecida por sua própria força e invenção. HOBBES, T. Leviatã. São Paulo: Abril Cultural, 1983.</p> <p><b>TEXTO II</p></b> <p>Não vamos concluir, com Hobbes que, por não ter nenhuma ideia de bondade, o homem seja naturalmente mau. Esse autor deveria dizer que, sendo o estado de natureza aquele em que o cuidado de nossa conservação é menos prejudicial à dos outros, esse estado era, por conseguinte, o mais próprio à paz e o mais conveniente ao gênero humano. ROUSSEAU, J.-J. Discurso sobre a origem e o fundamento da desigualdade entre os homens. São Paulo: Martins Fontes, 1993 (adaptado).</p> <p>Os trechos apresentam divergências conceituais entre autores que sustentam um entendimento segundo o qual a igualdade entre os homens se dá em razão de uma: vocação política.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p><b>TEXTO I</p></b><p>E pois que em outra cousa nesta parte me não posso vingar do demônio, admoesto da parte da cruz de Cristo Jesus a todos que este lugar lerem, que deem a esta terra o nome que com tanta solenidade lhe foi posto, sob pena de a mesma cruz que nos há de ser mostrada no dia final, os acusar de mais devotos do pau-brasil que dela. BARROS, J. In: SOUZA, L. M. Inferno atlântico: demonologia e colonização: séculos XVI-XVIII. São Paulo: Cia. das Letras, 1993.</p> <p><b>TEXTO II</p></b> <p>E deste modo se hão os povoadores, os quais, por mais arraigados que na terra estejam e mais ricos que sejam, tudo pretendem levar a Portugal, e, se as fazendas e bens que possuem souberam falar, também lhes houveram de ensinar a dizer como os papagaios, aos quais a primeira coisa que ensinam é: papagaio real para Portugal, porque tudo querem para lá. SALVADOR, F. V. In: SOUZA, L. M. (Org.). História da vida privada no Brasil: cotidiano e vida privada na América portuguesa. São Paulo: Cia. das Letras, 1997.</p> <p>As críticas desses cronistas ao processo de colonização portuguesa na América estavam relacionadas à: expropriação de riquezas locais.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A democracia que eles pretendem é a democracia dos privilégios, a democracia da intolerância e do ódio. A democracia que eles querem é para liquidar com a Petrobras, é a democracia dos monopólios, nacionais e internacionais, a democracia que pudesse lutar contra o povo. Ainda ontem eu afirmava que a democracia jamais poderia ser ameaçada pelo povo, quando o povo livremente vem para as praças – as praças que são do povo. Para as ruas – que são do povo. Disponível em: www.revistadehistoria.com.br/secao/artigos/discurso-de-joao-goulart-no-comicio-da-central. Acesso em: 29 out. 2015.</p> <p>Em um momento de radicalização política, a retórica no discurso do presidente João Goulart, proferido no comício da Central do Brasil, buscava justificar a necessidade de: incrementar o processo de desestatização para diminuir a pressão da opinião pública.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A rebelião luso-brasileira em Pernambuco começou a ser urdida em 1644 e explodiu em 13 de junho de 1645, dia de Santo Antônio. Uma das primeiras medidas de João Fernandes foi decretar nulas as dívidas que os rebeldes tinham com os holandeses. Houve grande adesão da “nobreza da terra”, entusiasmada com esta proclamação heroica. VAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009.</p> <p>O desencadeamento dessa revolta na América portuguesa seiscentista foi o resultado do: interesse econômico dos senhores de engenho.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A situação demográfica de Israel é muito particular. Desde 1967, a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe “entre o rio e o mar”. DEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014.</p> <p>A preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado à: busca da preeminência étnica sobre o espaço nacional.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
+    texto: "<p>São Paulo, 10 de janeiro de 1979.</p> <p>Exmo. Sr. Presidente Ernesto Geisel. Considerando as instruções dadas por V. S. de que sejam negados os passaportes aos senhores Francisco Julião, Miguel Arraes, Leonel Brizola, Luis Prestes, Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves e Paulo Freire.</p> <p>Considerando que, desde que nasci, me identifico plenamente com a pele, a cor dos cabelos, a cultura, o sorriso, as aspirações, a história e o sangue destes oito senhores.</p> <p>Considerando tudo isto, por imperativo de minha consciência, venho por meio desta devolver o passaporte que, negado a eles, me foi concedido pelos órgãos competentes de seu governo. Carta do cartunista Henrique de Souza Filho, conhecido como Henfil. In: HENFIL. Cartas da mãe. Rio de Janeiro: Codecri, 1981 (adaptado).</p> <p>No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica ao(à: interferência militar de países estrangeiros.</p>",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
