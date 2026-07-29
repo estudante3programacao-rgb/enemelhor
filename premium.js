@@ -1390,7 +1390,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>São Paulo, 10 de janeiro de 1979.</p> <p>Exmo. Sr. Presidente Ernesto Geisel. Considerando as instruções dadas por V. S. de que sejam negados os passaportes aos senhores Francisco Julião, Miguel Arraes, Leonel Brizola, Luis Prestes, Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves e Paulo Freire.</p> <p>Considerando que, desde que nasci, me identifico plenamente com a pele, a cor dos cabelos, a cultura, o sorriso, as aspirações, a história e o sangue destes oito senhores.</p> <p>Considerando tudo isto, por imperativo de minha consciência, venho por meio desta devolver o passaporte que, negado a eles, me foi concedido pelos órgãos competentes de seu governo. Carta do cartunista Henrique de Souza Filho, conhecido como Henfil. In: HENFIL. Cartas da mãe. Rio de Janeiro: Codecri, 1981 (adaptado).</p> <p>No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica ao(à: interferência militar de países estrangeiros.</p>",
+    texto: "<p>São Paulo, 10 de janeiro de 1979.</p> <p>Exmo. Sr. Presidente Ernesto Geisel. Considerando as instruções dadas por V. S. de que sejam negados os passaportes aos senhores Francisco Julião, Miguel Arraes, Leonel Brizola, Luis Prestes, Paulo Schilling, Gregório Bezerra, Márcio Moreira Alves e Paulo Freire.</p> <p>Considerando que, desde que nasci, me identifico plenamente com a pele, a cor dos cabelos, a cultura, o sorriso, as aspirações, a história e o sangue destes oito senhores.</p> <p>Considerando tudo isto, por imperativo de minha consciência, venho por meio desta devolver o passaporte que, negado a eles, me foi concedido pelos órgãos competentes de seu governo. Carta do cartunista Henrique de Souza Filho, conhecido como Henfil. In: HENFIL. Cartas da mãe. Rio de Janeiro: Codecri, 1981 (adaptado).</p> <p>No referido contexto histórico, a manifestação do cartunista Henfil expressava uma crítica à: interferência militar de países estrangeiros.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1431,7 +1431,7 @@ const perguntasPremium = [
   },
   {
     texto: "<p>Será que as coisas lhe pareceriam diferentes se, de fato, todas elas existissem apenas na sua mente — se tudo o que você julgasse ser o mundo externo real fosse apenas um sonho ou alucinação gigante, de que você jamais fosse despertar? Se assim fosse, então é claro que você nunca poderia despertar, como faz quando sonha, pois significaria que não há mundo “real” no qual despertar. Logo, não seria exatamente igual a um sonho ou alucinação normal. NAGEL, T. Uma breve introdução à filosofia. São Paulo: Martins Fontes, 2011.</p> <p>O texto confere visibilidade a uma doutrina filosófica contemporânea conhecida como: falsificacionismo, que estabelece ciclos de problemas para refutar uma conjectura.</p>",
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
@@ -1445,7 +1445,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Em A morte de Ivan Ilitch, Tolstoi descreve com detalhes repulsivos o terror de encarar a morte  iminente. Ilitch adoece depois de um pequeno acidente e logo compreende que se encaminha para o fim de modo impossível de parar. “Nas profundezas de seu coração, ele sabia estar morrendo, mas em vez de se acostumar com a ideia, simplesmente não o fazia e não conseguia compreendê-la”. KAZEZ, J. O peso das coisas: filosofia para o bem-viver. Rio de Janeiro: Tinta Negra, 2004.</p> <p>O texto descreve a experiência do personagem de Tolstoi diante de um aspecto incontornável de nossas vidas. Esse aspecto foi um tema central na tradição filosófica: existencialista, na questão do reconhecimento de si </p>",    
+    texto: "<p>Em A morte de Ivan Ilitch, Tolstoi descreve com detalhes repulsivos o terror de encarar a morte  iminente. Ilitch adoece depois de um pequeno acidente e logo compreende que se encaminha para o fim de modo impossível de parar. “Nas profundezas de seu coração, ele sabia estar morrendo, mas em vez de se acostumar com a ideia, simplesmente não o fazia e não conseguia compreendê-la”. KAZEZ, J. O peso das coisas: filosofia para o bem-viver. Rio de Janeiro: Tinta Negra, 2004.</p> <p>O texto descreve a experiência do personagem de Tolstoi diante de um aspecto incontornável de nossas vidas. Esse aspecto foi um tema central na tradição filosófica: existencialista, na questão do reconhecimento de si.</p>",    
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1490,22 +1490,22 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira. VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand Brasil, 1992 (adaptado).</p> <p>Para o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio: tripartição — separação entre os poderes políticos estatais </p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores. O Hoje, 15 out. 2011 (adaptado).</p> <p>Para suprir o déficit nutricional a que os produtores rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em: aminoácidos essenciais.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.</p> <p>Essa fonte de energia subutilizada, citada no texto, é o: gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "<p>A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.</p> <p>Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição: condensação do vapor-d’água no final do processo.</p>",
     resposta: true,
     dificuldade: "fácil"
   }
