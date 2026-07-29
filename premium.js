@@ -1420,72 +1420,72 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A expansão das cidades e a formação das aglomerações urbanas no Brasil foram marcadas pela produção industrial e pela consolidação das metrópoles como locais de seu desenvolvimento. Na segunda metade do século XX, as metrópoles brasileiras estenderam-se por áreas de ocupação contínua, configurando densas regiões urbanizadas. MOURA, R. Arranjos urbano-regionais no Brasil: especificidades e reprodução de padrões. Disponível em: www.ub.edu. Acesso em: 11 fev. 2015.</p> <p>O resultado do processo geográfico descrito foi o: crescimento das áreas periféricas.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A arte pré-histórica africana foi incontestavelmente um veículo de mensagens pedagógicas e sociais. Os San, que constituem hoje o povo mais próximo da realidade das representações rupestres, afirmam que seus antepassados lhes explicaram sua visão do mundo a partir desse gigantesco livro de imagens que são as galerias. A educação dos povos que desconhecem a escrita está baseada sobretudo na imagem e no som, no audiovisual. KI-ZERBO, J. A arte pré-histórica africana. In: KI-ZERBO, J. (Org.) História geral da África, I: metodologia e pré-história da África. Brasília: Unesco, 2010.</p> <p>De acordo com o texto, a arte mencionada é importante para os povos que a cultivam por colaborar para a: transmissão dos saberes acumulados.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Será que as coisas lhe pareceriam diferentes se, de fato, todas elas existissem apenas na sua mente — se tudo o que você julgasse ser o mundo externo real fosse apenas um sonho ou alucinação gigante, de que você jamais fosse despertar? Se assim fosse, então é claro que você nunca poderia despertar, como faz quando sonha, pois significaria que não há mundo “real” no qual despertar. Logo, não seria exatamente igual a um sonho ou alucinação normal. NAGEL, T. Uma breve introdução à filosofia. São Paulo: Martins Fontes, 2011.</p> <p>O texto confere visibilidade a uma doutrina filosófica contemporânea conhecida como: falsificacionismo, que estabelece ciclos de problemas para refutar uma conjectura.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A demanda mundial para a produção de alimentos aumenta progressivamente a taxas muito altas. Atualmente, na maioria dos países, continentes e regiões, a água consumida na agricultura é de cerca de 70% da disponibilidade total. TUNDISI, J. G. Recursos hídricos no futuro: problemas e soluções. Estudos Avançados, n. 63, 2008 (adaptado).</p> <p>Para que haja a redução da pressão sobre o recurso natural mencionado, a expansão da agricultura demanda melhorias na: velocidade das máquinas colheitadeiras.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>No caso do Departamento de Defesa dos Estados Unidos, a ênfase está posta no traçado de uma estratégia geral de desarticulação, não só dos inimigos reais como dos potenciais, inserida na concepção preventiva que supõe que a mínima dissidência é um sinal de perigo e de guerra futura. Deve-se ter capacidade para responder a uma guerra convencional tanto quanto para enfrentar um inimigo difuso, atentando simultaneamente para todas as áreas geográficas do planeta. Trata-se, sem dúvida, da estratégia com pretensões mais abrangentes que se desenvolveu até agora. CECEÑA, A. E. Hegemonias e emancipações no século XXI. Buenos Aires: Clacso, 2005 (adaptado).</p> <p>Tomando o texto como parâmetro, qual tendência contemporânea impulsiona a formulação de estratégias mais abrangentes por parte do Estado americano: propagação de organizações em redes.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Em A morte de Ivan Ilitch, Tolstoi descreve com detalhes repulsivos o terror de encarar a morte  iminente. Ilitch adoece depois de um pequeno acidente e logo compreende que se encaminha para o fim de modo impossível de parar. “Nas profundezas de seu coração, ele sabia estar morrendo, mas em vez de se acostumar com a ideia, simplesmente não o fazia e não conseguia compreendê-la”. KAZEZ, J. O peso das coisas: filosofia para o bem-viver. Rio de Janeiro: Tinta Negra, 2004.</p> <p>O texto descreve a experiência do personagem de Tolstoi diante de um aspecto incontornável de nossas vidas. Esse aspecto foi um tema central na tradição filosófica: existencialista, na questão do reconhecimento de si </p>",    
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Com efeito, até a destruição de Cartago, o povo e o Senado romano governavam a República em harmonia e sem paixão, e não havia entre os cidadãos luta por glória ou dominação; o medo do inimigo mantinha a cidade no cumprimento do dever. Mas, assim que o medo desapareceu dos espíritos, introduziram-se os males pelos quais a prosperidade tem predileção, isto é, a libertinagem e o orgulho. SALÚSTIO. A conjuração de Catilina/A guerra de Jugurta. Petrópolis: Vozes, 1990 (adaptado).</p> <p>O acontecimento histórico mencionado no texto de Salústio, datado de I a.C., manteve correspondência com o processo de: demarcação de terras públicas.</p>", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual. Mas não se tratava mais de fazer, simplesmente, a história dos grandes nomes, em formato hagiográfi co — quase uma vida de santo —, sem problemas, nem máculas. Mas de examinar os atores (ou o ator) célebres ou não, como testemunhas, como refl exos, como reveladores de uma época. DEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009.</p><p>De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de: resgate das narrativas heroicas.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A sociedade como um sistema justo de cooperação social consiste em uma das ideias familiares fundamentais, que dá estrutura e organização à justiça como equidade. A cooperação social guia-se por regras e procedimentos publicamente reconhecidos e aceitos por aqueles que cooperam como sendo apropriados para regular a sua conduta. Diz-se que a cooperação é justa porque seus termos são tais que todos os participantes podem razoavelmente aceitar, desde que todos os demais também o aceitem. FERES JR., J.; POGREBINSCHI, T. Teoria política contemporânea: uma introdução. Rio de Janeiro: Elsevier, 2010.<p> <p>No contexto do pensamento político, a ideia apresentada mostra-se consoante o: entendimento do contratualismo moderno.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p><b>Declaração de Salamanca – 1994</p></b><p>Acreditamos e proclamamos que: toda criança tem direito fundamental à educação e deve ser dada a oportunidade de atingir e manter o nível adequado de aprendizagem; toda criança possui características, interesses, habilidades e necessidades de aprendizagem que são únicas; sistemas educacionais deveriam ser designados e programas educacionais deveriam ser implementados no sentido de se levar em conta a vasta diversidade de tais características e necessidades. Disponível em: http://portal.mec.gov.br. Acesso em: 4 out. 2015.</p> <p>Como signatário da Declaração citada, o Brasil comprometeu-se com a elaboração de políticas públicas educacionais que contemplem a: pluralidade dos sujeitos.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Montaigne deu o nome para um novo gênero literário; foi dos primeiros a instituir na literatura moderna um espaço privado, o espaço do “eu”, do texto íntimo. Ele cria um novo processo de escrita filosófica, no qual hesitações, autocríticas, correções entram no próprio texto. COELHO, M. Montaigne. São Paulo: Publifolha, 2001 (adaptado).</p><p>O novo gênero de escrita aludido no texto é o: ensaio.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>O toyotismo, a partir dos anos 1970, teve grande impacto no mundo ocidental, quando se mostrou para os países avançados como uma opção possível para a superação de uma crise de acumulação. ANTUNES, R. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. São Paulo: Boitempo, 2009 (adaptado).</p> <p>A característica organizacional do modelo em questão, requerida no contexto de crise, foi a: expansão dos grandes estoques.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A principal característica da situação social dos anglo-americanos é seu caráter eminentemente democrático. Afirmei anteriormente que reinava uma igualdade muito grande entre os emigrantes que foram se estabelecer na Nova Inglaterra. Para isso contribuiu a influência das leis de sucessão. Estabelecidas de uma maneira, as leis de sucessão reúnem, concentram e agrupam em um só a propriedade e o poder. Estabelecidas por outros princípios, produzem o oposto: dividem, partilham e disseminam os bens e o poder. TOCQUEVILLE, A. A democracia na América. Belo Horizonte: Itatiaia; São Paulo: Edusp, 1977 (adaptado).</p> <p>O texto tematiza o papel desempenhado por uma norma na criação de um ambiente propício à: consolidação dos valores burgueses.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "<p>Adão, ainda que supuséssemos que suas faculdades racionais fossem inteiramente perfeitas desde o início, não poderia ter inferido da fluidez e transparência da água que ela o sufocaria, nem da luminosidade e calor do fogo que este poderia consumi-lo. Nenhum objeto jamais revela, pelas qualidades que aparecem aos sentidos, nem as causas que o produziram, nem os efeitos que dele provirão; e tampouco nossa razão é capaz de extrair, sem auxílio da experiência, qualquer conclusão referente à existência efetiva de coisas ou questões de fato. HUME, D. Uma investigação sobre o entendimento humano. São Paulo: Unesp, 2003.</p>Segundo David Hume, a origem do conhecimento humano é: a vivência dos fenômenos do mundo.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
