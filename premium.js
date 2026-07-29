@@ -1395,27 +1395,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Vou-me embora p’ra Pasárgada foi o poema de mais longa gestação em toda a minha obra. Vi pela primeira vez esse nome Pasárgada quando tinha os meus dezesseis anos e foi num autor grego. [...] Esse nome de Pasárgada, que significa “campo dos persas” ou “tesouro dos persas”, suscitou na minha imaginação uma paisagem fabulosa, um país de delícias, como o de L’invitation au Voyage, de Baudelaire. Mais de vinte anos depois, quando eu morava só na minha casa da Rua do Curvelo, num momento de fundo desânimo, da mais aguda sensação de tudo o que eu não tinha feito em minha vida por motivo da doença, saltou-me de súbito do subconsciente este grito estapafúrdio: “Vou-me embora p’ra Pasárgada!” Senti na redondilha a primeira célula de um poema, e tentei realizá-lo, mas fracassei. Alguns anos depois, em idênticas circunstâncias de desalento e tédio, me ocorreu o mesmo desabafo de evasão da “vida besta”. Desta vez o poema saiu sem esforço como se já estivesse pronto dentro de mim. Gosto desse poema porque vejo nele, em escorço, toda a minha vida; [...] Não sou arquiteto, como meu pai desejava, não fiz nenhuma casa, mas reconstruí e “não de uma forma imperfeita neste mundo de aparências”, uma cidade ilustre, que hoje não é mais a Pasárgada de Ciro, e sim a “minha” Pasárgada. BANDEIRA, M. Itinerário de Pasárgada. Rio de Janeiro: Nova Fronteira; Brasília: INL, 1984.</p><p>Os processos de interação comunicativa preveem a presença ativa de múltiplos elementos da comunicação, entre os quais se destacam as funções da linguagem. Nesse fragmento, a função da linguagem predominante é a: emotiva, porque o poeta expõe os sentimentos de angústia que o levaram à criação poética.</p> ",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>Se, antigamente, os livros, enormes e com suas setecentas páginas, cuspiam fórmulas, equações e cálculos que te ensinavam a lidar com o fluxo de caixa da sua empresa, hoje eles dizem: “Você irá chegar lá! Acredite, você irá vencer!”.</p> <p>Mindset, empoderamento, millennials, networking, coworking, deal, business, deadline, salesman com perfil hunter… tudo isso faz parte do seu vocabulário. O pacote de livros é sempre idêntico e as experiências são passadas da mesma forma: você está a um único centímetro da vitória. Não pare!</p> <p>Se desistir agora, será para sempre. Tome, leia a estratégia do oceano azul. Faça mais uma mentoria, participe de mais uma sessão de coaching. O problema é que o seu mindset não está ajustado. Você precisa ser mais proativo. Vamos fazer mais um powermind? Eu consigo um precinho bacana para você… CARVALHO, Í. C. Disponível em: https://medium.com. Acesso em: 17 ago. 2017 (adaptado).</p> <p>De acordo com o texto, é possível identificar o “empreendedor de palco” por: padrões de linguagem por ele utilizados.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Eu tenho empresas e sou digno do visto para ir a Nova York. O dinheiro que chove em Nova York é para pessoas com poder de compra. Pessoas que tenham um visto do consulado americano. O dinheiro que chove em Nova York também é para os nova-iorquinos. São milhares de dólares. [...] Estou indo para Nova York, onde está chovendo dinheiro. Sou um grande administrador. Sim, está chovendo dinheiro em Nova York. Deu no rádio. Vejo que há pedestres invadindo a via onde trafega o meu carro vermelho, importado da Alemanha. Vejo que há carros nacionais trafegando pela via onde trafega o meu carro vermelho, importado da Alemanha. Ao chegar em Nova York, tomarei providências. SANT’ANNA, A. O importado vermelho de Noé. In: MORICONI, I. (Org.). <p>Os cem melhores contos. Rio de Janeiro: Objetiva, 2001.</p> As repetições e as frases curtas constituem procedimentos linguísticos importantes para a compreensão da temática do texto, pois: expressam a futilidade do discurso de poder e de distinção do narrador.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p><b>DECRETO N. 28 314, DE 28 DE SETEMBRO DE 2007</p></b><p>Demite o Gerúndio do Distrito Federal e dá outras providências.</p> <p>O GOVERNADOR DO DISTRITO FEDERAL, no uso das atribuições que lhe confere o artigo 100, incisos VII e XXVI, da Lei Orgânica do Distrito Federal, DECRETA:</p> <p>Art. 1° Fica demitido o Gerúndio de todos os órgãos do Governo do Distrito Federal.</p> <p>Art. 2° Fica proibido, a partir desta data, o uso do gerúndio para desculpa de INEFICIÊNCIA.</p> <p>Art. 3° Este Decreto entra em vigor na data de sua publicação.<p> <p>Art. 4º Revogam-se as disposições em contrário. Brasília, 28 de setembro de 2007.</p> <p>119º da República e 48º de Brasília. Disponível em: www.dodf.gov.br. Acesso em: 11 dez. 2017.</p> <p>Esse decreto pauta-se na ideia de que o uso do gerúndio, como “desculpa de ineficiência”, indica: continuidade de um processo.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
+    texto: "<p>Atualmente os jovens estão imersos numa sociedade permeada pela tecnologia. Nesse contexto, os jogos digitais são artefatos muito empregados. Videogames ativos ou exergames foram introduzidos como forma de permitir que o corpo controlasse tais jogos. Como resultado, passaram a ser vistos como uma ferramenta auxiliar na adoção de um estilo de vida menos sedentário, com efeitos positivos sobre a saúde. Tem-se defendido que os exergames podem contribuir para a prática regular de atividade física moderada, bem como promover a interação entre jogadores, reduzindo o sentimento de isolamento social. Por outro lado, argumenta-se que os exergames não podem substituir a experiência real das práticas corporais, pois não motivam a longo prazo a prática permanente de atividades físicas. FINCO, M. D.; REATEGUI, E. B.; ZARO, M. A. Laboratório de exergames: um espaço complementar para as aulas de educação física. Movimento, n. 3, 2015 (adaptado).</p> <p>Pela sua interatividade, os exergames apresentam-se como possibilidade para estimular o(a): exercitação física, promovendo a saúde.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
