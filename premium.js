@@ -1490,27 +1490,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira. VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand Brasil, 1992 (adaptado).</p> <p>Para o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio: tripartição — separação entre os poderes políticos estatais </p>",
+    texto: "<p>Compreende-se assim o alcance de uma reivindicação que surge desde o nascimento da cidade na Grécia antiga: a redação das leis. Ao escrevê-las, não se faz mais que assegurar-lhes permanência e fixidez. As leis tornam-se bem comum, regra geral, suscetível de ser aplicada a todos da mesma maneira. (VERNANT, J. P. As origens do pensamento grego. Rio de Janeiro: Bertrand Brasil, 1992. Adaptado).</p><p>Para o autor, a reivindicação atendida na Grécia antiga, ainda vigente no mundo contemporâneo, buscava garantir o seguinte princípio: tripartição — separação entre os poderes políticos estatais.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores. O Hoje, 15 out. 2011 (adaptado).</p> <p>Para suprir o déficit nutricional a que os produtores rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em: aminoácidos essenciais.</p>",
+    texto: "<p>Na década de 1940, na Região Centro-Oeste, produtores rurais, cujos bois, porcos, aves e cabras estavam morrendo por uma peste desconhecida, fizeram uma promessa, que consistiu em não comer carne e derivados até que a peste fosse debelada. Assim, durante três meses, arroz, feijão, verduras e legumes formaram o prato principal desses produtores. O Hoje, 15 out. 2011 (adaptado).</p><p>Para suprir o déficit nutricional a que os produtores rurais se submeteram durante o período da promessa, foi importante eles terem consumido alimentos ricos em: aminoácidos essenciais.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "<p>O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.</p> <p>Essa fonte de energia subutilizada, citada no texto, é o: gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.</p>",
+    texto: "<p>O potencial brasileiro para transformar lixo em energia permanece subutilizado — apenas pequena parte dos resíduos brasileiros é utilizada para gerar energia. Contudo, bons exemplos são os aterros sanitários, que utilizam a principal fonte de energia ali produzida. Alguns aterros vendem créditos de carbono com base no Mecanismo de Desenvolvimento Limpo (MDL), do Protocolo de Kyoto.</p><p>Essa fonte de energia subutilizada, citada no texto, é o: gás metano, obtido pela atividade de bactérias anaeróbias na decomposição da matéria orgânica.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.</p> <p>Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição: condensação do vapor-d’água no final do processo.</p>",
+    texto: "<p>A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.</p><p>Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição: condensação do vapor-d’água no final do processo.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: `<p>O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos. <img src="detritos.png"></p><p>Se o grupo dos microrganismos decompositores fosse exterminado, a etapa que não ocorreria é: 2.</p>`,
+    Texto: "<p>O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos.</p><p>Se o grupo dos microrganismos decompositores fosse exterminado, a etapa que não ocorreria é: 2.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1520,7 +1520,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Os mais antigos cozinhavam o feijão na panela de ferro afim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana. </p><p>As estratégias citadas eram utilizadas com o objetivo de: prevenir a anemia.</p>",
+    Texto: "<p>Os mais antigos cozinhavam o feijão na panela de ferro afim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana.</p><p>As estratégias citadas eram utilizadas com o objetivo de: prevenir a anemia.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1535,7 +1535,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.</p><p>Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose: sangue e fezes.</p>",
+    Texto: "<p>A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.</p><p>Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose: sangue e fezes.</p>",  
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1545,17 +1545,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver</p><p>A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da: nutrição das raízes.</p>",
+    Texto: "<p>Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver.</p><p>A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da: nutrição das raízes.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade</p><p>A estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima é: fruto.</p>",
+    Texto: "<p>Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade.</p><p>A estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima é: fruto.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    Texto: `<p><b>A língua tupi no Brasil</b></p><p>Há 300 anos, morar na vila de São Paulo de Piratininga (peixe seco, em tupi) era quase sinônimo de falar língua de índio. Em cada cinco habitantes da cidade, só dois conheciam o português. Por isso, em 1698, o governador da província, Artur de Sá e Meneses, implorou a Portugal que só mandasse padres que soubessem “a língua geral dos índios”, pois “aquela gente não se explica em outro idioma”.</p><p>Derivado do dialeto de São Vicente, o tupi de São Paulo se desenvolveu e se espalhou no século XVII, graças ao isolamento geográfico da cidade e à atividade pouco cristã dos mamelucos paulistas: as bandeiras, expedições ao sertão em busca de escravos índios. Muitos bandeirantes nem sequer falavam o português ou se expressavam mal. Domingos Jorge Velho, o paulista que destruiu o Quilombo dos Palmares em 1694, foi descrito pelo bispo de Pernambuco como “um bárbaro que nem falar sabe”. Em suas andanças, essa gente batizou lugares como Avanhandava (lugar onde o índio corre), Pindamonhangaba (lugar de fazer anzol) e Itu (cachoeira). E acabou inventando uma nova língua.</p>“Os escravos dos bandeirantes vinham de mais de 100 tribos diferentes”, conta o historiador e antropólogo John Monteiro, da Universidade Estadual de Campinas. “Isso mudou o tupi paulista, que, além da influência do português, ainda recebia palavras de outros idiomas.” O resultado da mistura ficou conhecido como língua geral do sul, uma espécie de tupi facilitado. ÂNGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 8 ago. 2012 (adaptado).</p><p>O texto trata de aspectos sócio-históricos da formação linguística nacional. Quanto ao papel do tupi na formação do português brasileiro, depreende-se que essa língua indígena<: contribuiu efetivamente para o léxico, com nomes relativos aos traços característicos dos lugares designados.</p>`,
+    Texto: `<p><b>A língua tupi no Brasil</b></p><p>Há 300 anos, morar na vila de São Paulo de Piratininga (peixe seco, em tupi) era quase sinônimo de falar língua de índio. Em cada cinco habitantes da cidade, só dois conheciam o português. Por isso, em 1698, o governador da província, Artur de Sá e Meneses, implorou a Portugal que só mandasse padres que soubessem “a língua geral dos índios”, pois “aquela gente não se explica em outro idioma”.</p><p>Derivado do dialeto de São Vicente, o tupi de São Paulo se desenvolveu e se espalhou no século XVII, graças ao isolamento geográfico da cidade e à atividade pouco cristã dos mamelucos paulistas: as bandeiras, expedições ao sertão em busca de escravos índios. Muitos bandeirantes nem sequer falavam o português ou se expressavam mal. Domingos Jorge Velho, o paulista que destruiu o Quilombo dos Palmares em 1694, foi descrito pelo bispo de Pernambuco como “um bárbaro que nem falar sabe”. Em suas andanças, essa gente batizou lugares como Avanhandava (lugar onde o índio corre), Pindamonhangaba (lugar de fazer anzol) e Itu (cachoeira). E acabou inventando uma nova língua.</p><p>“Os escravos dos bandeirantes vinham de mais de 100 tribos diferentes”, conta o historiador e antropólogo John Monteiro, da Universidade Estadual de Campinas. “Isso mudou o tupi paulista, que, além da influência do português, ainda recebia palavras de outros idiomas.” O resultado da mistura ficou conhecido como língua geral do sul, uma espécie de tupi facilitado. ÂNGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 8 ago. 2012 (adaptado).</p><p>O texto trata de aspectos sócio-históricos da formação linguística nacional. Quanto ao papel do tupi na formação do português brasileiro, depreende-se que essa língua indígena<: contribuiu efetivamente para o léxico, com nomes relativos aos traços característicos dos lugares designados.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
