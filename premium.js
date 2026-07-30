@@ -1508,7 +1508,257 @@ const perguntasPremium = [
     texto: "<p>A elevação da temperatura das águas de rios, lagos e mares diminui a solubilidade do oxigênio, pondo em risco as diversas formas de vida aquática que dependem desse gás. Se essa elevação de temperatura acontece por meios artificiais, dizemos que existe poluição térmica. As usinas nucleares, pela própria natureza do processo de geração de energia, podem causar esse tipo de poluição.</p> <p>Que parte do ciclo de geração de energia das usinas nucleares está associada a esse tipo de poluição: condensação do vapor-d’água no final do processo.</p>",
     resposta: true,
     dificuldade: "fácil"
-  }
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p></p><p></p>",
+    resposta: true,
+    dificuldade: "fácil"
+  }  
 ]; 
 
 let indicePremium = 0;
@@ -1522,7 +1772,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 6;
+const ultimoNivelDisponivel = 7;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
