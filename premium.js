@@ -265,7 +265,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014. Adaptado)<p>As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.</p>", 
+    texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles. (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014. Adaptado)<p>As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -555,12 +555,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose A doença é grave e vem causando preocupação na região metropolitana da capital mineira Ela é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro. (Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017) <p>Essa notícia, além de cumprir sua função informativa, assume o papel de responsabilizar os agentes públicos pela demora na tomada de decisões.</p>", 
+    texto: "<p>Projeto na Câmara de BH quer a vacinação gratuita de cães contra a leishmaniose. A doença é grave e vem causando preocupação na região metropolitana da capital mineira Ela é uma doença grave, transmitida pela picada do mosquito-palha, e afeta tanto os seres humanos quanto os cachorros: a leishmaniose. Por ser um problema de saúde pública, a doença pode ganhar uma ação preventiva importante, caso um projeto de lei seja aprovado na Câmara Municipal de Belo Horizonte (CMBH). Diante do alto número de casos da doença na Grande BH, a Comissão de Saúde e Saneamento da CMBH aprovou a proposta de realização de campanhas públicas de vacinação gratuita de cães contra a leishmaniose, tema do PL 404/17, apreciado pelo colegiado em reunião ordinária, no dia 6 de dezembro. (Disponível em: https://revistaencontro.com.br. Acesso em: 11 dez. 2017)</p><p>Essa notícia, além de cumprir sua função informativa, assume o papel de responsabilizar os agentes públicos pela demora na tomada de decisões.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "10 de maio Fui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor Janio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades. ...O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora. Quem passa fome aprende a pensar no próximo, e nas crianças. (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014) <p>A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a  resposta irônica ante o discurso da autoridade.</p>", 
+    texto: "10 de maio. Fui na delegacia e falei com o tenente. Que homem amavel! Se eu soubesse que ele era tão amavel, eu teria ido na delegacia na primeira intimação. [...] O tenente interessou-se pela educação dos meus filhos. Disse-me que a favela é um ambiente propenso, que as pessoas tem mais possibilidade de delinquir do que tornar-se util a patria e ao país. Pensei: se ele sabe disto, porque não faz um relatorio e envia para os politicos? O senhor Janio Quadros, o Kubstchek e o Dr. Adhemar de Barros? Agora falar para mim, que sou uma pobre lixeira. Não posso resolver nem as minhas dificuldades. ...O Brasil precisa ser dirigido por uma pessoa que já passou fome. A fome tambem é professora. Quem passa fome aprende a pensar no próximo, e nas crianças. (JESUS, C. M. Quarto de despejo: diário de uma favelada. São Paulo: Ática, 2014) <p>A partir da intimação recebida pelo filho de 9 anos, a autora faz uma reflexão em que transparece a  resposta irônica ante o discurso da autoridade.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -605,7 +605,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, controladas pelo calor do Sol, produzem tempestades, inundações, geleiras e outros agentes de erosão; (PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006. Adaptado)<p>A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográfico, na medida em que provoca a formação de relevos escarpados e dorsais oceânicas.</p>", 
+    texto: "<p>As forças tectônicas dentro da litosfera, controladas pelo calor interno das profundezas, geram terremotos, erupções e soerguimento de montanhas. As forças meteorológicas dentro da atmosfera e da hidrosfera, controladas pelo calor do Sol, produzem tempestades, inundações, geleiras e outros agentes de erosão. (PRESS, F. et al. Para entender a Terra. Porto Alegre: Bookman, 2006. Adaptado)</p><p>A interação dinâmica entre as forças naturais citadas favorece a ocupação do espaço geográfico, na medida em que provoca a formação de relevos escarpados e dorsais oceânicas.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -895,7 +895,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p><b>Psicologia de um vencido</b></p><p>Eu, filho do carbono e do amoníaco,</p><p>Monstro de escuridão e rutilância,</p><p>Sofro, desde a epigênesis da infância,</p><p>A influência má dos signos do zodíaco.</p><p>Profundíssimamente hipocondríaco,</p><p>Este ambiente me causa repugnância...</p><p>Sobe-me à boca uma ânsia análoga à ânsia</p><p>Que se escapa da boca de um cardíaco.</p><p>Já o verme — este operário das ruínas —</p><p>Que o sangue podre das carnificinas</p><p>Come, e à vida em geral declara guerra,</p><p>Anda a espreitar meus olhos para roê-los,</p><p>E há de deixar-me apenas os cabelos,</p><p>Na frialdade inorgânica da terra!</p> (ANJOS, A. Obra completa. Rio de Janeiro: Nova Aguilar, 1994.)<p>  poesia de Augusto dos Anjos revela aspectos de uma literatura de transição designada como pré-modernista. Com relação à poética e à abordagem temática presentes no soneto, identificam-se marcas dessa literatura de transição, como: a manutenção de elementos formais vinculados à estética do Parnasianismo e do Simbolismo, dimensionada pela inovação na expressividade poética, e o desconcerto existencial.</p>",
+    texto: "<p><b>Psicologia de um vencido</b></p><p>Eu, filho do carbono e do amoníaco,</p><p>Monstro de escuridão e rutilância,</p><p>Sofro, desde a epigênesis da infância,</p><p>A influência má dos signos do zodíaco.</p><p>Profundíssimamente hipocondríaco,</p><p>Este ambiente me causa repugnância...</p><p>Sobe-me à boca uma ânsia análoga à ânsia</p><p>Que se escapa da boca de um cardíaco.</p><p>Já o verme — este operário das ruínas —</p><p>Que o sangue podre das carnificinas</p><p>Come, e à vida em geral declara guerra,</p><p>Anda a espreitar meus olhos para roê-los,</p><p>E há de deixar-me apenas os cabelos,</p><p>Na frialdade inorgânica da terra!</p> (ANJOS, A. Obra completa. Rio de Janeiro: Nova Aguilar, 1994.)<p>A poesia de Augusto dos Anjos revela aspectos de uma literatura de transição designada como pré-modernista. Com relação à poética e à abordagem temática presentes no soneto, identificam-se marcas dessa literatura de transição, como: a manutenção de elementos formais vinculados à estética do Parnasianismo e do Simbolismo, dimensionada pela inovação na expressividade poética, e o desconcerto existencial.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -970,12 +970,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O descarte do óleo de cozinha usado no ralo da pia pode contribuir para a poluição das águas e do solo. O seu reaproveitamento na fabricação de sabão é um modelo ideal de descarte, mas uma alternativa simples para reduzir esse impacto. Para fazer o sabão são necessários, além do próprio óleo, água e soda cáustica. LOBO, I. Sabão feito com óleo de cozinha. <p>Disponível em: http://pga.pgr.mpf.gov.br. Acesso em: 29 fev. 2012 (adaptado).</p> Com base no texto, a reação química ocorrida no reaproveitamento do óleo vegetal é denominada: saponificação.",
+    texto: "O descarte do óleo de cozinha usado no ralo da pia pode contribuir para a poluição das águas e do solo. O seu reaproveitamento na fabricação de sabão é um modelo ideal de descarte, mas uma alternativa simples para reduzir esse impacto. Para fazer o sabão são necessários, além do próprio óleo, água e soda cáustica. <p>(LOBO, I. Sabão feito com óleo de cozinha. Disponível em: http://pga.pgr.mpf.gov.br. Acesso em: 29 fev. 2012. Adaptado).</p> Com base no texto, a reação química ocorrida no reaproveitamento do óleo vegetal é denominada: saponificação.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "O rompimento de uma barragem no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado no estado da Bahia. O desastre pode provocar alterações na cadeia alimentar desse ecossistema, pois os metais pesados podem ser acumulados em diversos níveis tróficos, afetando especialmente os grandes predadores. FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Franciscana calls for help: [...] International Whaling Commission, Conference Paper, jun. 2016 (adaptado)<p>Concentrações mais elevadas dos compostos citados são encontradas em esponjas e fitoplânctons.</p>",
+    texto: "<p>O rompimento de uma barragem no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado no estado da Bahia. O desastre pode provocar alterações na cadeia alimentar desse ecossistema, pois os metais pesados podem ser acumulados em diversos níveis tróficos, afetando especialmente os grandes predadores. (FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Franciscana calls for help: [...] International Whaling Commission, Conference Paper, jun. 2016. Adaptado)</p><p>Concentrações mais elevadas dos compostos citados são encontradas em esponjas e fitoplânctons.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1000,7 +1000,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A doença de Huntington é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores do gene causador da doença, pois são pessoas assintomáticas. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença. Essa é uma doença hereditária de caráter: dominante",
+    texto: "A doença de Huntington é uma doença hereditária associada a um gene do cromossomo 10. Os pais dos pacientes podem não saber que são portadores do gene causador da doença, pois são pessoas assintomáticas. Quando ambos os progenitores são portadores, existe uma chance, em quatro, de que seu bebê possa nascer com essa doença. Essa é uma doença hereditária de caráter: dominante.",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1045,7 +1045,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:`<p>O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.</p><p>FRANÇA, F. G. R. [...] <b>serpentes corais em ambientes campestres, savânicos e florestais da América do Sul.</b> Brasília: UnB, 2008 (adaptado).</p><p>Nas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.</p.<p><img src="coral.png"></p><p>(SILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. <b>Herpetologia Brasileira</b>, n. 1, 2021. Adaptado)</p><p>A vantagem dessa similaridade para as falsas-corais: reduz a possibilidade de sofrerem predação.</p>`,
+    texto:`<p>O Cerrado e a Amazônia abrigam grande número de serpentes popularmente conhecidas como cobras-corais. Na Amazônia predominam as corais-verdadeiras, que são peçonhentas, enquanto no Cerrado prevalecem as falsas-corais, que não possuem peçonha. Essas espécies apresentam um padrão de coloração muito semelhante. Essa similaridade traz uma vantagem tanto para as corais falsas como para as verdadeiras.</p><p>FRANÇA, F. G. R. [...] <b>serpentes corais em ambientes campestres, savânicos e florestais da América do Sul.</b> Brasília: UnB, 2008 (adaptado).</p><p>Nas fotografias, são apresentados exemplos dessas serpentes: uma coral-verdadeira e uma falsa-coral.</p><p><img src="coral.png"></p><p>(SILVA, L. C.; COTTA, G. A.; RESENDE, F. C. Cobra-coral: aplicativo educativo para reconhecimento das cobras-corais do estado de Minas Gerais, Brasil. <b>Herpetologia Brasileira</b>, n. 1, 2021. Adaptado)</p><p>A vantagem dessa similaridade para as falsas-corais: reduz a possibilidade de sofrerem predação.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1095,7 +1095,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas. Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de: 12 kg</p>",
+    texto:"<p>Uma mãe recorreu à bula para verificar a dosagem de um remédio que precisava dar a seu filho. Na bula, recomendava-se a seguinte dosagem: 5 gotas para cada 2 kg de massa corporal a cada 8 horas. Se a mãe ministrou corretamente 30 gotas do remédio a seu filho a cada 8 horas, então a massa corporal dele é de: 12 kg.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1366,7 +1366,7 @@ const perguntasPremium = [
   },
   {
     texto: "<p><b>TEXTO I</p></b><p>Tudo aquilo que é válido para um tempo de guerra, em que todo homem é inimigo de todo homem, é válido também para o tempo durante o qual os homens vivem sem outra segurança senão a que lhes pode ser oferecida por sua própria força e invenção. HOBBES, T. Leviatã. São Paulo: Abril Cultural, 1983.</p> <p><b>TEXTO II</p></b> <p>Não vamos concluir, com Hobbes que, por não ter nenhuma ideia de bondade, o homem seja naturalmente mau. Esse autor deveria dizer que, sendo o estado de natureza aquele em que o cuidado de nossa conservação é menos prejudicial à dos outros, esse estado era, por conseguinte, o mais próprio à paz e o mais conveniente ao gênero humano. ROUSSEAU, J.-J. Discurso sobre a origem e o fundamento da desigualdade entre os homens. São Paulo: Martins Fontes, 1993 (adaptado).</p> <p>Os trechos apresentam divergências conceituais entre autores que sustentam um entendimento segundo o qual a igualdade entre os homens se dá em razão de uma: vocação política.</p>",
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
@@ -1455,7 +1455,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual. Mas não se tratava mais de fazer, simplesmente, a história dos grandes nomes, em formato hagiográfi co — quase uma vida de santo —, sem problemas, nem máculas. Mas de examinar os atores (ou o ator) célebres ou não, como testemunhas, como refl exos, como reveladores de uma época. DEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009.</p><p>De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de: resgate das narrativas heroicas.</p>",
+    texto: "<p>A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual. Mas não se tratava mais de fazer, simplesmente, a história dos grandes nomes, em formato hagiográfico — quase uma vida de santo —, sem problemas, nem máculas. Mas de examinar os atores (ou o ator) célebres ou não, como testemunhas, como refl exos, como reveladores de uma época. DEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009.</p><p>De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de: resgate das narrativas heroicas.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1476,7 +1476,7 @@ const perguntasPremium = [
   },
   {
     texto: "<p>O toyotismo, a partir dos anos 1970, teve grande impacto no mundo ocidental, quando se mostrou para os países avançados como uma opção possível para a superação de uma crise de acumulação. ANTUNES, R. Os sentidos do trabalho: ensaio sobre a afirmação e a negação do trabalho. São Paulo: Boitempo, 2009 (adaptado).</p> <p>A característica organizacional do modelo em questão, requerida no contexto de crise, foi a: expansão dos grandes estoques.",
-    resposta: true,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
