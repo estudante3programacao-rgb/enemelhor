@@ -1510,48 +1510,48 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: `<p>O ciclo do nitrogênio é composto por várias etapas, conforme a figura, sendo cada uma desempenhada por um grupo específico de microrganismos. <img src="detritos.png"></p><p>Se o grupo dos microrganismos decompositores fosse exterminado, a etapa que não ocorreria é: 2.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>A biorremediação designa tratamentos que usam organismos para reduzir a quantidade de substâncias tóxicas no ambiente ou degradá-las em substâncias não tóxicas ou de menor toxicidade. Uma planta aquática, o aguapé, tem sido utilizada para a biorremediação de ambientes contaminados por metais tóxicos. Sabe-se que esses poluentes serão captados para dentro do corpo do vegetal.</p><p>Dentro do corpo do vegetal, esses contaminantes serão: acumulados nos tecidos e digeridos por enzimas.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p>Os mais antigos cozinhavam o feijão na panela de ferro afim de acabar com a palidez de seus filhos. Alguns chegavam até a colocar um prego enferrujado nesse cozimento para liberar o ferro contido nele. Sabe-se que esse elemento pode ser encontrado na sua forma metálica ou iônica, sendo essencial para a manutenção da vida humana. </p><p>As estratégias citadas eram utilizadas com o objetivo de: prevenir a anemia.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>A utilização de tecnologia nuclear é um tema bastante controverso, por causa do risco de acidentes graves, como aqueles ocorridos em Chernobyl (1986), em Goiânia (1987) e em Fukushima (2011). Apesar de muitas desvantagens, como a geração de resíduos tóxicos, a descontaminação ambiental dispendiosa em caso de acidentes e a utilização em armas nucleares, a geração de energia nuclear apresenta vantagens em comparação a outras fontes de energia.</p><p>A geração dessa energia tem como característica: produzir calor sem o consumo de combustíveis fósseis.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>O consumo exagerado de refrigerantes é preocupante, pois contribui para o aumento de casos de obesidade e diabetes. Considere dois refrigerantes enlatados, um comum e um diet, e que ambos possuam a mesma quantidade de aditivos, exceto pela presença de açúcar. O refrigerante comum contém basicamente água carbonatada e grande quantidade de açúcar; já o refrigerante diet tem água carbonatada e adoçantes, cujas massas são muito pequenas. (CAVAGIS, A. D. M.; PEREIRA, E. A.; OLIVEIRA, L. C. Um método simples para avaliar o teor de sacarose e CO2 em refrigerantes. Química Nova na Escola, n. 3, ago. 2014. Adaptado)</p><p>Entre as duas versões apresentadas, o refrigerante comum possui: maior densidade.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>A leishmaniose visceral é uma zoonose causada por um protozoário do gênero Leishmania que é encontrado em diversos tecidos. Ela é transmitida ao homem de forma indireta, por vetores do ambiente doméstico. O cão é considerado um importante hospedeiro desse protozoário, podendo ou não apresentar os sintomas da doença, como perda de peso, anemia, ferimentos na pele, diarreia, conjuntivite e insuficiência renal. Em uma região que sofre com alta incidência dessa doença, uma campanha do centro de zoonoses buscou verificar a presença desse protozoário nos cães para tentar controlar a doença.</p><p>Em qual material biológico dos cães a presença desse protozoário representa risco de transmissão dessa zoonose: sangue e fezes.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p>Em uma indústria alimentícia, para produção de doce de leite, utiliza-se um tacho de parede oca com uma entrada para vapor de água a 120 °C e uma saída para água líquida em equilíbrio com o vapor a 100 °C. Ao passar pela parte oca do tacho, o vapor de água transforma-se em líquido, liberando energia. A parede transfere essa energia para o interior do tacho, resultando na evaporação de água e consequente concentração do produto.</p><p>No processo de concentração do produto, é utilizada energia proveniente: do calor sensível e do calor latente de condensação.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Barbatimão é o nome popular de uma árvore cuja casca é utilizada para fins medicinais. Essa casca é constituída principalmente de dois tecidos vegetais: periderme e floema. A extração da casca tem levado à morte muitos indivíduos dessa espécie, quando o corte retira um anel completo ao longo da circunferência do tronco. Aqueles que têm parte da casca retirada sem completar essa circunferência podem sobreviver</p><p>A morte desses indivíduos, decorrente da retirada do anel completo da casca, é provocada pela interrupção da: nutrição das raízes.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
+    Texto: "<p>Durante a evolução das plantas, ocorreu uma transição do ambiente aquático para o ambiente terrestre graças ao surgimento de algumas estruturas que as tornaram independentes da água. Esse fato permitiu maior dispersão desse grupo de seres vivos, sendo possível observá-los em diferentes ambientes na atualidade</p><p>A estrutura possibilitou a independência da água para a fecundação dos seres vivos citados acima é: fruto.</p>",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
