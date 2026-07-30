@@ -65,7 +65,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Com a Lei de Terras de 1850, o acesso à terra só passou a ser possível por meio da compra com pagamento em dinheiro. Isso limitava, ou mesmo praticamente impedia, o acesso à terra para os trabalhadores escravos que conquistavam a liberdade. (OLIVEIRA, A. U. Agricultura brasileira: transformações recentes. In: ROSS, J. L. S. Geografia do Brasil. São Paulo: Edusp, 200). <p>O fato legal evidenciado no texto acentuou o processo de reforma agrária.</p>",
+    texto: "Com a Lei de Terras de 1850, o acesso à terra só passou a ser possível por meio da compra com pagamento em dinheiro. Isso limitava, ou mesmo praticamente impedia, o acesso à terra para os trabalhadores escravos que conquistavam a liberdade. (OLIVEIRA, A. U. Agricultura brasileira: transformações recentes. In: ROSS, J. L. S. Geografia do Brasil. São Paulo: Edusp, 2009) <p>O fato legal evidenciado no texto acentuou o processo de reforma agrária.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1555,43 +1555,43 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: `<p><b>A língua tupi no Brasil</b></p><p>Há 300 anos, morar na vila de São Paulo de Piratininga (peixe seco, em tupi) era quase sinônimo de falar língua de índio. Em cada cinco habitantes da cidade, só dois conheciam o português. Por isso, em 1698, o governador da província, Artur de Sá e Meneses, implorou a Portugal que só mandasse padres que soubessem “a língua geral dos índios”, pois “aquela gente não se explica em outro idioma”.</p><p>Derivado do dialeto de São Vicente, o tupi de São Paulo se desenvolveu e se espalhou no século XVII, graças ao isolamento geográfico da cidade e à atividade pouco cristã dos mamelucos paulistas: as bandeiras, expedições ao sertão em busca de escravos índios. Muitos bandeirantes nem sequer falavam o português ou se expressavam mal. Domingos Jorge Velho, o paulista que destruiu o Quilombo dos Palmares em 1694, foi descrito pelo bispo de Pernambuco como “um bárbaro que nem falar sabe”. Em suas andanças, essa gente batizou lugares como Avanhandava (lugar onde o índio corre), Pindamonhangaba (lugar de fazer anzol) e Itu (cachoeira). E acabou inventando uma nova língua.</p>“Os escravos dos bandeirantes vinham de mais de 100 tribos diferentes”, conta o historiador e antropólogo John Monteiro, da Universidade Estadual de Campinas. “Isso mudou o tupi paulista, que, além da influência do português, ainda recebia palavras de outros idiomas.” O resultado da mistura ficou conhecido como língua geral do sul, uma espécie de tupi facilitado. ÂNGELO, C. Disponível em: http://super.abril.com.br. Acesso em: 8 ago. 2012 (adaptado).</p><p>O texto trata de aspectos sócio-históricos da formação linguística nacional. Quanto ao papel do tupi na formação do português brasileiro, depreende-se que essa língua indígena<: contribuiu efetivamente para o léxico, com nomes relativos aos traços característicos dos lugares designados.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Fala-se muito nos dias de hoje em direitos do homem. Pois bem: foi no século XVIII — em 1789, precisamente — que uma Assembleia Constituinte produziu e proclamou em Paris a Declaração dos Direitos do Homem e do Cidadão. Essa Declaração se impôs como necessária para um grupo de revolucionários, por ter sido preparada por uma mudança no plano das ideias e das mentalidades: o Iluminismo. (FORTES, L. R. S. O Iluminismo e os reis filósofos. São Paulo: Brasiliense, 1981. Adaptado)</p><p>Correlacionando temporalidades históricas, o texto apresenta uma concepção de pensamento que tem como uma de suas bases a: universalização do princípio da igualdade civil.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>A configuração do espaço urbano da região do Entorno do Distrito Federal assemelha-se às demais aglomerações urbanas e regiões metropolitanas do país, onde é facilmente identificável a constituição de um centro dinâmico e desenvolvido, onde se concentram as oportunidades de trabalho e os principais serviços, e a constituição de uma região periférica concentradora de população de baixa renda, com acesso restrito às principais atividades com capacidade de acumulação e produtividade, e aos serviços sociais e infraestrutura básica. (CAIADO, M. C. A migração intrametropolitana e o processo de estruturação do espaço urbano da Região Integrada de Desenvolvimento do Distrito Federal e Entorno. In: HOGAN, D. J. et al. (Org.). Migração e ambiente nas aglomerações urbanas. Campinas: Nepo/Unicamp, 2002)</p><p>A organização interna do aglomerado urbano descrito é resultado da ocorrência do processo de: segregação socioespacial.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>A representação de Demócrito é semelhante à de Anaxágoras, na medida em que um infinitamente múltiplo é a origem; mas nele a determinação dos princípios fundamentais aparece de maneira tal que contém aquilo que para o que foi formado não é, absolutamente, o aspecto simples para si. Por exemplo, partículas de carne e de ouro seriam princípios que, através de sua concentração, formam aquilo que aparece como figura. HEGEL, G. W. F. Crítica moderna. In: SOUZA, J. C. (Org.). Os pré-socráticos: vida e obra. São Paulo: Nova Cultural, 2000 (adaptado)</p><p>O texto faz uma apresentação crítica acerca do pensamento de Demócrito, segundo o qual o “princípio constitutivo das coisas” estava representado pela: água, que expressa a causa material da origem do universo.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p>A participação da mulher no processo de decisão política ainda é extremamente limitada em praticamente todos os países, independentemente do regime econômico e social e da estrutura institucional vigente em cada um deles. É fato público e notório, além de empiricamente comprovado, que as mulheres estão em geral sub-representadas nos órgãos do poder, pois a proporção não corresponde jamais ao peso relativo dessa parte da população. TABAK, F. Mulheres públicas: participação política e poder. Rio de Janeiro: Letra Capital, 2002.</p><p>No âmbito do Poder Legislativo brasileiro, a tentativa de reverter esse quadro de sub-representação tem envolvido a implementação, pelo Estado, de: leis de combate à violência doméstica.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p>O conceito de democracia, no pensamento de Habermas, é construído a partir de uma dimensão procedimental, calcada no discurso e na deliberação. A legitimidade democrática exige que o processo de tomada de decisões políticas ocorra a partir de uma ampla discussão pública, para somente então decidir. Assim, o caráter deliberativo corresponde a um processo coletivo de ponderação e análise, permeado pelo discurso, que antecede a decisão. VITALE, D. Jürgen Habermas, modernidade e democracia deliberativa. Cadernos do CRH (UFBA), v. 19, 2006 (adaptado).</p><p>O conceito de democracia proposto por Jürgen Habermas pode favorecer processos de inclusão social. De acordo com o texto, é uma condição para que isso aconteça o: controle do poder político por cidadãos mais esclarecidos.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p>Uma pessoa vê-se forçada pela necessidade a pedir dinheiro emprestado. Sabe muito bem que não poderá pagar, mas vê também que não lhe emprestarão nada se não prometer firmemente pagar em prazo determinado. Sente a tentação de fazer a promessa; mas tem ainda consciência bastante para perguntar a si mesma: não é proibido e contrário ao dever livrar-se de apuros desta maneira? Admitindo que se decida a fazê-lo, a sua máxima de ação seria: quando julgo estar em apuros de dinheiro, vou pedi-lo emprestado e prometo pagá-lo, embora saiba que tal nunca sucederá. KANT, I. Fundamentação da metafísica dos costumes. São Paulo: Abril Cultural, 1980</p><p>De acordo com a moral kantiana, a “falsa promessa de pagamento” representada no texto: opõe-se ao princípio de que toda ação do homem possa valer como norma universal.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
+    Texto: "<p>No período anterior ao golpe militar de 1964, os documentos episcopais indicavam para os bispos que o desenvolvimento econômico, e claramente o desenvolvimento capitalista, orientando-se no sentido da justa distribuição da riqueza, resolveria o problema da miséria rural e, consequentemente, suprimiria a possibilidade do proselitismo e da expansão comunista entre os camponeses. Foi nesse sentido que o golpe de Estado, de 31 de março de 1964, foi acolhido pela Igreja. MARTINS, J. S. A política do Brasil: lúmpen e místico. São Paulo: Contexto, 2011 (adaptado).</p><p>Em que pesem as divergências no interior do clero após a instalação da ditadura civil-militar, o posicionamento mencionado no texto fundamentou-se no entendimento da hierarquia católica de que a: luta de classes é estimulada pelo livre mercado.</p>",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
