@@ -1325,7 +1325,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:`<p>O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro:</p><p>img src="liquens.png"</p><p>O ácido úsnico mostrou-se mais indicado para o controle da: esquistossomose.</p>`, 
+    texto:`<p>O ácido úsnico é retirado de liquens e foi testado contra diversas espécies, conforme o quadro:</p><p><img src="liquens.png"></p><p>O ácido úsnico mostrou-se mais indicado para o controle da: esquistossomose.</p>`, 
     resposta: true,
     dificuldade: "fácil"
   },
