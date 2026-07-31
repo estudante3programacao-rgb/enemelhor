@@ -25,7 +25,7 @@ const perguntasPremium = [
     dificuldade: "facil"
   },
   {
-    texto: "Um artista fez um desenho de um sol de 20 cm por 20 cm. A obra final manteve as proporções e foi ampliada para 30 m. <p>A escala representada é 1:150.</p>",
+    texto: `<p>Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.<img src="solar.png"></p><p>Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.</p><p>A escala esse desenho representa a obra de arte é: 1 : 150.</p>`,
     resposta: true,
     dificuldade:  "media"
   },
@@ -1630,17 +1630,19 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.</p><p>(RUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024. Adaptado).</p><p>Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, seria mais provável encontrar lagartos com essas características no território brasileiro da caatinga.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: `<p>Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual
+das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.</p><p><img src="idiomas.png"></p><p>Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição
+percentual das matrículas, por idioma, será igual à registrada em 2023.</p><p>Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será: 2.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Dez casais fundaram um grupo de dança e decidiram constituir uma diretoria com três cargos: presidente, secretário e tesoureiro. Para maior representatividade, decidiu-se que no máximo uma pessoa por casal poderá ocupar um cargo nessa diretoria.</p><p>O número de diretorias diferentes podem ser constituídas por esses 10 casais é:  20 × 18 × 16.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
