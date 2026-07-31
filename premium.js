@@ -640,7 +640,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta. (SADAVA, D. et al. Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009. Adaptado)<p>Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de: salto em altura.</p>", 
+    texto: "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta. (SADAVA, D. <i>et al.</i> Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009. Adaptado)<p>Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de: salto em altura.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -705,7 +705,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. Ao transitarem entre os dois universos, ocupam posição marginal, tanto em termos identitários — assentada na falta de pertencimento pleno enquanto membros da comunidade receptora e nos vínculos introjetados por códigos partilhados com a comunidade de origem — quanto em termos jurídicos, ao deixarem de exercer, ao menos em caráter temporário, o status de cidadãos no país de origem e portar o status de refugiados no país receptor. (MOREIRA, J. B. Refugiados no Brasil: reflexões acerca do processo de integração local. REMHU, n. 43, jul.-dez. 2014. Adaptado)<p>A condição de transitoriedade dos refugiados no Brasil, conforme abordada no texto, é provocada pela associação entre desenraizamento cultural e insegurança legal</p>", 
+    texto: "A categoria de refugiado carrega em si as noções de transitoriedade, provisoriedade e temporalidade. Os refugiados situam-se entre o país de origem e o país de destino. Ao transitarem entre os dois universos, ocupam posição marginal, tanto em termos identitários — assentada na falta de pertencimento pleno enquanto membros da comunidade receptora e nos vínculos introjetados por códigos partilhados com a comunidade de origem — quanto em termos jurídicos, ao deixarem de exercer, ao menos em caráter temporário, o status de cidadãos no país de origem e portar o status de refugiados no país receptor. (MOREIRA, J. B. Refugiados no Brasil: reflexões acerca do processo de integração local. REMHU, n. 43, jul.-dez. 2014. Adaptado)<p>A condição de transitoriedade dos refugiados no Brasil, conforme abordada no texto, é provocada pela associação entre desenraizamento cultural e insegurança legal.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -730,7 +730,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A energia radiante emitida pelo Sol, após atravessar a atmosfera, atinge a superfície terrestre, sofre interações, produz uma radiação de retorno que se propaga novamente pela atmosfera e atinge o sensor térmico do satélite, onde é detectada. Esses satélites são utilizados para detectar a existência de queimadas em regiões da superfície terrestre. Seus sensores são dispositivos capazes de detectar e registrar a radiação, em determinada faixa do espectro eletromagnético, e gerar informações que possam ser transformadas num produto passível de interpretação, como uma imagem. (Disponível em: http://educacaoespacial.files.wordpress.com. Acesso em: 3 dez. 2012. Adaptado)<p>A radiação eletromagnética captada pelos sensores desses satélites está na faixa de infravermelho.</p>",     
+    texto: "A energia radiante emitida pelo Sol, após atravessar a atmosfera, atinge a superfície terrestre, sofre interações, produz uma radiação de retorno que se propaga novamente pela atmosfera e atinge o sensor térmico do satélite, onde é detectada. Esses satélites são utilizados para detectar a existência de queimadas em regiões da superfície terrestre. Seus sensores são dispositivos capazes de detectar e registrar a radiação, em determinada faixa do espectro eletromagnético, e gerar informações que possam ser transformadas num produto passível de interpretação, como uma imagem. <p>(Disponível em: http://educacaoespacial.files.wordpress.com. Acesso em: 3 dez. 2012. Adaptado)</p><p>A radiação eletromagnética captada pelos sensores desses satélites está na faixa de infravermelho.</p>",     
     resposta: true,
     dificuldade: "fácil"
   },
@@ -740,7 +740,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O sociólogo espanhol Manuel Castells sustenta que “a comunicação de valores e a mobilização em torno  do sentido são fundamentais. Os movimentos culturais (entendidos como movimentos que têm como objetivo defender ou propor modos próprios de vida e sentido) constroem-se em torno de sistemas de comunicação — essencialmente a internet e os meios de comunicação — porque esta é a principal via que esses movimentos encontram para chegar àquelas pessoas que podem eventualmente partilhar os seus valores, e a partir daqui atuar na consciência da sociedade no seu conjunto” (Disponível em: www.compolitica.org. Acesso em: 2 mar. 2012. Adaptado)<p>Em 2011, após uma forte mobilização popular via redes sociais, houve a queda do governo de Hosni Mubarak, no Egito. Esse evento ratifica o argumento de que os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.</p>",
+    texto: "O sociólogo espanhol Manuel Castells sustenta que “a comunicação de valores e a mobilização em torno  do sentido são fundamentais. Os movimentos culturais (entendidos como movimentos que têm como objetivo defender ou propor modos próprios de vida e sentido) constroem-se em torno de sistemas de comunicação — essencialmente a internet e os meios de comunicação — porque esta é a principal via que esses movimentos encontram para chegar àquelas pessoas que podem eventualmente partilhar os seus valores, e a partir daqui atuar na consciência da sociedade no seu conjunto”.<p>(Disponível em: www.compolitica.org. Acesso em: 2 mar. 2012. Adaptado)</p><p>Em 2011, após uma forte mobilização popular via redes sociais, houve a queda do governo de Hosni Mubarak, no Egito. Esse evento ratifica o argumento de que os recursos tecnológicos estão a serviço dos opressores e do fortalecimento de suas práticas políticas.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -800,7 +800,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Na manipulação em escala nanométrica, os átomos revelam características peculiares, podendo apresentar tolerância à temperatura, reatividade química, condutividade elétrica, ou mesmo exibir força de intensidade extraordinária. Essas características explicam o interesse industrial pelos nanomateriais que estão sendo muito pesquisados em diversas áreas, desde o desenvolvimento de cosméticos, tintas e tecidos, até o de terapias contra o câncer. (LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: http://www.comciencia.br. Adaptado)<p>A utilização de nanopartículas na indústria e na medicina requer estudos mais detalhados, poisas partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.</p>", 
+    texto: "Na manipulação em escala nanométrica, os átomos revelam características peculiares, podendo apresentar tolerância à temperatura, reatividade química, condutividade elétrica, ou mesmo exibir força de intensidade extraordinária. Essas características explicam o interesse industrial pelos nanomateriais que estão sendo muito pesquisados em diversas áreas, desde o desenvolvimento de cosméticos, tintas e tecidos, até o de terapias contra o câncer. <p>(LACAVA, Z. G. M; MORAIS, P. C. Nanobiotecnologia e Saúde. Disponível em: http://www.comciencia.br. Adaptado)</p><p>A utilização de nanopartículas na indústria e na medicina requer estudos mais detalhados, pois as partículas podem atravessar poros e canais celulares, o que poderia causar impactos desconhecidos aos seres vivos e, até mesmo, aos ecossistemas.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -855,7 +855,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "FABIANA, <i> arrepelando-se de raiva</i> — Hum! Ora, eis aí está para	que	se casou meu filho, e trouxe a mulher para minha casa. É isto constantemente. Não sabe o senhor meu filho que quem casa quer casa... Já	não	posso, não posso, não posso! <i>(Batendo com o pé).</i> Um dia arrebento, e então veremos! (PENA, M. Quem casa quer casa. www.dominiopublico.gov.br. Acesso em: 7 dez. 2012). As rubricas em itálico, como as trazidas no trecho de Martins Pena, em uma atuação teatral, constituem: possibilidade, porque o texto pode ser mudado, assim como outros elementos.",
+    texto: "FABIANA, <i> arrepelando-se de raiva</i> — Hum! Ora, eis aí está para	que	se casou meu filho, e trouxe a mulher para minha casa. É isto constantemente. Não sabe o senhor meu filho que quem casa quer casa... Já	não	posso, não posso, não posso! <i>(Batendo com o pé).</i> Um dia arrebento, e então veremos! <p>(PENA, M. Quem casa quer casa. www.dominiopublico.gov.br. Acesso em: 7 dez. 2012)</p><p>As rubricas em itálico, como as trazidas no trecho de Martins Pena, em uma atuação teatral, constituem: possibilidade, porque o texto pode ser mudado, assim como outros elementos.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -980,12 +980,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No âmbito da produção de suínos no Brasil, é necessária a adoção de estratégias para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são muito mais poluentes. Tendo isso em vista, sua utilização na geração de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que os recursos hídricos do país são preservados. PÓVOA, J. C. Resíduos suínos como alternativa energética sustentável. Anais ENEGEP, Foz do Iguaçu, 2007 (adaptado)<p>O biocombustível a que se refere o texto é o metano.</p>",
+    texto: "No âmbito da produção de suínos no Brasil, é necessária a adoção de estratégias para reduzir o potencial poluidor dos resíduos dessa agroindústria, uma vez que, comparativamente ao esgoto doméstico, os dejetos suínos são muito mais poluentes. Tendo isso em vista, sua utilização na geração de combustíveis é uma alternativa que permite diversificar a matriz energética nacional, ao mesmo tempo em que os recursos hídricos do país são preservados.<p>(PÓVOA, J. C. Resíduos suínos como alternativa energética sustentável. Anais ENEGEP, Foz do Iguaçu, 2007. Adaptado)</p><p>O biocombustível a que se refere o texto é o metano.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "A curcumina, uma das substâncias que conferem a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto e interfere na digestão, reduzindo as espécies reativas de oxigênio que danificam de forma permanente o tecido do tubo digestório. TOLEDO, K. Corante extraído do açafrão pode ser útil no combate à dengue. <p>Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015 (adaptado).</p> A forma de combate relatada tem como atividade o: impedimento do desenvolvimento da larva.",
+    texto: "A curcumina, uma das substâncias que conferem a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto e interfere na digestão, reduzindo as espécies reativas de oxigênio que danificam de forma permanente o tecido do tubo digestório. <p>(TOLEDO, K. Corante extraído do açafrão pode ser útil no combate à dengue. <p>Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015. Adaptado).</p></p> A forma de combate relatada tem como atividade o: impedimento do desenvolvimento da larva.",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1115,7 +1115,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no fim do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego pyr, significando ‘fogo’, e lampas, ‘candeia’.(FERREIRA, M. B. Caminhos do português: exposição comemorativa do Ano Europeu das Línguas. Portugal: Biblioteca Nacional, 2001. Adaptado).</p><p>O texto descreve a mudança ocorrida na nomeação do inseto, por questões de tabu linguístico. Esse tabu diz respeito à: produção imprópria de poetas portugueses.</p>",
+    texto:"<p>O nome do inseto pirilampo (vaga-lume) tem uma interessante certidão de nascimento. De repente, no fim do século XVII, os poetas de Lisboa repararam que não podiam cantar o inseto luminoso, apesar de ele ser um manancial de metáforas, pois possuía um nome “indecoroso” que não podia ser “usado em papéis sérios”: caga-lume. Foi então que o dicionarista Raphael Bluteau inventou a nova palavra, pirilampo, a partir do grego pyr, significando ‘fogo’, e lampas, ‘candeia’.</p><p>(FERREIRA, M. B. Caminhos do português: exposição comemorativa do Ano Europeu das Línguas. Portugal: Biblioteca Nacional, 2001. Adaptado).</p><p>O texto descreve a mudança ocorrida na nomeação do inseto, por questões de tabu linguístico. Esse tabu diz respeito à: produção imprópria de poetas portugueses.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1155,12 +1155,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns religiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na prática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou boticário. GURGEL, C. Doenças e curas: o Brasil nos primeiros séculos. São Paulo: Contexto, 2010 (adaptado).</p><p>Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a: superação da tradição popular.</p>",
+    texto:"<p>De um lado, ancorados pela prática médica europeia, por outro, pela terapêutica indígena, com seu amplo uso da flora nativa, os jesuítas foram os reais iniciadores do exercício de uma medicina híbrida que se tornou marca do Brasil colonial. Alguns religiosos vinham de Portugal já versados nas artes de curar, mas a maioria aprendeu na prática diária as funções que deveriam ser atribuídas a um físico, cirurgião, barbeiro ou boticário.</p> <p>(GURGEL, C. Doenças e curas: o Brasil nos primeiros séculos. São Paulo: Contexto, 2010. Adaptado).</p><p>Conforme o texto, o que caracteriza a construção da prática medicinal descrita é a: superação da tradição popular.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"<p>As grandes empresas seriam, certamente, representação de um exercício de poder, ante o grau de autonomia de ação de que dispõem. O que se pretende salientar é a ideia de enclave: plantas industriais que estabelecem relações escassas com o entorno, mas exercem grande influência na economia local. LIMONAD, E. Estado do Rio de Janeiro: o urbano metropolitano. Hipóteses e questões. GeoUERJ, n. 21, 2010.</p><p> O tipo de ação tomada por empresas referente à forma de territorialização da produção industrial apresentada no texto é: importação de mão de obra especializada.</p>",
+    texto:"<p>As grandes empresas seriam, certamente, representação de um exercício de poder, ante o grau de autonomia de ação de que dispõem. O que se pretende salientar é a ideia de enclave: plantas industriais que estabelecem relações escassas com o entorno, mas exercem grande influência na economia local.</p><p> (LIMONAD, E. Estado do Rio de Janeiro: o urbano metropolitano. Hipóteses e questões. GeoUERJ, n. 21, 2010.)</p><p> O tipo de ação tomada por empresas referente à forma de territorialização da produção industrial apresentada no texto é: importação de mão de obra especializada.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1170,12 +1170,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus. OLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.</p> <p>A técnica para gerar essa leguminosa é um exemplo de: melhoramento genético.</p>",
+    texto:"<p>Instituições acadêmicas e de pesquisa no mundo estão inserindo genes em genomas de plantas que possam codificar produtos de interesse farmacológico. No Brasil, está sendo desenvolvida uma variedade de soja com um viricida ou microbicida capaz de prevenir a contaminação pelo vírus causador da aids. Essa leguminosa está sendo induzida a produzir a enzima cianovirina-N, que tem eficiência comprovada contra o vírus.</p><p>(OLIVEIRA, M. Remédio na planta. Pesquisa Fapesp, n. 206, abr. 2013.)</p><p>A técnica para gerar essa leguminosa é um exemplo de: melhoramento genético.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre. BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017 (adaptado).</p> <p>Esses espetáculos promovem riscos ambientais, porque: os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.</p>",
+    texto:"<p>Megaespetáculos com queima de grande quantidade de fogos de artifício em festas de final de ano são muito comuns no Brasil. Após a queima, grande quantidade de material particulado permanece suspensa no ar. Entre os resíduos, encontram-se compostos de sódio, potássio, bário, cálcio, chumbo, antimônio, cromo, além de percloratos e gases, como os dióxidos de nitrogênio e enxofre. </p><p>(BRUNNING, A. The Chemistry of Firework Pollution. Disponível em: www.compoundchem.com. Acesso em: 1 dez. 2017. Adaptado).</p><p>Esses espetáculos promovem riscos ambientais, porque: os produtos da queima contêm metais pesados e gases tóxicos que resultam em poluição atmosférica.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1220,7 +1220,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },  
   {
-    texto:`<p> A Declaração Universal dos Direitos Humanos está completando 70 anos em tempos de desafios crescentes, quando o ódio, a discriminação e a violência permanecem vivos”, disse a diretora-geral da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), Audrey Azoulay.</p> <p>“Ao final da Segunda Guerra Mundial, a humanidade inteira resolveu promover a dignidade humana em todos os lugares e para sempre. Nesse espírito, as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos como um padrão comum de conquistas para todos os povos e todas as nações”, disse Audrey.</p> <p>“Centenas de milhões de mulheres e homens são destituídos e privados de condições básicas de subsistência e de oportunidades. Movimentos populacionais forçados geram violações aos direitos em uma escala sem precedentes. A Agenda 2030 para o Desenvolvimento Sustentável promete não deixar ninguém para trás – e os direitos humanos devem ser o alicerce para todo o progresso.”</p> <p>Segundo ela, esse processo precisa começar o quanto antes nas carteiras das escolas. Diante disso, a Unesco lidera a educação em direitos humanos para assegurar que todas as meninas e meninos saibam seus direitos e os direitos dos outros. Disponível em: https://nacoesunidas.org. Acesso em: 3 abr. 2018 (adaptado).</p> <p>Defendendo a ideia de que “os direitos humanos devem ser o alicerce para todo o progresso”, a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a: discussão desse tema desde a educação básica.</p>`,
+    texto:`<p> A Declaração Universal dos Direitos Humanos está completando 70 anos em tempos de desafios crescentes, quando o ódio, a discriminação e a violência permanecem vivos”, disse a diretora-geral da Organização das Nações Unidas para a Educação, a Ciência e a Cultura (Unesco), Audrey Azoulay.</p> <p>“Ao final da Segunda Guerra Mundial, a humanidade inteira resolveu promover a dignidade humana em todos os lugares e para sempre. Nesse espírito, as Nações Unidas adotaram a Declaração Universal dos Direitos Humanos como um padrão comum de conquistas para todos os povos e todas as nações”, disse Audrey.</p> <p>“Centenas de milhões de mulheres e homens são destituídos e privados de condições básicas de subsistência e de oportunidades. Movimentos populacionais forçados geram violações aos direitos em uma escala sem precedentes. A Agenda 2030 para o Desenvolvimento Sustentável promete não deixar ninguém para trás – e os direitos humanos devem ser o alicerce para todo o progresso.”</p> <p>Segundo ela, esse processo precisa começar o quanto antes nas carteiras das escolas. Diante disso, a Unesco lidera a educação em direitos humanos para assegurar que todas as meninas e meninos saibam seus direitos e os direitos dos outros. Disponível em: https://nacoesunidas.org. Acesso em: 3 abr. 2018. Adaptado</p> <p>Defendendo a ideia de que “os direitos humanos devem ser o alicerce para todo o progresso”, a diretora-geral da Unesco aponta, como estratégia para atingir esse fim, a: discussão desse tema desde a educação básica.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1355,7 +1355,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Na sociologia e na literatura, o brasileiro foi por vezes tratado como cordial e hospitaleiro, mas não é isso o que acontece nas redes sociais: a democracia racial apregoada por Gilberto Freyre passa ao largo do que acontece diariamente nas comunidades virtuais do país. Levantamento inédito realizado pelo projeto Comunica que Muda [...] mostra em números a intolerância do internauta tupiniquim. Entre abril e junho, um algoritmo vasculhou plataformas [...] atrás de mensagens e textos sobre temas sensíveis, como racismo, posicionamento político e homofobia. Foram identificadas 393 284 menções, sendo 84% delas com abordagem negativa, de exposição do preconceito e da discriminação. Disponível em: https://oglobo.globo.com. Acesso em: 6 dez. 2017 (adaptado).</p> <p>Ao abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto: refuta ideias preconcebidas sobre o brasileiro </p>",
+    texto: "<p>Na sociologia e na literatura, o brasileiro foi por vezes tratado como cordial e hospitaleiro, mas não é isso o que acontece nas redes sociais: a democracia racial apregoada por Gilberto Freyre passa ao largo do que acontece diariamente nas comunidades virtuais do país. Levantamento inédito realizado pelo projeto Comunica que Muda [...] mostra em números a intolerância do internauta tupiniquim. Entre abril e junho, um algoritmo vasculhou plataformas [...] atrás de mensagens e textos sobre temas sensíveis, como racismo, posicionamento político e homofobia. Foram identificadas 393 284 menções, sendo 84% delas com abordagem negativa, de exposição do preconceito e da discriminação. Disponível em: https://oglobo.globo.com. Acesso em: 6 dez. 2017 (adaptado).</p> <p>Ao abordar a postura do internauta brasileiro mapeada por meio de uma pesquisa em plataformas virtuais, o texto: refuta ideias preconcebidas sobre o brasileiro.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1380,12 +1380,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A rebelião luso-brasileira em Pernambuco começou a ser urdida em 1644 e explodiu em 13 de junho de 1645, dia de Santo Antônio. Uma das primeiras medidas de João Fernandes foi decretar nulas as dívidas que os rebeldes tinham com os holandeses. Houve grande adesão da “nobreza da terra”, entusiasmada com esta proclamação heroica. VAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009.</p> <p>O desencadeamento dessa revolta na América portuguesa seiscentista foi o resultado do: interesse econômico dos senhores de engenho.</p>",
+    texto: "<p>A rebelião luso-brasileira em Pernambuco começou a ser urdida em 1644 e explodiu em 13 de junho de 1645, dia de Santo Antônio. Uma das primeiras medidas de João Fernandes foi decretar nulas as dívidas que os rebeldes tinham com os holandeses. Houve grande adesão da “nobreza da terra”, entusiasmada com esta proclamação heroica.</p><p>(VAINFAS, R. Guerra declarada e paz fingida na restauração portuguesa. Tempo, n. 27, 2009.)</p> <p>O desencadeamento dessa revolta na América portuguesa seiscentista foi o resultado do: interesse econômico dos senhores de engenho.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A situação demográfica de Israel é muito particular. Desde 1967, a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe “entre o rio e o mar”. DEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014.</p> <p>A preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado à: busca da preeminência étnica sobre o espaço nacional.</p>",
+    texto: "<p>A situação demográfica de Israel é muito particular. Desde 1967, a esquerda sionista afirma que Israel deveria se desfazer rapidamente da Cisjordânia e da Faixa de Gaza, argumentando a partir de uma lógica demográfica aparentemente inexorável. Devido à taxa de nascimento árabe ser muito mais elevada, a anexação dos territórios palestinos, formal ou informal, acarretaria dentro de uma ou duas gerações uma maioria árabe “entre o rio e o mar”.</p><p>(DEMANT, P. Israel: a crise próxima. História, n. 2, jul.-dez. 2014.)</p> <p>A preocupação apresentada no texto revela um aspecto da condução política desse Estado identificado à: busca da preeminência étnica sobre o espaço nacional.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1772,7 +1772,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 7;
+const ultimoNivelDisponivel = 8;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
