@@ -1635,9 +1635,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: `<p>Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual
-das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.</p><p><img src="idiomas.png"></p><p>Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição
-percentual das matrículas, por idioma, será igual à registrada em 2023.</p><p>Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será: 2.</p>`,
+    Texto: `<p>Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.</p><p><img src="idiomas.png"></p><p>Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição percentual das matrículas, por idioma, será igual à registrada em 2023.</p><p>Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será: 2.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1647,52 +1645,52 @@ percentual das matrículas, por idioma, será igual à registrada em 2023.</p><p
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: `<p>A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (S O ), que é convertido no radical •SO por minerais que contêm Fe(III). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.</p><p><img src="oxirreducao.png"><p><p>(BERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021. Adaptado).</p><p>Esse procedimento de remediação de águas subterrâneas baseia-se em reações de: oxirredução.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (<i>Artocarpus heterophyllus</i>), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional. Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas: apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.</p>",     
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água.</p><p>Considere a aceleração da gravidade de 10 ms<sup>−2</sup>.O resultado que eles obtiveram foi de: 2,25 m.</p>",     
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: `<p>Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO<sub>3</sub>) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.</p><img src="gasdioxido.png"><p>O gás obtido no experimento é o: CO<sub>2</sub>.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.</p><p>Com esse equívoco, a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna é: 0,25 A.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado. </p><p>(JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021. Adaptado).</p><p>Esse novo medicamento apresenta potencial aplicação para: reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.</p>", 
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    Texto: "<p>Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km</p><p>(SCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to Einstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022. Adaptado).</p><p>Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar: eles passariam a precessionar mais rapidamente.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
-    resposta: true,
+    Texto: `<p>De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais. </p><p><img src="benzeno.png"></p><p>A característica estrutural dessa família de compostos é a presença de: átomos de oxigênio.</p>`,
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
-    resposta: true,
+    Texto: "<p>Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. </p><p>No planeta Z, seu ano corresponderia a quantos de seus dias: 53 290,00.</p>",
+    resposta: false,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda</p><p>As porções da receita-base de massa ela deve preparar para atender esse cliente é: 24 docinhos.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
