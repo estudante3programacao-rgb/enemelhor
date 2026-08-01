@@ -135,7 +135,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina contra a doença usando	uma	variação do	protozoário	incapaz	de desencadear a patologia (não patogênico). Para isso, realizaram	uma	modificação	genética criando um <i>T. cruzi</i> capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012. Adaptado)</p><p>O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor é a autoimunidade.</p>",
+    texto: "<p>O protozoário <i>Trypanosoma cruzi</i>, causador da doença de Chagas, pode ser a nova arma da medicina contra o câncer. Pesquisadores brasileiros conseguiram criar	uma	vacina contra a doença usando	uma	variação do	protozoário	incapaz	de desencadear a patologia (não patogênico). Para isso, realizaram uma	modificação	genética criando um <i>T. cruzi</i> capaz de produzir também moléculas fabricadas pelas células tumorais. Quando o organismo inicia o combate ao protozoário, entra em contato também com a molécula tumoral, que passa a ser vista também pelo sistema imune como um indicador de células do protozoário. Depois de induzidas as defesas, estas passam a destruir todas as células com a molécula tumoral, como se lutassem apenas contra o protozoário. (Disponível em: www.estadao.com.br. Acesso em: 1 mar. 2012. Adaptado)</p><p>O mecanismo utilizado no experimento para enganar as células de defesa, fazendo com que ataquem o tumor é a autoimunidade.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1015,7 +1015,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>O meu medo é entrar na faculdade e tirar zero eu que nunca fui bom de matemática fraco no inglês eu que nunca gostei de química geografia e português o que é que eu faço agora hein mãe não sei. [...]</p> <p>O meu medo é a vida piorar e eu não conseguir arranjar emprego nem de faxineiro nem de porteiro nem de ajudante de pedreiro e o pessoal dizer que o governo já fez o que pôde já pôde o que fez já deu a sua cota de participação hein mãe não sei.</p> <p>O meu medo é que mesmo com diploma debaixo do braço andando por aí desiludido e desempregado o policial me olhe de cara feia e eu acabe fazendo uma burrice sei lá uma besteira será que eu vou ter direito a uma cela especial hein mãe não sei.</p> <p>(FREIRE, M. Contos negreiros. Rio de Janeiro: Record, 2005.)</p> <p>Nesse texto, a reiteração dos medos e das angústias do narrador exprime inseguranças sobre o futuro familiar.</p>",
+    texto:"<p>O meu medo é entrar na faculdade e tirar zero eu que nunca fui bom de matemática fraco no inglês eu que nunca gostei de química geografia e português o que é que eu faço agora hein mãe não sei. [...]</p> <p>O meu medo é a vida piorar e eu não conseguir arranjar emprego nem de faxineiro nem de porteiro nem de ajudante de pedreiro e o pessoal dizer que o governo já fez o que pôde já pôde o que fez já deu a sua cota de participação hein mãe não sei.</p> <p>O meu medo é que mesmo com diploma debaixo do braço andando por aí desiludido e desempregado o policial me olhe de cara feia e eu acabe fazendo uma burrice sei lá uma besteira será que eu vou ter direito a uma cela especial hein mãe não sei.</p><p>(FREIRE, M. <b>Contos negreiros.</b> Rio de Janeiro: Record, 2005.)</p><p>Nesse texto, a reiteração dos medos e das angústias do narrador exprime inseguranças sobre o futuro familiar.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1625,118 +1625,118 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.</p><p>Esse tipo de doping está diretamente relacionado ao aumento da: taxa de transporte de oxigênio pelo sangue.</p>", 
+    texto: "<p>Diversas substâncias são empregadas com a intenção de incrementar o desempenho esportivo de atletas de alto nível. O chamado doping sanguíneo, por exemplo, pela utilização da eritropoietina, é proibido pelas principais federações de esportes no mundo. A eritropoietina é um hormônio produzido pelos rins e fígado e sua principal ação é regular o processo de eritropoiese. Seu uso administrado intravenosamente em quantidades superiores àquelas presentes naturalmente no organismo permite que o indivíduo aumente a sua capacidade de realização de exercícios físicos.</p><p>Esse tipo de doping está diretamente relacionado ao aumento da: taxa de transporte de oxigênio pelo sangue.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.</p><p>(RUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024. Adaptado).</p><p>Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, seria mais provável encontrar lagartos com essas características no território brasileiro da caatinga.</p>",
+    texto: "<p>O monstro de gila, um lagarto encontrado em um deserto dos Estados Unidos, apresenta adaptações à falta de alimento nesse ambiente. Esse lagarto possui um hormônio que controla os níveis de açúcar em seu próprio sangue. Foi observado que esse hormônio também controla os níveis de açúcar no sangue de pessoas diabéticas.</p><p>(RUSSELL, C. Ozempic e outros remédios inspirados em veneno de animais. Disponível em: www.bbc.com. Acesso em: 6 dez. 2024. Adaptado).</p><p>Considerando que animais de um mesmo grupo taxonômico podem apresentar características adaptativas semelhantes em ambientes similares, seria mais provável encontrar lagartos com essas características no território brasileiro da caatinga.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: `<p>Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.</p><p><img src="idiomas.png"></p><p>Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição percentual das matrículas, por idioma, será igual à registrada em 2023.</p><p>Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será: 2.</p>`,
+    texto: `<p>Uma escola de idiomas oferece cursos de inglês, espanhol, francês e alemão. Os gráficos apresentam a distribuição percentual das matrículas, por idioma, em 2023, e a distribuição da quantidade de matrículas, por idioma, em 2024.</p><p><img src="idiomas.png"></p><p>Para planejar as atividades de 2025, o gerente da escola estimou que o total de matrículas será o mesmo de 2024, e a distribuição percentual das matrículas, por idioma, será igual à registrada em 2023.</p><p>Segundo essa estimativa, o número de matrículas no curso de francês para o ano de 2025 será: 2.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Dez casais fundaram um grupo de dança e decidiram constituir uma diretoria com três cargos: presidente, secretário e tesoureiro. Para maior representatividade, decidiu-se que no máximo uma pessoa por casal poderá ocupar um cargo nessa diretoria.</p><p>O número de diretorias diferentes podem ser constituídas por esses 10 casais é:  20 × 18 × 16.</p>",
+    texto: "<p>Dez casais fundaram um grupo de dança e decidiram constituir uma diretoria com três cargos: presidente, secretário e tesoureiro. Para maior representatividade, decidiu-se que no máximo uma pessoa por casal poderá ocupar um cargo nessa diretoria.</p><p>O número de diretorias diferentes podem ser constituídas por esses 10 casais é:  20 × 18 × 16.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: `<p>A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (S O ), que é convertido no radical •SO por minerais que contêm Fe(III). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.</p><p><img src="oxirreducao.png"><p><p>(BERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021. Adaptado).</p><p>Esse procedimento de remediação de águas subterrâneas baseia-se em reações de: oxirredução.</p>`,
+    texto: `<p>A figura ilustra esquematicamente um processo de remediação de solos contaminados com tricloroeteno (TCE), um agente desengraxante. Em razão de vazamentos de tanques de estocagem ou de manejo inapropriado de resíduos industriais, ele se encontra presente em águas subterrâneas, nas quais forma uma fase líquida densa não aquosa (DNAPL) que se deposita no fundo do aquífero. Essa tecnologia de descontaminação emprega o íon persulfato (S O ), que é convertido no radical •SO por minerais que contêm Fe(III). O esquema representa de forma simplificada o mecanismo de ação química sobre o TCE e a formação dos produtos de degradação.</p><p><img src="oxirreducao.png"><p><p>(BERTAGI, L. T.; BASÍLIO, A. O.; PERALTA-ZAMORA, P. Aplicações ambientais de persulfato: remediação de águas subterrâneas e solos contaminados. Química Nova, n. 9, 2021. Adaptado).</p><p>Esse procedimento de remediação de águas subterrâneas baseia-se em reações de: oxirredução.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (<i>Artocarpus heterophyllus</i>), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional. Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas: apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.</p>",     
+    texto: "<p>A extinção de espécies é uma ameaça real que afeta diversas regiões do país. A introdução de espécies exóticas pode ser considerada um fator maximizador desse processo. A jaqueira (<i>Artocarpus heterophyllus</i>), por exemplo, é uma árvore originária da Índia e de regiões do Sudeste Asiático que foi introduzida ainda na era colonial e se aclimatou muito bem em praticamente todo o território nacional. Casos como o dessa árvore podem provocar a redução da biodiversidade, pois elas: apresentam alta taxa de reprodução e se mantêm com um número de indivíduos superior à capacidade suporte do ambiente.</p>",     
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água.</p><p>Considere a aceleração da gravidade de 10 ms<sup>−2</sup>.O resultado que eles obtiveram foi de: 2,25 m.</p>",     
+    texto: "<p>Em um dia de calor intenso, dois colegas estão a brincar com a água da mangueira. Um deles quer saber até que altura o jato de água alcança, a partir da saída de água, quando a mangueira está posicionada totalmente na direção vertical. O outro colega propõe então o seguinte experimento: eles posicionarem a saída de água da mangueira na direção horizontal, a 1 m de altura em relação ao chão, e então medirem a distância horizontal entre a mangueira e o local onde a água atinge o chão. A medida dessa distância foi de 3 m, e a partir disso eles calcularam o alcance vertical do jato de água.</p><p>Considere a aceleração da gravidade de 10 ms<sup>−2</sup>.O resultado que eles obtiveram foi de: 2,25 m.</p>",     
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: `<p>Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO<sub>3</sub>) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.</p><img src="gasdioxido.png"><p>O gás obtido no experimento é o: CO<sub>2</sub>.</p>`,
+    texto: `<p>Um grupo de alunos realizou um experimento para observar algumas propriedades dos ácidos, adicionando um pedaço de mármore (CaCO<sub>3</sub>) a uma solução aquosa de ácido clorídrico (HCl), observando a liberação de um gás e o aumento da temperatura.</p><img src="gasdioxido.png"><p>O gás obtido no experimento é o: CO<sub>2</sub>.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.</p><p>Com esse equívoco, a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna é: 0,25 A.</p>",
+    texto: "<p>Uma lanterna funciona com três pilhas de resistência interna igual a 0,5 Ω cada, ligadas em série. Quando posicionadas corretamente, devem acender a lâmpada incandescente de especificações 4,5 W e 4,5 V. Cada pilha na posição correta gera uma f.e.m. (força eletromotriz) de 1,5 V. Uma pessoa, ao trocar as pilhas da lanterna, comete o equívoco de inverter a posição de uma das pilhas. Considere que as pilhas mantêm contato independentemente da posição.</p><p>Com esse equívoco, a intensidade de corrente que passa pela lâmpada ao se ligar a lanterna é: 0,25 A.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado. </p><p>(JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021. Adaptado).</p><p>Esse novo medicamento apresenta potencial aplicação para: reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.</p>", 
+    texto: "<p>O veneno da cascavel pode causar hemorragia com risco de morte a quem é picado pela serpente. No entanto, pesquisadores do Brasil e da Bélgica desenvolveram uma molécula de interesse farmacêutico, a PEG-collineína-1, a partir de uma proteína encontrada no veneno dessa cobra, capaz de modular a coagulação sanguínea. Embora a técnica não seja nova, foi a primeira vez que o método foi usado a partir de uma toxina animal na sua forma recombinante, ou seja, produzida em laboratório por um fungo geneticamente modificado. </p><p>(JULIÃO, A. Técnica modifica proteína do veneno de cascavel e permite criar fármaco que modula a coagulação sanguínea. Disponível em: https://agencia.fapesp.br. Acesso em: 22 nov. 2021. Adaptado).</p><p>Esse novo medicamento apresenta potencial aplicação para: reduzir o inchaço dos linfonodos, parte da resposta imunitária de diferentes infecções.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km</p><p>(SCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to Einstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022. Adaptado).</p><p>Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar: eles passariam a precessionar mais rapidamente.</p>",
+    texto: "<p>Um Buraco Negro é um corpo celeste que possui uma grande quantidade de matéria concentrada em uma pequena região do espaço, de modo que sua força gravitacional é tão grande que qualquer partícula fica aprisionada em sua superfície, inclusive a luz. O raio dessa região caracteriza uma superfície-limite, chamada de horizonte de eventos, da qual nada consegue escapar. Considere que o Sol foi instantaneamente substituído por um Buraco Negro com a mesma massa solar, de modo que o seu horizonte de eventos seja de aproximadamente 3,0 km</p><p>(SCHWARZSCHILD, K. On the Gravitational Field of a Mass Point According to Einstein’s Theory. Disponível em: arxiv.org. Acesso em: 26 maio 2022. Adaptado).</p><p>Após a substituição descrita, o que aconteceria aos planetas do Sistema Solar: eles passariam a precessionar mais rapidamente.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: `<p>De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais. </p><p><img src="benzeno.png"></p><p>A característica estrutural dessa família de compostos é a presença de: átomos de oxigênio.</p>`,
+    texto: `<p>De modo geral, a palavra “aromático” invoca associações agradáveis, como cheiro de café fresco ou de um pão doce de canela. Associações similares ocorriam no passado da história da química orgânica, quando os compostos ditos “aromáticos” apresentavam um odor agradável e foram isolados de óleos naturais. À medida que as estruturas desses compostos eram elucidadas, foi se descobrindo que vários deles continham uma unidade estrutural específica. Os compostos aromáticos que continham essa unidade estrutural tornaram-se parte de uma grande família, muito mais com base em suas estruturas eletrônicas do que nos seus cheiros, como as substâncias a seguir, encontradas em óleos vegetais. </p><p><img src="benzeno.png"></p><p>A característica estrutural dessa família de compostos é a presença de: átomos de oxigênio.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. </p><p>No planeta Z, seu ano corresponderia a quantos de seus dias: 53 290,00.</p>",
+    texto: "<p>Definem-se o dia e o ano de um planeta de um sistema solar como sendo, respectivamente, o tempo que o planeta leva para dar 1 volta completa em torno de seu próprio eixo de rotação e o tempo para dar 1 volta completa em torno de seu Sol. Suponha que exista um planeta Z, em algum sistema solar, onde um dia corresponda a 73 dias terrestres e que 2 de seus anos correspondam a 1 ano terrestre. Considere que 1 ano terrestre tem 365 de seus dias. </p><p>No planeta Z, seu ano corresponderia a quantos de seus dias: 53 290,00.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda</p><p>As porções da receita-base de massa ela deve preparar para atender esse cliente é: 24 docinhos.</p>",
+    texto: "<p>Uma cozinheira produz docinhos especiais por encomenda. Usando uma receita-base de massa, ela prepara uma porção, com a qual produz 50 docinhos maciços de formato esférico, com 2 cm de diâmetro. Um cliente encomenda 150 desses docinhos, mas pede que cada um tenha formato esférico com 4 cm de diâmetro. A cozinheira pretende preparar o número exato de porções da receita-base de massa necessário para produzir os docinhos dessa encomenda</p><p>As porções da receita-base de massa ela deve preparar para atender esse cliente é: 24 docinhos.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: "<p>O Ministério do Esporte no Brasil lançou o programa Maré Inclusiva, em 2024, ano dos Jogos Paralímpicos de Paris. Esse programa visa ampliar as oportunidades para pessoas com deficiência que desejam praticar o surf. O parasurf é a prática do surf adaptada para permitir que pessoas com deficiência pratiquem o esporte em todas as suas categorias, modalidades e manifestações. Para a Secretaria Nacional do Paradesporto, a iniciativa é mais do que um programa de esporte, é uma iniciativa que busca transformar vidas e promover a inclusão por meio do parasurf, criando um legado de igualdade e respeito.</p><p>Disponível em: www.gov.br/esporte. Acesso em: 6 set. 2024. Adaptado).</p><p>De acordo com esse texto, o programa voltado ao estímulo da prática do parasurf evidencia a: adesão de diferentes países a programas inclusivos.</p><",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A característica fundamental no aprendizado das práticas rituais nos candomblés é o processo iniciático e participante. Durante o período de reclusão em terreiros ou rocas, o iniciado passa por uma série de ritos esotéricos (banhos rituais, raspagem da cabeça etc.), ao mesmo tempo em que começa a adquirir um complexo código de símbolos materiais (substâncias, folhas, frutos, raízes etc.) e de gestos associados a um repertório linguístico específico das cerimônias que se desenrolam nos contextos sagrados em geral e em cada terreiro em particular.</p><p>Esse repertório linguístico, genericamente chamado de “língua de santo” na Bahia, compreende uma terminologia religiosa operacional, de caráter mágico-semântico e de aparente forma portuguesa, mas que repousa sobre sistemas lexicais de diferentes línguas africanas que provavelmente foram faladas no Brasil escravocrata, vindo a constituir uma língua ritual, que se acredita pertencer à nação do vodum, do orixá ou do inquice, e não a determinada nação africana política atual.</p><p>Disponível em: https://periodicos.ufba.br. Acesso em: 21 jan. 2024. Adaptado)</p><p>A “língua de santo” tem sua importância para o patrimônio linguístico brasileiro por: conservar elementos dos falares dos escravizados.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: `<p>A produção de vacinas exige uma sequência de procedimentos, além do cumprimento estrito de verificações de segurança. No esquema, estão demonstradas as etapas básicas realizadas para a fabricação de uma vacina utilizando a tecnologia tradicional e o efeito dela no organismo.</p><p><img src="vacinas.png"></p><p>O antígeno utilizado na vacina causa um efeito protetor contra o vírus porque: induz a produção de proteínas neutralizadoras.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: "<p><b>TEXTO I</b></p><p><b>As mariposas</b></p><p>As mariposa, quando chega o frio<br>Fica dando volta em volta da lâmpida pra se esquentá. [sic]</p><p>BARBOSA, A. <b>Reviva: Adoniran Barbosa.</b>São Paulo: Som Livre, 2002 (fragmento).</p><p><b>TEXTO II</b></p><p>As mariposas se aproximam das lâmpadas atraídas pela luz,pois, sendo basicamente criaturas noturnas, estão adaptadasa seguir o brilho da lua, em um processo conhecido como orientação transversal. Assim, o que o sambista Adoniran Barbosa, no Texto I, descreve não é a causa, mas sim uma das consequências possíveis dessa aproximação. De fato, o calor gerado pelas lâmpadas, sobretudo as incandescentes, pode aquecer as mariposas.</p><p>HERTZBERG, R. Por que as mariposas são tão atraídas por luzes fortes? <b>National Geographic</b>, nov. 2020 (adaptado)</p><p>Nesse contexto, o processo de transferência de calor para as mariposas que independe da presença de fluidos é a: irradiação.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: "<p>O bioma Cerrado é caracterizado por apresentar ampla e natural diversidade de espécies vegetais. Nos últimos tempos, o homem vem modificando esse cenário pela inserção de plantas exóticas nesse ambiente. Exemplo disso é o cultivo do capim-gordura, nativo do continente africano e utilizado nesse tipo de ecossistema como forma de pastagem. É importante ressaltar que essa espécie vegetal é capaz de se espalhar por grandes áreas, devido à sua agressividade e poder competitivo.</p><p>(CARLOS JR., L. A.; BARBOSA, N. P. U.; FERNANDES, G. W. O capim-gordura e as invasões no Cerrado brasileiro. <b>Jornal do Biólogo</b>, mar.-jun. 2008. Adaptado).</p><p>Em longo prazo, essa ação do homem pode gerar qual consequência: diversifica nichos ecológicos.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p><b>Por que os olhos ficam vermelhos em algumas fotografias?</b></p><p>Em fotos tiradas com câmeras fotográficas antigas, por vezes as pessoas aparecem com os olhos vermelhos. Isso ocorre porque a luz do flash da câmera incide diretamente no globo ocular, sendo refletida por uma região repleta de vasos sanguíneos.</p><p>(Disponível em: www.uol.com.br. Acesso em: 14 jun. 2017. Adaptado)</p><p>Esse efeito é mais comum à noite ou em lugares pouco iluminados porque, com a pupila: dilatada, chega mais luz à retina.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: "<p>A deficiência da enzima lipase ácida causa uma doença em que o portador apresenta células que não degradam colesterol esterificado nem triglicerídeos, resultando no depósito desses compostos em diversos órgãos, principalmente no fígado.</p><p>(ANDERSON, R. A. et al. In Situ Localization of the Genetic Locus Encoding [...]. Genomics, n. 1, jan. 1993. Adaptado)</p><p>A doença resulta da insuficiência funcional da seguinte estrutura celular: retículo endoplasmático liso.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A quantidade de CO<sub>2</sub> na atmosfera da Terra aumentou em 50%, e a temperatura está agora cerca de 1,2 °C mais quente em comparação ao século XIX. O ritmo de aumento da temperatura precisa diminuir se quisermos evitar as piores consequências das mudanças climáticas. Cientistas afirmam que o aquecimento global precisa ser mantido em 1,5 °C até o ano 2100. No entanto, a menos que outras ações sejam tomadas, o planeta ainda pode aquecer mais de 2 °C até o final deste século. Na prática, os países precisam enfrentar as mudanças climáticas com ações mitigadoras, que reduzam tanto as emissões quanto os níveis de CO<sub>2</sub> na atmosfera.</p><p>(Um guia rápido para entender as mudanças climáticas. Disponível em: www.bbc.com. Acesso em: 6 dez. 2021. Adaptado).</p><p>A ação mitigadora auxilia na remoção desse gás presente na atmosfera, reduzindo seus níveis consiste em: plantar mais árvores.</p>"",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
-    dificuldade: "fácil"
-  },
-  {
-    Texto: "<p></p><p></p>",
-    resposta: true,
+    texto: '<p>As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.</p><p><img src="reator.png"></p><p>Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.</p><p>(Disponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021. Adaptado)</p><p>Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a: liberação de elementos radioativos.</p>',
+    resposta: false,
     dificuldade: "fácil"
   },
   {
