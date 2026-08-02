@@ -1735,7 +1735,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: '<p>As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.</p><p><img src="reator.png"></p><p>Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.</p><p>(Disponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021. Adaptado)</p><p>Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a: liberação de elementos radioativos.</p>',
+    texto: `<p>As usinas termonucleares são aquelas que produzem energia elétrica a partir da geração de energia térmica proveniente das reações nucleares. Normalmente, essas usinas funcionam por meio de dois circuitos, denominados circuito primário (vaso de pressão, pressurizador e bomba) e circuito secundário (gerador de vapor, turbina, condensador, tanque de alimentação e bombas), além de um sistema de água de refrigeração, formado por uma bomba ligada a uma fonte hídrica natural.</p><p><img src="reator.png"></p><p>Durante a operação da usina, se o sistema de água de refrigeração funcionar de forma ineficiente pode causar poluição térmica, comprometendo a vida no ecossistema aquático.</p><p>(Disponível em: www.eletronuclear.gov.br. Acesso em: 29 nov. 2021. Adaptado)</p><p>Para o ecossistema aquático, a ineficiência do sistema de água de refrigeração tem como consequência a: liberação de elementos radioativos.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1755,17 +1755,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todas as ações de todos os homens são praticadas com vistas ao que lhe parece um bem; se todas as comunidades visam algum bem, é evidente que a mais importante de todas elas e que inclui todas as outras tem mais que todas este objetivo e visa ao mais importante de todos os bens.</p><p>(ARISTÓTELES. <b>Política.</b> Brasília: UnB, 1988)</p><p>No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber: ética e política, pois conduzem à eudaimonia.</p>",
+    texto: "<p>Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todas as ações de todos os homens são praticadas com vistas ao que lhe parece um bem; se todas as comunidades visam algum bem, é evidente que a mais importante de todas elas e que inclui todas as outras tem mais que todas este objetivo e visa ao mais importante de todos os bens.</p><p>(ARISTÓTELES. <b>Política.</b> Brasília: UnB, 1988)</p><p>No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber: ética e política, pois conduzem à eudaimonia.</p>",
     resposta: true,
     dificuldade: "fácil"
   },  
   {
-    Texto: "<p>Um dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. Seu papel é anunciar os próximos passos da coreografia. O abrasileiramento de termos franceses deu origem, por exemplo, ao saruê (<i>soirée</i> — reunião social noturna, ordem para todos se juntarem no centro do salão), anarriê (<i>en arrière</i> — para trás) e anavã (<i>en avant</i> — para frente).</p><p>(Disponível em: www.ebc.com.br. Acesso em: 6 jul. 2015.)</p><p>A característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico: apropriação de práticas estrangeiras.</p>",
+    texto: "<p>Um dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. Seu papel é anunciar os próximos passos da coreografia. O abrasileiramento de termos franceses deu origem, por exemplo, ao saruê (<i>soirée</i> — reunião social noturna, ordem para todos se juntarem no centro do salão), anarriê (<i>en arrière</i> — para trás) e anavã (<i>en avant</i> — para frente).</p><p>(Disponível em: www.ebc.com.br. Acesso em: 6 jul. 2015.)</p><p>A característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico: apropriação de práticas estrangeiras.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p>Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada.</p><p>O processo envolvido na detonação dessa bomba se dá por: fissão nuclear do urânio, provocada por nêutrons.</p>",
+    texto: "<p>Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada.</p><p>O processo envolvido na detonação dessa bomba se dá por: fissão nuclear do urânio, provocada por nêutrons.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
