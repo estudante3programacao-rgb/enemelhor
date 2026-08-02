@@ -1740,25 +1740,35 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: "<p>Os seringueiros amazônicos eram invisíveis no cenário nacional nos anos 1970. Começaram a se articular como um movimento agrário no início dos anos 1980, e na década seguinte conseguiram reconhecimento nacional, obtendo a implantação das primeiras reservas extrativas após o assassinato de Chico Mendes. Assim, em vinte anos, os camponeses da floresta passaram da invisibilidade à posição de paradigma de desenvolvimento sustentável com participação popular.</p><p>(ALMEIDA, M. W. B. Direitos à floresta e ambientalismo: seringueiros e suas lutas. Revista Brasileira de Ciências Sociais, n. 55, 2004.)</p><p>De acordo com o texto, a visibilidade dos seringueiros amazônicos foi estabelecida pela relação entre: reivindicação de terra e preservação de mata nativa.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    texto: "<p>Na Grécia, o conceito de povo abrange tão somente aqueles indivíduos considerados cidadãos. Assim é possível perceber que o conceito de povo era muito restritivo. Mesmo tendo isso em conta, a forma democrática vivenciada e experimentada pelos gregos atenienses nos séculos IV e V a.C. pode ser caracterizada, fundamentalmente, como direta.</p>MANDUCO, A. Ciência política. São Paulo: Saraiva, 2011.<p></p><p>Naquele contexto, a emergência do sistema de governo mencionado no excerto promoveu a: campanha pela revitalização das oligarquias sem participação do povo.</p>",
+    resposta: false,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na borda do continente, composto por rochas vulcânicas acompanhado de deformações e metamorfismo tanto de rochas preexistentes como de parte das rochas formadas no processo.</p><p>TEIXEIRA, W. et al. (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000.</p><p>Afeição fisiográfica é gerada pelo processo tectônico apresentado é: dobramentos modernos.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Vemos que toda cidade é uma espécie de comunidade, e toda comunidade se forma com vistas a algum bem, pois todas as ações de todos os homens são praticadas com vistas ao que lhe parece um bem; se todas as comunidades visam algum bem, é evidente que a mais importante de todas elas e que inclui todas as outras tem mais que todas este objetivo e visa ao mais importante de todos os bens.</p><p>(ARISTÓTELES. <b>Política.</b> Brasília: UnB, 1988)</p><p>No fragmento, Aristóteles promove uma reflexão que associa dois elementos essenciais à discussão sobre a vida em comunidade, a saber: ética e política, pois conduzem à eudaimonia.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },  
+  {
+    Texto: "<p>Um dos resquícios franceses na dança são os comandos proferidos pelo marcador da quadrilha. Seu papel é anunciar os próximos passos da coreografia. O abrasileiramento de termos franceses deu origem, por exemplo, ao saruê (<i>soirée</i> — reunião social noturna, ordem para todos se juntarem no centro do salão), anarriê (<i>en arrière</i> — para trás) e anavã (<i>en avant</i> — para frente).</p><p>(Disponível em: www.ebc.com.br. Acesso em: 6 jul. 2015.)</p><p>A característica apresentada dessa manifestação popular resulta do seguinte processo socio-histórico: apropriação de práticas estrangeiras.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    Texto: "<p></p><p></p>",
+    Texto: "<p>Embora a energia nuclear possa ser utilizada para fins pacíficos, recentes conflitos geopolíticos têm trazido preocupações em várias partes do planeta e estimulado discussões visando o combate ao uso de armas de destruição em massa. Além do potencial destrutivo da bomba atômica, uma grande preocupação associada ao emprego desse artefato bélico é a poeira radioativa deixada após a bomba ser detonada.</p><p>O processo envolvido na detonação dessa bomba se dá por: fissão nuclear do urânio, provocada por nêutrons.</p>",
     resposta: true,
     dificuldade: "fácil"
-  }  
+  },
 ]; 
 
 let indicePremium = 0;
@@ -1772,7 +1782,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 8;
+const ultimoNivelDisponivel = 9;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
