@@ -1745,12 +1745,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Na Grécia, o conceito de povo abrange tão somente aqueles indivíduos considerados cidadãos. Assim é possível perceber que o conceito de povo era muito restritivo. Mesmo tendo isso em conta, a forma democrática vivenciada e experimentada pelos gregos atenienses nos séculos IV e V a.C. pode ser caracterizada, fundamentalmente, como direta.</p>MANDUCO, A. Ciência política. São Paulo: Saraiva, 2011.<p></p><p>Naquele contexto, a emergência do sistema de governo mencionado no excerto promoveu a: campanha pela revitalização das oligarquias sem participação do povo.</p>",
+    texto: "<p>Na Grécia, o conceito de povo abrange tão somente aqueles indivíduos considerados cidadãos. Assim é possível perceber que o conceito de povo era muito restritivo. Mesmo tendo isso em conta, a forma democrática vivenciada e experimentada pelos gregos atenienses nos séculos IV e V a.C. pode ser caracterizada, fundamentalmente, como direta.</p><p>(MANDUCO, A. Ciência política. São Paulo: Saraiva, 2011.)</p><p>Naquele contexto, a emergência do sistema de governo mencionado no excerto promoveu a: campanha pela revitalização das oligarquias sem participação do povo.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na borda do continente, composto por rochas vulcânicas acompanhado de deformações e metamorfismo tanto de rochas preexistentes como de parte das rochas formadas no processo.</p><p>TEIXEIRA, W. et al. (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000.</p><p>Afeição fisiográfica é gerada pelo processo tectônico apresentado é: dobramentos modernos.</p>", 
+    texto: "<p>A colisão entre uma placa continental e uma oceânica provocará a subducção desta última sob a placa continental, que, a exemplo dos arcos e ilhas, produzirá um arco magmático na borda do continente, composto por rochas vulcânicas acompanhado de deformações e metamorfismo tanto de rochas preexistentes como de parte das rochas formadas no processo.</p><p>(TEIXEIRA, W. <i>et al.</i> (Org.). Decifrando a Terra. São Paulo: Oficina de Textos, 2000.</p><p>Afeição fisiográfica é gerada pelo processo tectônico apresentado é: dobramentos modernos.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
