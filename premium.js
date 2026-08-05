@@ -220,7 +220,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Vi os homens sumirem-se numa grande tristeza. Os melhores cansaram-se das suas obras. Proclamou-se uma doutrina e com ela circulou uma crença: Tudo é oco, tudo é igual, tudo passou! O nosso trabalho foi inútil; o nosso vinho tornou-se veneno; o mau olhado amareleceu-nos os campos e os corações. Secamos de todo, e se caísse fogo em cima de nós, as nossas cinzas voariam em pó. Sim; cansamos o próprio fogo. Todas as fontes secaram para nós, e o mar retirou-se. Todos os solos se querem abrir, mas os abismos não nos querem tragar! (NIETZSCHE, F. Assim falou Zaratustra. Rio de Janeiro: Ediouro, 1977). <p>O texto exprime uma construção alegórica, que traduz um entendimento da doutrina niilista, uma vez que destaca a decadência da cultura.</p>",
+    texto: "Vi os homens sumirem-se numa grande tristeza. Os melhores cansaram-se das suas obras. Proclamou-se uma doutrina e com ela circulou uma crença: Tudo é oco, tudo é igual, tudo passou! O nosso trabalho foi inútil; o nosso vinho tornou-se veneno; o mau olhado amareleceu-nos os campos e os corações. Secamos de todo, e se caísse fogo em cima de nós, as nossas cinzas voariam em pó. Sim; cansamos o próprio fogo. Todas as fontes secaram para nós, e o mar retirou-se. Todos os solos se querem abrir, mas os abismos não nos querem tragar!</p><p>(NIETZSCHE, F. Assim falou Zaratustra. Rio de Janeiro: Ediouro, 1977)</p><p>O texto exprime uma construção alegórica, que traduz um entendimento da doutrina niilista, uma vez que destaca a decadência da cultura.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
