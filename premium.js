@@ -985,7 +985,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A curcumina, uma das substâncias que conferem a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto e interfere na digestão, reduzindo as espécies reativas de oxigênio que danificam de forma permanente o tecido do tubo digestório. <p>(TOLEDO, K. Corante extraído do açafrão pode ser útil no combate à dengue. <p>Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015. Adaptado).</p></p> A forma de combate relatada tem como atividade o: impedimento do desenvolvimento da larva.",
+    texto: "<p>A curcumina, uma das substâncias que conferem a cor alaranjada ao açafrão, pode auxiliar no combate à dengue quando adicionada à água de criadouros do mosquito transmissor. Essa substância acumula-se no intestino do inseto e interfere na digestão, reduzindo as espécies reativas de oxigênio que danificam de forma permanente o tecido do tubo digestório.</p> <p>(TOLEDO, K. Corante extraído do açafrão pode ser útil no combate à dengue. Disponível em: http://agencia.fapesp.br. Acesso em: 25 abr. 2015. Adaptado).</p></p>A forma de combate relatada tem como atividade o: impedimento do desenvolvimento da larva.",
     resposta: true,
     dificuldade: "fácil"
   },
