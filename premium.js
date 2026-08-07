@@ -1769,6 +1769,16 @@ const perguntasPremium = [
     resposta: true,
     dificuldade: "fácil"
   },
+  {
+    texto: "<p>Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.</p><p>(BICUDO, F. Jardineiros da pesada. Ecologia. Pesquisa Fapesp, ed. 231, maio 2015. Adaptado).</p><p>O evento descrito com a flora ocorreu em razão da redução: do tamanho das plantas.</p>", 
+    resposta: false,
+    dificuldade: ""
+  },
+  {
+    texto: "", 
+    resposta: true, 
+    dificuldade: "fácil"
+  }
 ]; 
 
 let indicePremium = 0;
