@@ -1775,9 +1775,19 @@ const perguntasPremium = [
     dificuldade: ""
   },
   {
-    texto: "", 
+    texto: `Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como  precisa alimentar equipamentos que operam em tensões  menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor  associando os resistores, como exibido na figura. Os  aparelhos podem ser ligados entre os pontos A, B, C, D e  E, dependendo da tensão especificada. <p><img src=""></p><p>Ele tem um equipamento que opera em 9,0 V com  uma resistência interna de 10 kΩ.</p><p>Entre quais pontos do divisor de tensão esse equipamento  deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida: entre A e C; 30 mA</p>`,    
     resposta: true, 
     dificuldade: "fácil"
+  },
+  {
+    texto:"",
+    resposta: true,
+    dificuldade:"fácil"
+  },
+  {
+    texto: "",
+    resposta: true,
+    dificuldae: "fácil"
   }
 ]; 
 
