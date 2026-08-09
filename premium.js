@@ -1772,7 +1772,7 @@ const perguntasPremium = [
   {
     texto: "<p>Estudo aponta que a extinção de preguiças-gigantes, cuja base da dieta eram frutos e sementes, provocou impactos consideráveis na vegetação do Pantanal brasileiro. A flora, embora não tenha desaparecido, tornou-se menos abundante que no passado, além de ocupar áreas mais restritas.</p><p>(BICUDO, F. Jardineiros da pesada. Ecologia. Pesquisa Fapesp, ed. 231, maio 2015. Adaptado).</p><p>O evento descrito com a flora ocorreu em razão da redução: do tamanho das plantas.</p>", 
     resposta: false,
-    dificuldade: ""
+    dificuldade: "fácil"
   },
   {
     texto: `Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como  precisa alimentar equipamentos que operam em tensões  menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor  associando os resistores, como exibido na figura. Os  aparelhos podem ser ligados entre os pontos A, B, C, D e  E, dependendo da tensão especificada. <p><img src=""></p><p>Ele tem um equipamento que opera em 9,0 V com  uma resistência interna de 10 kΩ.</p><p>Entre quais pontos do divisor de tensão esse equipamento  deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida: entre A e C; 30 mA</p>`,    
@@ -1780,7 +1780,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"",
+    texto:"<p>A tecnologia de comunicação da etiqueta RFID (chamada de etiqueta inteligente) é usada há anos para rastrear gado, vagões de trem, bagagem aérea e carros nos  pedágios. Um modelo mais barato dessas etiquetas pode funcionar sem baterias e  é constituído por três componentes: um microprocessador de silício; uma bobina de  metal, feita de cobre ou de alumínio, que é enrolada em um padrão circular; e um  encapsulador, que é um material de vidro ou polímero envolvendo o microprocessador  e a bobina. Na presença de um campo de radiofrequência gerado pelo leitor, a etiqueta  transmite sinais. A distância de leitura é determinada pelo tamanho da bobina e pela  potência da onda de rádio emitida pelo leitor.</p><p>(Disponível em: http://eletronicos.hsw.uol.com.br. Acesso em: 27 fev. 2012. Adaptado)</p><p>A etiqueta funciona sem pilhas porque o campo: magnético da onda de rádio induz corrente na bobina.</p>",
     resposta: true,
     dificuldade:"fácil"
   },
