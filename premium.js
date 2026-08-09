@@ -1793,6 +1793,11 @@ const perguntasPremium = [
     texto: `<p>O grafeno é uma forma alotrópica do carbono constituído por uma folha planar (arranjo bidimensional) de átomos de carbono compactados e com a espessura de  apenas um átomo. Sua estrutura é hexagonal, conforme a figura.<p><img src=""></p><p>Nesse arranjo, os átomos de carbono possuem hibridação:<i>sp</i>de geometria linear.</p>`, 
     resposta: false, 
     dificuldade: "fácil"
+  },
+  {
+    texto: "<p>Muitos smartphones e tablets não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque. A imagem é uma simplificação do circuito formado pelas placas, em que A e B representam os pontos onde o circuito pode ser fechado por meio do toque.</p><p>A resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto A é: 6,0 kΩ.</p>",
+    resposta: true,
+    dificuldade:
   }
 ]; 
 
