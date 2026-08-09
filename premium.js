@@ -1785,9 +1785,14 @@ const perguntasPremium = [
     dificuldade:"fácil"
   },
   {
-    texto: "",
+    texto: `<p>A identificação de riscos de produtos perigosos para o transporte rodoviário é obrigatória e realizada por meio da sinalização composta por um painel de segurança, de cor alaranjada, e um rótulo de risco. As informações inseridas no painel de segurança e no rótulo de risco, conforme determina a legislação, permitem que se identifique o produto transportado e os perigos a ele associados. A sinalização mostrada identifica uma substância que está sendo transportada em um caminhão.</p><p><img src=""></p><p>Os três algarismos da parte superior do painel indicam o "Número de risco". O número 268 indica tratar-se de um gás (2), tóxico (6) e corrosivo (8). Os quatro dígitos da parte inferior correspondem ao "Número ONU", que identifica o produto transportado.</p><p>(BRASIL. Resolução n. 420, de 12/02/2004, da Agência Nacional de Transportes Terrestres (ANTT)/Ministério dos Transportes. Adaptado). ABNT NBR 7500: Identificação para o transporte terrestre, manuseio, movimentação e armazenamento de produtos. Rio de Janeiro, 2004. Adaptado)</p><p>Considerando a identificação apresentada no caminhão, o código 1005 corresponde a: amônia (NH<sub>3</sub>).</p>`,
     resposta: true,
     dificuldae: "fácil"
+  },
+  {
+    texto: `<p>O grafeno é uma forma alotrópica do carbono constituído por uma folha planar (arranjo bidimensional) de átomos de carbono compactados e com a espessura de  apenas um átomo. Sua estrutura é hexagonal, conforme a figura.<p><img src=""></p><p>Nesse arranjo, os átomos de carbono possuem hibridação:<i>sp</i>de geometria linear.</p>`, 
+    resposta: false, 
+    dificuldade: "fácil"
   }
 ]; 
 
