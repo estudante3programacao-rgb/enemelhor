@@ -1840,8 +1840,10 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas
+e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do
+barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.</p><p><img src="amplitude.png"></p></p>(SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012. Adaptado)</p><p>Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora: amplitude.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
