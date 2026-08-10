@@ -1852,8 +1852,13 @@ barbante para ficar cada vez mais extenso. As demais condições permaneceram in
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação
+bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou
+a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete
+e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na
+direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.</p><p><img src="cinema.png"></p><p>Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a
+posição da poltrona na fileira, respectivamente: I6.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
