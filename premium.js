@@ -1810,33 +1810,33 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Uma grande virada na moderna história da agricultura ocorreu depois da Segunda Guerra Mundial. Após a guerra, os governos haviam se deparado com um enorme excedente de nitrato de amônio, ingrediente usado na fabricação de explosivos. A partir daí as fábricas de munição foram adaptadas para começar a produzir fertilizantes tendo como componente principal os nitratos.</p><p>(SOUZA, F. A. Agricultura natural/orgânica como instrumento de fixação biológica e manutenção do nitrogênio no solo: um modelo sustentável de MDL. Disponível em: www.planetaorganico.com.br. Acesso em: 17 jul. 2015. Adaptado).</p><p>No ciclo natural do nitrogênio, o equivalente ao principal componente desses fertilizantes industriais é produzido na etapa de: fixação biológica do N<sub>2</sub> depois da nitratação.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>O fenômeno da piracema (subida do rio) é um importante mecanismo que influencia a reprodução de algumas espécies de peixes, pois induz o processo que estimula a queima de gordura e ativa mecanismos hormonais complexos, preparando-os para a reprodução. Intervenções antrópicas nos ambientes aquáticos, como a construção de barragens, interferem na reprodução desses animais.</p><p>(MALTA, P. Impacto ambiental das barragens hidrelétricas. Disponível em: http://futurambiental.com. Acesso em: 10 maio 2013. Adaptado)</p><p>Essa intervenção antrópica prejudica a piracema porque reduz o: percurso da migração.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Os botos-cinza (<i>Sotalia guianensis</i>), mamíferos da família dos golfinhos, são excelentes indicadores da poluição das áreas em que vivem, pois passam toda a sua vida — cerca de 30 anos — na mesma região. Além disso, a espécie acumula mais contaminantes em seu organismo, como o mercúrio, do que outros animais da sua cadeia alimentar.</p><p>MARCOLINO, B. Sentinelas do mar. Disponível em: http://cienciahoje.uol.com.br. Acesso em: 1 ago. 2012. Adaptado).</p><p>Os botos-cinza acumulam maior concentração dessas substâncias porque eles estão no topo da cadeia alimentar.",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto:`<p>Fusível é um dispositivo de proteção contra sobrecorrente em circuitos. Quando a corrente que passa por esse componente elétrico é maior que sua máxima corrente nominal, o fusível queima. Dessa forma, evita que a corrente elevada danifique os aparelhos do circuito. Suponha que o circuito elétrico mostrado seja alimentado por uma fonte de tensão <i>U</i> e que o fusível suporte uma corrente nominal de 500 mA.</p><p><img src="fusivel.png"></p><p>O máximo valor da tensão U para que o fusível nãoqueime é: 120 V.</p>`,
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>A Mata Atlântica caracteriza-se por uma grande diversidade de epífitas, como as bromélias. Essas plantas estão adaptadas a esse ecossistema e conseguem captar luz, água e nutrientes mesmo vivendo sobre as árvores.</p><p>(Disponível em: www.ib.usp.br. Acesso em: 23 fev. 2013. Adaptado).</p><p>Essas espécies captam água da: seiva bruta das plantas hospedeiras.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
+    texto: "<p>A terapia celular tem sido amplamente divulgada como revolucionária, por permitir a regeneração de tecidos a partir de células novas. Entretanto, a técnica de se introduzirem novas células em um tecido, para o tratamento de enfermidades em indivíduos, já era aplicada rotineiramente em hospitais.</p><p>A técnica refere-se o texto é: transfusão de sangue.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
