@@ -1775,12 +1775,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como  precisa alimentar equipamentos que operam em tensões  menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor  associando os resistores, como exibido na figura. Os  aparelhos podem ser ligados entre os pontos A, B, C, D e  E, dependendo da tensão especificada. <p><img src=""></p><p>Ele tem um equipamento que opera em 9,0 V com  uma resistência interna de 10 kΩ.</p><p>Entre quais pontos do divisor de tensão esse equipamento  deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida: entre A e C; 30 mA</p>`,    
+    texto: `Um estudante tem uma fonte de tensão com corrente contínua que opera em tensão fixa de 12 V. Como  precisa alimentar equipamentos que operam em tensões menores, ele emprega quatro resistores de 100 Ω para construir um divisor de tensão. Obtém-se este divisor  associando os resistores, como exibido na figura. Os  aparelhos podem ser ligados entre os pontos A, B, C, D e  E, dependendo da tensão especificada. <p><img src=""></p><p>Ele tem um equipamento que opera em 9,0 V com  uma resistência interna de 10 kΩ.</p><p>Entre quais pontos do divisor de tensão esse equipamento  deve ser ligado para funcionar corretamente e qual será o valor da intensidade da corrente nele estabelecida: entre A e C; 30 mA</p>`,    
     resposta: true, 
     dificuldade: "fácil"
   },
   {
-    texto:"<p>A tecnologia de comunicação da etiqueta RFID (chamada de etiqueta inteligente) é usada há anos para rastrear gado, vagões de trem, bagagem aérea e carros nos  pedágios. Um modelo mais barato dessas etiquetas pode funcionar sem baterias e  é constituído por três componentes: um microprocessador de silício; uma bobina de  metal, feita de cobre ou de alumínio, que é enrolada em um padrão circular; e um  encapsulador, que é um material de vidro ou polímero envolvendo o microprocessador  e a bobina. Na presença de um campo de radiofrequência gerado pelo leitor, a etiqueta  transmite sinais. A distância de leitura é determinada pelo tamanho da bobina e pela  potência da onda de rádio emitida pelo leitor.</p><p>(Disponível em: http://eletronicos.hsw.uol.com.br. Acesso em: 27 fev. 2012. Adaptado)</p><p>A etiqueta funciona sem pilhas porque o campo: magnético da onda de rádio induz corrente na bobina.</p>",
+    texto:"<p>A tecnologia de comunicação da etiqueta RFID (chamada de etiqueta inteligente) é usada há anos para rastrear gado, vagões de trem, bagagem aérea e carros nos pedágios. Um modelo mais barato dessas etiquetas pode funcionar sem baterias e é constituído por três componentes: um microprocessador de silício; uma bobina de  metal, feita de cobre ou de alumínio, que é enrolada em um padrão circular; e um  encapsulador, que é um material de vidro ou polímero envolvendo o microprocessador  e a bobina. Na presença de um campo de radiofrequência gerado pelo leitor, a etiqueta  transmite sinais. A distância de leitura é determinada pelo tamanho da bobina e pela  potência da onda de rádio emitida pelo leitor.</p><p>(Disponível em: http://eletronicos.hsw.uol.com.br. Acesso em: 27 fev. 2012. Adaptado)</p><p>A etiqueta funciona sem pilhas porque o campo: magnético da onda de rádio induz corrente na bobina.</p>",
     resposta: true,
     dificuldade:"fácil"
   },
@@ -1797,7 +1797,7 @@ const perguntasPremium = [
   {
     texto: "<p>Muitos smartphones e tablets não precisam mais de teclas, uma vez que todos os comandos podem ser dados ao se pressionar a própria tela. Inicialmente essa tecnologia foi proporcionada por meio das telas resistivas, formadas basicamente por duas camadas de material condutor transparente que não se encostam até que alguém as pressione, modificando a resistência total do circuito de acordo com o ponto onde ocorre o toque. A imagem é uma simplificação do circuito formado pelas placas, em que A e B representam os pontos onde o circuito pode ser fechado por meio do toque.</p><p>A resistência equivalente no circuito provocada por um toque que fecha o circuito no ponto A é: 6,0 kΩ.</p>",
     resposta: true,
-    dificuldade:
+    dificuldade: "fácil"
   }
 ]; 
 
