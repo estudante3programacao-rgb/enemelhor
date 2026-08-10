@@ -25,7 +25,7 @@ const perguntasPremium = [
     dificuldade: "facil"
   },
   {
-    texto: `<p>Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.<img src="solar.png"></p><p>Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.</p><p>A escala esse desenho representa a obra de arte é: 1 : 150.</p>`,
+    texto: `<p>Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.</p><p><img src="solar.png"></p><p>Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.</p><p>A escala esse desenho representa a obra de arte é: 1 : 150.</p>`,
     resposta: true,
     dificuldade:  "media"
   },
