@@ -1805,8 +1805,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>A figura mostra o funcionamento de uma estação híbrida de geração de eletricidade movida a energia eólica e biogás. Essa estação possibilita que a energia gerada no parque eólico seja armazenada na forma de gás hidrogênio, usado no fornecimento de energia para a rede elétrica comum e para abastecer células a combustível.</p><p><img src="eolicabiogas.png"></p><p>Mesmo com ausência de ventos por curtos períodos, essa estação continua abastecendo a cidade onde está instalada, pois o: hidrogênio produzido e armazenado é utilizado na combustão com o biogás para gerar calor e eletricidade.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
