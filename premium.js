@@ -1,11 +1,11 @@
 const perguntasPremium = [
   {
-    texto: "<p>Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses.(COULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.)</p><p>A conjuntura sociopolítica da Roma Antiga, conforme apresentada no texto, foi contestada pelos Plebeus que almejavam participar da vida política.</p>",
+    texto: "<p>Durante a realeza, e nos primeiros anos republicanos, as leis eram transmitidas oralmente de uma geração para outra. A ausência de uma legislação escrita permitia aos patrícios manipular a justiça conforme seus interesses.</p><p>(COULANGES, F. A cidade antiga. São Paulo: Martins Fontes, 2000.)</p><p>A conjuntura sociopolítica da Roma Antiga, conforme apresentada no texto, foi contestada pelos Plebeus que almejavam participar da vida política.</p>",
     resposta: true,
     dificuldade: "facil"
   },
   {
-    texto: "<p>Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações de suas ciências, tecnologias e culturas, compreendidos os recursos humanos e genéticos, as sementes, os medicamentos, o conhecimento das propriedades da fauna e da flora, as transmissões orais, as literaturas, os desenhos, os esportes, os jogos e as artes visuais e interpretativas.(Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas. 107ª Sessão Plenária, 13 de setembro de 2007.)</p><p> Os direitos reconhecidos no texto representam a complexidade dos saberes tradicionais.</p>",
+    texto: "<p>Os povos indígenas têm o direito de manter, controlar, proteger e desenvolver seu patrimônio cultural, seus conhecimentos do passado, suas expressões culturais e as manifestações de suas ciências, tecnologias e culturas, compreendidos os recursos humanos e genéticos, as sementes, os medicamentos, o conhecimento das propriedades da fauna e da flora, as transmissões orais, as literaturas, os desenhos, os esportes, os jogos e as artes visuais e interpretativas.</p><p>(Declaração das Nações Unidas sobre os Direitos dos Povos Indígenas. 107ª Sessão Plenária, 13 de setembro de 2007.)</p><p>Os direitos reconhecidos no texto representam a complexidade dos saberes tradicionais.</p>",
     resposta: true,
     dificuldade: "facil"
   },
@@ -25,7 +25,7 @@ const perguntasPremium = [
     dificuldade: "facil"
   },
   {
-    texto: `<p>Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.</p><p><img src="solar.png"></p><p>Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.</p><p>A escala esse desenho representa a obra de arte é: 1 : 150.</p>`,
+    texto: `<p>Um artista, que costuma fazer desenhos com areia na praia, pediu a um banhista que fizesse um pequeno desenho, que serviria de esboço para uma grande obra de arte a ser feita na areia. Esse desenho está representado na figura.</p><p><img src="solar.png"></p><p>Após a conclusão, a obra de arte obtida manteve as mesmas proporções do desenho feito pelo banhista, sendo que as medidas indicadas na figura foram ampliadas para 30 m.</p><p>A escala esse desenho representa a obra de arte é: 1:150.</p>`,
     resposta: true,
     dificuldade:  "media"
   },
