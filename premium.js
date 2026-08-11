@@ -70,7 +70,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O leite UHT (do inglês Ultra-High Temperature) é o leite tratado termicamente por um processo que recebe o nome de ultrapasteurização. Elevando sua temperatura homogeneamente a 135 °C por apenas 1 ou 2 segundos, o leite é esterilizado sem prejudicar significativamente seu sabor e aparência. Desse modo, ele pode ser armazenado, sem a necessidade de refrigeração, por meses. Para alcançar essa temperatura sem que a água que o compõe vaporize, o leite é aquecido em alta pressão. É necessário, entretanto, resfriar o leite rapidamente para evitar o seu cozimento. Para tanto, a pressão é reduzida subitamente, de modo que parte da água vaporize e a temperatura diminua. <p>O processo termodinâmico que explica essa redução súbita de temperatura é a transferência de energia térmica durante a vaporização da água presente no leite.</p>", 
+    texto: "O leite UHT (do inglês <i>Ultra-High Temperature</i>) é o leite tratado termicamente por um processo que recebe o nome de ultrapasteurização. Elevando sua temperatura homogeneamente a 135 °C por apenas 1 ou 2 segundos, o leite é esterilizado sem prejudicar significativamente seu sabor e aparência. Desse modo, ele pode ser armazenado, sem a necessidade de refrigeração, por meses. Para alcançar essa temperatura sem que a água que o compõe vaporize, o leite é aquecido em alta pressão. É necessário, entretanto, resfriar o leite rapidamente para evitar o seu cozimento. Para tanto, a pressão é reduzida subitamente, de modo que parte da água vaporize e a temperatura diminua. <p>O processo termodinâmico que explica essa redução súbita de temperatura é a transferência de energia térmica durante a vaporização da água presente no leite.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -855,7 +855,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "FABIANA, <i> arrepelando-se de raiva</i> — Hum! Ora, eis aí está para	que	se casou meu filho, e trouxe a mulher para minha casa. É isto constantemente. Não sabe o senhor meu filho que quem casa quer casa... Já	não	posso, não posso, não posso! <i>(Batendo com o pé).</i> Um dia arrebento, e então veremos! <p>(PENA, M. Quem casa quer casa. www.dominiopublico.gov.br. Acesso em: 7 dez. 2012)</p><p>As rubricas em itálico, como as trazidas no trecho de Martins Pena, em uma atuação teatral, constituem: possibilidade, porque o texto pode ser mudado, assim como outros elementos.</p>",
+    texto: "FABIANA, <i>arrepelando-se de raiva</i> — Hum! Ora, eis aí está para	que	se casou meu filho, e trouxe a mulher para minha casa. É isto constantemente. Não sabe o senhor meu filho que quem casa quer casa... Já	não	posso, não posso, não posso! <i>(Batendo com o pé).</i> Um dia arrebento, e então veremos! <p>(PENA, M. Quem casa quer casa. www.dominiopublico.gov.br. Acesso em: 7 dez. 2012)</p><p>As rubricas em itálico, como as trazidas no trecho de Martins Pena, em uma atuação teatral, constituem: possibilidade, porque o texto pode ser mudado, assim como outros elementos.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
