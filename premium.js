@@ -1862,8 +1862,8 @@ posição da poltrona na fileira, respectivamente: I6.</p>`,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Policarpo Quaresma, cidadão brasileiro, funcionário público, certo de que a língua portuguesa é emprestada  ao Brasil; certo também de que, por esse fato, o falar e o escrever em geral, sobretudo no campo das letras, se veem na humilhante contingência de sofrer continuamente censuras ásperas dos proprietários da  língua; sabendo, além, que, dentro do nosso país, os autores e os escritores, com especialidade os gramáticos, não se entendem no tocante à correção gramatical, vendo-se, diariamente, surgir azedas polêmicas entre os mais profundos estudiosos do nosso idioma — usando do direito que lhe confere a Constituição, vem pedir que o Congresso Nacional decrete o tupi-guarani como língua  oficial e nacional do povo brasileiro.</p><p>(BARRETO, L. Triste fim de Policarpo Quaresma. Disponível em: www.dominiopublico.gov.br. Acesso em: 26 jun. 2012.)</p><p>Nessa petição da pitoresca personagem do romance de  Lima Barreto, o uso da norma-padrão justifica-se pela: situação social de enunciação representada.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
