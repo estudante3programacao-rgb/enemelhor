@@ -45,17 +45,17 @@ const perguntasPremium = [
     dificuldade:  "media"
   },
   {
-    texto: "O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto. (GOIS, A. O Globo, 5 abr. 2015. Adaptado). <p>A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à qualificação da mão de obra.</p>", 
+    texto: " <p>O bônus demográfico é caracterizado pelo período em que, por causa da redução do número de filhos por mulher, a estrutura populacional fica favorável ao crescimento econômico. Isso acontece porque há proporcionalmente menos crianças na população, e o percentual de idosos ainda não é alto.</p><p>(GOIS, A. O Globo, 5 abr. 2015. Adaptado)</p><p>A ação estatal que contribui para o aproveitamento do bônus demográfico é o estímulo à qualificação da mão de obra.</p>", 
     resposta: true,
     dificuldade:  "media"
   },
   {
-    texto: "O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e un companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a cegar, toda a gente está cega, Toda a gente, a cidade toda, o país, (SARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.). A cena retrata as experiências das personagens em um país atingido por uma epidemia. <p>No diálogo, a violação de determinadas regras de pontuação singulariza o estilo do autor e auxilia na representação do ambiente caótico.<p>",
+    texto: "<p>O homem disse, Está a chover, e depois, Quem é você, Não sou daqui, Anda à procura de comida, Sim, há quatro dias que não comemos, E como sabe que são quatro dias, É um cálculo, Está sozinha, Estou com o meu marido e un companheiros, Quantos são, Ao todo, sete, Se estão a pensar em ficar conosco, tirem daí o sentido, já somos muitos, Só estamos de passagem, Donde vêm, Estivemos internados desde que a cegueira começou, Ah, sim, a quarentena, não serviu de nada, Por que diz isso, Deixaram-nos sair, Houve um incêndio e nesse momento percebemos que os soldados que nos vigiavam tinham desaparecido, E saíram, Sim, Os vossos soldados devem ter sido dos últimos a cegar, toda a gente está cega, Toda a gente, a cidade toda, o país,</p><p>(SARAMAGO, J. Ensaio sobre a cegueira. São Paulo: Cia. das Letras, 1995.)</p><p>A cena retrata as experiências das personagens em um país atingido por uma epidemia. No diálogo, a violação de determinadas regras de pontuação singulariza o estilo do autor e auxilia na representação do ambiente caótico.</p>",
     resposta: true,
     dificuldade: "media"
   },
   {
-    texto: "<p>Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. </p><p>(BRASIL. Constituição da República Federativa do Brasil de 1988).</p><p>A persistência das reivindicações relativas à aplicação desse preceito normativo tem em vista a vinculação histórica e fundamental entre progresso e educação ambiental.</p>",
+    texto: "<p>Art. 231. São reconhecidos aos índios sua organização social, costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens.</p><p>(BRASIL. Constituição da República Federativa do Brasil de 1988.)</p><p>A persistência das reivindicações relativas à aplicação desse preceito normativo tem em vista a vinculação histórica e fundamental entre progresso e educação ambiental.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -205,17 +205,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição. (ALBERTS, B. et al. Fundamentos da biologia celular. Porto Alegre: Artmed, 2011. Adaptado).<p> A ausência dessa proteína poderá favorecer a redução da síntese de DNA, acelerando o ciclo celular.</p>",
+    texto: "<p>No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.</p><p>(ALBERTS, B. et al. Fundamentos da biologia celular. Porto Alegre: Artmed, 2011. Adaptado).</p><p>A ausência dessa proteína poderá favorecer a redução da síntese de DNA, acelerando o ciclo celular.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça. Se a prefeitura pode pagar, no máximo, R$ 8 000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é R$ 528 000,00.",
+    texto: "A prefeitura de um pequeno município do interior decide colocar postes para iluminação ao longo de uma estrada retilínea, que inicia em uma praça central e termina numa fazenda na zona rural. Como a praça já possui iluminação, o primeiro poste será colocado a 80 metros da praça, o segundo, a 100 metros, o terceiro, a 120 metros, e assim sucessivamente, mantendo-se sempre uma distância de vinte metros entre os postes, até que o último poste seja colocado a uma distância de 1 380 metros da praça. Se a prefeitura pode pagar, no máximo, R$ 8000,00 por poste colocado, o maior valor que poderá gastar com a colocação desses postes é R$ 528000,00.",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. <p>Os valores possíveis para X são, apenas, é: 1 500 < X < 3 000.</p>",
+    texto: "Uma empresa de comunicação tem a tarefa de elaborar um material publicitário de um estaleiro para divulgar um novo navio, equipado com um guindaste de 15 m de altura e uma esteira de 90 m de comprimento. No desenho desse navio, a representação do guindaste deve ter sua altura entre 0,5 cm e 1 cm, enquanto a esteira deve apresentar comprimento superior a 4 cm. Todo o desenho deverá ser feito em uma escala 1 : X. <p>Os valores possíveis para X são, apenas, é: 1500 < X < 3000.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -225,17 +225,17 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O que ocorreu na Bahia de 1798, ao contrário das outras situações de contestação política na América portuguesa, é que o projeto que lhe era subjacente não tocou somente na condição, ou no instrumento, da integração subordinada das colônias no império luso. Dessa feita, ao contrário do que se deu nas Minas Gerais (1789), a sedição avançou sobre a sua decorrência. (JANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000). <p>A diferença entre as sedições abordadas no texto encontrava-se na pretensão de eliminar a hierarquia militar.</p>",
+    texto: "<p>O que ocorreu na Bahia de 1798, ao contrário das outras situações de contestação política na América portuguesa, é que o projeto que lhe era subjacente não tocou somente na condição, ou no instrumento, da integração subordinada das colônias no império luso. Dessa feita, ao contrário do que se deu nas Minas Gerais (1789), a sedição avançou sobre a sua decorrência. </p><p>(JANCSÓ, I.; PIMENTA, J. P. Peças de um mosaico. In: MOTA, C. G. (Org.). Viagem incompleta: a experiência brasileira (1500-2000). São Paulo: Senac, 2000.)</p><p>A diferença entre as sedições abordadas no texto encontrava-se na pretensão de eliminar a hierarquia militar.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova. (DURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000)<p>O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na adesão aos padrões de investigação típicos das ciências naturais.</p>",
+    texto: "<p>A sociologia ainda não ultrapassou a era das construções e das sínteses filosóficas. Em vez de assumir a tarefa de lançar luz sobre uma parcela restrita do campo social, ela prefere buscar as brilhantes generalidades em que todas as questões são levantadas sem que nenhuma seja expressamente tratada. Não é com exames sumários e por meio de intuições rápidas que se pode chegar a descobrir as leis de uma realidade tão complexa. Sobretudo, generalizações às vezes tão amplas e tão apressadas não são suscetíveis de nenhum tipo de prova.</p><p>(DURKHEIM, E. O suicídio: estudo de sociologia. São Paulo: Martins Fontes, 2000)</p><p>O texto expressa o esforço de Émile Durkheim em construir uma sociologia com base na adesão aos padrões de investigação típicos das ciências naturais.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias. (DESCARTES, R. Regras para a orientação do espírito. São Paulo: Martins Fontes, 1999)<p>Em sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da autonomia do sujeito pensante.</p>",
+    texto: "<p>Nunca nos tornaremos matemáticos, por exemplo, embora nossa memória possua todas as demonstrações feitas por outros, se nosso espírito não for capaz de resolver toda espécie de problemas; não nos tornaríamos filósofos, por ter lido todos os raciocínios de Platão e Aristóteles, sem poder formular um juízo sólido sobre o que nos é proposto. Assim, de fato, pareceríamos ter aprendido, não ciências, mas histórias.</p><p>(DESCARTES, R. Regras para a orientação do espírito. São Paulo: Martins Fontes, 1999)</p><p>Em sua busca pelo saber verdadeiro, o autor considera o conhecimento, de modo crítico, como resultado da autonomia do sujeito pensante.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -250,7 +250,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz (ALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981) <p>A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em questionar a ordem divina e reforma católica.</p>", 
+    texto: "<p>A casa de Deus, que acreditam una, está, portanto, dividida em três: uns oram, outros combatem, outros, enfim, trabalham. Essas três partes que coexistem não suportam ser separadas; os serviços prestados por uma são a condição das obras das outras duas; cada uma por sua vez encarrega-se de aliviar o conjunto... Assim a lei pode triunfar e o mundo gozar da paz.</p><p>(ALDALBERON DE LAON. In: SPINOSA, F. Antologia de textos históricos medievais. Lisboa: Sá da Costa, 1981)</p><p>A ideologia apresentada por Aldalberon de Laon foi produzida durante a Idade Média. Um objetivo de tal ideologia e um processo que a ela se opôs estão indicados, respectivamente, em questionar a ordem divina e reforma católica.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
