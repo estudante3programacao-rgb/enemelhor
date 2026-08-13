@@ -205,7 +205,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.</p><p>(ALBERTS, B. et al. Fundamentos da biologia celular. Porto Alegre: Artmed, 2011. Adaptado).</p><p>A ausência dessa proteína poderá favorecer a redução da síntese de DNA, acelerando o ciclo celular.</p>",
+    texto: "<p>No ciclo celular atuam moléculas reguladoras. Dentre elas, a proteína p53 é ativada em resposta a mutações no DNA, evitando a progressão do ciclo até que os danos sejam reparados, ou induzindo a célula à autodestruição.</p><p>(ALBERTS, B. <i>et al.</i> Fundamentos da biologia celular. Porto Alegre: Artmed, 2011. Adaptado).</p><p>A ausência dessa proteína poderá favorecer a redução da síntese de DNA, acelerando o ciclo celular.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -255,27 +255,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos (BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012. Adaptado). <p>Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.</p>", 
+    texto: "<p>O processo de concentração urbana no Brasil em determinados locais teve momentos de maior intensidade e, ao que tudo indica, atualmente passa por uma desaceleração no ritmo de crescimento populacional nos grandes centros urbanos.</p><p>(BAENINGER, R. Cidades e metrópoles: a desaceleração no crescimento populacional e novos arranjos regionais. Disponível em: www.sbsociologia.com.br. Acesso em: 12 dez. 2012. Adaptado)</p><p>Uma causa para o processo socioespacial mencionado no texto é a realocação da atividade industrial.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras (LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado). <p>A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da valorização de identidades coletivas.<p>",
+    texto: "<p>O Projeto Nova Cartografia Social da Amazônia ensina indígenas, quilombolas e outros grupos tradicionais a empregar o GPS e técnicas modernas de georreferenciamento para produzir mapas artesanais, mas bastante precisos, de suas próprias terras.</p><p>(LOPES, R. J. O novo mapa da floresta. Folha de S. Paulo, 7 maio 2011 (adaptado)</p><p>A existência de um projeto como o apresentado no texto indica a importância da cartografia como elemento promotor da valorização de identidades coletivas.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles. (SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014. Adaptado)<p>As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.</p>", 
+    texto: "<p>Atualmente, as represálias econômicas contra as empresas de informática norte-americanas continuam. A Alemanha proibiu um aplicativo dos Estados Unidos de compartilhamento de carros; na China, o governo explicou que os equipamentos e serviços de informática norte-americanos representam uma ameaça, pedindo que as empresas estatais não recorram a eles.</p><p>(SCHILLER, D. Disponível em: www.diplomatique.org.br. Acesso em: 11 nov. 2014. Adaptado)</p><p>As ações tomadas pelos países contra a espionagem revelam preocupação com a segurança dos dados.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica (BIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Florianópolis: UFSC, 2003. Adaptado)<p>Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há drenagem eficiente.</p>", 
+    texto: "<p>Os movimentos de massa constituem-se no deslocamento de material (solo e rocha) vertente abaixo pela influência da gravidade. As condições que favorecem os movimentos de massa dependem principalmente da estrutura geológica, da declividade da vertente, do regime de chuvas, da perda de vegetação e da atividade antrópica.</p><p>(BIGARELLA, J. J. Estrutura e origem das paisagens tropicais e subtropicais. Florianópolis: UFSC, 2003. Adaptado)</p><p>Em relação ao processo descrito, sua ocorrência é minimizada em locais onde há drenagem eficiente.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo (WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979. Adaptado)<p>Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.</p>", 
+    texto: "<p>A crescente intelectualização e racionalização não indicam um conhecimento maior e geral das condições sob as quais vivemos. Significa a crença em que, se quiséssemos, poderíamos ter esse conhecimento a qualquer momento. Não há forças misteriosas incalculáveis; podemos dominar todas as coisas pelo cálculo.</p><p>(WEBER, M. A ciência como vocação. In: GERTH, H.; MILLS, W. (Org.). Max Weber: ensaios de sociologia. Rio de Janeiro: Zahar, 1979. Adaptado)</p><p>Tal como apresentada no texto, a proposição de Max Weber a respeito do processo de desencantamento do mundo evidencia o fim do monoteísmo como condição para a consolidação da ciência.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -285,7 +285,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas. (KIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012. Adaptado) <p>Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente, floculação e separação magnética.</p>", 
+    texto: "<p>Um grupo de pesquisadores desenvolveu um método simples, barato e eficaz de remoção de petróleo contaminante na água, que utiliza um plástico produzido a partir do líquido da castanha-de-caju (LCC). A composição química do LCC é muito parecida com a do petróleo e suas moléculas, por suas características, interagem formando agregados com o petróleo. Para retirar os agregados da água, os pesquisadores misturam ao LCC nanopartículas magnéticas.</p><p>(KIFFER, D. Novo método para remoção de petróleo usa óleo de mamona e castanha-de-caju. Disponível em: www.faperj.br. Acesso em: 31 jul. 2012. Adaptado)</p><p>Essa técnica considera dois processos de separação de misturas, sendo eles, respectivamente, floculação e separação magnética.</p>", 
     resposta: true,
     dificuldade: "média"
   },
@@ -295,7 +295,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N<sub>2</sub>, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N<sub>2</sub>, que ocorrem de forma livre ou simbiontes com plantas. (ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004. Adaptado)<p>Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.</p>", 
+    texto: "<p>O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N<sub>2</sub>, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N<sub>2</sub>, que ocorrem de forma livre ou simbiontes com plantas.</p><p>(ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004. Adaptado)</p><p>Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
@@ -325,27 +325,27 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares [...]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente. (Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001)<p>A carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o objetivo de transmitir o conhecimento dos indígenas sobre o potencial econômico existente.<p>",
+    texto: "<p>De ponta a ponta, é tudo praia-palma, muito chã e muito formosa. Pelo sertão nos pareceu, vista do mar, muito grande, porque, a estender olhos, não podíamos ver senão terra com arvoredos, que nos parecia muito longa. Nela, até agora, não pudemos saber que haja ouro, nem prata, nem coisa alguma de metal ou ferro; nem lho vimos. Porém a terra em si é de muito bons ares [...]. Porém o melhor fruto que dela se pode tirar me parece que será salvar esta gente.</p><p>(Carta de Pero Vaz de Caminha. In: MARQUES, A.; BERUTTI, F.; FARIA, R. História moderna através de textos. São Paulo: Contexto, 2001)</p><p>A carta de Pero Vaz de Caminha permite entender o projeto colonizador para a nova terra. Nesse trecho, o relato enfatiza o objetivo de transmitir o conhecimento dos indígenas sobre o potencial econômico existente.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema. (PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972)<p>A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.</p>",  
+    texto: "<p>Nos estados, entretanto, se instalavam as oligarquias, de cujo perigo já nos advertia Saint-Hilaire, e sob o disfarce do que se chamou “a política dos governadores”. Em círculos concêntricos esse sistema vem cumular no próprio poder central que é o sol do nosso sistema.</p><p>(PRADO, P. Retrato do Brasil. Rio de Janeiro: José Olympio, 1972)</p><p>A crítica presente no texto remete ao acordo que fundamentou o regime republicano brasileiro durante as três primeiras décadas do século XX e fortaleceu o domínio de grupos regionais sobre a ordem federativa.</p>",  
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo. (BERCITO, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013. Adaptado)<p>O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o fortalecimento de movimentos antissemitas.</p>",
+    texto: "<p>Um gigante da indústria da internet, em gesto simbólico, mudou o tratamento que conferia à sua página palestina. O site de buscas alterou sua página quando acessada da Cisjordânia. Em vez de “territórios palestinos”, a empresa escreve agora “Palestina” logo abaixo do logotipo.</p><p>(BERCITO, D. Google muda tratamento de territórios palestinos. Folha de S. Paulo, 4 maio 2013. Adaptado)</p><p>O gesto simbólico sinalizado pela mudança no status dos territórios palestinos significa o fortalecimento de movimentos antissemitas.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário. (RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, São Paulo, 26 maio-1 jun. 2011. Adaptado)<p>O acampamento dos Indignados espanhóis expressou todo o descontentamento político da juventude europeia. A proposta que sintetiza o conjunto de reivindicações políticas destes jovens é a democracia direta.</p>",
+    texto: "<p>Rua Preciados, seis da tarde. Ao longe, a massa humana que abarrota a Praça Puerta Del Sol, em Madri, se levanta. Um grupo de garotas, ao ver a cena, corre em direção à multidão. Milhares de pessoas fazem ressoar o slogan: “Que não, que não, que não nos representem”. Um garoto fala pelo megafone: “Demandamos submeter a referendo o resgate bancário.</p><p>(RODRÍGUEZ, O. Puerta Del Sol, o grande alto-falante. Brasil de Fato, São Paulo, 26 maio-1 jun. 2011. Adaptado)</p><p>O acampamento dos Indignados espanhóis expressou todo o descontentamento político da juventude europeia. A proposta que sintetiza o conjunto de reivindicações políticas destes jovens é a democracia direta.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes. (MATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012) <p>A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro: redução da utilização elétrica.</p>",
+    texto: "<p>Empresa vai fornecer 230 turbinas para o segundo complexo de energia à base de ventos, no sudeste da Bahia. O Complexo Eólico Alto Sertão, em 2014, terá capacidade para gerar 375 MW (megawatts), total suficiente para abastecer uma cidade de 3 milhões de habitantes.</p><p>(MATOS, C. GE busca bons ventos e fecha contrato de R$ 820 mi na Bahia. Folha de S. Paulo, 2 dez. 2012)</p><p>A opção tecnológica retratada na notícia proporciona a seguinte consequência para o sistema energético brasileiro: redução da utilização elétrica.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -355,7 +355,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativo. (CORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.)<p>À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas termelétricas.</p>",
+    texto: "<p>Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao ambiente. Sabe-se que algumas fontes energéticas desenvolvidas pelo homem exercem, ou têm potencial para exercer, em algum nível, impactos ambientais negativo.</p><p>(CORRÊA, A. G.; ZUIN, V. G. (Orgs.). Química Verde: fundamentos e aplicações. São Carlos: EdUFSCar, 2009.)</p><p>À luz da Química Verde, métodos devem ser desenvolvidos para eliminar ou reduzir a poluição do ar causada especialmente pelas termelétricas.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
@@ -375,22 +375,22 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume. (TUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003)<p>A intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da erosão.</p>",
+    texto: "<p>Os dois principais rios que alimentavam o Mar de Aral, Amurdarya e Sydarya, mantiveram o nível e o volume do mar por muitos séculos. Entretanto, o projeto de estabelecer e expandir a produção de algodão irrigado aumentou a dependência de várias repúblicas da Ásia Central da irrigação e monocultura. O aumento da demanda resultou no desvio crescente de água para a irrigação, acarretando redução drástica do volume de tributários do Mar de Aral. Foi criado na Ásia Central um novo deserto, com mais de 5 milhões de hectares, como resultado da redução em volume.</p><p>(TUNDISI, J. G. Água no século XXI: enfrentando a escassez. São Carlos: Rima, 2003)</p><p>A intensa interferência humana na região descrita provocou o surgimento de uma área desértica em decorrência da erosão.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastar ir à França num minuto para assistir ao pôr do sol. (SAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.)<p>A diferença espacial citada é causada pelo movimento em torno de seu próprio eixo.</p>",
+    texto: "<p>Quando é meio-dia nos Estados Unidos, o Sol, todo mundo sabe, está se deitando na França. Bastar ir à França num minuto para assistir ao pôr do sol.</p><p>(SAINT-EXUPÉRY, A. O Pequeno Príncipe. Rio de Janeiro: Agir, 1996.)</p><p>A diferença espacial citada é causada pelo movimento em torno de seu próprio eixo.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma. (HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989)<p>Segundo Habermas, a validez de uma norma deve ser estabelecida pelo poder político, que se concentra no sistema partidário.</p>",
+    texto: "<p>Uma norma só deve pretender validez quando todos os que possam ser concernidos por ela cheguem (ou possam chegar), enquanto participantes de um discurso prático, a um acordo quanto à validade dessa norma.</p><p>(HABERMAS, J. Consciência moral e agir comunicativo. Rio de Janeiro: Tempo Brasileiro, 1989)</p><p>Segundo Habermas, a validez de uma norma deve ser estabelecida pelo poder político, que se concentra no sistema partidário.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.(AB’SABER, A.<b>Amazônia: do discurso à práxis.</b> São Paulo: EdUSP, 1996)<p>Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.</p>",
+    texto: "<p>A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.</p><p>(AB’SABER, A.<b>Amazônia: do discurso à práxis.</b> São Paulo: EdUSP, 1996)</p><p>Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
