@@ -1867,7 +1867,7 @@ barbante para ficar cada vez mais extenso. As demais condições permaneceram in
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E ) da água e de outras espécies em meio básico, expressos no quadro.</p><p><img src="semirreacao.png"></p><p>A outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência: Fe(OH)2 e Al.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
