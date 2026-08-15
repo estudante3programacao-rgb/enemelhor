@@ -1852,12 +1852,7 @@ barbante para ficar cada vez mais extenso. As demais condições permaneceram in
     dificuldade: "fácil"
   },
   {
-    texto: `<p>Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação
-bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou
-a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete
-e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na
-direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.</p><p><img src="cinema.png"></p><p>Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a
-posição da poltrona na fileira, respectivamente: I6.</p>`,
+    texto: `<p>Uma pessoa comprou um ingresso para o cinema em cuja entrada está afixado um mapa com a representação bidimensional do posicionamento das poltronas, conforme a figura. Essa pessoa, após consultar o mapa, começou a subir uma das escadas e parou na posição indicada pela estrela, direcionada para o norte. Ela conferiu seu bilhete e observou que, para encontrar sua poltrona, deveria partir do ponto onde estava, continuar subindo a escada na direção norte por mais quatro fileiras e olhar à sua direita, e sua poltrona será a terceira.</p><p><img src="cinema.png"></p><p>Nesse cinema, as poltronas são identificadas por uma letra, que indica a fileira, e um número, que fornece a posição da poltrona na fileira, respectivamente: I6.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1867,8 +1862,8 @@ posição da poltrona na fileira, respectivamente: I6.</p>`,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>As redes de alta tensão para transmissão de energia elétrica geram campo magnético variável o suficiente para induzir corrente elétrica no arame das cercas. Tanto os animais quanto os funcionários das propriedades rurais ou das concessionárias de energia devem ter muito cuidado ao se aproximarem de uma cerca quando esta estiver próxima a uma rede de alta tensão, pois, se tocarem no arame da cerca, poderão sofrer choque elétrico</p><p>Para minimizar este tipo de problema, deve-se: fazer o aterramento dos arames da cerca.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
