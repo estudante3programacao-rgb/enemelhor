@@ -1872,8 +1872,8 @@ barbante para ficar cada vez mais extenso. As demais condições permaneceram in
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>A figura apresenta a herança genética de uma característica a partir do cruzamento de insetos de uma mesma espécie.</p><p><img src="punnet.png"></p><p>A proporção fenotípica da prole resultante do cruzamento entre indivíduos da primeira geração é: <img src="AAAAAaaa.png"</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
