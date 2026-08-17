@@ -1840,9 +1840,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `<p>Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas
-e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do
-barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.</p><p><img src="amplitude.png"></p></p>(SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012. Adaptado)</p><p>Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora: amplitude.</p>`,
+    texto: `<p>Na tirinha de Mauricio de Sousa, os personagens Cebolinha e Cascão fazem uma brincadeira utilizando duas latas e um barbante. Ao perceberem que o som pode ser transmitido através do barbante, resolvem alterar o comprimento do barbante para ficar cada vez mais extenso. As demais condições permaneceram inalteradas durante a brincadeira.</p><p><img src="amplitude.png"></p><p>(SOUSA, M. Disponível em: www.monica.com.br. Acesso em: 2 out. 2012. Adaptado)</p><p>Na prática, à medida que se aumenta o comprimento do barbante, ocorre a redução de qual característica da onda sonora: amplitude.</p>`, 
     resposta: true,
     dificuldade: "fácil"
   },
@@ -1867,7 +1865,7 @@ barbante para ficar cada vez mais extenso. As demais condições permaneceram in
     dificuldade: "fácil"
   },
   {
-    texto: `<p>Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E ) da água e de outras espécies em meio básico, expressos no quadro.</p><p><img src="semirreacao.png"></p><p>A outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência: Fe(OH)2 e Al.</p>`,
+    texto: `<p>Para realizar o desentupimento de tubulações de esgotos residenciais, é utilizada uma mistura sólida comercial que contém hidróxido de sódio (NaOH) e outra espécie química pulverizada. Quando é adicionada água a essa mistura, ocorre uma reação que libera gás hidrogênio e energia na forma de calor, aumentando a eficiência do processo de desentupimento. Considere os potenciais padrão de redução (E) da água e de outras espécies em meio básico, expressos no quadro.</p><p><img src="semirreacao.png"></p><p>A outra espécie que está presente na composição da mistura sólida comercial para aumentar sua eficiência: Fe(OH)2 e Al.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1877,13 +1875,13 @@ barbante para ficar cada vez mais extenso. As demais condições permaneceram in
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Plantas e algas realizam fotossíntese oxigênica para síntese de matéria orgânica e, para isso, utilizam trifosfato de adenosina (ATP) e nicotinamida adenina dinucleotídeo fosfato reduzido (NADPH). Já algumas bactérias fotossintetizantes não apresentam cloroplasto e clorofila, mas um pigmento denominado bacterioclorofila. Esses procariotos realizam a fotossíntese anoxigênica, um processo de síntese de matéria orgânica utilizando o gás carbônico (CO<sub>2</sub>) e o gás sulfídrico (H<sub>2</sub>S).</p><p>Na fotossíntese oxigênica, o composto desempenha função análoga à do H<sub>2</sub>S é: clorofila.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Pesquisadores dos Estados Unidos desenvolveram uma nova técnica, que utiliza raios de luz infravermelha (invisíveis a olho nu) para destruir tumores. Primeiramente, o paciente recebe uma injeção com versões modificadas de anticorpos que têm a capacidade de “grudar” apenas nas células cancerosas. Sozinhos, eles não fazem nada contra o tumor. Entretanto, esses anticorpos estão ligados a uma molécula, denominada IR700, que funcionará como uma “microbomba”, que irá destruir o câncer. Em seguida, o paciente recebe raios infravermelhos. Esses raios penetramno corpo e chegam até a molécula IR700, que é ativada e libera uma substância que ataca a célula cancerosa.</p><p>Disponível em: http://super.abril.com.br. Acesso em: 13 dez. 2012. Adaptado).</p><p>Com base nas etapas de desenvolvimento, o nomeapropriado para a técnica descrita é: fotoimunoterapia.</p> ",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
