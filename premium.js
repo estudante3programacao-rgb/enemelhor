@@ -450,7 +450,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra. (DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010. Adaptado)<p>De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.</p>",
+    texto: "<p>O direito não é a justiça. O direito é o elemento do cálculo, é justo que haja um direito, mas a justiça é incalculável, ela exige que se calcule o incalculável; e as experiências aporéticas são experiências tão improváveis quanto necessárias da justiça, isto é, são momentos em que a decisão entre o justo e o injusto nunca é garantida por uma regra.</p><p>(DERRIDA, J. Força de lei. São Paulo: Martins Fontes, 2010. Adaptado)</p><p>De acordo com o texto, ainda que estejam em desconformidade com o ordenamento jurídico, são exemplos de ação justa: casos de desobediência civil.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
