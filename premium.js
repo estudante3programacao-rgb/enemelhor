@@ -445,7 +445,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A “invenção” dessa nova anatomia política não deve ser entendida como uma descoberta súbita. Mas como uma multiplicidade de processos muitas vezes mínimos, de origens diferentes, de localizações esparsas, que se recordam, que se repetem, ou se imitam, apoiam-se uns sobre os outros e esboçam aos poucos a fachada de um método geral. Encontramo-los em funcionamento nos colégios, muito cedo; mais tarde, nas escolas primárias, no espaço hospitalar e na organização militar. (FOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011)<p>O texto indica o seguinte aspecto da disciplina como ferramenta política: capilarização das práticas de controle.</p>",
+    texto: "<p>A “invenção” dessa nova anatomia política não deve ser entendida como uma descoberta súbita. Mas como uma multiplicidade de processos muitas vezes mínimos, de origens diferentes, de localizações esparsas, que se recordam, que se repetem, ou se imitam, apoiam-se uns sobre os outros e esboçam aos poucos a fachada de um método geral. Encontramo-los em funcionamento nos colégios, muito cedo; mais tarde, nas escolas primárias, no espaço hospitalar e na organização militar.</p><p>(FOUCAULT, M. Vigiar e punir. Petrópolis: Vozes, 2011)</p><p>O texto indica o seguinte aspecto da disciplina como ferramenta política: capilarização das práticas de controle.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
