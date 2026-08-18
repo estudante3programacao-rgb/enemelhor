@@ -415,7 +415,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior. (ARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005. Adaptado)<p>A condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a associação sindical.</p>",
+    texto: "<p>No sistema capitalista, as muitas manifestações de crise criam condições que forçam a algum tipo de racionalização. Em geral, essas crises periódicas têm o efeito de expandir a capacidade produtiva e de renovar as condições de acumulação. Podemos conceber cada crise como uma mudança do processo de acumulação para um nível novo e superior.</p><p>(ARVEY, D. A produção capitalista do espaço. São Paulo: Annablume, 2005. Adaptado)</p><p>A condição para a inclusão dos trabalhadores no novo processo produtivo descrito no texto é a associação sindical.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
