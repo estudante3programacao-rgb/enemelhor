@@ -390,7 +390,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.</p><p>(AB’SABER, A.<b>Amazônia: do discurso à práxis.</b> São Paulo: EdUSP, 1996)</p><p>Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.</p>",
+    texto: "<p>A Floresta Amazônica, com toda a sua imensidão, não vai estar aí para sempre. Foi preciso alcançar toda essa taxa de desmatamento de quase 20 mil quilômetros quadrados ao ano, na última década do século XX, para que uma pequena parcela de brasileiros se desse conta de que o maior patrimônio natural do país está sendo torrado.</p><p>(AB’SABER, A. <b>Amazônia: do discurso à práxis.</b> São Paulo: EdUSP, 1996)</p><p>Um processo econômico que tem contribuído na atualidade para acelerar o problema ambiental descrito é: difusão do cultivo da soja com a implantação de monoculturas mecanizada.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
