@@ -495,7 +495,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível. (CASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982)<p>O texto apresenta uma contradição interna do capitalismo caracterizada pela: alienação decorrente da organização do trabalho.</p>",
+    texto: "<p>Uma fábrica na qual os operários fossem, efetiva e integralmente, simples peças de máquinas executando cegamente as ordens da direção pararia em quinze minutos. O capitalismo só pode funcionar com a contribuição constante da atividade propriamente humana de seus subjugados que, ao mesmo tempo, tenta reduzir e desumanizar o mais possível.</p><p>(CASTORIADIS, C. A instituição imaginária da sociedade. Rio de Janeiro: Paz e Terra, 1982)</p><p>O texto apresenta uma contradição interna do capitalismo caracterizada pela: alienação decorrente da organização do trabalho.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
