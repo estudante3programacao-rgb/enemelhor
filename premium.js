@@ -430,7 +430,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la. (PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004. Adaptado)<p>O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.</p>",
+    texto: "<p>A fome não é um problema técnico, pois ela não se deve à falta de alimentos, isso porque a fome convive hoje com as condições materiais para resolvê-la.</p><p>(PORTO-GONÇALVES, C. W. Geografia da riqueza, fome e meio ambiente. In: OLIVEIRA, A. U.; MARQUES, M. I. M. (Org.). O campo no século XXI: território de vida, de luta e de construção da justiça social. São Paulo: Casa Amarela; Paz e Terra, 2004. Adaptado)</p><p>O texto demonstra que o problema alimentar apresentado tem uma dimensão política por estar associado ao crescimento da população mundial.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
