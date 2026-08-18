@@ -1890,8 +1890,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>As placas que indicam saída de emergência brilham no escuro, pois apresentam substâncias que fosforecem na cor amarelo-esverdeada após exposição à luz ambiente, conforme a figura.</p><p>Esse fenômeno ocorre pela presença do sulfeto de zinco (ZnS), dopado com prata ou cobre, na superfície da placa.</p><p>(Zinc Sulphide Phosphorescence. Disponível em: https://physicsopenlab.org. Acesso em: 8 nov. 2023. Adaptado)</p><p>O aparecimento do brilho nessas condições ocorre como consequência de: transições eletrônicas.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
