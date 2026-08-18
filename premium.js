@@ -480,7 +480,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional. (IAS, T. M. et al. A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018. Adaptado)<p>O efeito social resultante do avanço tecnológico mencionado no texto foi o enrijecimento das doutrinas religiosas sobre a organização da vida doméstica.</p>",
+    texto: "<p>Em 1960, a primeira pílula anticoncepcional foi comercializada nos EUA, e, em poucos anos, o método contraceptivo se difundiu pelo mundo, inclusive no Brasil. Em nosso país, a chegada das pílulas anticoncepcionais foi simultânea às discussões neomalthusianas sobre a crise demográfica, à aceleração dos processos de modernização e ao boom da indústria farmacêutica multinacional.</p><p>(IAS, T. M. <i>et al.</i> A pílula da oportunidade: discursos sobre as pílulas anticoncepcionais em A Gazeta da Farmácia, 1960-1981. História, Ciências, Saúde — Manguinhos, n. 3, jul.-set. 2018. Adaptado)</p><p>O efeito social resultante do avanço tecnológico mencionado no texto foi o enrijecimento das doutrinas religiosas sobre a organização da vida doméstica.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
