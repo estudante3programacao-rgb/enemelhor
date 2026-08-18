@@ -295,7 +295,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N<sub>2</sub>, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N<sub>2</sub>, que ocorrem de forma livre ou simbiontes com plantas.</p><p>(ADUAN, R. E. et al. Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004. Adaptado)</p><p>Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.</p>", 
+    texto: "<p>O nitrogênio é essencial para a vida e o maior reservatório global desse elemento, na forma de N<sub>2</sub>, é a atmosfera. Os principais responsáveis por sua incorporação na matéria orgânica são microrganismos fixadores de N<sub>2</sub>, que ocorrem de forma livre ou simbiontes com plantas.</p><p>(ADUAN, R. E. <i>et al.</i> Os grandes ciclos biogeoquímicos do planeta. Planaltina: Embrapa, 2004. Adaptado)</p><p>Animais garantem suas necessidades metabólicas desse elemento pela absorção do gás nitrogênio pela respiração.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
