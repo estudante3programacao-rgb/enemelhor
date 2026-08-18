@@ -420,7 +420,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade — a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural. (FOUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004)<p>O texto aponta que a subjetivação se efetiva numa dimensão contingencial, processada em interações sociais.</p>",
+    texto: "<p>Penso que não há um sujeito soberano, fundador, uma forma universal de sujeito que poderíamos encontrar em todos os lugares. Penso, pelo contrário, que o sujeito se constitui através das práticas de sujeição ou, de maneira mais autônoma, através de práticas de liberação, de liberdade, como na Antiguidade — a partir, obviamente, de um certo número de regras, de estilos, que podemos encontrar no meio cultural.</p><p>(FOUCAULT, M. Ditos e escritos V: ética, sexualidade, política. Rio de Janeiro: Forense Universitária, 2004)</p><p>O texto aponta que a subjetivação se efetiva numa dimensão contingencial, processada em interações sociais.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
