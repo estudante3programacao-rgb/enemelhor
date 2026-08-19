@@ -1915,8 +1915,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>O Brasil vive uma crise hídrica que também tem trazido consequências na área de energia. Um estudante do ensino médio resolveu dar sua contribuição de economia, usando para isso conceitos que ele aprendeu  nas aulas de física. Ele convence sua mãe a tomar banho com a chave do chuveiro na posição verão e diminuir o tempo de banho para 5 minutos, em vez de 15 minutos. Sua alegação baseou-se no seguinte argumento: se a chave do chuveiro estiver na posição inverno (potência de 6 000 W), o gasto será muito maior do que com a chave na posição verão (potência de 3 600 W).</p>,p>A economia por banho, em kWh, apresentada pelo estudante para sua mãe foi de: 1,2.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
