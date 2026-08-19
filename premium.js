@@ -1920,7 +1920,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Em razão da grande quantidade de carboidratos, a mandioca tem surgido, juntamente com a cana-de-açúcar, como alternativa para produção de bioetanol. A produção de álcool combustível utilizando a mandioca está diretamente relacionada com a atividade metabólica de microrganismos.</p><p>(Disponível em: www.agencia.cnptia.embrapa.br. Acesso em: 28 out. 2015. Aadaptado).</p><p>O processo metabólico envolvido na produção desse combustível é a: digestão anaeróbica.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
