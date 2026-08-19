@@ -1910,7 +1910,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A Química Verde pode ser definida como a criação, o desenvolvimento e a aplicação de produtos e processos químicos para reduzir ou eliminar o uso e a geração de substâncias nocivas à saúde humana e ao meio ambiente.</p><p>Um recurso de geração de energia que obedeça a esses princípios é o: petróleo bruto.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
