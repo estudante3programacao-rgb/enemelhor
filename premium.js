@@ -1900,12 +1900,12 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>A energia elétrica nas instalações rurais pode ser obtida pela rede pública de distribuição ou por  dispositivos alternativos que geram energia elétrica, como  os geradores indicados no quadro.</p><p><img src="geradores.png"></p><p>(Disponível em: www.ruralnews.com.br. Acesso em: 20 ago.2014)</p><p>Os geradores que produzem resíduos poluidores durante o seu funcionamento são: I e IV.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Em dias de chuva ocorrem muitos acidentes no trânsito, e uma das causas é a aquaplanagem, ou seja, a perda de contato do veículo com o solo pela existência  de uma camada de água entre o pneu e o solo, deixando o veículo incontrolável.</p><p>Nesta situação, a perda do controle do carro está relacionada com a redução da seguinte força: normal.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
