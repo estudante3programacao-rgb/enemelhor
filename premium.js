@@ -1925,8 +1925,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>Plantas apresentam substâncias utilizadas para diversos fins. A morfina, por exemplo, extraída da flor da papoula, é utilizada como medicamento para aliviar dores intensas. Já a coniina é um dos componentes da cicuta, considerada uma planta venenosa. Suas estruturas moleculares são apresentadas na figura.</p><p><img src="aminas.png"></p><p>O grupo funcional comum a esses fitoquímicos é a: amina. </p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
