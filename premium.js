@@ -1965,13 +1965,13 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A <i>Hydrangea macrophylla</i> é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8. Sabe-se que pH = - log<sub>10</sub>x, em que x é a concentração de íon hidrogênio (H<sup>+</sup>). Para produzir a <i>Hydrangea</> cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que <i>x</i> assuma",
-    resposta: false,
+    texto: "<p>A <i>Hydrangea macrophylla</i> é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8. Sabe-se que pH = - log<sub>10</sub>x, em que x é a concentração de íon hidrogênio (H<sup>+</sup>). Para produzir a <i>Hydrangea</> cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que <i>x</i> assuma: valores maiores que 10<sup>−8</sup> e menores que 10<sup>−7</sup>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Para construir uma piscina, cuja área total da superfície interna é igual a 40 m2, uma construtora apresentou o seguinte orçamento:</p><p>•R$ 10 000,00 pela elaboração do projeto;</p><p>•R$ 40 000,00 pelos custos fixos;</p><p>•R$ 2 500,00 por metro quadrado para construção da área interna da piscina.</p><p>Após a apresentação do orçamento, essa empresa decidiu reduzir o valor de elaboração do projeto em 50%, mas recalculou o valor do metro quadrado para a construção da área interna da piscina, concluindo haver a necessidade de aumentá-lo em 25%. Além disso, a construtora pretende dar um desconto nos custos fixos, de maneira que o novo valor do orçamento seja reduzido em 10% em relação ao total inicial.</p> <p>O percentual de desconto que a construtora deverá conceder nos custos fixos é de: 87,5%.</p>", 
+    resposta: true,
     dificuldade: "fácil"
   },
   {
