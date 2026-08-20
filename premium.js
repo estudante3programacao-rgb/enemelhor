@@ -1965,7 +1965,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A <i>Hydrangea macrophylla</i> é uma planta com flor azul ou cor-de-rosa, dependendo do pH do solo no qual está plantada. Em solo ácido (ou seja, com pH < 7) a flor é azul, enquanto que em solo alcalino (ou seja, com pH > 7) a flor é rosa. Considere que a Hydrangea cor-de-rosa mais valorizada comercialmente numa determinada região seja aquela produzida em solo com pH inferior a 8. Sabe-se que pH = - log<sub>10</sub>x, em que x é a concentração de íon hidrogênio (H<sup>+</sup>). Para produzir a <i>Hydrangea</> cor-de-rosa de maior valor comercial, deve-se preparar o solo de modo que <i>x</i> assuma",
     resposta: false,
     dificuldade: "fácil"
   },
