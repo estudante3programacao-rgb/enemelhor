@@ -1930,18 +1930,18 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A maioria das pessoas fica com a visão embaçada ao abrir os olhos debaixo dʼágua. Mas há uma exceção: o povo moken, que habita a costa da Tailândia. Essa característica se deve principalmente à adaptabilidade do olho e à plasticidade do cérebro, o que significa que você também, com algum treinamento, poderia enxergar relativamente bem debaixo dʼágua. Estudos mostraram que as pupilas de olhos de indivíduos moken sofrem redução significativa debaixo dʼágua, o que faz com que os raios luminosos incidam quase paralelamente ao eixo óptico da pupila.</p><p>(GISLÉN, A. et al. Visual Training Improves Underwater Vision in Children. Vision Research, n. 46, 2006. Adaptado)</p><p>A acuidade visual associada à redução das pupilas é fisicamente explicada pela diminuiçãodo desvio dos feixes luminosos refratados no interior do olho.</p>",
+    resposta: true,
+    dificuldade: "fácil"
+  },
+  {
+    texto: "<p>O “The Kidney Project” é um projeto realizado por cientistas que pretendem desenvolver um rim biônico que executará a maioria das funções biológicas do órgão. O rim biônico possuirá duas partes que incorporam recentes avanços de nanotecnologia, filtração de membrana e biologia celular. Esse projeto significará uma grande melhoria na qualidade de vida para aquelas pessoas que dependem da hemodiálise para sobrevivência.</p><p>(Disponível em: https://pharm.ucsf.edu. Acesso em: 26 abr. 2019. Adaptado)</p><p>O dispositivo criado promoverá diretamente a: excreção de ureia.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
-    dificuldade: "fácil"
-  },
-  {
-    texto: "",
-    resposta: false,
+    texto: "<p>A poluição radioativa compreende mais de 200 nuclídeos, sendo que, do ponto de vista de impacto ambiental, destacam-se o césio-137 e o estrôncio-90. A maior contribuição de radionuclídeos antropogênicos no meio marinho ocorreu durante as décadas de 1950 e 1960, como resultado dos testes nucleares realizados na atmosfera. O estrôncio-90 pode se acumular nos organismos vivos e em cadeias alimentares e, em razão de sua semelhança química, pode participar no equilíbrio com carbonato e substituir o cálcio em diversos processos biológicos.</p><p>(FIGUEIRA, R. C. L.; CUNHA, I. I. L. A contaminação dos oceanos por radionuclídeos antropogênicos. Química Nova, n. 21, 1998. Adaptado)</p><p>Ao entrar numa cadeia alimentar da qual o homem faz parte, em qual tecido do organismo humano o estrôncio-90 será acumulado predominantemente: ósseo.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
