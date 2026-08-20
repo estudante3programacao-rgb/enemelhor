@@ -1945,22 +1945,22 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>O concreto utilizado na construção civil é um material formado por cimento misturado a areia, a brita e a água. A areia é normalmente extraída de leitos de rios e a brita, oriunda da fragmentação de rochas. Impactos ambientais gerados no uso do concreto estão associados à extração de recursos minerais e ao descarte indiscriminado desse material. Na tentativa de reverter esse quadro, foi proposta a utilização de concreto reciclado moído em substituição ao particulado rochoso graúdo na fabricação de novo concreto, obtendo um material com as mesmas propriedades que o anterior.</p><p>O benefício ambiental gerado nessa proposta é a redução do(a): extração da brita.</p>", 
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>As cutias, pequenos roedores das zonas tropicais, transportam pela boca as sementes que caem das árvores, mas, em vez de comê-las, enterram-nas em outro lugar. Esse procedimento lhes permite salvar a maioria de suas sementes enterradas para as épocas mais secas, quando não há frutos maduros disponíveis. Cientistas descobriram que as cutias roubam as sementes enterradas por outras, e esse comportamento de “ladroagem” faz com que uma mesma semente possa ser enterrada dezenas de vezes.</p><p>(Disponível em: http://chc.cienciahoje.uol.com.br. Acesso em: 30 jul.2012)</p><p>Essa “ladroagem” está associada à relação de: competição.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Um alimento orgânico deve apresentar em sua embalagem o selo de uma instituição certificadora, garantindo ao consumidor que, além de ser um alimento isento de agrotóxicos, também é produzido com técnicas planejadas e controladas. A técnica de produção desses alimentos causa menor impacto aos recursos naturais, contribuindo para melhorar a qualidade de vida das pessoas.</p><p>Nesse sistema de produção de alimentos vegetais, o controle de insetos é manejado por meio do(a): utilização de predadores naturais.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A gripe é uma infecção respiratória aguda de curta duração causada pelo vírus <i>influenza</i>. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus <i>influenza</i> é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.</p><p>Em notação científica, o diâmetro interno do vírus influenza, em mm, é: 1,1 × 10<sup>-5</sup></p>",
     resposta: false,
     dificuldade: "fácil"
   },
