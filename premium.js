@@ -1960,7 +1960,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A gripe é uma infecção respiratória aguda de curta duração causada pelo vírus <i>influenza</i>. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus <i>influenza</i> é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.</p><p>Em notação científica, o diâmetro interno do vírus influenza, em mm, é: 1,1 × 10<sup>-5</sup></p>",
+    texto: "<p>A gripe é uma infecção respiratória aguda de curta duração causada pelo vírus <i>influenza</i>. Ao entrar no nosso organismo pelo nariz, esse vírus multiplica-se, disseminando-se para a garganta e demais partes das vias respiratórias, incluindo os pulmões. O vírus <i>influenza</i> é uma partícula esférica que tem um diâmetro interno de 0,00011 mm.</p><p>(Disponível em: www.gripenet.pt. Acesso em: 2 nov. 2013. Adaptado)</p><p>Em notação científica, o diâmetro interno do vírus influenza, em mm, é: 1,1 × 10<sup>-5</sup></p>",
     resposta: false,
     dificuldade: "fácil"
   },
