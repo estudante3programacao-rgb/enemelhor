@@ -965,7 +965,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O coronelismo era fruto de alteração na relação de forças entre os proprietários rurais e o governo, e significava o fortalecimento do poder do Estado antes que o predomínio do coronel. Nessa concepção, o coronelismo é, então, um sistema político nacional, com base em barganhas entre o governo e os coronéis. O coronel tem o controle dos cargos públicos, desde o delegado de polícia até a professora primária. O coronel hipoteca seu apoio ao governo, sobretudo na forma de voto. (CARVALHO, J. M. Pontos e bordados: escritos de história política. Belo Horizonte: Editora UFMG, 1998. Adaptado)<p>No contexto da Primeira República no Brasil, as relações políticas descritas baseavam-se na: disseminação de práticas clientelistas.</p>",
+    texto: "<p>O coronelismo era fruto de alteração na relação de forças entre os proprietários rurais e o governo, e significava o fortalecimento do poder do Estado antes que o predomínio do coronel. Nessa concepção, o coronelismo é, então, um sistema político nacional, com base em barganhas entre o governo e os coronéis. O coronel tem o controle dos cargos públicos, desde o delegado de polícia até a professora primária. O coronel hipoteca seu apoio ao governo, sobretudo na forma de voto.</p><p>(CARVALHO, J. M. Pontos e bordados: escritos de história política. Belo Horizonte: Editora UFMG, 1998. Adaptado)</p><p>No contexto da Primeira República no Brasil, as relações políticas descritas baseavam-se na: disseminação de práticas clientelistas.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
