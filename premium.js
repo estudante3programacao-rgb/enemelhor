@@ -975,7 +975,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>O rompimento de uma barragem no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado no estado da Bahia. O desastre pode provocar alterações na cadeia alimentar desse ecossistema, pois os metais pesados podem ser acumulados em diversos níveis tróficos, afetando especialmente os grandes predadores. (FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Franciscana calls for help: [...] International Whaling Commission, Conference Paper, jun. 2016. Adaptado)</p><p>Concentrações mais elevadas dos compostos citados são encontradas em esponjas e fitoplânctons.</p>",
+    texto: "<p>O rompimento de uma barragem no município mineiro de Mariana e o derramamento de produtos tóxicos nas águas do Rio Doce, ocorridos em 2015, ainda têm consequências para os organismos que habitam o Parque Nacional Marinho de Abrolhos, localizado no estado da Bahia. O desastre pode provocar alterações na cadeia alimentar desse ecossistema, pois os metais pesados podem ser acumulados em diversos níveis tróficos, afetando especialmente os grandes predadores.</p><p>(FRAINER, G.; SICILIANO, S.; TAVARES, D. C. Franciscana calls for help: [...] International Whaling Commission, Conference Paper, jun. 2016. Adaptado)</p><p>Concentrações mais elevadas dos compostos citados são encontradas em esponjas e fitoplânctons.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
