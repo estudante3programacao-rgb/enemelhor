@@ -640,7 +640,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta. (SADAVA, D. <i>et al.</i> Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009. Adaptado)<p>Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de: salto em altura.</p>", 
+    texto: "<p>As fibras musculares esqueléticas não são todas iguais. As fibras lentas, também conhecidas como fibras vermelhas, apresentam muitas mitocôndrias e são bem supridas por vasos sanguíneos. Já as fibras rápidas, ou fibras brancas, apresentam poucas mitocôndrias e recebem menor suprimento sanguíneo. Dessa forma, a distribuição das fibras nos músculos esqueléticos do corpo auxilia de forma diferenciada no desempenho físico de um atleta.</p><p>(SADAVA, D. <i>et al.</i> Vida: a ciência da biologia — volume III: plantas e animais. Porto Alegre: Artmed, 2009. Adaptado)</p><p>Um atleta que sonha em disputar os Jogos Olímpicos e tem uma maior proporção de fibras brancas que fibras vermelhas teria mais vantagens na realização da prova de: salto em altura.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
