@@ -835,7 +835,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem. (ROSA, J. G. Grande sertão: veredas. Rio de Janeiro: Nova Fronteira, 1986.)<p>No romance Grande sertão: veredas, o protagonista Riobaldo narra sua trajetória de jagunço. A leitura do trecho permite identificar que o desabafo de Riobaldo se aproxima de um: aforismo, por expor uma máxima em poucas palavras.</p>",
+    texto: "<p>O correr da vida embrulha tudo. A vida é assim: esquenta e esfria, aperta e daí afrouxa, sossega e depois desinquieta. O que ela quer da gente é coragem.</p><p>(ROSA, J. G. Grande sertão: veredas. Rio de Janeiro: Nova Fronteira, 1986.)</p><p>No romance Grande sertão: veredas, o protagonista Riobaldo narra sua trajetória de jagunço. A leitura do trecho permite identificar que o desabafo de Riobaldo se aproxima de um: aforismo, por expor uma máxima em poucas palavras.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
