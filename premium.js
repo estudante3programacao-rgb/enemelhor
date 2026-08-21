@@ -765,7 +765,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.</p><p>(BADIO, B. et al. Epibatidine: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994. Adaptado)</p><p>A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela variabilidade genética.</p>",
+    texto: "<p>Os sapinhos-ponta-de-flecha constituem um grupo de espécies encontradas na América Central e do Sul. Seus venenos são obtidos por meio do consumo de algumas formigas e cupins que se alimentam de plantas que contêm esses venenos. Esses anfíbios são usados para envenenar as flechas das zarabatanas dos caçadores nativos. Quando capturados e criados em condições artificiais, ou quando nascidos em cativeiro, não são tóxicos.</p><p>(BADIO, B. <i>et al.</i> Epibatidine: Discovery and Definition as a Potent Analgesic and Nicotinic Agonist. Med. Chem. Res., n. 4, 1994. Adaptado)</p><p>A perda da capacidade de se obter a toxina nos nascidos em cativeiro é causada pela variabilidade genética.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
