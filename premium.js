@@ -1975,8 +1975,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>No Brasil há várias operadoras e planos de telefonia celular.</p><p>Uma pessoa recebeu 5 propostas (A, B, C, D e E) de planos telefônicos. O valor mensal de cada plano está em função do tempo mensal das chamadas, conforme o gráfico.</p><p>Essa pessoa pretende gastar exatamente R$ 30,00 por mês com telefone.</p><p>Dos planos telefônicos apresentados, qual é o mais vantajoso, em tempo de chamada, para o gasto previsto para essa pessoa: C.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
