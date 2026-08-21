@@ -750,7 +750,7 @@ const perguntasPremium = [
     dificuldade: "fácil"      
   },
   {
-    texto:"<p>Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista. (LAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.)</p><p>Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto apresentar o ponto de vista da autora.</p>",
+    texto:"<p>Ler não é decifrar, como num jogo de adivinhações, o sentido de um texto. É, a partir do texto, ser capaz de atribuir-lhe significado, conseguir relacioná-lo a todos os outros textos significativos para cada um, reconhecer nele o tipo de leitura que o seu autor pretendia e, dono da própria vontade, entregar-se a essa leitura, ou rebelar-se contra ela, propondo uma outra não prevista.</p><p>(LAJOLO, M. Do mundo da leitura para a leitura do mundo. São Paulo: Ática, 1993.)</p><p>Nesse texto, a autora apresenta reflexões sobre o processo de produção de sentidos, valendo-se da metalinguagem. Essa função da linguagem torna-se evidente pelo fato de o texto apresentar o ponto de vista da autora.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
