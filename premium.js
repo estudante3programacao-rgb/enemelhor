@@ -865,7 +865,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Diariamente, uma residência consome 20 160 Wh. Essa residência possui 100 células solares retangulares (dispositivos capazes de converter a luz solar em energia elétrica) de dimensões 6 cm × 8 cm. Cada uma das tais células produz, ao longo do dia, 24 Wh por centímetro de diagonal. O proprietário dessa residência quer produzir, por dia, exatamente a mesma quantidade de energia que sua casa consome. A seguinte ação desse proprietário eve ser tomada para que ele atinja o seu objetivo: retirar 16 células.",
+    texto: "Diariamente, uma residência consome 20160 Wh. Essa residência possui 100 células solares retangulares (dispositivos capazes de converter a luz solar em energia elétrica) de dimensões 6 cm × 8 cm. Cada uma das tais células produz, ao longo do dia, 24 Wh por centímetro de diagonal. O proprietário dessa residência quer produzir, por dia, exatamente a mesma quantidade de energia que sua casa consome. A seguinte ação desse proprietário deve ser tomada para que ele atinja o seu objetivo: retirar 16 células.",
     resposta: true,
     dificuldade: "fácil"
   },
