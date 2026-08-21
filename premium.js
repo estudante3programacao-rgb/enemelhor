@@ -1985,8 +1985,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>O carro flex é uma realidade no Brasil. Estes veículos estão equipados com motor que tem a capacidade de funcionar com mais de um tipo de combustível. No entanto, as pessoas que têm esse tipo de veículo, na hora do abastecimento, têm sempre a dúvida: álcool ou gasolina? Para avaliar o consumo desses combustíveis, realizou-se um percurso com um veículo flex, consumindo 40 litros de gasolina e no percurso de volta utilizou-se etanol. Foi considerado o mesmo consumo de energia tanto no percurso de ida quanto no de volta.</p><p>O quadro resume alguns dados aproximados sobre esses combustíveis:<p><img src="gastocombustivel.png"></p></p><p>O volume de etanol combustível, em litro, consumido no percurso de volta é mais próximo de: 58.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
