@@ -440,7 +440,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer. (COLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019)<p>O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à conquista do reconhecimento público.</p>",
+    texto: "<p>Adam Smith via o açougueiro e o padeiro não só como indivíduos buscando seus interesses financeiros, mas como pessoas moralmente motivadas dentro de uma sociedade. A base da moral era a empatia e o julgamento, instaurando uma distinção entre o que queremos fazer e o que sentimos que devemos fazer.</p><p>(COLLIER, P. O futuro do capitalismo. Porto Alegre: LP&M, 2019)</p><p>O texto defende uma motivação capitalista para o campo dos negócios, na qual o lucro se mostra associado à conquista do reconhecimento público.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
