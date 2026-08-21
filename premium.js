@@ -760,7 +760,7 @@ const perguntasPremium = [
     dificuldade: "média"
   },
   {
-    texto: "A maioria dos seres vivos tem um relógio biológico (ciclo circadiano), que regula as mudanças metabólicas e comportamentais de acordo com o ciclo de 24 horas de rotação da Terra. Em 2015, um artigo publicado na revista Science Advantage mostrou ser possível a transferência dos genes do relógio circadiano da cianobactéria Synechococcus elongatus para o genoma da bactéria Escherichia coli, um organismo não circadiano. (CHEN, A. H. et al. Transplantability of a Circardian Lock to Noncircardian Organism. Science Advantage, n. 1, 2015. Adaptado)<p>Estarão presentes no organismo geneticamente modificado os genes do ciclo circadiano de <i>S. elongatus</i> e do metabolismo de <i>E. coli</i>.</p>", 
+    texto: "<p>A maioria dos seres vivos tem um relógio biológico (ciclo circadiano), que regula as mudanças metabólicas e comportamentais de acordo com o ciclo de 24 horas de rotação da Terra. Em 2015, um artigo publicado na revista Science Advantage mostrou ser possível a transferência dos genes do relógio circadiano da cianobactéria <i>Synechococcus elongatus</i> para o genoma da bactéria <i>Escherichia coli</i>, um organismo não circadiano.</p><p>(CHEN, A. H. <i>et al.</i> Transplantability of a Circardian Lock to Noncircardian Organism. Science Advantage, n. 1, 2015. Adaptado)</p><p>Estarão presentes no organismo geneticamente modificado os genes do ciclo circadiano de <i>S. elongatus</i> e do metabolismo de <i>E. coli</i>.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
