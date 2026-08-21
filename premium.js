@@ -720,7 +720,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando como referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”. (MAIA, D. C. A mística da observação do tempo para a previsão do clima no ensino fundamental. In: GeoTextos, n. 1, jul. 2010. Adaptado)<p>O texto expõe a produção de um conhecimento que se constitui pela uniformização das informações.</p>", 
+    texto: "<p>No semiárido brasileiro, o sertanejo desenvolveu uma acuidade detalhada para a observação dos fenômenos, ao longo dos tempos, presenciados na natureza, em especial para a previsão do tempo e do clima, utilizando como referência a posição dos astros, constelação e nuvens. Conforme os sertanejos, a estação vai ser chuvosa quando a primeira cheia de janeiro “sair vermelha, por detrás de uma barra de nuvens”, mas “se surgir prateada, é sinal de seca”.</p><p>(MAIA, D. C. A mística da observação do tempo para a previsão do clima no ensino fundamental. In: GeoTextos, n. 1, jul. 2010. Adaptado)</p><p>O texto expõe a produção de um conhecimento que se constitui pela uniformização das informações.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
