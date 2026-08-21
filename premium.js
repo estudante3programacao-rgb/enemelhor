@@ -955,7 +955,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "No início de maio de 2014, a instalação da plataforma petrolífera de perfuração HYSY-981 nas águas contestadas do Mar da China Meridional suscitou especulações sobre as motivações chinesas. Na avaliação de diversos observadores ocidentais, Pequim pretendeu, com esse gesto, demonstrar que pode impor seu controle e dissuadir outros países de seguir com suas reivindicações de direito de exploração dessas águas, como é o caso do Vietnã e das Filipinas. (KLARE, M.T. A guerra pelo petróleo se joga no mar. Le Monde Diplomatique Brasil, abr. 2015)<p>A ação da China em relação à situação descrita no texto evidencia um conflito que tem como foco na: dinamização da atividade comercial.</p>",
+    texto: "<p>No início de maio de 2014, a instalação da plataforma petrolífera de perfuração HYSY-981 nas águas contestadas do Mar da China Meridional suscitou especulações sobre as motivações chinesas. Na avaliação de diversos observadores ocidentais, Pequim pretendeu, com esse gesto, demonstrar que pode impor seu controle e dissuadir outros países de seguir com suas reivindicações de direito de exploração dessas águas, como é o caso do Vietnã e das Filipinas.</p><p>(KLARE, M.T. A guerra pelo petróleo se joga no mar. Le Monde Diplomatique Brasil, abr. 2015)</p><p>A ação da China em relação à situação descrita no texto evidencia um conflito que tem como foco na: dinamização da atividade comercial.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
