@@ -695,7 +695,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Por maioria, nós não entendemos uma quantidade relativa maior, mas a determinação de um estado ou um padrão em relação ao qual tanto as quantidades maiores quanto as menores serão ditas minoritárias. Maioria supõe um estado de dominação. É nesse sentido que as mulheres, as crianças e também os animais são minoritários. (DELEUZE, G.; GUATTARI, F. Mil platôs. São Paulo: Editora 34, 2012. Adaptado)<p>No texto, a caracterização de uma minoria decorre da existência de relações de natureza arbitrária.</p>", 
+    texto: "<p>Por maioria, nós não entendemos uma quantidade relativa maior, mas a determinação de um estado ou um padrão em relação ao qual tanto as quantidades maiores quanto as menores serão ditas minoritárias. Maioria supõe um estado de dominação. É nesse sentido que as mulheres, as crianças e também os animais são minoritários.</p><p>(DELEUZE, G.; GUATTARI, F. Mil platôs. São Paulo: Editora 34, 2012. Adaptado)</p><p>No texto, a caracterização de uma minoria decorre da existência de relações de natureza arbitrária.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
