@@ -700,7 +700,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dela qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras. (ENGELS, F. A situação da classe trabalhadora na Inglaterra. São Paulo: Boitempo, 2010)<p>No texto, o autor apresenta delineamentos éticos que correspondem ao conceito de luta de classes.</p>", 
+    texto: "<p>Ao mesmo tempo, graças às amplas possibilidades que tive de observar a classe média, vossa adversária, rapidamente concluí que vós tendes razão, inteira razão, em não esperar dela qualquer ajuda. Seus interesses são diametralmente opostos aos vossos, mesmo que ela procure incessantemente afirmar o contrário e vos queira persuadir que sente a maior simpatia por vossa sorte. Mas seus atos desmentem suas palavras.</p><p>(ENGELS, F. A situação da classe trabalhadora na Inglaterra. São Paulo: Boitempo, 2010)</p><p>No texto, o autor apresenta delineamentos éticos que correspondem ao conceito de luta de classes.</p>", 
     resposta: true,
     dificuldade: "fácil"
   },
