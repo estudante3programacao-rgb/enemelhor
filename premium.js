@@ -960,7 +960,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Hoje, a indústria cultural assumiu a herança civilizatória da democracia de pioneiros e empresários, que tampouco desenvolvera uma fineza de sentido para os desvios espirituais. Todos são livres para dançar e para se divertir, do mesmo modo que, desde a neutralização histórica da religião, são livres para entrar em qualquer uma das inúmeras seitas. Mas a liberdade de escolha da ideologia, que reflete sempre a coerção econômica, revela-se em todos os setores como a liberdade de escolher o que é sempre a mesma coisa (ADORNO, T; HORKHEIMER, M. Dialética do esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985)<p>A liberdade de escolha na civilização ocidental, de acordo com a análise do texto, é uma: ilusão da contemporaneidade.</p>",
+    texto: "<p>Hoje, a indústria cultural assumiu a herança civilizatória da democracia de pioneiros e empresários, que tampouco desenvolvera uma fineza de sentido para os desvios espirituais. Todos são livres para dançar e para se divertir, do mesmo modo que, desde a neutralização histórica da religião, são livres para entrar em qualquer uma das inúmeras seitas. Mas a liberdade de escolha da ideologia, que reflete sempre a coerção econômica, revela-se em todos os setores como a liberdade de escolher o que é sempre a mesma coisa. </p><p>(ADORNO, T; HORKHEIMER, M. Dialética do esclarecimento: fragmentos filosóficos. Rio de Janeiro: Zahar, 1985)</p><p>A liberdade de escolha na civilização ocidental, de acordo com a análise do texto, é uma: ilusão da contemporaneidade.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
