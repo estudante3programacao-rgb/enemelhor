@@ -830,7 +830,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Com a perspectiva do desaparecimento das geleiras no Polo Norte, grandes reservas de petróleo e minérios, hoje inacessíveis, poderão ser exploradas. E já atiçam a cobiça das potências. (KOPP, D. Guerra Fria sobre o Ártico. Le monde diplomatique Brasil. Setembro, n. 2, 2007. Adaptado.)<p>No cenário de que trata o texto, a exploração de jazidas de petróleo, bem como de minérios – diamante, ouro, prata, cobre, chumbo, zinco – torna-se atraente não só em  função de seu formidável potencial, mas também por situar-se em uma zona geopolítica mais estável que o Oriente Médio.</p>",     
+    texto: "<p>Com a perspectiva do desaparecimento das geleiras no Polo Norte, grandes reservas de petróleo e minérios, hoje inacessíveis, poderão ser exploradas. E já atiçam a cobiça das potências.</p><p>(KOPP, D. Guerra Fria sobre o Ártico. Le monde diplomatique Brasil. Setembro, n. 2, 2007. Adaptado.)</p><p>No cenário de que trata o texto, a exploração de jazidas de petróleo, bem como de minérios – diamante, ouro, prata, cobre, chumbo, zinco – torna-se atraente não só em  função de seu formidável potencial, mas também por situar-se em uma zona geopolítica mais estável que o Oriente Médio.</p>",     
     resposta: true,
     dificuldade: "fácil"
   },
