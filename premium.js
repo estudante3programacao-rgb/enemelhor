@@ -620,7 +620,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça. (SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990)<p>O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a: exaltação do sofrimento.</p>",    
+    texto: "<p>Entretanto, nosso amigo Basso tem o ânimo alegre. Isso resulta da filosofia: estar alegre diante da morte, forte e contente qualquer que seja o estado do corpo, sem desfalecer, ainda que desfaleça.</p><p>(SÊNECA, L. Cartas morais. Lisboa: Calouste Gulbenkian, 1990)</p><p>O excerto refere-se a uma carta de Sêneca na qual se apresenta como um bem fundamental da filosofia promover a: exaltação do sofrimento.</p>",    
     resposta: false,
     dificuldade: "fácil"
   },
