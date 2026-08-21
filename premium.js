@@ -675,7 +675,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do caos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à humilhação de aceitar uma nova deposição, como a que sofrera em outubro de 1945. Entretanto, ao contrário do que imaginavam os inimigos, ao ruído do estampido não se seguiu o silêncio que cerca a derrota. (REIS FILHO, D. A. O Estado à sombra de Vargas. Revista Nossa História, n. 7, maio 2004)<p>O evento analisado no texto teve como repercussão imediata na política nacional a: intervenção militar.</p>", 
+    texto: "<p>Quando Getúlio Vargas se suicidou, em agosto de 1954, o país parecia à beira do caos. Acuado por uma grave crise política, o velho líder preferiu uma bala no peito à humilhação de aceitar uma nova deposição, como a que sofrera em outubro de 1945. Entretanto, ao contrário do que imaginavam os inimigos, ao ruído do estampido não se seguiu o silêncio que cerca a derrota.</p><p>(REIS FILHO, D. A. O Estado à sombra de Vargas. Revista Nossa História, n. 7, maio 2004)</p><p>O evento analisado no texto teve como repercussão imediata na política nacional a: intervenção militar.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
