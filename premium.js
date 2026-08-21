@@ -780,7 +780,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética (BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008. Adaptado)<p>Esse alimento contribui para diminuir a carência associada ao escorbuto.</p>",
+    texto: "<p>Golden Rice, ou arroz dourado, é uma variedade de arroz enriquecida em betacaroteno, precursor da vitamina A. Foi desenvolvida para ajudar a combater a doença decorrente da deficiência dessa vitamina. Para a obtenção dessa variedade de arroz, foram utilizados métodos de engenharia genética.</p><p>(BORÉM, A.; SANTOS, F. R. Entendendo a biotecnologia. Viçosa: UFV, 2008. Adaptado)</p><p>Esse alimento contribui para diminuir a carência associada ao escorbuto.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
