@@ -680,7 +680,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência. O fogo era fundamental para muitas; para outras, o caminho para despertar passava pelo sistema digestivo dos animais silvestres. “Essa planta nasce depois que fazemos a caçada com fogo, diziam eles, esta outra quando a anta caga a semente, aquela precisa ser comida pelo lobo”. Aliando conhecimento dos cientistas da aldeia e da cidade, essa área do Cerrado foi recuperada totalmente. (PAPPIANI, A. Tecnologias indígenas: esplendor e captura. Disponível em: http://outraspalavras.net. Acesso em: 10 out. 2019. Adaptado) <p>No texto, a relação socioespacial dos indígenas evidencia a importância da: criação de gado para o aprimoramento genético.</p>",      
+    texto: "<p>Foram esses cientistas Xavante que esclareceram os mistérios da germinação de cada uma das sementes. Eles tinham o conhecimento para quebrar a dormência. O fogo era fundamental para muitas; para outras, o caminho para despertar passava pelo sistema digestivo dos animais silvestres. “Essa planta nasce depois que fazemos a caçada com fogo, diziam eles, esta outra quando a anta caga a semente, aquela precisa ser comida pelo lobo”. Aliando conhecimento dos cientistas da aldeia e da cidade, essa área do Cerrado foi recuperada totalmente.</p><p>(PAPPIANI, A. Tecnologias indígenas: esplendor e captura. Disponível em: http://outraspalavras.net. Acesso em: 10 out. 2019. Adaptado)</p><p>No texto, a relação socioespacial dos indígenas evidencia a importância da: criação de gado para o aprimoramento genético.</p>",      
     resposta: false,
     dificuldade: "fácil"
   },
