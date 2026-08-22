@@ -1900,7 +1900,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `<p>A energia elétrica nas instalações rurais pode ser obtida pela rede pública de distribuição ou por  dispositivos alternativos que geram energia elétrica, como  os geradores indicados no quadro.</p><p><img src="geradores.png"></p><p>(Disponível em: www.ruralnews.com.br. Acesso em: 20 ago.2014)</p><p>Os geradores que produzem resíduos poluidores durante o seu funcionamento são: I e IV.</p>`,
+    texto: `<p>A energia elétrica nas instalações rurais pode ser obtida pela rede pública de distribuição ou por dispositivos alternativos que geram energia elétrica, como os geradores indicados no quadro.</p><p><img src="geradores.png"></p><p>(Disponível em: www.ruralnews.com.br. Acesso em: 20 ago.2014)</p><p>Os geradores que produzem resíduos poluidores durante o seu funcionamento são: I e IV.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
