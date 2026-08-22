@@ -1265,7 +1265,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>A poetisa Emília Freitas subiu a um palanque, nervosa, pedindo desculpas por não possuir títulos nem conhecimentos, mas orgulhosa ofereceu a sua pena que “sem ser hábil, é, em compensação, guiada pelo poder da vontade”. Maria Tomásia pronunciava orações que levantavam os ouvintes. A escritora Francisca Clotilde arrebatava, declamando seus poemas. Aquelas “angélicas senhoras”, “heroínas da caridade”, levantavam dinheiro para comprar liberdades e usavam de seu entusiasmo a fim de convencer os donos de escravos a fazerem alforrias gratuitamente. MIRANDA, A. Disponível em: www.opovoonline.com.br. Acesso em: 10 jun. 2015.</p><p>As práticas culturais narradas remetem, historicamente, ao movimento: abolicionista.</p>",
+    texto:"<p>A poetisa Emília Freitas subiu a um palanque, nervosa, pedindo desculpas por não possuir títulos nem conhecimentos, mas orgulhosa ofereceu a sua pena que “sem ser hábil, é, em compensação, guiada pelo poder da vontade”. Maria Tomásia pronunciava orações que levantavam os ouvintes. A escritora Francisca Clotilde arrebatava, declamando seus poemas. Aquelas “angélicas senhoras”, “heroínas da caridade”, levantavam dinheiro para comprar liberdades e usavam de seu entusiasmo a fim de convencer os donos de escravos a fazerem alforrias gratuitamente.</p><p>(MIRANDA, A. Disponível em: www.opovoonline.com.br. Acesso em: 10 jun. 2015.)</p><p>As práticas culturais narradas remetem, historicamente, ao movimento: abolicionista.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
