@@ -1060,7 +1060,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna. (SANTOS, M. A Urbanização Brasileira. São Paulo: EdUSP, 2005. Adaptado).</p><p>O texto trata da ocupação de uma parcela do território brasileiro. O processo econômico diretamente associado a essa ocupação foi o avanço da fronteira agropecuária que degradou parte do cerrado. </p>",
+    texto:"<p>O Centro-Oeste apresentou-se como extremamente receptivo aos novos fenômenos da urbanização, já que era praticamente virgem, não possuindo infraestrutura de monta, nem outros investimentos fixos vindos do passado. Pôde, assim, receber uma infraestrutura nova, totalmente a serviço de uma economia moderna.</p><p>(SANTOS, M. A Urbanização Brasileira. São Paulo: EdUSP, 2005. Adaptado).</p><p>O texto trata da ocupação de uma parcela do território brasileiro. O processo econômico diretamente associado a essa ocupação foi o avanço da fronteira agropecuária que degradou parte do cerrado.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
