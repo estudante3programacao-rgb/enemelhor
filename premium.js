@@ -1980,7 +1980,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `<p>Os incas desenvolveram uma maneira de registrar quantidades e representar números utilizando um sistema de numeração decimal posicional: um conjunto de cordas com nós denominado quipus. O quipus era feito de uma corda matriz, ou principal (mais grossa que as demais), na qual eram penduradas outras cordas, mais finas, de diferentes tamanhos e cores (cordas pendentes). De acordo com a sua posição, os nós significavam unidades, dezenas, centenas e milhares. Na Figura 1, o quipus representa o número decimal 2 453. Para representar o “zero” em qualquer posição, não se coloca nenhum nó.<p><img src="incas.png"></p></p>(Disponível em: www.culturaperuana.com.br. Acesso em: 13 dez. 2012.)<p></p><p>O número da representação do quipus da Figura 2, em base decimal, é: 3064.</p>`,
+    texto: `<p>Os incas desenvolveram uma maneira de registrar quantidades e representar números utilizando um sistema de numeração decimal posicional: um conjunto de cordas com nós denominado <i>quipus.</i> O <i>quipus</i> era feito de uma corda matriz, ou principal (mais grossa que as demais), na qual eram penduradas outras cordas, mais finas, de diferentes tamanhos e cores (cordas pendentes). De acordo com a sua posição, os nós significavam unidades, dezenas, centenas e milhares. Na Figura 1, o <i>quipus</i> representa o número decimal 2453. Para representar o “zero” em qualquer posição, não se coloca nenhum nó.<p><img src="incas.png"></p></p>(Disponível em: www.culturaperuana.com.br. Acesso em: 13 dez. 2012.)</p><p>O número da representação do <i>quipus</i> da Figura 2, em base decimal, é: 3064.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
