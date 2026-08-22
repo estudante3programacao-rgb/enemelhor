@@ -1290,7 +1290,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Por suas belezas naturais, a região de Bonito, no Mato Grosso do Sul, é um dos destinos ecoturísticos mais procurados do Brasil. Muitas das atrações ecoturísticas que movimentam a economia local estão situadas dentro de fazendas. Por isso, diversos donos dessas propriedades decidiram criar Reservas Particulares do Patrimônio Natural (RPPNs). Nesses locais, estão recompondo aos poucos as matas ciliares e adotando outras medidas pontuais, como a instalação de ninhos artificiais para as araras nativas.</p><p>GUIMARÃES, J. R. D. Bonito ou Lindo? Disponível em: http://cienciahoje.org.br. Acesso em: 28 nov. 2018 (adaptado).</p><p>Nesse contexto, as RPPNs foram criadas porque: evitam a entrada de turistas e favorecem o desenvolvimento sustentável.</p>",    
+    texto: "<p>Por suas belezas naturais, a região de Bonito, no Mato Grosso do Sul, é um dos destinos ecoturísticos mais procurados do Brasil. Muitas das atrações ecoturísticas que movimentam a economia local estão situadas dentro de fazendas. Por isso, diversos donos dessas propriedades decidiram criar Reservas Particulares do Patrimônio Natural (RPPNs). Nesses locais, estão recompondo aos poucos as matas ciliares e adotando outras medidas pontuais, como a instalação de ninhos artificiais para as araras nativas.</p><p>(GUIMARÃES, J. R. D. Bonito ou Lindo? Disponível em: http://cienciahoje.org.br. Acesso em: 28 nov. 2018. Adaptado)</p><p>Nesse contexto, as RPPNs foram criadas porque: evitam a entrada de turistas e favorecem o desenvolvimento sustentável.</p>",    
     resposta: false,
     dificuldade: "fácil"
   },
