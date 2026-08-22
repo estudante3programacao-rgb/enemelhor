@@ -1345,7 +1345,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `<p>Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam  por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.</p><p>imag src="vesicula.png"></p><p>DIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024 (adaptado)</p><p>Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o: aumento no número de descendentes por ninhada.</p>`, 
+    texto: `<p>Apesar de os animais representados no cladograma compartilharem um mesmo ancestral, eles se caracterizam  por distintos padrões de reprodução ou de nutrição dos embriões e descendentes.</p><p><img src="vesicula.png"></p><p>(DIXSON, A. F. Mammalian Sexuality: The Act of Mating and the Evolution of Reproduction. Disponível em: www.cambridge.org. Acesso em: 2 jul. 2024. Adaptado)</p><p>Ao longo do processo evolutivo, percebem-se, entre esses animais, perdas e ganhos nos padrões citados que envolvem o: aumento no número de descendentes por ninhada.</p>`, 
     resposta: false,
     dificuldade: "fácil"
   },
