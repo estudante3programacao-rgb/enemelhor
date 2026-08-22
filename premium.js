@@ -860,7 +860,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área. Sabe-se que 1 hectare corresponde a 1 hectômetro quadrado. O valor, em metros quadrados, da área coberta pelo terreno da piscina é: 80 000 m<sub>2</sub>.",
+    texto: "A maior piscina do mundo, registrada no livro Guiness, está localizada no Chile, em San Alfonso del Mar, cobrindo um terreno de 8 hectares de área. Sabe-se que 1 hectare corresponde a 1 hectômetro quadrado. O valor, em metros quadrados, da área coberta pelo terreno da piscina é: 80000 m<sub>2</sub>.",
     resposta: true,
     dificuldade: "fácil"
   },
