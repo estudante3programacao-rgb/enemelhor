@@ -1990,7 +1990,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>O cultivo de uma flor rara só é viável se do mês do plantio para o mês subsequente o clima da região possuir as seguintes peculiaridades: • a variação do nível de chuvas (pluviosidade), nesses meses, não for superior a 50 mm; • a temperatura mínima, nesses meses, for superior a 15 °C; • ocorrer, nesse período, um leve aumento não superior a 5 °C na temperatura máxima. Um floricultor, pretendendo investir no plantio dessa flor em sua região, fez uma consulta a um meteorologista que lhe apresentou o gráfico com as condições previstas para os 12 meses seguintes nessa região.</p><p><img src="plantiodeflor.png"></p><p>Com base nas informações do gráfico, o floricultor verificou que poderia plantar essa flor rara.</p><p>O mês escolhido para o plantio foi: dezembro.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
