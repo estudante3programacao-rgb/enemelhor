@@ -1250,7 +1250,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Desde que tenhamos compreendido o significado da palavra “Deus”, sabemos, de imediato, que Deus existe. Com efeito, essa palavra designa uma coisa de tal ordem que não podemos conceber nada que lhe seja maior. Ora, o que existe na realidade e no pensamento é maior do que o que existe apenas no pensamento. Donde se segue que o objeto designado pela palavra “Deus”, que existe no pensamento, desde que se entenda essa palavra, também existe na realidade. Por conseguinte, a existência de Deus é evidente. TOMÁS DE AQUINO. Suma teológica. Rio de Janeiro: Loyola, 2002. </p> <p>O texto apresenta uma elaboração teórica de Tomás de Aquino caracterizada por: sustentar racionalmente doutrina alicerçada na fé.</p>",
+    texto:"<p>Desde que tenhamos compreendido o significado da palavra “Deus”, sabemos, de imediato, que Deus existe. Com efeito, essa palavra designa uma coisa de tal ordem que não podemos conceber nada que lhe seja maior. Ora, o que existe na realidade e no pensamento é maior do que o que existe apenas no pensamento. Donde se segue que o objeto designado pela palavra “Deus”, que existe no pensamento, desde que se entenda essa palavra, também existe na realidade. Por conseguinte, a existência de Deus é evidente.</p><p>(TOMÁS DE AQUINO. Suma teológica. Rio de Janeiro: Loyola, 2002.)</p><p>O texto apresenta uma elaboração teórica de Tomás de Aquino caracterizada por: sustentar racionalmente doutrina alicerçada na fé.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
