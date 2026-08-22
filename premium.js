@@ -1455,7 +1455,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual. Mas não se tratava mais de fazer, simplesmente, a história dos grandes nomes, em formato hagiográfico — quase uma vida de santo —, sem problemas, nem máculas. Mas de examinar os atores (ou o ator) célebres ou não, como testemunhas, como refl exos, como reveladores de uma época. </p><p>(DEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009)</p><p>De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de: resgate das narrativas heroicas.</p>",
+    texto: "<p>A reabilitação da biografia histórica integrou as aquisições da história social e cultural, oferecendo aos diferentes atores históricos uma importância diferenciada, distinta, individual. Mas não se tratava mais de fazer, simplesmente, a história dos grandes nomes, em formato hagiográfico — quase uma vida de santo —, sem problemas, nem máculas. Mas de examinar os atores (ou o ator) célebres ou não, como testemunhas, como reflexos, como reveladores de uma época. </p><p>(DEL PRIORE, M. Biografia: quando o indivíduo encontra a história. Topoi, n. 19, jul.-dez. 2009)</p><p>De acordo com o texto, novos estudos têm valorizado a história do indivíduo por se constituir como possibilidade de: resgate das narrativas heroicas.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
@@ -1610,7 +1610,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p> Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e cursos de liderança com base em princípios conservadores e ministrados por membros da Igreja Católica</p><p>(DEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. Rio de Janeiro: Ediouro, 2006. Adaptado).</p><p>(Os sindicatos rurais foram tratados da forma descrita no texto porque o governo pretendia utilizá-los para: controlar as tensões políticas.</p>",
+    texto: "<p> Golpe Militar de 1964 foi implacável no combate ao que restava das Ligas Camponesas, generalizadas na década anterior. No entanto, em relação aos sindicatos, sua atitude foi ambígua. Por meio de acordos com os Estados Unidos, foram concebidos centros sindicais e cursos de liderança com base em princípios conservadores e ministrados por membros da Igreja Católica.</p><p>(DEL PRIORE, M.; VENÂNCIO, R. Uma história da vida rural no Brasil. Rio de Janeiro: Ediouro, 2006. Adaptado)</p><p>Os sindicatos rurais foram tratados da forma descrita no texto porque o governo pretendia utilizá-los para: controlar as tensões políticas.</p>",
     resposta: true,
     dificuldade: "fácil"
   },
