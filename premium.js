@@ -1885,7 +1885,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.</p><p>LUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016 (adaptado).</p><p>O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a: fitoestimulação: em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento.</p>",
+    texto: "<p>A fitorremediação é uma técnica que utiliza plantas para a remediação de ambientes contaminados. A descontaminação de solos pode ocorrer por descarte, absorção e metabolização, imobilização, extração ou volatilização do poluente, conforme representado na figura.</p><p>(LUIZ, E. P. Avaliação dos métodos de fitorremediação [...] na remoção de chumbo, cobre e zinco. São Paulo: UFABC, 2016. Adaptado)</p><p>O método que retira o mercúrio de uma área contaminada, impedindo sua entrada na cadeia alimentar, é a: fitoestimulação: em que as plantas que acumulam o mercúrio são cultivadas nesses locais, e a biomassa rica no metal é retirada após o crescimento.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
