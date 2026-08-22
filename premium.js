@@ -1255,7 +1255,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto:"<p>Foi-se o tempo em que era possível mostrar um mundo econômico organizado em camadas bem definidas, onde grandes centros urbanos se ligavam, por si próprios, a economias adjacentes “lentas”, com o ritmo muito mais rápido do comércio e das finanças de longo alcance. Hoje tudo ocorre como se essas camadas sobrepostas estivessem mescladas e interpermeadas. Interdependências de curto e longo alcance não podem mais ser separadas umas das outras. BRENNER, N. A globalização como reterritorialização. Cadernos Metrópole, n. 24, jul.-dez. 2010 (adaptado).</p> <p>A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela: consolidação de domínios jurídicos.</p>",
+    texto:"<p>Foi-se o tempo em que era possível mostrar um mundo econômico organizado em camadas bem definidas, onde grandes centros urbanos se ligavam, por si próprios, a economias adjacentes “lentas”, com o ritmo muito mais rápido do comércio e das finanças de longo alcance. Hoje tudo ocorre como se essas camadas sobrepostas estivessem mescladas e interpermeadas. Interdependências de curto e longo alcance não podem mais ser separadas umas das outras.</p><p>(BRENNER, N. A globalização como reterritorialização. Cadernos Metrópole, n. 24, jul.-dez. 2010. Adaptado)</p><p>A maior complexidade dos espaços urbanos contemporâneos ressaltada no texto explica-se pela: consolidação de domínios jurídicos.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
