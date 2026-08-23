@@ -1995,7 +1995,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `<p><img src="reaproveitamento.png"></p><p>Disponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017. Adaptado).</p><p>Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para: a facilidade na separação do lixo.</p>`,
+    texto: `<p><img src="reaproveitamento.png"></p><p>(Disponível em: www.separeolixo.gov.br. Acesso em: 4 dez. 2017. Adaptado).</p><p>Nessa campanha, a principal estratégia para convencer o leitor a fazer a reciclagem do lixo é a utilização da linguagem não verbal como argumento para: a facilidade na separação do lixo.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
@@ -2516,7 +2516,7 @@ const progressoPremiumEl = document.getElementById("progressoPremium");
 const estrelasPremiumEl = document.getElementById("estrelasPremium");
 const numeroQuestaoPremiumEl = document.getElementById("numeroQuestaoPremium");
 
-const ultimoNivelDisponivel = 9;
+const ultimoNivelDisponivel = 10;
 
 function validarChave() {
     const chave = document.getElementById("chavePremium").value;
