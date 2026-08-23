@@ -2005,7 +2005,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A primeira fase da dominação da economia sobre a vida social acarretou, no modo de definir toda realização humana, uma evidente degradação do ser para o ter. A fase atual, em que a vida social está totalmente tomada pelos resultados da economia, leva a um deslizamento generalizado do ter para o parecer, do qual todo ter efetivo deve extrair seu prestígio imediato e sua função última. Ao mesmo tempo, toda realidade individual tornou-se social, diretamente dependente da força social, moldada por ela.</p><p>(DEBORD, G. A sociedade do espetáculo. Rio de Janeiro: Contraponto, 2015)</p><p>Uma manifestação contemporânea do fenômeno descrito no texto é a:valorização dos conhecimentos acumulados.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
