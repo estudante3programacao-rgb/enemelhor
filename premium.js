@@ -2025,7 +2025,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A agricultura ecológica e a produção orgânica de alimentos estão ganhando relevância em diferentes partes do mundo. No campo brasileiro, também acontece o mesmo. Impulsionado especialmente pela expansão da demanda de alimentos saudáveis, o setor cresce a cada ano, embora permaneça relativamente marginalizado na agenda de prioridades da política agrícola praticada no país.</p><p>(AQUINO, J. R.; GAZOLLA, M.; SCHNEIDER, S. In: SAMBUICHI, R. H. R. <i>et al.</i> (Org.). A política nacional de agroecologia e produção orgânica no Brasil: uma trajetória de luta pelo desenvolvimento rural sustentável. Brasília: Ipea, 2017. Adaptado)</p><p>O tipo de intervenção do poder público no espaço rural é capaz de reduzir a marginalização produtiva apresentada no texto: controlar a expansão de sistemas de irrigação.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
