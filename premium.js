@@ -2010,18 +2010,18 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "<p>Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista Science, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes. “A domesticação de plantas na floresta começou há mais de 8 000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção</p><p>(OLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia. Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017. Adaptado).</p><p>O texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de: insuficiência de recursos naturais.</p>",
+    texto: "<p>Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista Science, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes. “A domesticação de plantas na floresta começou há mais de 8000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção</p><p>(OLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia. Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017. Adaptado).</p><p>O texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de: insuficiência de recursos naturais.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Um dos teóricos da democracia moderna, Hans Kelsen, considera elemento essencial da democracia real (não da democracia ideal, que não existe em lugar algum) o método da seleção dos líderes, ou seja, a eleição. Exemplar, neste sentido, é a afirmação de um juiz da Corte Suprema dos Estados Unidos, por ocasião de uma eleição de 1902: “A cabine eleitoral é o templo das instituições americanas, onde cada um de nós é um sacerdote, ao qual é confiada a guarda da arca da aliança e cada um oficia do seu próprio altar”.</p><p>(BOBBIO, N. Teoria geral da política. Rio de Janeiro: Elsevier, 2000. Adaptado)</p><p>As metáforas utilizadas no texto referem-se a uma concepção de democracia fundamentada na: centralidade do indivíduo na sociedade.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>No início da década de 1990, dois biólogos importantes, Redford e Robinson, produziram um modelo largamente aceito de “produção sustentável” que previa quantos indivíduos de cada espécie poderiam ser caçados de forma sustentável baseado nas suas taxas de reprodução. Os seringueiros do Alto Juruá tinham um modelo diferente: a quem lhes afirmava que estavam caçando acima do sustentável (dentro do modelo), eles diziam que não, que o nível da caça dependia da existência de áreas de refúgio em que ninguém caçava. Ora, esse acabou sendo o modelo batizado de “fonte-ralo” proposto dez anos após o primeiro por Novaro, Bodmer e o próprio Redford e que suplantou o modelo anterior.</p><p>(CUNHA, M. C. Revista USP, n. 75, set.-nov. 2007.)</p><p>No contexto da produção científica, a necessidade de reconstrução desse modelo, conforme exposto no texto, foi determinada pelo confronto com um(a): conhecimento empírico apropriado pelo senso comum.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
