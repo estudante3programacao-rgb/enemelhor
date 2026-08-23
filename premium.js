@@ -2010,7 +2010,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Uma pesquisa realizada por Carolina Levis, especialista em ecologia do Instituto Nacional de Pesquisas da Amazônia, e publicada na revista Science, demonstra que as espécies vegetais domesticadas pelas civilizações pré-colombianas são as mais dominantes. “A domesticação de plantas na floresta começou há mais de 8 000 anos. Primeiro eram selecionadas as plantas com características que poderiam ser úteis ao homem e em um segundo momento era feita a propagação dessas espécies. Começaram a cultivá-las em pátios e jardins, por meio de um processo quase intuitivo de seleção</p><p>(OLIVEIRA, J. Indígenas foram os primeiros a alterar o ecossistema da Amazônia. Disponível em: https://brasil.elpais.com. Acesso em: 11 dez. 2017. Adaptado).</p><p>O texto apresenta um novo olhar sobre a configuração da Floresta Amazônica por romper com a ideia de: insuficiência de recursos naturais.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
