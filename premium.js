@@ -2000,8 +2000,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Os seus líderes terminaram presos e assassinados. A “marujada” rebelde foi inteiramente expulsa da esquadra. Num sentido histórico, porém, eles foram vitoriosos. A “chibata” e outros castigos físicos infamantes nunca mais foram oficialmente utilizados; a partir de então, os marinheiros – agora respeitados – teriam suas condições de vida melhoradas significativamente. Sem dúvida fizeram avançar a História.</p><p>(MAESTRI, M. 1910: a revolta dos marinheiros – uma saga negra. São Paulo: Global, 1982.)</p><p>A eclosão desse conflito foi resultado da tensão acumulada na Marinha do Brasil pelo(a): manutenção da mentalidade escravocrata da oficialidade após a queda do regime imperial.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
