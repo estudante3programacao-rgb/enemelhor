@@ -2030,8 +2030,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>Em uma aula sobre metabolismo energético, foi apresentado um experimento clássico realizado por Engelmann. Um recipiente contendo bactérias aeróbias e uma alga verde filamentosa foi submetido à iluminação de uma fonte de luz, representada pelo microespectro. Após a explicação, um aluno esquematizou na lousa o resultado do referido experimento.</p><p><img src="microespectro.png"></p><p>Considerando a figura, a faixa do microespectro em que a alga possui maior taxa de realização fotossintética é a do: Violeta.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
