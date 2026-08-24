@@ -1335,7 +1335,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: `<p>Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.</p><p><img src="conveccao"></p><p>(5 dicas de instalação de aquecedor solar. Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023. Adaptado)</p><p>O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a: convecção.</p>`,
+    texto: `<p>Aquecedores solares são equipamentos utilizados para o aquecimento de água pelo calor do Sol. São compostos por coletores solares, nos quais ocorre o aquecimento da água, e por um reservatório térmico, em que é armazenada a água quente para ser utilizada posteriormente. A figura ilustra esquematicamente como funciona esse equipamento.</p><p><img src="conveccao.png"></p><p>(5 dicas de instalação de aquecedor solar. Disponível em: https://instaline.com.br. Acesso em: 3 nov. 2023. Adaptado)</p><p>O processo pelo qual ocorre transferência de calor dos coletores solares para o reservatório térmico é a: convecção.</p>`,
     resposta: true,
     dificuldade: "fácil"
   },
