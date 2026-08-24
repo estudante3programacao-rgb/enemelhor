@@ -710,7 +710,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "Mulheres naturalistas raramente figuraram na corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécies botânicas, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos. (SOMBROEK, M. M. Em busca pelo campo — mulheres em expedições científicas no Brasil em meados do século XIX. Cadernos Pagu, n. 48, 2016.)<p>No contexto do século XIX, a relação das mulheres com o campo científico, descrita no texto, é representativa da superação do pensamento patriarcal.</p>", 
+    texto: "<p>Mulheres naturalistas raramente figuraram na corrida por conhecer terras exóticas. No século XIX, mulheres como Lady Charlotte Canning eventualmente coletavam espécies botânicas, mas quase sempre no papel de esposas coloniais, viajando para locais onde seus maridos as levavam e não em busca de seus próprios projetos científicos.</p><p>(SOMBROEK, M. M. Em busca pelo campo — mulheres em expedições científicas no Brasil em meados do século XIX. Cadernos Pagu, n. 48, 2016.)</p><p>No contexto do século XIX, a relação das mulheres com o campo científico, descrita no texto, é representativa da superação do pensamento patriarcal.</p>", 
     resposta: false,
     dificuldade: "fácil"
   },
