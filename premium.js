@@ -2055,8 +2055,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>O dono de uma sorveteria armazena sorvete em potes de 20000 cm<sup>3</sup>. Ele serve o sorvete em taças, em porções de 250 mL. A quantidade de taças que ele consegue servir a partir de um pote cheio de sorvete é: 80.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
