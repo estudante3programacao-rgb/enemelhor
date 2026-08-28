@@ -2090,8 +2090,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Independência de pensamento, autonomia e direito à oposição política estão perdendo sua função crítica básica numa sociedade que parece cada vez mais capaz de atender às necessidades dos indivíduos através da forma pela qual é organizada. Nas condições de um padrão de vida crescente, o não conformismo com o próprio sistema parece socialmente inútil, principalmente quando acarreta desvantagens econômicas e políticas tangíveis e ameaça o funcionamento suave do todo.</p><p>(MARCUSE, H. Ideologia da sociedade industrial. Rio de Janeiro: Zahar, 1969)</p><p>A característica da sociedade industrial do século XX apresentada no texto é: realidade unidimensional",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
