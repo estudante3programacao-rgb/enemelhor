@@ -2075,8 +2075,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>A partir do século XIX e, principalmente, no século XX, iniciou-se o uso de produtos sintéticos na agricultura. No Brasil, a partir da década de 1960 e, posteriormente, nos anos 1970, os inseticidas ampliam sua fatia no mercado dos defensivos agrícolas.</p>(TROPPMAIR, H. Biogeografia e meio ambiente. Rio de Janeiro: TB, 2012. Adaptado). Nos espaços agrícolas, a mudança técnica descrita provocou a diminuição da: diversidade de polinizadores naturais.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
