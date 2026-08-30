@@ -2125,8 +2125,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Para apagar os focos A e B de um incêndio, que estavam a uma distância de 30 m um do outro, os bombeiros de um quartel decidiram se posicionar de modo que a distância de um bombeiro ao foco A, de temperatura mais elevada, fosse sempre o dobro da distância desse bombeiro ao foco B, de temperatura menos elevada.</p><p>Nestas condições, a maior distância, em metro, que dois bombeiros poderiam ter entre eles é: 60 m.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
