@@ -2110,7 +2110,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>As usinas termelétricas podem utilizar carvão, gás natural ou óleo, que são queimados na câmara de combustão para gerar energia elétrica pela formação de vapor de água. A água utilizada no processo é captada de fontes naturais e volta para o ambiente. Para minimizar os efeitos da poluição, existe um sistema que retém as cinzas e parte dos gases produzidos, como NO<sub>x</sub>e SO,<sub>x</sub>. As cinzas, quando geradas, podem ser utilizadas em misturas de cimento.</p><p>O impacto ambiental desse tipo de geração de energia está relacionado com a: área inundada para o reservatório de água.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
