@@ -2115,7 +2115,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>As pessoas que utilizam objetos cujo princípio de funcionamento é o mesmo do das alavancas aplicam uma força, chamada de força potente, em um dado ponto da barra, para superar ou equilibrar uma segunda força, chamada de resistente, em outro ponto da barra. Por causa das diferentes distâncias entre os pontos de aplicação das forças, potente e resistente, os seus efeitos também são diferentes. A figura mostra alguns exemplos desses objetos.<p><img src="forcapotenteforcaresistente.png"></p></p><p>Qual dos objetos a força potente é maior que a força resistente: abridor de garrafa.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
