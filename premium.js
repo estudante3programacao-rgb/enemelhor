@@ -2120,8 +2120,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>Um quebra-cabeça consiste em recobrir um quadrado com triângulos retângulos isósceles, como ilustra a figura.</p><p><img src="trianguloisosceles.png"></p><p>Uma artesã confecciona um quebra-cabeça como o descrito, de tal modo que a menor das peças é um triângulo retângulo isósceles cujos catetos medem 2 cm.</p><p>O quebra-cabeça, quando montado, resultará em um quadrado cuja medida do lado, em centímetro, é: 7 2.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
