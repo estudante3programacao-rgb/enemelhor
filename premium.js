@@ -2105,8 +2105,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Em 1808, Dalton publicou o seu famoso livro intitulado Um novo sistema de filosofia química (do original A New System of Chemical Philosophy), no qual continha os cinco postulados que serviam como alicerce da primeira teoria atômica da matéria fundamentada no método científico. Esses postulados são numerados a seguir:</p><p>1. A matéria é constituída de átomos indivisíveis.</p><p>2. Todos os átomos de um dado elemento químico são idênticos em massa e em todas as outras propriedades.</p><p>3. Diferentes elementos químicos têm diferentes tipos de átomos; em particular, seus átomos têm diferentes massas.</p><p>4. Os átomos são indestrutíveis e nas reações químicas mantêm suas identidades.</p><p>5. Átomos de elementos combinam com átomos de outros elementos em proporções de números inteiros pequenos para formar compostos.</p><p>Após o modelo de Dalton, outros modelos baseados em outros dados experimentais evidenciaram, entre outras coisas, a natureza elétrica da matéria, a composição e organização do átomo e a quantização da energia no modelo atômico.</p><p>Com base no modelo atual que descreve o átomo, qual dos postulados de Dalton ainda é considerado correto: número 1.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
