@@ -2135,7 +2135,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>A criação do Sistema Único de Saúde (SUS) como uma política para todos constitui-se uma das mais importantes conquistas da sociedade brasileira no século XX. O SUS deve ser valorizado e defendido como um marco para a cidadania e o avanço civilizatório. A democracia envolve um modelo de Estado no qual políticas protegem os cidadãos e reduzem as desigualdades. O SUS é uma diretriz que fortalece a cidadania e contribui para assegurar o exercício de direitos, o pluralismo político e o bem-estar como valores de uma sociedade fraterna, pluralista e sem preconceitos, conforme prevê a Constituição Federal de 1988.</p><p>(RIZZOTO, M. L. F. et al. Justiça social, democracia com direitos sociais e saúde: a luta do Cebes. Revista Saúde em Debate, n. 116, jan.-mar. 2018. Adaptado)</p><p>Segundo o texto, duas características da concepção da política pública analisada são: nacionalismo e individualismo.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
