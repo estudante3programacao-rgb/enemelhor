@@ -2145,7 +2145,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p><img src="albedo.png"></p><p>(Disponível em: www.ibge.gov.br. Acesso em: 11 dez. 2018. Adaptado)</p><p>A geração de imagens por meio da tecnologia ilustrada depende da variação do(a): profundidade do lençol freático.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
