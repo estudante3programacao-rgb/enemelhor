@@ -2150,8 +2150,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Em uma usina geradora de energia elétrica, seja através de uma queda-d’água ou através de vapor sob pressão, as pás do gerador são postas a girar. O movimento relativo de um ímã em relação a um  conjunto de bobinas produz um fluxo magnético variável através delas, gerando uma diferença de potencial em seus terminais. Durante o funcionamento de um dos geradores, o operador da usina percebeu que houve um  aumento inesperado da diferença de potencial elétrico nos terminais das bobinas.</p><p>Nessa situação, o aumento do módulo da diferença de potencial obtida nos terminais das bobinas resulta do aumento da: rapidez com que o fluxo magnético varia através das bobinas, por meio de um aumento em sua velocidade angular.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
