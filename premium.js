@@ -2160,8 +2160,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Dificilmente passa-se uma noite sem que algum sitiante tenha seu celeiro ou sua pilha de cereais destruídos pelo fogo. Vários trabalhadores não diretamente envolvidos nos ataques pareciam apoiá-los, como se vê neste depoimento ao The Times: “deixa queimar, pena que não foi a casa”; “podemos nos aquecer agora”; “nós só queríamos algumas batatas, há um fogo ótimo para cozinhá-las”.</p><p>(HOBSBAWM, E.; RUDÉ, G. <b>Capitão Swing.</b> Rio de Janeiro: Francisco Alves, 1982. Adaptado).</p><p>A revolta descrita no texto, ocorrida na Inglaterra no século XIX, foi uma reação ao seguinte processo socioespacial: expropriação das terras comunais.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
