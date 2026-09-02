@@ -2190,8 +2190,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>O psicólogo de uma empresa aplica um teste para analisar a aptidão de um candidato a determinado cargo. O teste consiste em uma série de perguntas cujas respostas devem ser verdadeiro ou falso e termina quando o psicólogo fizer a décima pergunta ou quando o candidato der a segunda resposta errada. Com base em testes anteriores, o psicólogo sabe que a probabilidade de o candidato errar uma resposta é 0,20.</p><p>A probabilidade de o teste terminar na quinta pergunta é: 0,08192.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
