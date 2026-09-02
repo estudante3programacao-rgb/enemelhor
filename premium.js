@@ -2195,8 +2195,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Os vidros para veículos produzidos por certo fabricante têm transparências entre 70% e 90%, dependendo do lote fabricado. Isso significa que, quando um feixe luminoso incide no vidro, uma parte entre 70% e 90% da luz consegue atravessá-lo. Os veículos equipados com vidros desse fabricante terão instaladas, nos vidros das portas, películas protetoras cuja transparência, dependendo do lote fabricado, estará entre 50% e 70%. Considere que uma porcentagem P da intensidade da luz, proveniente de uma fonte externa, atravessa o vidro e a película.</p><p>De acordo com as informações, o intervalo das porcentagens que representam a variação total possível de P é: [35 ; 63].</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
