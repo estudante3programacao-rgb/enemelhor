@@ -2170,8 +2170,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Nas angiospermas, além da fertilização da oosfera, existe uma segunda fertilização que resulta em tecido triploide.</p><p>Essa segunda fertilização foi importante evolutivamente, pois viabilizou a formação de um tecido de: reserva para o embrião.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
