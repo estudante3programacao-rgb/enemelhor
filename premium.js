@@ -2175,7 +2175,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>O plantio por estaquia é um método de propagação de plantas no qual partes de um espécime são colocadas no solo para produzir novas gerações. Na floricultura, é comum utilizar os caules de roseiras para estaquia, pois a propagação da planta é positiva em razão da aplicação de auxinas na porção inferior do caule.</p><p>A utilização de auxinas no método de estaquia das roseiras contribui para: formação de raízes adventícias e produção de gemas laterais.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
