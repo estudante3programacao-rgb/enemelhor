@@ -2185,8 +2185,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Conforme regulamento da Agência Nacional de Aviação Civil (Anac), o passageiro que embarcar em voo doméstico poderá transportar bagagem de mão, contudo a soma das dimensões da bagagem (altura + comprimento + largura) não pode ser superior a 115 cm.</p><p>A figura mostra a planificação de uma caixa que tem a forma de um paralelepípedo retângulo.</p><p>O maior valor possível para x, em centímetros, para que a caixa permaneça dentro dos padrões permitidos pela Anac é: 49.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
