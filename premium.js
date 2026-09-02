@@ -2165,8 +2165,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>O eletrocardiograma é um exame cardíaco que mede a intensidade dos sinais elétricos advindos do coração. A imagem apresenta o resultado típico obtido em um paciente saudável e a intensidade do sinal (VEC) em função do tempo.</p><p><img src="eletrocardiograma.png"></p><p>De acordo com o eletrocardiograma apresentado, o número de batimentos cardíacos por minuto desse paciente durante o exame foi: 60.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
