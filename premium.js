@@ -2200,13 +2200,13 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>O quadro lista alguns dispositivos eletrônicos presentes no dia a dia, bem como a faixa de força eletromotriz necessária ao seu funcionamento.</p><p><img src="eletromotriz.png"></p><p>Considere que uma bateria é construída pela associação em série de três pilhas de lítio-iodo, nas condições-padrão, conforme as semirreações de redução apresentadas.</p><p>(I2<sub>2</sub>+ 2 e<sup>-</sup> I)</p><p>Essa bateria é adequada para o funcionamento do dispositivo eletrônico constante no número: IV</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>O Prêmio Nobel de Química de 2000 deveu-se à descoberta e ao desenvolvimento de polímeros condutores. Esses materiais têm ampla aplicação em novos dispositivos eletroluminescentes (LEDs), células fotovoltaicas etc. Uma propriedade-chave de um polímero condutor é a presença de ligações duplas conjugadas ao longo da cadeia principal do polímero.<p><p>(ROCHA FILHO, R. C. Polímeros condutores: descoberta e aplicações. Química Nova na Escola, n. 12, 2000. Adaptado).</p><p>Um exemplo desse polímero é representado pela estrutura: <img src="polimerodeled.png"></p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
