@@ -871,7 +871,7 @@ const perguntasPremium = [
   },
   {
     texto: "Uma pessoa compra semanalmente, numa mesma loja, sempre a mesma quantidade de um produto que custa R$ 10,00 a unidade. Como já sabe quanto deve gastar, leva sempre R$ 6,00 a mais do que a quantia necessária para comprar tal quantidade, para o caso de eventuais despesas extras. Entretanto, um dia, ao chegar à loja, foi informada de que o preço daquele produto havia aumentado 20%. Devido a esse reajuste, concluiu que o dinheiro levado era a quantia exata para comprar duas unidades a menos em relação à quantidade habitualmente comprada. A quantia que essa pessoa levava semanalmente para fazer a compra era: R$ 156,00.",   
-    resposta: false,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
