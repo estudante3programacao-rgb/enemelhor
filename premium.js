@@ -2220,7 +2220,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>O processo de formação de novas espécies é lento e repleto de nuances e estágios intermediários, havendo uma diminuição da viabilidade entre cruzamentos. Assim, plantas originalmente de uma mesma espécie que não cruzam mais entre si podem ser consideradas como uma espécie se diferenciando. Um pesquisador realizou cruzamentos entre populações — denominadas de acordo com a localização onde são encontradas — de uma espécie de orquídea <i>Epidendrum denticulatum</i>. No diagrama estão descritos os resultados dos cruzamentos entre as populações. Considere que o doador fornece o pólen para o receptor.</p><p><img src="cruzamentoseespeciacao.png"></p><p>(FIORAVANTI, C. Os primeiros passos de novas espécies: plantas e animais se diferenciam por meio de mecanismos surpreendentes. Pesquisa Fapesp, out. 2013. Adaptado)</p><p>Em populações de quais localidades se observa um processo de especiação evidente: Itirapina e Marambaia; Alcobaça e Itirapina.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
