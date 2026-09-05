@@ -2225,7 +2225,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>Nós nos recusamos a acreditar que o banco da justiça é falível. Nós nos recusamos a acreditar que há capitais insuficientes de oportunidade nesta nação. Assim nós viemos trocar este cheque, um cheque que nos dará o direito de reclamar as riquezas de liberdade e a segurança da justiça.</p><p>(KING Jr., M. L. Eu tenho um sonho, 28 ago. 1963. Disponível em: www.palmares.gov.br. Acesso em: 30 nov. 2011. Adaptado).</p><p>O cenário vivenciado pela população negra, no sul dos Estados Unidos nos anos 1950, conduziu à mobilização social. Nessa época, surgiram reivindicações que tinham como expoente Martin Luther King e objetivavam: o apoio aos atos violentos patrocinados pelos negros em espaço urbano.<p>",
     resposta: false,
     dificuldade: "fácil"
   },
