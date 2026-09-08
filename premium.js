@@ -2230,8 +2230,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: `<p>O aquecimento em fogões por indução utiliza bobinas para produzir um campo magnético variável.Essa bobina se localiza abaixo do vidro cerâmico sobre o qual a panela se apoia. O mecanismo aquece apenas a panela que se encontra na zona de cozimento, o que é uma das principais vantagens em relação ao uso do fogão a gás ou de resistência elétrica.</p><p><img src"inducaopanela.png"></p><p>(PEREIRA, A. B. et al. Fogões de indução: montagem e testes de um circuito disponível. Disponível em: https://publicacoes.fatecsertaozinho.edu.br. Acesso em: 21 maio 2025. Adaptado).</p><p>O uso do campo magnético variável tem a finalidade de: induzir corrente elétrica na parte inferior da panela, aquecendo-a por efeito Joule.</p>`,
+    resposta: true,
     dificuldade: "fácil"
   },
   {
