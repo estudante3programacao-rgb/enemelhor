@@ -2240,8 +2240,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>De acordo com o relatório “A grande sombra da pecuária” <i>(Livestock’s Long Shadow)</i>, feito pela Organização das Nações Unidas para a Agricultura e a Alimentação, o gado é responsável por cerca de 18% do aquecimento global, uma contribuição maior que a do setor de transportes.</p><p>(Disponível em: www.conpet.gov.br. Acesso em: 22 jun. 2010.)</p><p>A criação de gado em larga escala contribui para o aquecimento global por meio da emissão de: metano durante o processo de digestão.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
