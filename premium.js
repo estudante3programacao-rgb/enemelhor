@@ -2245,7 +2245,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p>Um curioso estudante, empolgado com a aula de circuito elétrico que assistiu na escola, resolve desmontar sua lanterna. Utilizando-se da lâmpada e da pilha, retiradas do equipamento, e de um fio com as extremidades descascadas, faz as seguintes ligações com a intenção de acender a lâmpada: <p><img src="lanternapolo.png"></p></p><p></p>(GONÇALVES FILHO, A.; BAROLLI, E. Instalação Elétrica: investigando e aprendendo. São Paulo: Scipione, 1997. Adaptado).<p>Tendo por base os esquemas mostrados, em quais casos a lâmpada acendeu: (1), (3), (7).</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
