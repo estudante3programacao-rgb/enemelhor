@@ -2250,7 +2250,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: `<p><img src="reiluisxix.png"></p><p>(Charge anônima. BURKE, P. A fabricação do rei. Rio de Janeiro: Zahar, 1994)</p><p>Na França, o rei Luís XIV teve sua imagem fabricada por um conjunto de estratégias que visavam sedimentar uma determinada noção de soberania. Neste sentido, a charge apresentada demonstra: a importância da vestimenta para a constituição simbólica do rei, pois o corpo político adornado esconde os defeitos do corpo pessoal.</p>`,
     resposta: false,
     dificuldade: "fácil"
   },
