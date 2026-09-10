@@ -2270,7 +2270,7 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
+    texto: "<p>É verdade que nas democracias o povo parece fazer o que quer; mas a liberdade política não consiste nisso. Deve-se ter sempre presente em mente o que é independência e o que é liberdade. A liberdade é o direito de fazer tudo o que as leis permitem; se um cidadão pudesse fazer tudo o que elas proíbem, não teria mais liberdade, porque os outros também teriam tal poder.</p><p>(MONTESQUIEU. Do Espírito das Leis. São Paulo: Editora Nova Cultural, 1997. Adaptado)</p><p>A característica de democracia ressaltada por Montesquieu diz respeito: à possibilidade de o cidadão participar no poder e, nesse caso, livre da submissão às leis.</p>",
     resposta: false,
     dificuldade: "fácil"
   },
