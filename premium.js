@@ -2260,8 +2260,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Com sua entrada no universo dos gibis, o Capitão chegaria para apaziguar a agonia, o autoritarismo militar e combater a tirania. Claro que, em tempos de guerra, um gibi de um herói com uma bandeira americana no peito aplicando um sopapo no Fürer só poderia ganhar destaque, e o sucesso não demoraria muito a chegar.</p><p>(COSTA, C. Capitão América, o primeiro vingador: crítica. Disponível em: www.revistastart.com.br. Acesso em: 27 jan. 2012. Adaptado)</p><p>A capa da primeira edição norte-americana da revista do Capitão América demonstra sua associação com a participação dos Estados Unidos na luta contra: os regimes totalitários, na Segunda Guerra Mundial.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
