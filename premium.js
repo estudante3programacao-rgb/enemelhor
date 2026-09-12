@@ -2280,8 +2280,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>Fon-Fon!, ano IV, n. 36, 3 set. 1910. Disponível em: objdigital.bn.br. Acesso em: 4 abr. 2014.</p><p>A charge, datada de 1910, ao retratar a implantação da rede telefônica no Brasil, indica que esta:possibilitaria a integração das diferentes regiões do território nacional.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
