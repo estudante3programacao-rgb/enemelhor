@@ -2315,8 +2315,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "<p>A democracia responde a esta pergunta: quem deve exercer o poder público? A resposta é: o exercício do poder público corresponde à coletividade dos cidadãos. Contudo, nessa pergunta não se fala sobre qual extensão deva ter o poder público. Trata-se somente de determinar o sujeito a quem o mando compete. A democracia propõe que mandemos todos; quer dizer, que todos intervenham nos fatos sociais.</p><p>(ORTEGA Y GASSET, J. apud MAIA, E. C. Mario Vargas Llosa e o indivíduo para além da tribo. Disponível em: www.estadodaarte.estadao.com.br. Acesso em: 10 out. 2021. Adaptado).</p><p>O que sustenta o exercício do poder, conforme a configuração apresentada no texto escrito na década de 1920 é: soberania popular.</p>",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
