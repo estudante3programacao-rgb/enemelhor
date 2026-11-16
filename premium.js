@@ -2325,8 +2325,8 @@ const perguntasPremium = [
     dificuldade: "fácil"
   },
   {
-    texto: "",
-    resposta: false,
+    texto: "Ao longo do tempo evolutivo, surgiram caracteristicas que permitiram que os répteis se tornassem o primeiro grupo de vertebrados tipicamente terrestres. Uma delas é a pele grossa e rica em queratina. Evolutivamente, essa adaptação do grupo coteibuiu para: dimuição do risco dde ressecamento.",
+    resposta: true,
     dificuldade: "fácil"
   },
   {
